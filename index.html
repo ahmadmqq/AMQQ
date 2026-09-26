@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>النشرة العالمية</title>
+<style>
+@font-face{font-family:"Greta Arabic";src:url("GretaArabic-Bold.woff2") format("woff2");font-weight:700;font-display:swap}
+body{margin:0;background:#efe8dc;color:#161616;font-family:"Greta Arabic","Tahoma",sans-serif;font-weight:700}
+.wrap{max-width:980px;margin:auto;padding:22px}
+h1{margin:0 0 8px;font-size:42px}
+.panel,.card{background:#fffdf8;border:1px solid #d9d0c3;padding:12px;margin:10px 0}
+.panel{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.chip{margin:0 6px 6px 0;padding:7px 11px;border:1px solid #161616;background:#fff;font:inherit}
+.chip.active{background:#161616;color:#fff}
+.title a{color:inherit;text-decoration:none}
+.meta{color:#6a645c;font-size:12px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>النشرة العالمية</h1>
+  <div class="panel">
+    <div>توقيت مكة<br><span id="clock"></span></div>
+    <div>العناوين<br><span id="count">0</span></div>
+    <div>آخر تحديث<br><span id="updated">--</span></div>
+  </div>
+  <div id="filters"></div>
+  <div id="feed">بانتظار أول تحديث من GitHub Actions...</div>
+</div>
+<script>
+const DOORS=[
+{id:"YE",name:"اليمن",flag:"🇾🇪",keys:["اليمن","صنعاء","عدن","الحوث","Yemen","Houthi"]},
+{id:"SA",name:"السعودية",flag:"🇸🇦",keys:["السعودية","الرياض","أرامكو","Saudi","Riyadh"]},
+{id:"AE",name:"الإمارات",flag:"🇦🇪",keys:["الإمارات","أبوظبي","دبي","UAE","Dubai"]},
+{id:"QA",name:"قطر",flag:"🇶🇦",keys:["قطر","Qatar","Doha"]},
+{id:"IR",name:"إيران",flag:"🇮🇷",keys:["إيران","Iran","Tehran"]},
+{id:"EG",name:"مصر",flag:"🇪🇬",keys:["مصر","Egypt","Cairo"]},
+{id:"BH",name:"البحرين",flag:"🇧🇭",keys:["البحرين","Bahrain"]},
+{id:"KW",name:"الكويت",flag:"🇰🇼",keys:["الكويت","Kuwait"]},
+{id:"IQ",name:"العراق",flag:"🇮🇶",keys:["العراق","Iraq"]},
+{id:"JO",name:"الأردن",flag:"🇯🇴",keys:["الأردن","Jordan"]},
+{id:"SY",name:"سوريا",flag:"🇸🇾",keys:["سوريا","Syria"]},
+{id:"LB",name:"لبنان",flag:"🇱🇧",keys:["لبنان","Lebanon"]},
+{id:"SD",name:"السودان",flag:"🇸🇩",keys:["السودان","Sudan"]},
+{id:"MA",name:"المغرب",flag:"🇲🇦",keys:["المغرب","Morocco"]},
+{id:"LY",name:"ليبيا",flag:"🇱🇾",keys:["ليبيا","Libya"]},
+{id:"DZ",name:"الجزائر",flag:"🇩🇿",keys:["الجزائر","Algeria"]},
+{id:"TN",name:"تونس",flag:"🇹🇳",keys:["تونس","Tunisia"]}
+];
+let allItems=[], current="all";
+function clock(){document.getElementById("clock").textContent=new Date().toLocaleString("ar-SA",{timeZone:"Asia/Riyadh",hour12:false})}
+setInterval(clock,1000);clock();
+function badSaudi(t){return /سعود|الرياض|أرامكو|Saudi|Riyadh/i.test(t||"") && /هجوم|إدانة|فساد|أزمة|قمع|اعتقال|attack|crisis|corruption|condemn/i.test(t||"")}
+function doorsOf(t){return DOORS.filter(d=>d.keys.some(k=>(t||"").toLowerCase().includes(k.toLowerCase()))).map(d=>d.id)}
+function primary(t){return DOORS.find(d=>d.keys.some(k=>(t||"").toLowerCase().includes(k.toLowerCase())))||{name:"دولي",flag:"🌐"}}
+function rewrite(t){
+  if(badSaudi(t)) return "";
+  const d=primary(t); let x=(t||"").trim();
+  DOORS.forEach(p=>{if(x.includes(p.name)&&!x.includes(p.name+" "+p.flag))x=x.replaceAll(p.name,p.name+" "+p.flag)});
+  if(!x.startsWith(d.name)) x=d.name+" "+d.flag+" : "+x;
+  return x;
+}
+async function load(){
+  const res=await fetch("news.json?ts="+Date.now());
+  const data=await res.json();
+  allItems=(data.items||[]).map(i=>({...i,title:rewrite(i.title),doors:doorsOf(i.title)})).filter(i=>i.title);
+  document.getElementById("updated").textContent=data.updated||"--";
+  render();
+}
+function render(){
+  document.getElementById("filters").innerHTML=
+    `<button class="chip ${current==="all"?"active":""}" onclick="current='all';render()">كل الأبواب</button>`+
+    DOORS.map(d=>`<button class="chip ${current===d.id?"active":""}" onclick="current='${d.id}';render()">${d.flag} ${d.name}</button>`).join("");
+  const items=current==="all"?allItems:allItems.filter(i=>i.doors.includes(current));
+  document.getElementById("count").textContent=items.length;
+  document.getElementById("feed").innerHTML=items.map(i=>`<article class="card"><div class="meta">${i.source}</div><p class="title"><a href="${i.link}" target="_blank">${i.title}</a></p></article>`).join("")||"لا أخبار بعد. شغّل Actions مرة واحدة.";
+}
+load();
+setInterval(load, 60*1000);
+</script>
+</body>
+</html>
