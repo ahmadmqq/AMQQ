@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T12:36:19.343279+00:00",
+  "updated": "2026-09-26T12:49:57.353208+00:00",
   "items": [
     {
       "title": "بزشكيان: \"المرشد الأعلى يدعم المقترح الإيراني الجديد لإعادة فتح مضيق هرمز\"، وتقارير تفيد برفض ترامب",
@@ -11,6 +11,12 @@
       "title": "اليوم الخامس من المناقشة العامة للدورة الـ81 للجمعية العامة للأمم المتحدة: السعودية والإمارات وعُمان على جدول المتحدثين",
       "link": "https://www.bbc.co.uk/arabic/live/cmvgyyv42v01t?at_medium=RSS&at_campaign=rss",
       "date": "",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "عاجل: مقتل 11 شخصاً في هجوم بسيارة مفخخة استهدف نقطة أمنية في شمال غربي باكستان",
+      "link": "https://www.bbc.com/arabic/articles/cw1mvv8313gro?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 26 Sep 2026 12:43:02 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "مجلس الأمن يدين هجمات أنصار الله على الرياض، والسعودية تحث على \"الرباط والجهاد\"",
-      "link": "https://www.bbc.com/arabic/articles/cqx2z558pnkpo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 26 Sep 2026 02:46:07 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
       "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 26 Sep 2026 05:03:09 GMT",
@@ -62,9 +62,9 @@
       "source": "BBC World"
     },
     {
-      "title": "At least two dead after explosion destroys building close to Acropolis in Athens",
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
       "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 26 Sep 2026 10:18:51 GMT",
+      "date": "Sat, 26 Sep 2026 12:47:25 GMT",
       "source": "BBC World"
     },
     {
@@ -226,7 +226,7 @@
     {
       "title": "Trump reportedly rejects Iran’s seven-day peace deal to reopen strait of Hormuz",
       "link": "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
-      "date": "Sat, 26 Sep 2026 09:31:47 GMT",
+      "date": "Sat, 26 Sep 2026 12:38:46 GMT",
       "source": "Guardian Business"
     },
     {
@@ -296,7 +296,7 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "Blast in Pakistan’s Dera Ismail Khan kills several people",
+      "title": "Suicide bombing in Pakistan’s Dera Ismail Khan kills several people",
       "link": "https://www.aljazeera.com/news/2026/9/26/blast-in-pakistans-dera-ismail-khan-kills-several-people?traffic_source=rss",
       "date": "Sat, 26 Sep 2026 11:33:42 +0000",
       "source": "Al Jazeera"
