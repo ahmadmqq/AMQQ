@@ -1,16 +1,22 @@
 {
-  "updated": "2026-09-27T11:02:39.958462+00:00",
+  "updated": "2026-09-27T11:18:20.710408+00:00",
   "items": [
     {
       "title": "احتجاز أشخاص وإجلاء سكان بعد إعلان حالة طوارئ قرب قاعدة بريطانية - أمريكية",
       "link": "https://www.bbc.com/arabic/articles/cmwyz9xkqeg1o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 27 Sep 2026 10:58:27 GMT",
+      "date": "Sun, 27 Sep 2026 11:17:14 GMT",
       "source": "BBC Arabic"
     },
     {
-      "title": "إيران تنتظر رداً أمريكياً على مقترحها، وتتوقع هجوماً جديداً من واشنطن",
+      "title": "الحرس الثوري \"يستولي على غواصة أمريكية\"، وطهران تتوقع هجوماً جديداً من واشنطن",
       "link": "https://www.bbc.com/arabic/articles/cqm2m6n86jgmo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 27 Sep 2026 10:28:09 GMT",
+      "date": "Sun, 27 Sep 2026 11:14:49 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "مأدبة عشاء ترامب وشي \"جزء من جهنم\" - جولة الصحف",
+      "link": "https://www.bbc.com/arabic/articles/cqvgyj3k7exzo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 27 Sep 2026 11:02:02 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "العثور على جثة امرأة عاشرة في جنوب إفريقيا وسط تحقيقات للشرطة في جرائم القتل",
       "link": "https://www.bbc.com/arabic/articles/cwx2zz4vjl8jo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 26 Sep 2026 22:14:12 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "انقطاع الإنترنت والاتصالات في تيغراي وسط مخاوف حيال عودة الحرب الإثيوبية",
-      "link": "https://www.bbc.com/arabic/articles/cmn9wwzxy971o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 26 Sep 2026 17:26:08 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -146,6 +146,12 @@
       "source": "BBC Business"
     },
     {
+      "title": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
+      "link": "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
+      "date": "Sun, 27 Sep 2026 11:00:03 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "At least 27 dead after two mass shootings in South Africa, police say",
       "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
       "date": "Sun, 27 Sep 2026 08:19:24 GMT",
@@ -167,12 +173,6 @@
       "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
       "link": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
       "date": "Wed, 23 Sep 2026 09:38:06 GMT",
-      "source": "Guardian World"
-    },
-    {
-      "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
-      "link": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
-      "date": "Mon, 21 Sep 2026 22:33:40 GMT",
       "source": "Guardian World"
     },
     {
@@ -200,27 +200,27 @@
       "source": "Guardian Business"
     },
     {
-      "title": "‘I can deliver’: Burnham pledges radical change on eve of Labour conference",
-      "link": "https://www.theguardian.com/politics/2026/sep/26/burnham-pledges-radical-change-labour-conference-exclusive",
-      "date": "Sat, 26 Sep 2026 16:35:27 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation",
       "link": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
       "date": "Sun, 27 Sep 2026 09:00:01 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Poland is racing ahead with military spending – but will it help or damage its economic growth story?",
-      "link": "https://www.theguardian.com/world/2026/sep/27/poland-military-spending-economic-growth-economy-defence-boom",
-      "date": "Sun, 27 Sep 2026 05:00:56 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "‘People are standing up and fighting back’: the north Devon revolt against a vast AI datacentre",
       "link": "https://www.theguardian.com/uk-news/2026/sep/27/people-are-standing-up-and-fighting-back-north-devon-ai-datacentre",
       "date": "Sun, 27 Sep 2026 07:00:58 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Burnham’s plan for a radical reset collides with economic reality",
+      "link": "https://www.theguardian.com/business/2026/sep/27/burnham-plan-radical-reset-economic-reality",
+      "date": "Sun, 27 Sep 2026 11:03:59 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Poland is racing ahead with military spending – but will it help or damage its economic growth story?",
+      "link": "https://www.theguardian.com/world/2026/sep/27/poland-military-spending-economic-growth-economy-defence-boom",
+      "date": "Sun, 27 Sep 2026 05:00:56 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?",
+      "link": "https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss",
+      "date": "Sun, 27 Sep 2026 11:04:30 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "‘My hands are empty’: Displaced Palestinians struggle to survive",
       "link": "https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive?traffic_source=rss",
       "date": "Sun, 27 Sep 2026 10:26:21 +0000",
@@ -314,7 +320,7 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "Malaysia’s Ng, Sivasangari book LA28 Olympics berth with Asian Games gold",
+      "title": "Malaysia’s Ng, Subramaniam book LA28 Olympics berth with Asian Games gold",
       "link": "https://www.aljazeera.com/sports/2026/9/27/malaysias-ng-subramaniam-book-la28-olympics-berth-with-asian-games-gold?traffic_source=rss",
       "date": "Sun, 27 Sep 2026 09:19:37 +0000",
       "source": "Al Jazeera"
@@ -329,12 +335,6 @@
       "title": "Massive Attack singer arrested over pro-Palestine protest in UK",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/massive-attack-singer-arrested-over-pro-palestine-protest-in-uk?traffic_source=rss",
       "date": "Sun, 27 Sep 2026 08:49:47 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
-      "link": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss",
-      "date": "Sun, 27 Sep 2026 08:49:32 +0000",
       "source": "Al Jazeera"
     }
   ]
