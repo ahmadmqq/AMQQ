@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T18:01:29.650969+00:00",
+  "updated": "2026-09-27T18:20:29.071634+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله تقول إن غارة سعودية قتلت وأصابت العشرات، والحكومة المعترف بها تعلن مقتل خبراء إيرانيين",
@@ -14,6 +14,12 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "الحرس الثوري \"يستولي على غواصة أمريكية\"، وطهران تتوقع هجوماً جديداً من واشنطن",
+      "link": "https://www.bbc.com/arabic/articles/cqm2m6n86jgmo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 27 Sep 2026 18:11:14 GMT",
+      "source": "BBC Arabic"
+    },
+    {
       "title": "هل يمكنك تناول الأطعمة فائقة المعالجة مع الحفاظ على صحتك؟",
       "link": "https://www.bbc.com/arabic/articles/ckvgydp69jreo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 27 Sep 2026 16:25:48 GMT",
@@ -23,12 +29,6 @@
       "title": "\"سخروا مني لأن والدي باكستاني\"، لاعب العراق زيدان إقبال يوجه رسالة لجماهير الكويت",
       "link": "https://www.bbc.com/arabic/articles/cm158j41n218o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 27 Sep 2026 13:54:19 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "الحرس الثوري \"يستولي على غواصة أمريكية\"، وطهران تتوقع هجوماً جديداً من واشنطن",
-      "link": "https://www.bbc.com/arabic/articles/cqm2m6n86jgmo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 27 Sep 2026 11:14:49 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -290,12 +290,6 @@
       "source": "NPR World"
     },
     {
-      "title": "‘Iran ready for doomsday war’, FM Araghchi says",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss",
-      "date": "Sun, 27 Sep 2026 17:46:04 +0000",
-      "source": "Al Jazeera"
-    },
-    {
       "title": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
       "link": "https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss",
       "date": "Sun, 27 Sep 2026 17:42:45 +0000",
@@ -335,6 +329,12 @@
       "title": "Muslims protest planned demolition of ‘600-year-old’ mosque in India",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/muslims-protest-planned-demolition-of-600-year-old-mosque-in-india?traffic_source=rss",
       "date": "Sun, 27 Sep 2026 16:37:59 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Afghanistan says 28 fighters killed as Islamabad, Kabul trade accusations",
+      "link": "https://www.aljazeera.com/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations?traffic_source=rss",
+      "date": "Sun, 27 Sep 2026 16:05:49 +0000",
       "source": "Al Jazeera"
     }
   ]
