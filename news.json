@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T12:38:42.142293+00:00",
+  "updated": "2026-09-27T12:52:34.218197+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله تقول إن غارة سعودية استهدفت سوقاً في تعز قتلت وأصابت العشرات",
@@ -14,7 +14,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "احتجاز أشخاص وإجلاء سكان بعد إعلان حالة طوارئ قرب قاعدة بريطانية - أمريكية",
+      "title": "شرطة مكافحة الإرهاب البريطانية تفتح تحقيقاً في \"حادث كبير\" قرب قاعدة فيرفورد",
       "link": "https://www.bbc.com/arabic/articles/cmwyz9xkqeg1o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 27 Sep 2026 12:14:21 GMT",
       "source": "BBC Arabic"
@@ -74,6 +74,12 @@
       "source": "BBC World"
     },
     {
+      "title": "Ten climbers missing after avalanche hits Himalayan base camp",
+      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 27 Sep 2026 12:36:57 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Four killed in helicopter crash near Montreal",
       "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 27 Sep 2026 02:43:10 GMT",
@@ -89,12 +95,6 @@
       "title": "British national among six dead in building explosion close to Acropolis in Athens",
       "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 26 Sep 2026 12:47:25 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "German town bans 'stumbling stone' memorials to Nazi victims",
-      "link": "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 26 Sep 2026 15:48:51 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Political rallies fill Brazil’s streets a week before elections",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/political-rallies-fill-brazils-streets-a-week-before-elections?traffic_source=rss",
+      "date": "Sun, 27 Sep 2026 12:34:13 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Floods and landslides kill at least 56 people in India, 12 in Nepal",
       "link": "https://www.aljazeera.com/news/2026/9/27/floods-and-landslides-kill-at-least-56-people-in-india-12-in-nepal?traffic_source=rss",
       "date": "Sun, 27 Sep 2026 12:02:50 +0000",
@@ -329,12 +335,6 @@
       "title": "Malaysia’s Ng, Subramaniam book LA28 Olympics berth with Asian Games gold",
       "link": "https://www.aljazeera.com/sports/2026/9/27/malaysias-ng-subramaniam-book-la28-olympics-berth-with-asian-games-gold?traffic_source=rss",
       "date": "Sun, 27 Sep 2026 09:19:37 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "UK police evacuate homes near RAF Fairford airbase used by US",
-      "link": "https://www.aljazeera.com/news/2026/9/27/uk-police-evacuate-homes-near-air-base-used-by-us?traffic_source=rss",
-      "date": "Sun, 27 Sep 2026 08:59:38 +0000",
       "source": "Al Jazeera"
     }
   ]
