@@ -1,10 +1,16 @@
 {
-  "updated": "2026-09-27T07:28:13.639858+00:00",
+  "updated": "2026-09-27T07:40:54.388205+00:00",
   "items": [
     {
       "title": "ترامب يرفض مقترح إيران بشأن هرمز، وطهران تنتظر موقف واشنطن النهائي عبر الوسطاء",
       "link": "https://www.bbc.com/arabic/articles/c8dx55lxe7r9o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 27 Sep 2026 01:23:50 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "5 وجهات سياحية نمت بسرعة العام الماضي، من بينها دولة عربية",
+      "link": "https://www.bbc.com/arabic/articles/cze0pz24r67o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 27 Sep 2026 07:28:05 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -26,7 +32,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "العثور على جثة امرأة عاشرة في جنوب أفريقيا وسط تحقيقات للشرطة في جرائم القتل",
+      "title": "العثور على جثة امرأة عاشرة في جنوب إفريقيا وسط تحقيقات للشرطة في جرائم القتل",
       "link": "https://www.bbc.com/arabic/articles/cwx2zz4vjl8jo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 26 Sep 2026 22:14:12 GMT",
       "source": "BBC Arabic"
@@ -41,12 +47,6 @@
       "title": "مقتل 11 شخصاً في هجوم بسيارة مفخخة استهدف نقطة أمنية شمال غربي باكستان",
       "link": "https://www.bbc.com/arabic/articles/cw1mvv8313gro?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 26 Sep 2026 15:22:54 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "البيت الأبيض يمنع \"سي إن إن\" من مرافقة ترامب على متن الطائرة الرئاسية \"إير فورس وان\"",
-      "link": "https://www.bbc.com/arabic/articles/ckyvzz827nr9o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 26 Sep 2026 13:37:32 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry",
+      "link": "https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry?traffic_source=rss",
+      "date": "Sun, 27 Sep 2026 07:08:28 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Northern Ireland court allows Orange Order march through Catholic area",
       "link": "https://www.aljazeera.com/news/2026/9/27/northern-ireland-court-allows-orange-order-march-through-catholic-area?traffic_source=rss",
       "date": "Sun, 27 Sep 2026 06:53:31 +0000",
@@ -329,12 +335,6 @@
       "title": "Bangkok declared disaster zone after heavy rains submerge roads",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/bangkok-declared-disaster-zone-after-heavy-rains-submerge-roads?traffic_source=rss",
       "date": "Sun, 27 Sep 2026 03:33:13 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Thousands protest in Madrid against Spain’s housing crisis",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/thousands-protest-in-madrid-against-spains-housing-crisis?traffic_source=rss",
-      "date": "Sun, 27 Sep 2026 03:17:52 +0000",
       "source": "Al Jazeera"
     }
   ]
