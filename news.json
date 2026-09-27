@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-27T08:29:25.462834+00:00",
+  "updated": "2026-09-27T08:42:40.183138+00:00",
   "items": [
     {
-      "title": "ترامب يرفض مقترح إيران بشأن هرمز، وطهران تنتظر موقف واشنطن النهائي عبر الوسطاء",
-      "link": "https://www.bbc.com/arabic/articles/c8dx55lxe7r9o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 27 Sep 2026 01:23:50 GMT",
+      "title": "بين انتظار الرد الأمريكي وذكرى اغتيال نصرالله، إيران تتمسك بشروطها",
+      "link": "https://www.bbc.com/arabic/articles/cqm2m6n86jgmo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 27 Sep 2026 08:33:18 GMT",
       "source": "BBC Arabic"
     },
     {
-      "title": "احتجاز أشخاص وإجلاء سكان بعد إعلان حالة طوارئ قرب قاعدة جوية أمريكية في بريطانيا",
+      "title": "احتجاز أشخاص وإجلاء سكان بعد إعلان حالة طوارئ قرب قاعدة بريطانية - أمريكية",
       "link": "https://www.bbc.com/arabic/articles/cmwyz9xkqeg1o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 27 Sep 2026 08:23:48 GMT",
+      "date": "Sun, 27 Sep 2026 08:35:35 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -68,9 +68,21 @@
       "source": "BBC World"
     },
     {
+      "title": "Two mass shootings in South Africa leave 27 dead",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 27 Sep 2026 08:40:02 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
       "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 26 Sep 2026 19:48:06 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 27 Sep 2026 04:23:09 GMT",
       "source": "BBC World"
     },
     {
@@ -86,19 +98,7 @@
       "source": "BBC World"
     },
     {
-      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 27 Sep 2026 04:23:09 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Republic of Ireland to wear black armbands for Israel game",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 26 Sep 2026 19:59:00 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
+      "title": "Faisal Islam: The two big decisions the chancellor must make",
       "link": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 26 Sep 2026 23:00:42 GMT",
       "source": "BBC Business"
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Israel’s Netanyahu criticises opposition uniting against him for election",
+      "link": "https://www.aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election?traffic_source=rss",
+      "date": "Sun, 27 Sep 2026 08:10:22 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Iceland FM hits back at Netanyahu over ‘moral cowards’ UNGA remark",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark?traffic_source=rss",
       "date": "Sun, 27 Sep 2026 08:05:09 +0000",
@@ -329,12 +335,6 @@
       "title": "At least 27 people killed in two shootings in South African townships",
       "link": "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss",
       "date": "Sun, 27 Sep 2026 05:48:47 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Huge crowds cheer Pope Leo as he leads open-air Mass in Paris",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss",
-      "date": "Sun, 27 Sep 2026 05:09:01 +0000",
       "source": "Al Jazeera"
     }
   ]
