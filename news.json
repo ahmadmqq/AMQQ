@@ -1,10 +1,16 @@
 {
-  "updated": "2026-09-27T08:14:50.523590+00:00",
+  "updated": "2026-09-27T08:29:25.462834+00:00",
   "items": [
     {
       "title": "ترامب يرفض مقترح إيران بشأن هرمز، وطهران تنتظر موقف واشنطن النهائي عبر الوسطاء",
       "link": "https://www.bbc.com/arabic/articles/c8dx55lxe7r9o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 27 Sep 2026 01:23:50 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "احتجاز أشخاص وإجلاء سكان بعد إعلان حالة طوارئ قرب قاعدة جوية أمريكية في بريطانيا",
+      "link": "https://www.bbc.com/arabic/articles/cmwyz9xkqeg1o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 27 Sep 2026 08:23:48 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "انقطاع الإنترنت والاتصالات في تيغراي وسط مخاوف حيال عودة الحرب الإثيوبية",
       "link": "https://www.bbc.com/arabic/articles/cmn9wwzxy971o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 26 Sep 2026 17:26:08 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "مقتل 11 شخصاً في هجوم بسيارة مفخخة استهدف نقطة أمنية شمال غربي باكستان",
-      "link": "https://www.bbc.com/arabic/articles/cw1mvv8313gro?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 26 Sep 2026 15:22:54 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -146,6 +146,12 @@
       "source": "BBC Business"
     },
     {
+      "title": "At least 27 dead in two mass shootings in South Africa, police say",
+      "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+      "date": "Sun, 27 Sep 2026 08:19:24 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
       "link": "https://www.theguardian.com/world/2026/sep/24/fears-return-to-war-tigray-rebels-launch-offensive-against-ethiopian-army",
       "date": "Thu, 24 Sep 2026 15:29:42 GMT",
@@ -167,12 +173,6 @@
       "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
       "link": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
       "date": "Mon, 21 Sep 2026 22:33:40 GMT",
-      "source": "Guardian World"
-    },
-    {
-      "title": "Banished to alien lands: Trump’s secret deportation deals",
-      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
-      "date": "Mon, 21 Sep 2026 05:00:38 GMT",
       "source": "Guardian World"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Iceland FM hits back at Netanyahu over ‘moral cowards’ UNGA remark",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark?traffic_source=rss",
+      "date": "Sun, 27 Sep 2026 08:05:09 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Photos: Heavy rains and flooding in Bangkok force thousands into shelters",
+      "link": "https://www.aljazeera.com/gallery/2026/9/27/heavy-rain-and-flooding-in-bangkok-force-thousands-into-shelters?traffic_source=rss",
+      "date": "Sun, 27 Sep 2026 07:49:58 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Kylian Mbappe’s knee injury to keep him out for two weeks",
       "link": "https://www.aljazeera.com/sports/2026/9/27/kylian-mbappes-knee-injury-to-keep-him-out-for-two-weeks?traffic_source=rss",
       "date": "Sun, 27 Sep 2026 07:32:20 +0000",
@@ -323,18 +335,6 @@
       "title": "Huge crowds cheer Pope Leo as he leads open-air Mass in Paris",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss",
       "date": "Sun, 27 Sep 2026 05:09:01 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ethiopia’s army promises restraint amid fears of new civil war",
-      "link": "https://www.aljazeera.com/news/2026/9/27/ethiopias-army-promises-restraint-amid-fears-of-new-civil-war?traffic_source=rss",
-      "date": "Sun, 27 Sep 2026 04:59:50 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Detained Tunisian flotilla activists: Worsening health amid family anguish",
-      "link": "https://www.aljazeera.com/news/2026/9/27/detained-tunisian-flotilla-activists-worsening-health-amid-family-anguish?traffic_source=rss",
-      "date": "Sun, 27 Sep 2026 03:51:46 +0000",
       "source": "Al Jazeera"
     }
   ]
