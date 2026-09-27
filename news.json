@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T01:49:20.492558+00:00",
+  "updated": "2026-09-27T01:58:38.356986+00:00",
   "items": [
     {
       "title": "ترامب يرفض مقترح إيران بشأن هرمز، وطهران تنتظر موقف واشنطن النهائي عبر الوسطاء",
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Venezuela frees 39 political prisoners after post-Maduro talks",
+      "link": "https://www.aljazeera.com/news/2026/9/27/venezuela-frees-39-political-prisoners-after-post-maduro-talks?traffic_source=rss",
+      "date": "Sun, 27 Sep 2026 01:42:46 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "EU unlocks humanitarian aid for Africa and other crisis-hit regions",
       "link": "https://www.aljazeera.com/news/2026/9/27/eu-unlocks-humanitarian-aid-for-africa-and-other-crisis-hit-regions?traffic_source=rss",
       "date": "Sun, 27 Sep 2026 01:27:13 +0000",
@@ -329,12 +335,6 @@
       "title": "Deadly shooting hits Caribbean islands of Saint Vincent and the Grenadines",
       "link": "https://www.aljazeera.com/news/2026/9/26/deadly-shooting-hits-caribbean-islands-of-saint-vincent-and-the-grenadines?traffic_source=rss",
       "date": "Sat, 26 Sep 2026 22:38:01 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Student protesters disrupt NVIDIA AI climate panel",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss",
-      "date": "Sat, 26 Sep 2026 22:09:33 +0000",
       "source": "Al Jazeera"
     }
   ]
