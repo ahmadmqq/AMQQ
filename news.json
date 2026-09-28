@@ -1,10 +1,16 @@
 {
-  "updated": "2026-09-28T16:00:10.153202+00:00",
+  "updated": "2026-09-28T16:20:30.384712+00:00",
   "items": [
     {
       "title": "الإمارات والجزائر والسودان بين المتحدثين أمام الجمعية العامة، واجتماع لمجلس الأمن بخصوص القضية الفلسطينية",
       "link": "https://www.bbc.co.uk/arabic/live/cvrl6y15d91rt?at_medium=RSS&at_campaign=rss",
       "date": "",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "لماذا ذهب نتنياهو سراً إلى الإمارات الآن؟ وماذا طلب من بن زايد؟",
+      "link": "https://www.bbc.com/arabic/articles/c6g7kx4yevevo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 28 Sep 2026 16:03:33 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "جماعة أنصار الله تقول إن غارة سعودية قتلت وأصابت العشرات، والحكومة المعترف بها تعلن مقتل خبراء إيرانيين",
       "link": "https://www.bbc.com/arabic/articles/cr5y5n3vvw4wo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 27 Sep 2026 23:01:02 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "\"سخروا مني لأن والدي باكستاني\"، لاعب العراق زيدان إقبال يوجه رسالة لجماهير الكويت",
-      "link": "https://www.bbc.com/arabic/articles/cm158j41n218o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 27 Sep 2026 13:54:19 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -146,6 +146,12 @@
       "source": "BBC Business"
     },
     {
+      "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
+      "link": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
+      "date": "Mon, 28 Sep 2026 15:54:25 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "At least 27 dead after two mass shootings in South Africa, police say",
       "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
       "date": "Sun, 27 Sep 2026 13:46:49 GMT",
@@ -167,12 +173,6 @@
       "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
       "link": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
       "date": "Wed, 23 Sep 2026 11:08:01 GMT",
-      "source": "Guardian World"
-    },
-    {
-      "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
-      "link": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
-      "date": "Wed, 23 Sep 2026 09:38:06 GMT",
       "source": "Guardian World"
     },
     {
@@ -230,15 +230,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Avanti West Coast to be renationalised in March",
-      "link": "https://www.theguardian.com/business/2026/sep/28/avanti-west-coast-to-be-renationalised-in-march",
-      "date": "Mon, 28 Sep 2026 07:24:45 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "Heat pump sales soar across Europe after states cut electricity taxes, data shows",
       "link": "https://www.theguardian.com/environment/2026/sep/28/heat-pump-sales-soar-across-europe-after-ciuntries-cut-electricity-taxes-data-shows",
       "date": "Mon, 28 Sep 2026 13:53:52 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Avanti West Coast to be renationalised in March",
+      "link": "https://www.theguardian.com/business/2026/sep/28/avanti-west-coast-to-be-renationalised-in-march",
+      "date": "Mon, 28 Sep 2026 07:24:45 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "At least 33 killed after Myanmar military air strike hits market",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/at-least-33-killed-after-myanmar-military-air-strike-hits-market?traffic_source=rss",
+      "date": "Mon, 28 Sep 2026 15:38:16 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "UK pledges tougher stance on Israeli actions in Gaza, West Bank",
+      "link": "https://www.aljazeera.com/news/2026/9/28/uk-pledges-tougher-stance-on-israeli-actions-in-gaza-west-bank?traffic_source=rss",
+      "date": "Mon, 28 Sep 2026 15:35:21 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Iran denies link to attack on airbase as UK minister warns of ‘proxies’",
       "link": "https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss",
       "date": "Mon, 28 Sep 2026 15:29:48 +0000",
@@ -323,18 +335,6 @@
       "title": "Iraq looks for oil export alternatives to the troubled Strait of Hormuz",
       "link": "https://www.aljazeera.com/economy/2026/9/28/iraq-looks-for-oil-export-alternatives-to-the-troubled-strait-of-hormuz?traffic_source=rss",
       "date": "Mon, 28 Sep 2026 13:53:28 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Bandung: The Meeting That Terrified the Superpowers | Al Jazeera Originals",
-      "link": "https://www.aljazeera.com/video/al-jazeera-originals/2026/9/28/bandung-the-meeting-that-terrified-the-superpowers-al-jazeera-originals?traffic_source=rss",
-      "date": "Mon, 28 Sep 2026 13:41:07 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "UN commemoration of Durban Declaration: What’s on agenda, who will attend?",
-      "link": "https://www.aljazeera.com/news/2026/9/28/un-commemoration-of-durban-declaration-whats-on-agenda-who-will-attend?traffic_source=rss",
-      "date": "Mon, 28 Sep 2026 13:38:16 +0000",
       "source": "Al Jazeera"
     }
   ]
