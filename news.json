@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T17:58:39.025789+00:00",
+  "updated": "2026-09-28T18:16:21.567874+00:00",
   "items": [
     {
       "title": "الإمارات والجزائر والسودان بين المتحدثين أمام الجمعية العامة، واجتماع لمجلس الأمن بخصوص القضية الفلسطينية",
@@ -20,6 +20,12 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "الشرطة البريطانية تستجوب خمسة رجال اعتُقلوا قرب قاعدة فيرفورد الجوية، وتفرج عنهم بكفالة",
+      "link": "https://www.bbc.com/arabic/articles/cwrk3y2p3zr0o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 28 Sep 2026 18:08:16 GMT",
+      "source": "BBC Arabic"
+    },
+    {
       "title": "\"محادثات مرتقبة غير مباشرة\" بين واشنطن وطهران في نيويورك، وخامئني يقول إن \"القوات الأمريكية ستُجبر على مغادرة بحر العرب\"",
       "link": "https://www.bbc.com/arabic/articles/cmlye0z22pxxo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 28 Sep 2026 16:59:45 GMT",
@@ -29,12 +35,6 @@
       "title": "\"لم يبق إلا القليل من قادة الخليج المعولين على الدعم الأمريكي المعتاد\" - مقال في الأوبزرفر",
       "link": "https://www.bbc.com/arabic/articles/ck0e3079ww2zo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 28 Sep 2026 12:36:50 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "الشرطة البريطانية تستجوب خمسة رجال اعتُقلوا قرب قاعدة فيرفورد الجوية",
-      "link": "https://www.bbc.com/arabic/articles/cwrk3y2p3zr0o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 08:55:18 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -80,6 +80,12 @@
       "source": "BBC World"
     },
     {
+      "title": "Stand-up comic set for release after being convicted of insulting Erdoğan",
+      "link": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 28 Sep 2026 18:11:58 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Four bodies found after avalanche hits Himalayan climbing group",
       "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 28 Sep 2026 16:13:44 GMT",
@@ -89,12 +95,6 @@
       "title": "Plan for controversial Sydney data centre scrapped after push-back",
       "link": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 28 Sep 2026 12:47:09 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Trump-Xi summit: What wasn't said might matter the most",
-      "link": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 07:52:23 GMT",
       "source": "BBC World"
     },
     {
@@ -136,7 +136,7 @@
     {
       "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
       "link": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 16:58:48 GMT",
+      "date": "Mon, 28 Sep 2026 18:07:25 GMT",
       "source": "BBC Business"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Iran touts Hormuz attacks as oil flows increase despite tensions",
+      "link": "https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions?traffic_source=rss",
+      "date": "Mon, 28 Sep 2026 17:43:10 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Photos: Russian drone strikes pound civilian targets across Kyiv",
+      "link": "https://www.aljazeera.com/gallery/2026/9/28/photos-aftermath-of-a-russian-drone-attack-in-kyiv?traffic_source=rss",
+      "date": "Mon, 28 Sep 2026 17:37:36 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "UK police release suspects on bail after RAF arrests, investigation ongoing",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-police-release-suspects-on-bail-after-raf-arrests-investigation-ongoing?traffic_source=rss",
+      "date": "Mon, 28 Sep 2026 17:32:44 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Paris court finds Swiftair guilty over 2014 Mali crash that killed 116",
       "link": "https://www.aljazeera.com/news/2026/9/28/paris-court-finds-swiftair-guilty-over-2014-mali-crash-that-killed-116?traffic_source=rss",
       "date": "Mon, 28 Sep 2026 17:13:03 +0000",
@@ -317,24 +335,6 @@
       "title": "South Korea suspects North Korean mines behind DMZ blast",
       "link": "https://www.aljazeera.com/news/2026/9/28/south-korea-suspects-north-korean-mines-behind-dmz-blast?traffic_source=rss",
       "date": "Mon, 28 Sep 2026 16:50:08 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Migrant children protest after police clear beach camp in Ceuta",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/migrant-children-protest-after-police-clear-beach-camp-in-ceuta?traffic_source=rss",
-      "date": "Mon, 28 Sep 2026 16:44:58 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "French police fire tear gas at migrants on beach",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/french-police-fire-tear-gas-at-migrants-on-beach?traffic_source=rss",
-      "date": "Mon, 28 Sep 2026 16:37:19 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ebola cases surpass 8,000 as DRC struggles to control outbreak",
-      "link": "https://www.aljazeera.com/news/2026/9/28/ebola-cases-surpass-8000-as-drc-struggles-to-control-outbreak?traffic_source=rss",
-      "date": "Mon, 28 Sep 2026 16:26:18 +0000",
       "source": "Al Jazeera"
     }
   ]
