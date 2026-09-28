@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-28T07:34:41.780016+00:00",
+  "updated": "2026-09-28T07:49:42.583269+00:00",
   "items": [
+    {
+      "title": "طهران تنفي وجود محادثات مقررة مع واشنطن، وأنباء عن إصابة ثمانية من \"المارينز\" في هجوم إيراني",
+      "link": "https://www.bbc.com/arabic/articles/cmlye0z22pxxo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 28 Sep 2026 07:34:18 GMT",
+      "source": "BBC Arabic"
+    },
     {
       "title": "جماعة أنصار الله تقول إن غارة سعودية قتلت وأصابت العشرات، والحكومة المعترف بها تعلن مقتل خبراء إيرانيين",
       "link": "https://www.bbc.com/arabic/articles/cr5y5n3vvw4wo?at_medium=RSS&at_campaign=rss",
@@ -11,12 +17,6 @@
       "title": "ماذا نعرف عن تحقيق مكافحة الإرهاب المرتبط بقاعدة فيرفورد الجوية البريطانية؟",
       "link": "https://www.bbc.com/arabic/articles/cwrk3y2p3zr0o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 27 Sep 2026 22:15:19 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "ترامب يتوقع استئناف المحادثات مع إيران هذا الأسبوع رغم رفضه مقترحها لفتح هرمز",
-      "link": "https://www.bbc.com/arabic/articles/cqm2m6n86jgmo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 00:52:13 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -100,7 +100,7 @@
     {
       "title": "Why the PM could finally drop the triple lock pension pledge",
       "link": "https://www.bbc.co.uk/news/articles/c6jdvmy1287yo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 07:18:19 GMT",
+      "date": "Mon, 28 Sep 2026 07:38:21 GMT",
       "source": "BBC Business"
     },
     {
@@ -134,9 +134,9 @@
       "source": "BBC Business"
     },
     {
-      "title": "You need £17,000 for a first home - here's how to do it",
+      "title": "You need £17,000 for a first home - here are 4 ways to do it",
       "link": "https://www.bbc.co.uk/news/articles/cqvgy09kep21o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 27 Sep 2026 23:20:43 GMT",
+      "date": "Mon, 28 Sep 2026 07:40:32 GMT",
       "source": "BBC Business"
     },
     {
@@ -194,27 +194,21 @@
       "source": "Guardian World"
     },
     {
+      "title": "Avanti West Coast to be renationalised in March",
+      "link": "https://www.theguardian.com/business/2026/sep/28/avanti-west-coast-to-be-renationalised-in-march",
+      "date": "Mon, 28 Sep 2026 07:24:45 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Burnham dodges questions on Heathrow third runway as project faces four-year delay",
       "link": "https://www.theguardian.com/environment/2026/sep/27/burham-dodges-questions-heathrow-third-runway-delay",
       "date": "Sun, 27 Sep 2026 15:47:04 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "London’s investment bankers and lawyers make more than £1bn in takeover frenzy",
-      "link": "https://www.theguardian.com/business/2026/sep/27/londons-investment-bankers-lawyers-paid-more-than-1bn",
-      "date": "Sun, 27 Sep 2026 06:00:56 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "Lime bike profits double as rider numbers surge in England",
       "link": "https://www.theguardian.com/world/2026/sep/27/lime-bike-profits-double-rider-numbers-surge-england",
       "date": "Sun, 27 Sep 2026 14:24:16 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Burnham’s plan for a radical reset collides with economic reality | Heather Stewart",
-      "link": "https://www.theguardian.com/business/2026/sep/27/burnham-plan-radical-reset-economic-reality",
-      "date": "Sun, 27 Sep 2026 11:03:59 GMT",
       "source": "Guardian Business"
     },
     {
@@ -239,6 +233,12 @@
       "title": "Poland is racing ahead with military spending – but will it help or damage its economic growth story?",
       "link": "https://www.theguardian.com/world/2026/sep/27/poland-military-spending-economic-growth-economy-defence-boom",
       "date": "Sun, 27 Sep 2026 05:00:56 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "London’s investment bankers and lawyers make more than £1bn in takeover frenzy",
+      "link": "https://www.theguardian.com/business/2026/sep/27/londons-investment-bankers-lawyers-paid-more-than-1bn",
+      "date": "Sun, 27 Sep 2026 06:00:56 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Rescuers search for 12 missing after Nepal avalanche kills two",
+      "link": "https://www.aljazeera.com/news/2026/9/28/rescuers-search-for-12-missing-after-nepal-avalanche-kills-two?traffic_source=rss",
+      "date": "Mon, 28 Sep 2026 07:10:58 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "US, China list goods recommended for tariff cuts following Trump-Xi summit",
       "link": "https://www.aljazeera.com/economy/2026/9/28/us-china-list-goods-recommended-for-tariff-cuts-following-trump-xi-summit?traffic_source=rss",
       "date": "Mon, 28 Sep 2026 06:24:33 +0000",
@@ -329,12 +335,6 @@
       "title": "Serbia’s president resigns to run for prime minister",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/28-09-sv-serbias-vucic-resigns-to-run-for-pm-sb?traffic_source=rss",
       "date": "Mon, 28 Sep 2026 04:50:46 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "14 killed, a dozen missing as Nepal is hit by more floods and landslides",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/14-killed-a-dozen-missing-as-nepal-is-hit-by-more-floods-and-landslides?traffic_source=rss",
-      "date": "Mon, 28 Sep 2026 04:44:12 +0000",
       "source": "Al Jazeera"
     }
   ]
