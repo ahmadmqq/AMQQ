@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T12:43:07.199787+00:00",
+  "updated": "2026-09-28T12:58:58.861544+00:00",
   "items": [
     {
       "title": "الإمارات والجزائر والسودان والبحرين بين المتحدثين أمام الجمعية العامة، واجتماع لمجلس الأمن بخصوص القضية الفلسطينية",
@@ -20,7 +20,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "الشرطة البريطانية تستجوب خمسة رجال اعتُقلوا قرب قاعدة فيرفورد الجوية؟",
+      "title": "الشرطة البريطانية تستجوب خمسة رجال اعتُقلوا قرب قاعدة فيرفورد الجوية",
       "link": "https://www.bbc.com/arabic/articles/cwrk3y2p3zr0o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 28 Sep 2026 08:55:18 GMT",
       "source": "BBC Arabic"
@@ -68,6 +68,12 @@
       "source": "BBC World"
     },
     {
+      "title": "Plan for controversial Sydney data centre scrapped after push-back",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 28 Sep 2026 12:47:09 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Two mass shootings in South Africa leave 28 dead",
       "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 28 Sep 2026 06:46:03 GMT",
@@ -89,12 +95,6 @@
       "title": "Venezuela releases dozens of political prisoners as election calls grow",
       "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 27 Sep 2026 15:56:25 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Four killed in helicopter crash near Montreal",
-      "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 27 Sep 2026 02:43:10 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Police clash with protesters over mosque demolitions in India",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/police-clash-with-protesters-over-mosque-demolitions-in-india?traffic_source=rss",
+      "date": "Mon, 28 Sep 2026 12:40:36 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Why South Korea is demanding an apology from Ukraine over North Korean PoWs",
       "link": "https://www.aljazeera.com/news/2026/9/28/why-south-korea-is-demanding-an-apology-from-ukraine-over-north-korean-pows?traffic_source=rss",
       "date": "Mon, 28 Sep 2026 12:09:23 +0000",
@@ -329,12 +335,6 @@
       "title": "Israeli football fans chant military slogans after defeat to Ireland",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/israeli-football-fans-chant-military-slogans-after-defeat-to-ireland?traffic_source=rss",
       "date": "Mon, 28 Sep 2026 11:10:03 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ethiopia accuses Sudan, Egypt of backing Tigray rebels as fighting rages",
-      "link": "https://www.aljazeera.com/news/2026/9/28/ethiopia-accuses-sudan-egypt-of-backing-tigray-rebels-as-fighting-rages?traffic_source=rss",
-      "date": "Mon, 28 Sep 2026 11:00:23 +0000",
       "source": "Al Jazeera"
     }
   ]
