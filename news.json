@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T11:59:43.106987+00:00",
+  "updated": "2026-09-28T12:21:44.316077+00:00",
   "items": [
     {
       "title": "طهران تنفي وجود محادثات مقررة مع واشنطن، وأنباء عن إصابة ثمانية من \"المارينز\" في هجوم إيراني",
@@ -196,7 +196,13 @@
     {
       "title": "UK diesel prices hit record high at 199.18p a litre; housebuilder stocks surge on new homes scheme – business live",
       "link": "https://www.theguardian.com/business/live/2026/sep/28/uk-housebuilders-stocks-new-homes-scheme-first-time-buyers-business-live-news",
-      "date": "Mon, 28 Sep 2026 11:37:47 GMT",
+      "date": "Mon, 28 Sep 2026 11:58:12 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "John Healey says Labour will stick to fiscal rules in first speech as chancellor – UK politics live",
+      "link": "https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates",
+      "date": "Mon, 28 Sep 2026 12:01:05 GMT",
       "source": "Guardian Business"
     },
     {
@@ -206,15 +212,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Boss of Beaverbrooks urges government to give businesses ‘a bit of a break’",
-      "link": "https://www.theguardian.com/business/2026/sep/28/beaverbrooks-urge-government-give-businesses-break",
-      "date": "Mon, 28 Sep 2026 09:12:20 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "Most of UK’s essential food supply grown in drought-risk areas, report warns",
       "link": "https://www.theguardian.com/business/2026/sep/27/most-of-uks-essential-food-supply-grown-in-drought-risk-areas-report-warns",
       "date": "Sun, 27 Sep 2026 16:24:27 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Boss of Beaverbrooks urges government to give businesses ‘a bit of a break’",
+      "link": "https://www.theguardian.com/business/2026/sep/28/beaverbrooks-urge-government-give-businesses-break",
+      "date": "Mon, 28 Sep 2026 09:12:20 GMT",
       "source": "Guardian Business"
     },
     {
@@ -236,13 +242,13 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Poland is racing ahead with military spending – but will it help or damage its economic growth story?",
-      "link": "https://www.theguardian.com/world/2026/sep/27/poland-military-spending-economic-growth-economy-defence-boom",
-      "date": "Sun, 27 Sep 2026 05:00:56 GMT",
-      "source": "Guardian Business"
+      "title": "What we know about the suspected U.K. terror plot. And, why the Gulf remains in limbo",
+      "link": "https://www.npr.org/2026/09/28/g-s1-145248/up-first-newsletter-uk-terror-plot-iran-strait-hormuz-cnn-trump",
+      "date": "Mon, 28 Sep 2026 08:15:05 -0400",
+      "source": "NPR World"
     },
     {
-      "title": "British police investigate if arrests near U.S. air base foiled an Iran-linked attack",
+      "title": "5 men arrested over suspected attack at a U.S.-run air force base are British nationals",
       "link": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
       "date": "Mon, 28 Sep 2026 06:51:25 -0400",
       "source": "NPR World"
@@ -284,10 +290,10 @@
       "source": "NPR World"
     },
     {
-      "title": "Photos: This may be the most inspirational night school on Earth",
-      "link": "https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho",
-      "date": "Sun, 27 Sep 2026 07:53:42 -0400",
-      "source": "NPR World"
+      "title": "Africa is not responsible for climate crisis: Activist Vanessa Nakate",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/28/africa-is-not-responsible-for-climate-crisis-activist-vanessa-nakate?traffic_source=rss",
+      "date": "Mon, 28 Sep 2026 12:00:36 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Israeli fans direct monkey chants and military slogans at Ireland’s players",
@@ -329,12 +335,6 @@
       "title": "Al Jazeera reports from near front line in Ethiopia’s Afar region",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/al-jazeera-reports-from-near-front-line-in-ethiopias-afar-region?traffic_source=rss",
       "date": "Mon, 28 Sep 2026 09:44:14 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz",
-      "link": "https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "date": "Mon, 28 Sep 2026 09:17:29 +0000",
       "source": "Al Jazeera"
     }
   ]
