@@ -1,10 +1,16 @@
 {
-  "updated": "2026-09-28T18:16:21.567874+00:00",
+  "updated": "2026-09-28T18:36:24.943522+00:00",
   "items": [
     {
       "title": "الإمارات والجزائر والسودان بين المتحدثين أمام الجمعية العامة، واجتماع لمجلس الأمن بخصوص القضية الفلسطينية",
       "link": "https://www.bbc.co.uk/arabic/live/cvrl6y15d91rt?at_medium=RSS&at_campaign=rss",
       "date": "",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "كيف يستخدم رئيس البرلمان الإيراني المصطلحات المالية لاستهداف الأسواق الأمريكية؟",
+      "link": "https://www.bbc.com/arabic/articles/c6y8zld48k3vo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 28 Sep 2026 18:29:29 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -26,27 +32,21 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "\"محادثات مرتقبة غير مباشرة\" بين واشنطن وطهران في نيويورك، وخامئني يقول إن \"القوات الأمريكية ستُجبر على مغادرة بحر العرب\"",
-      "link": "https://www.bbc.com/arabic/articles/cmlye0z22pxxo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 16:59:45 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "\"لم يبق إلا القليل من قادة الخليج المعولين على الدعم الأمريكي المعتاد\" - مقال في الأوبزرفر",
       "link": "https://www.bbc.com/arabic/articles/ck0e3079ww2zo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 28 Sep 2026 12:36:50 GMT",
       "source": "BBC Arabic"
     },
     {
-      "title": "حقائق قد لا تعرفها عن حاسة التذوق",
-      "link": "https://www.bbc.com/arabic/articles/c797n1xjl48o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 10:41:24 GMT",
+      "title": "\"محادثات مرتقبة غير مباشرة\" بين واشنطن وطهران في نيويورك، وخامئني يقول إن \"القوات الأمريكية ستُجبر على مغادرة بحر العرب\"",
+      "link": "https://www.bbc.com/arabic/articles/cmlye0z22pxxo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 28 Sep 2026 16:59:45 GMT",
       "source": "BBC Arabic"
     },
     {
-      "title": "جماعة أنصار الله تقول إن غارة سعودية قتلت وأصابت العشرات، والحكومة المعترف بها تعلن مقتل خبراء إيرانيين",
-      "link": "https://www.bbc.com/arabic/articles/cr5y5n3vvw4wo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 27 Sep 2026 23:01:02 GMT",
+      "title": "حقائق قد لا تعرفها عن حاسة التذوق",
+      "link": "https://www.bbc.com/arabic/articles/c797n1xjl48o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 28 Sep 2026 10:41:24 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -104,7 +104,13 @@
       "source": "BBC Business"
     },
     {
-      "title": "Aldi boss says some loyalty discounts 'dupe' customers",
+      "title": "What a US diesel export ban could mean for you",
+      "link": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 28 Sep 2026 18:18:30 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
       "link": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 28 Sep 2026 17:45:52 GMT",
       "source": "BBC Business"
@@ -137,12 +143,6 @@
       "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
       "link": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 28 Sep 2026 18:07:25 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "UK needs plan in case of 'unprecedented' AI job losses, says minister",
-      "link": "https://www.bbc.co.uk/news/articles/cvj64jg5prpgo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 16:47:53 GMT",
       "source": "BBC Business"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Trump made the right decision to reject Iran’s offer",
+      "link": "https://www.aljazeera.com/opinions/2026/9/28/trump-made-the-right-decision-to-reject-irans-offer?traffic_source=rss",
+      "date": "Mon, 28 Sep 2026 18:16:26 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Somali army clashes with local forces for control of Baidoa",
+      "link": "https://www.aljazeera.com/news/2026/9/28/somali-army-clashes-with-local-forces-for-control-of-baidoa?traffic_source=rss",
+      "date": "Mon, 28 Sep 2026 17:58:11 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Iran touts Hormuz attacks as oil flows increase despite tensions",
       "link": "https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions?traffic_source=rss",
       "date": "Mon, 28 Sep 2026 17:43:10 +0000",
@@ -323,18 +335,6 @@
       "title": "168 hours on the dance floor: Nigerian dancer chases Guinness World Record",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/09-28-nigerian-dancer-sv-mp4?traffic_source=rss",
       "date": "Mon, 28 Sep 2026 17:02:53 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Arming an adversary: Why Trump’s offer to sell China weapons belies US policy",
-      "link": "https://www.aljazeera.com/news-analysis/2026/9/28/arming-an-adversary-why-trump-offer-to-sell-china-weapons-belies-us-policy?traffic_source=rss",
-      "date": "Mon, 28 Sep 2026 16:55:05 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "South Korea suspects North Korean mines behind DMZ blast",
-      "link": "https://www.aljazeera.com/news/2026/9/28/south-korea-suspects-north-korean-mines-behind-dmz-blast?traffic_source=rss",
-      "date": "Mon, 28 Sep 2026 16:50:08 +0000",
       "source": "Al Jazeera"
     }
   ]
