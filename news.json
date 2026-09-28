@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-28T08:37:56.543893+00:00",
+  "updated": "2026-09-28T08:52:23.950716+00:00",
   "items": [
     {
       "title": "طهران تنفي وجود محادثات مقررة مع واشنطن، وأنباء عن إصابة ثمانية من \"المارينز\" في هجوم إيراني",
       "link": "https://www.bbc.com/arabic/articles/cmlye0z22pxxo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 07:34:18 GMT",
+      "date": "Mon, 28 Sep 2026 08:40:30 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -56,15 +56,15 @@
       "source": "BBC World"
     },
     {
-      "title": "Embattled Serbian president resigns, paving way for early elections",
-      "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 27 Sep 2026 20:04:21 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Trump-Xi summit: What wasn't said might matter the most",
       "link": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 28 Sep 2026 07:52:23 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Embattled Serbian president resigns, paving way for early elections",
+      "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 27 Sep 2026 20:04:21 GMT",
       "source": "BBC World"
     },
     {
@@ -242,6 +242,18 @@
       "source": "Guardian Business"
     },
     {
+      "title": "5 men suspected of plotting a terrorist act arrested near U.K. air base",
+      "link": "https://www.npr.org/2026/09/28/nx-s1-5982722/5-men-suspected-of-plotting-a-terrorist-act-arrested-near-u-k-air-base",
+      "date": "Mon, 28 Sep 2026 04:43:21 -0400",
+      "source": "NPR World"
+    },
+    {
+      "title": "National security expert discusses alleged U.K. air base bomb plot",
+      "link": "https://www.npr.org/2026/09/28/nx-s1-5982737/national-security-expert-discusses-alleged-u-k-air-base-bomb-plot",
+      "date": "Mon, 28 Sep 2026 04:42:45 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "Eviction of 87-year-old sparks protests in Madrid over housing crisis",
       "link": "https://www.npr.org/2026/09/28/nx-s1-5983303/encampment-protest-madrid-housing-crisis",
       "date": "Mon, 28 Sep 2026 03:20:18 -0400",
@@ -278,16 +290,10 @@
       "source": "NPR World"
     },
     {
-      "title": "Photos: This may be the most inspirational night school on Earth",
-      "link": "https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho",
-      "date": "Sun, 27 Sep 2026 07:53:42 -0400",
-      "source": "NPR World"
-    },
-    {
-      "title": "5 arrested near a U.K. air base used by U.S. on suspicion of preparing a terrorist act",
-      "link": "https://www.npr.org/2026/09/27/nx-s1-5982480/multiple-arrests-suspicion-explosives-offenses-uk-base-us-forces",
-      "date": "Sun, 27 Sep 2026 06:49:36 -0400",
-      "source": "NPR World"
+      "title": "Iran’s children return to school under the shadow of war",
+      "link": "https://www.aljazeera.com/features/2026/9/28/irans-children-return-to-school-under-the-shadow-of-war?traffic_source=rss",
+      "date": "Mon, 28 Sep 2026 08:25:49 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "France’s far-right National Rally gains ground in Senate vote",
@@ -329,12 +335,6 @@
       "title": "‘Still a lockdown’: Deadly floods hit Nepal tourism as peak season begins",
       "link": "https://www.aljazeera.com/news/2026/9/28/still-a-lockdown-deadly-floods-hit-nepal-tourism-as-peak-season-begins?traffic_source=rss",
       "date": "Mon, 28 Sep 2026 05:28:29 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Russian strikes kill eight, injure dozens across Ukraine",
-      "link": "https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss",
-      "date": "Mon, 28 Sep 2026 05:06:11 +0000",
       "source": "Al Jazeera"
     }
   ]
