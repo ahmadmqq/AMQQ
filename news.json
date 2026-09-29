@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-29T13:21:03.254360+00:00",
+  "updated": "2026-09-29T13:38:27.162425+00:00",
   "items": [
     {
-      "title": "موسكو لا ترغب بانسحاب إيران من معاهدة حظر الأسلحة النووية، وطهران تهدد باستهداف البنى التحتية في الشرق الأوسط",
+      "title": "موسكو لا ترغب بانسحاب إيران من معاهدة عدم انتشار الأسلحة النووية، وطهران تهدد باستهداف البنى التحتية في الشرق الأوسط",
       "link": "https://www.bbc.com/arabic/articles/cjkg7kylkk1lo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 29 Sep 2026 12:29:10 GMT",
       "source": "BBC Arabic"
@@ -50,6 +50,24 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
+      "link": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 29 Sep 2026 12:43:04 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Israeli settlers attack West Bank village and block Palestinian family's return home",
+      "link": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 29 Sep 2026 12:39:18 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 29 Sep 2026 13:15:51 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "OpenAI scraps rollout of new model over safety concerns",
       "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 29 Sep 2026 09:14:13 GMT",
@@ -62,6 +80,12 @@
       "source": "BBC World"
     },
     {
+      "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
+      "link": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 29 Sep 2026 12:20:02 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
       "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 29 Sep 2026 03:50:40 GMT",
@@ -71,30 +95,6 @@
       "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
       "link": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 29 Sep 2026 00:38:23 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
-      "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 29 Sep 2026 10:34:53 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "New York Times executive fatally shot by elderly in-laws, police say",
-      "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 29 Sep 2026 04:06:43 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Malaysia begins controversial repatriation of asylum seekers to Myanmar",
-      "link": "https://www.bbc.co.uk/news/articles/ckj06542e5neo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 29 Sep 2026 06:06:20 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
-      "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 29 Sep 2026 04:10:33 GMT",
       "source": "BBC World"
     },
     {
@@ -200,6 +200,24 @@
       "source": "Guardian Business"
     },
     {
+      "title": "UK mortgage demand drops to 32-month low as Iran war drives up borrowing costs",
+      "link": "https://www.theguardian.com/money/2026/sep/29/uk-mortgage-demand-borrowing-costs-interest-rate",
+      "date": "Tue, 29 Sep 2026 13:11:43 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "What is Burnham’s GB Grid plan and could it bring down energy bills?",
+      "link": "https://www.theguardian.com/business/2026/sep/29/andy-burnham-gb-grid-plan-energy-bills-electricity",
+      "date": "Tue, 29 Sep 2026 13:09:05 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "‘Visible and engaged’: Burnham in listening mode with businesses at Labour party conference",
+      "link": "https://www.theguardian.com/business/2026/sep/29/andy-burnham-business-labour-party-conference-budget-tax-rises",
+      "date": "Tue, 29 Sep 2026 11:43:16 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "M&S links up with Sephora to lure younger shoppers",
       "link": "https://www.theguardian.com/business/2026/sep/29/m-and-s-sephora-beauty-marks-spencer-stores-online",
       "date": "Tue, 29 Sep 2026 12:17:22 GMT",
@@ -212,33 +230,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "‘Visible and engaged’: Burnham in listening mode with businesses at Labour party conference",
-      "link": "https://www.theguardian.com/business/2026/sep/29/andy-burnham-business-labour-party-conference-budget-tax-rises",
-      "date": "Tue, 29 Sep 2026 11:43:16 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "New UK homes in flood-risk areas could become uninsurable, says Aviva boss",
-      "link": "https://www.theguardian.com/business/2026/sep/29/new-uk-homes-flood-risk-areas-insurance-aviva-amanda-blanc-budget",
-      "date": "Tue, 29 Sep 2026 11:41:07 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "RBA interest rates: Reserve Bank raises cash rate to highest level in 15 years and warns of more hikes ‘if needed’",
-      "link": "https://www.theguardian.com/business/2026/sep/29/rba-interest-rate-announcement-decision-cash-rate",
-      "date": "Tue, 29 Sep 2026 08:14:37 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "Foie gras, live dolphins and toasters: China and US cut reciprocal tariffs on $30bn each of goods",
       "link": "https://www.theguardian.com/business/2026/sep/28/china-and-us-cut-reciprocal-tariffs",
       "date": "Mon, 28 Sep 2026 14:02:28 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Price of diesel on UK forecourts reaches all-time high",
-      "link": "https://www.theguardian.com/money/2026/sep/28/price-of-diesel-on-uk-forecourts-reaches-all-time-high",
-      "date": "Mon, 28 Sep 2026 10:45:36 GMT",
+      "title": "RBA interest rates: Reserve Bank raises cash rate to highest level in 15 years and warns of more hikes ‘if needed’",
+      "link": "https://www.theguardian.com/business/2026/sep/29/rba-interest-rate-announcement-decision-cash-rate",
+      "date": "Tue, 29 Sep 2026 08:14:37 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Walkouts, clashes and moments that defined UNGA 2026",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/walkouts-clashes-and-moments-that-defined-unga-2026?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 13:07:01 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Turkiye arrests president, six members of football refereeing body in probe",
       "link": "https://www.aljazeera.com/sports/2026/9/29/turkiye-arrests-president-six-members-of-football-refereeing-body-in-probe?traffic_source=rss",
       "date": "Tue, 29 Sep 2026 12:37:18 +0000",
@@ -329,12 +335,6 @@
       "title": "What did Yamal say to Messi at World Cup final? ‘Thank you for everything’",
       "link": "https://www.aljazeera.com/sports/2026/9/29/lamine-yamal-lionel-messi-spain-argentina-fifa-world-cup-2026-final?traffic_source=rss",
       "date": "Tue, 29 Sep 2026 11:58:26 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Malaysia gave refuge to Rohingya; now it wants them to go",
-      "link": "https://www.aljazeera.com/features/2026/9/29/malaysia-gave-refuge-to-rohingya-now-it-wants-them-to-go?traffic_source=rss",
-      "date": "Tue, 29 Sep 2026 11:22:40 +0000",
       "source": "Al Jazeera"
     }
   ]
