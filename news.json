@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T01:10:24.394992+00:00",
+  "updated": "2026-09-29T01:25:09.349649+00:00",
   "items": [
     {
       "title": "ترامب ينفي تقديم عرض بتخفيف العقوبات على إيران، وعراقجي في انتظار رد واشنطن \"النهائي\" الثلاثاء",
@@ -50,6 +50,12 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 29 Sep 2026 01:18:24 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Inside Yemen's front-line city as Houthis battle for control",
       "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 27 Sep 2026 21:16:31 GMT",
@@ -92,12 +98,6 @@
       "source": "BBC World"
     },
     {
-      "title": "Iran court upholds lashes sentence for singer who performed without hijab",
-      "link": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 17:15:00 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Burnham to unveil public body to invest in electricity grid",
       "link": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 29 Sep 2026 00:40:29 GMT",
@@ -107,6 +107,12 @@
       "title": "Warning more homes will be uninsurable due to flood risk",
       "link": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 28 Sep 2026 23:10:13 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 29 Sep 2026 01:18:24 GMT",
       "source": "BBC Business"
     },
     {
@@ -137,12 +143,6 @@
       "title": "UK diesel price hits all-time high, the RAC says",
       "link": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 28 Sep 2026 20:42:56 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "What is the Budget and what could be in it?",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 17:14:16 GMT",
       "source": "BBC Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
+      "link": "https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 01:01:38 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "OpenAI scraps release of latest AI model over safety concerns",
       "link": "https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss",
       "date": "Tue, 29 Sep 2026 00:38:06 +0000",
@@ -329,12 +335,6 @@
       "title": "Anti-South Asian ‘hate speech’ has exploded online in US, report finds",
       "link": "https://www.aljazeera.com/news/2026/9/28/anti-south-asian-hate-speech-has-exploded-online-in-us-new-report-finds?traffic_source=rss",
       "date": "Mon, 28 Sep 2026 22:05:43 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Gold falls amid rising oil prices and higher US dollar",
-      "link": "https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss",
-      "date": "Mon, 28 Sep 2026 21:34:51 +0000",
       "source": "Al Jazeera"
     }
   ]
