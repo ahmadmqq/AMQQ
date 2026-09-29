@@ -1,16 +1,22 @@
 {
-  "updated": "2026-09-29T17:49:59.274661+00:00",
+  "updated": "2026-09-29T18:01:48.301771+00:00",
   "items": [
     {
-      "title": "الخطوط العراقية تستأنف رحلاتها إلى إيران بعد \"إعفاء أمريكي خاص\"، وطهران تهدد باستهداف البنى التحتية في الشرق الأوسط",
+      "title": "الخطوط العراقية تستأنف رحلاتها لإيران بعد \"إعفاء أمريكي خاص\"، وواشنطن تفرض عقوبات على أفراد وكيانات لـ \"شراء أسلحة لصالح إيران\"",
       "link": "https://www.bbc.com/arabic/articles/cjkg7kylkk1lo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 29 Sep 2026 16:37:43 GMT",
+      "date": "Tue, 29 Sep 2026 18:00:40 GMT",
       "source": "BBC Arabic"
     },
     {
       "title": "قاعدة فيرفورد البريطانية: ما أهميتها وما الذي نعرفه عن الحادث؟",
       "link": "https://www.bbc.com/arabic/articles/c6x2zwexy23po?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 29 Sep 2026 16:18:18 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "ابتلعت موجات تسونامي زوجته، فكرَّس سنوات من حياته للغوص ليبقى قريباً منها",
+      "link": "https://www.bbc.com/arabic/articles/cm9w498qv72jo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 29 Sep 2026 17:48:26 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "كيف يوسّع الحوثيون علاقاتهم في القرن الأفريقي؟",
       "link": "https://www.bbc.com/arabic/articles/cqvgyvpj8dzvo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 29 Sep 2026 10:04:14 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "بوتين يأمر بزيادة عدد أفراد الجيش، وزيلينسكي يتحدث عن استعدادات لنشر عشرة آلاف جندي كوري شمالي",
-      "link": "https://www.bbc.com/arabic/articles/c3dx0194rxq0o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 29 Sep 2026 07:41:45 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -200,9 +200,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "What is Burnham’s GB Grid plan and could it bring down energy bills?",
-      "link": "https://www.theguardian.com/business/2026/sep/29/andy-burnham-gb-grid-plan-energy-bills-electricity",
-      "date": "Tue, 29 Sep 2026 13:09:05 GMT",
+      "title": "Will pensioners be poorer as a result of Burnham scrapping the triple lock?",
+      "link": "https://www.theguardian.com/money/2026/sep/29/will-pensioners-be-poorer-burnham-scrapping-triple-lock",
+      "date": "Tue, 29 Sep 2026 17:47:20 GMT",
       "source": "Guardian Business"
     },
     {
@@ -218,15 +218,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "M&S links up with Sephora to lure younger shoppers",
-      "link": "https://www.theguardian.com/business/2026/sep/29/m-and-s-sephora-beauty-marks-spencer-stores-online",
-      "date": "Tue, 29 Sep 2026 12:17:22 GMT",
+      "title": "What is Burnham’s GB Grid plan and could it bring down energy bills?",
+      "link": "https://www.theguardian.com/business/2026/sep/29/andy-burnham-gb-grid-plan-energy-bills-electricity",
+      "date": "Tue, 29 Sep 2026 13:09:05 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "South West Water fined £8m for hundreds of sewage spills in Cornwall and Devon",
-      "link": "https://www.theguardian.com/environment/2026/sep/29/south-west-water-record-fine-sewage-spills-cornwall-devon",
-      "date": "Tue, 29 Sep 2026 15:19:57 GMT",
+      "title": "M&S links up with Sephora to lure younger shoppers",
+      "link": "https://www.theguardian.com/business/2026/sep/29/m-and-s-sephora-beauty-marks-spencer-stores-online",
+      "date": "Tue, 29 Sep 2026 12:17:22 GMT",
       "source": "Guardian Business"
     },
     {
@@ -236,9 +236,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Anthropic ‘warns of existential AI risks to humanity’ in IPO document",
-      "link": "https://www.theguardian.com/technology/2026/sep/29/anthropic-warns-existential-ai-risks-humanity-ipo-document-claude",
-      "date": "Tue, 29 Sep 2026 10:17:58 GMT",
+      "title": "South West Water fined £8m for hundreds of sewage spills in Cornwall and Devon",
+      "link": "https://www.theguardian.com/environment/2026/sep/29/south-west-water-record-fine-sewage-spills-cornwall-devon",
+      "date": "Tue, 29 Sep 2026 15:19:57 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Trump administration ‘must be changed’: Iran’s IRGC appeals to US voters",
+      "link": "https://www.aljazeera.com/news/2026/9/29/trump-administration-must-be-changed-irans-irgc-appeals-to-us-voters?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 17:51:11 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Ethiopia blames regional rivals as risk of conflict spillover rises",
       "link": "https://www.aljazeera.com/news/2026/9/29/ethiopia-blames-regional-rivals-as-risk-of-conflict-spillover-rises?traffic_source=rss",
       "date": "Tue, 29 Sep 2026 17:25:09 +0000",
@@ -329,12 +335,6 @@
       "title": "‘The emperor is naked’: UEFA’s Ceferin takes aim at FIFA boss Infantino",
       "link": "https://www.aljazeera.com/sports/2026/9/29/the-emperor-is-naked-uefas-ceferin-takes-aim-at-fifa-boss-infantino?traffic_source=rss",
       "date": "Tue, 29 Sep 2026 15:49:50 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Yemen’s war disrupts roads and ports, deepening humanitarian crisis",
-      "link": "https://www.aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis?traffic_source=rss",
-      "date": "Tue, 29 Sep 2026 15:47:37 +0000",
       "source": "Al Jazeera"
     }
   ]
