@@ -1,10 +1,16 @@
 {
-  "updated": "2026-09-29T07:27:43.244012+00:00",
+  "updated": "2026-09-29T07:43:12.683230+00:00",
   "items": [
     {
       "title": "ترامب ينفي تقديم عرض بتخفيف العقوبات على إيران، وعراقجي في انتظار رد واشنطن \"النهائي\" الثلاثاء",
       "link": "https://www.bbc.com/arabic/articles/cmlye0z22pxxo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 28 Sep 2026 22:48:29 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "بوتين يأمر بزيادة عدد أفراد الجيش، وزيلينسكي يتحدث عن استعدادات لنشر 10 آلاف جندي كوري شمالي",
+      "link": "https://www.bbc.com/arabic/articles/c3dx0194rxq0o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 29 Sep 2026 07:41:45 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "كيف يستخدم رئيس البرلمان الإيراني محمد قاليباف المصطلحات المالية لاستهداف الأسواق الأمريكية؟",
       "link": "https://www.bbc.com/arabic/articles/c6y8zld48k3vo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 28 Sep 2026 18:29:29 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "بي بي سي في تعز على خط المواجهة حيث تحاول جماعة أنصار الله السيطرة على المدينة",
-      "link": "https://www.bbc.com/arabic/articles/c95y4ned8dejo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 14:44:45 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "FIFA could disburse millions to members as Infantino seeks re-election",
+      "link": "https://www.aljazeera.com/sports/2026/9/29/fifa-could-disburse-millions-to-members-as-infantino-seeks-re-election?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 07:10:07 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Asian Games: South Korea volleyball team latest to be taken to wrong venue",
+      "link": "https://www.aljazeera.com/sports/2026/9/29/asian-games-2026-aichi-nagoya-south-korea-volley-team-bus-wrong-location?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 07:09:09 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Australia raises interest rates to 15-year high",
       "link": "https://www.aljazeera.com/economy/2026/9/29/australia-raises-interest-rates-to-15-year-high?traffic_source=rss",
       "date": "Tue, 29 Sep 2026 06:29:01 +0000",
@@ -323,18 +335,6 @@
       "title": "Rubio, Saudi Arabia’s foreign minister hold talks on Yemen, Hormuz Strait",
       "link": "https://www.aljazeera.com/news/2026/9/29/rubio-saudi-arabias-foreign-minister-hold-talks-on-yemen-hormuz-strait?traffic_source=rss",
       "date": "Tue, 29 Sep 2026 04:46:38 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ethiopian army claims to have taken Tigrayan stronghold",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/ethiopian-army-claims-to-have-taken-tigrayan-stronghold?traffic_source=rss",
-      "date": "Tue, 29 Sep 2026 04:37:21 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
-      "link": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2?traffic_source=rss",
-      "date": "Tue, 29 Sep 2026 03:38:16 +0000",
       "source": "Al Jazeera"
     }
   ]
