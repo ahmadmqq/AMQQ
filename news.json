@@ -1,16 +1,22 @@
 {
-  "updated": "2026-09-29T00:39:58.234158+00:00",
+  "updated": "2026-09-29T00:56:37.480421+00:00",
   "items": [
-    {
-      "title": "أسبوع الجمعية العامة للأمم المتحدة: غزة وإيران والسودان وأوكرانيا في صدارة الملفات",
-      "link": "https://www.bbc.com/arabic/articles/c8e3r6rgznnko?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 20:00:52 GMT",
-      "source": "BBC Arabic"
-    },
     {
       "title": "ترامب ينفي تقديم عرض بتخفيف العقوبات على إيران، وعراقجي في انتظار رد واشنطن \"النهائي\" الثلاثاء",
       "link": "https://www.bbc.com/arabic/articles/cmlye0z22pxxo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 28 Sep 2026 22:48:29 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "\"زيارة أخوية\" رفيعة المستوى بين الرياض وأبوظبي تختبر فرص تجاوز الخلافات",
+      "link": "https://www.bbc.com/arabic/articles/c6wyzddy4v9vo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 29 Sep 2026 00:45:14 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "أسبوع الجمعية العامة للأمم المتحدة: غزة وإيران والسودان وأوكرانيا في صدارة الملفات",
+      "link": "https://www.bbc.com/arabic/articles/c8e3r6rgznnko?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 28 Sep 2026 20:00:52 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,15 +50,15 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "حقائق قد لا تعرفها عن حاسة التذوق",
-      "link": "https://www.bbc.com/arabic/articles/c797n1xjl48o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 10:41:24 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Inside Yemen's front-line city as Houthis battle for control",
       "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 27 Sep 2026 21:16:31 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "New York Times executive fatally shot allegedly by elderly in-laws",
+      "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 28 Sep 2026 20:50:03 GMT",
       "source": "BBC World"
     },
     {
@@ -62,15 +68,21 @@
       "source": "BBC World"
     },
     {
-      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-      "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 17:26:21 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "French PM warns against escalation of school protests after 164 arrested",
       "link": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 28 Sep 2026 21:46:53 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Tennessee governor rejects clemency bid for Christa Pike as execution looms",
+      "link": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 28 Sep 2026 22:27:33 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+      "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 28 Sep 2026 17:26:21 GMT",
       "source": "BBC World"
     },
     {
@@ -86,21 +98,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Stand-up comic released after being convicted of insulting Erdoğan",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 20:23:12 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Four bodies found after avalanche hits Himalayan climbing group",
-      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 16:13:44 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Burnham to unveil public body to invest in electricity grid",
       "link": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 28 Sep 2026 23:35:53 GMT",
+      "date": "Tue, 29 Sep 2026 00:40:29 GMT",
       "source": "BBC Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Africa’s space ambitions are moving from policy to practice",
+      "link": "https://www.aljazeera.com/news/2026/9/29/africas-space-ambitions-are-moving-from-policy-to-practice?traffic_source=rss",
+      "date": "Tue, 29 Sep 2026 00:26:22 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Inside Al Jazeera’s UNGA coverage",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/inside-al-jazeeras-unga-coverage?traffic_source=rss",
       "date": "Tue, 29 Sep 2026 00:10:21 +0000",
@@ -329,12 +335,6 @@
       "title": "Hundreds set up tent encampments in Madrid over housing crisis",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/hundreds-set-up-tent-encampments-in-madrid-over-housing-crisis?traffic_source=rss",
       "date": "Mon, 28 Sep 2026 21:12:29 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Olise scores late to grab France 1-0 Nations League win at Belgium",
-      "link": "https://www.aljazeera.com/sports/2026/9/28/olise-scores-late-to-grab-france-1-0-nations-league-win-at-belgium?traffic_source=rss",
-      "date": "Mon, 28 Sep 2026 21:04:58 +0000",
       "source": "Al Jazeera"
     }
   ]
