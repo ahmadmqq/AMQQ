@@ -1,10 +1,16 @@
 {
-  "updated": "2026-09-30T14:26:21.319292+00:00",
+  "updated": "2026-09-30T14:44:08.636869+00:00",
   "items": [
     {
       "title": "نتنياهو: طيار في رحلة \"فلاي دبي\" طعن الطيار الآخر وحاول إسقاط الطائرة والسعودية \"أوقفت منفذ العملية\"",
       "link": "https://www.bbc.com/arabic/articles/ck0e3v20ljxlo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 30 Sep 2026 14:19:19 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "إيران تتسلم الرد الأمريكي على مقترحها لإنهاء الحرب وسط استمرار التوتر في مضيق هرمز",
+      "link": "https://www.bbc.com/arabic/articles/cq62jpvz5pg5o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 30 Sep 2026 14:12:26 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -17,12 +23,6 @@
       "title": "كيف تتخلص من العادات الخفية التي تجعل قلقك الاجتماعي أسوأ؟",
       "link": "https://www.bbc.com/arabic/articles/cqy0zejlx5kgo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 30 Sep 2026 11:03:55 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "إيران تتسلم الرد الأمريكي على مقترحها لإنهاء الحرب وسط استمرار التوتر في مضيق هرمز",
-      "link": "https://www.bbc.com/arabic/articles/cq62jpvz5pg5o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 14:12:26 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -50,6 +50,12 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "Execution of US murderer Christa Pike halted an hour before it was due to happen",
+      "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 30 Sep 2026 14:41:17 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
       "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 30 Sep 2026 12:42:34 GMT",
@@ -74,33 +80,27 @@
       "source": "BBC World"
     },
     {
-      "title": "Singapore launches matchmaking service for government workers",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 09:42:36 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
       "link": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 30 Sep 2026 08:59:38 GMT",
       "source": "BBC World"
     },
     {
-      "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-      "link": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 05:24:52 GMT",
+      "title": "Singapore launches matchmaking service for government workers",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 30 Sep 2026 09:42:36 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Botswana condemned for slaughtering 23 elephants for independence celebrations",
-      "link": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 12:06:28 GMT",
+      "title": "Africa's richest man launches Kenya oil refinery despite land protests",
+      "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 30 Sep 2026 11:25:12 GMT",
       "source": "BBC World"
     },
     {
       "title": "Household energy bills forecast to see biggest rise in four years",
       "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 10:47:49 GMT",
+      "date": "Wed, 30 Sep 2026 14:36:45 GMT",
       "source": "BBC Business"
     },
     {
@@ -146,6 +146,12 @@
       "source": "BBC Business"
     },
     {
+      "title": "South Africa urges men to take more responsibility for gender-based violence after series of killings",
+      "link": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
+      "date": "Wed, 30 Sep 2026 14:16:33 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
       "link": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
       "date": "Wed, 30 Sep 2026 12:47:15 GMT",
@@ -167,12 +173,6 @@
       "title": "At least 27 dead after two mass shootings in South Africa, police say",
       "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
       "date": "Sun, 27 Sep 2026 13:46:49 GMT",
-      "source": "Guardian World"
-    },
-    {
-      "title": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
-      "link": "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
-      "date": "Sun, 27 Sep 2026 11:00:03 GMT",
       "source": "Guardian World"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Why is Hegseth cutting 20 percent of US general and admiral positions?",
+      "link": "https://www.aljazeera.com/news/2026/9/30/why-is-hegseth-cutting-20-percent-of-us-general-and-admiral-positions?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 14:35:47 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Pep Guardiola backs Man City after guilty verdict on financial charges",
+      "link": "https://www.aljazeera.com/sports/2026/9/30/pep-guardiola-backs-man-city-after-guilty-verdict-on-financial-charges?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 14:27:17 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Palestinian archaeologists race against time to save Gaza’s heritage",
       "link": "https://www.aljazeera.com/features/2026/9/30/palestinian-archaeologists-race-against-time-to-save-gazas-heritage?traffic_source=rss",
       "date": "Wed, 30 Sep 2026 13:45:56 +0000",
@@ -323,18 +335,6 @@
       "title": "Denmark vs Portugal: UEFA Nations League – Ronaldo, Hojlund, teams, form",
       "link": "https://www.aljazeera.com/sports/2026/9/30/denmark-portugal-uefa-nations-league-ronaldo-felix-hojlund-team-form?traffic_source=rss",
       "date": "Wed, 30 Sep 2026 12:40:08 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Rainwater washes away highway in Nigeria",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/rainwater-washes-away-highway-in-nigeria?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 12:39:08 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Former journalist crowned king of Uganda’s Tooro kingdom",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/30-09-sv-uganda-tooro-king-ug?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 12:34:21 +0000",
       "source": "Al Jazeera"
     }
   ]
