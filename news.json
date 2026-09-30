@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T23:21:51.200375+00:00",
+  "updated": "2026-09-30T23:33:55.965918+00:00",
   "items": [
     {
       "title": "ركاب رحلة \"فلاي دبي\" يصلون تل أبيب ونتنياهو يلتقيهم في المطار، وإسرائيل تعتزم تشديد فحص الطيارين الدوليين",
@@ -290,12 +290,6 @@
       "source": "NPR World"
     },
     {
-      "title": "US judge approves settlement allowing Paramount to acquire Warner Bros",
-      "link": "https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 23:15:00 +0000",
-      "source": "Al Jazeera"
-    },
-    {
       "title": "US Senate rejects bill targeting AI data centre electricity costs",
       "link": "https://www.aljazeera.com/news/2026/9/30/us-senate-rejects-bill-targeting-ai-data-centre-electricity-costs?traffic_source=rss",
       "date": "Wed, 30 Sep 2026 22:58:21 +0000",
@@ -335,6 +329,12 @@
       "title": "Gas pipeline explodes in Syria, knocks three power plants offline",
       "link": "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss",
       "date": "Wed, 30 Sep 2026 21:01:13 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Israeli attacks across Gaza kill at least eight",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 20:12:22 +0000",
       "source": "Al Jazeera"
     }
   ]
