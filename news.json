@@ -1,10 +1,16 @@
 {
-  "updated": "2026-09-30T12:16:04.430600+00:00",
+  "updated": "2026-09-30T12:42:44.369774+00:00",
   "items": [
     {
       "title": "إصابة قائد طائرة \"فلاي دبي\" ومساعده بعد تقارير عن مشاجرة على متن طائرة هبطت في السعودية",
       "link": "https://www.bbc.com/arabic/articles/ck0e3v20ljxlo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 30 Sep 2026 11:11:22 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "قادة الولايات المتحدة آخر من سيعرف الأسرار التي تحتفظ بها الاستخبارات البريطانية - مقال في الإندبندنت",
+      "link": "https://www.bbc.com/arabic/articles/c8046w6egv2go?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 30 Sep 2026 12:17:00 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "دعوات لاستبعاد مانشستر سيتي من الدوري الإنجليزي الممتاز بعد إدانته بإبرام عقود \"صورية\" ومخالفات مالية واسعة",
       "link": "https://www.bbc.com/arabic/articles/c6e30dkyve4po?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 30 Sep 2026 00:38:49 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "فاطمة الزهراء المنصوري: ماذا نعرف عن أول امرأة تترأس الحكومة بالمغرب؟",
-      "link": "https://www.bbc.com/arabic/articles/c6ly7j8p58v8o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 29 Sep 2026 19:54:17 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -146,6 +146,12 @@
       "source": "BBC Business"
     },
     {
+      "title": "Top Trump figures push to direct human rights funding to rightwing causes",
+      "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+      "date": "Wed, 30 Sep 2026 12:00:42 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
       "link": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
       "date": "Mon, 28 Sep 2026 15:54:25 GMT",
@@ -170,12 +176,6 @@
       "source": "Guardian World"
     },
     {
-      "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
-      "link": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
-      "date": "Wed, 23 Sep 2026 11:08:01 GMT",
-      "source": "Guardian World"
-    },
-    {
       "title": "Mighty Sparrow, the Trinidad and Tobago singer known as the ‘calypso king of the world’, dies aged 91",
       "link": "https://www.theguardian.com/music/2026/sep/28/mighty-sparrow-the-trinidad-and-tobago-singer-known-as-the-calypso-king-of-the-world-dies-aged-91",
       "date": "Sun, 27 Sep 2026 23:24:10 GMT",
@@ -196,7 +196,7 @@
     {
       "title": "UK economic growth revised higher; diesel on brink of £2 a litre for first time – business live",
       "link": "https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates",
-      "date": "Wed, 30 Sep 2026 11:58:24 GMT",
+      "date": "Wed, 30 Sep 2026 12:25:17 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Iraq celebrates National Sovereignty Day as US troops withdraw",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/iraq-celebrates-national-sovereignty-day-as-us-troops-withdraw?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 12:17:00 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "‘Economic war’: Is Iran losing its leverage over the Strait of Hormuz?",
+      "link": "https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 12:05:45 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Flydubai flight to Israel diverted after attack on pilot",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-after-attack-on-pilot?traffic_source=rss",
       "date": "Wed, 30 Sep 2026 11:43:35 +0000",
@@ -323,18 +335,6 @@
       "title": "What’s behind French student protests that turned violent?",
       "link": "https://www.aljazeera.com/news/2026/9/30/whats-behind-french-student-protests-that-turned-violent?traffic_source=rss",
       "date": "Wed, 30 Sep 2026 11:01:19 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "‘We no longer eat three meals’: Yemen’s displaced face daily fight for food",
-      "link": "https://www.aljazeera.com/news/2026/9/30/we-no-longer-eat-three-meals-yemens-displaced-face-daily-fight-for-food?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 11:01:10 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "What will happen to Man City after the Premier League’s guilty verdict?",
-      "link": "https://www.aljazeera.com/sports/2026/9/30/what-will-happen-to-man-city-after-the-premier-leagues-guilty-verdict?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 11:00:37 +0000",
       "source": "Al Jazeera"
     }
   ]
