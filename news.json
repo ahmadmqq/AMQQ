@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T13:37:15.052697+00:00",
+  "updated": "2026-09-30T13:52:35.422446+00:00",
   "items": [
     {
       "title": "إصابة قائد طائرة \"فلاي دبي\" ومساعده بعد تقارير عن مشاجرة على متن طائرة هبطت في السعودية",
@@ -196,7 +196,7 @@
     {
       "title": "Economic growth in UK and US revised higher; diesel on brink of £2 a litre for first time – business live",
       "link": "https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates",
-      "date": "Wed, 30 Sep 2026 13:22:34 GMT",
+      "date": "Wed, 30 Sep 2026 13:37:04 GMT",
       "source": "Guardian Business"
     },
     {
@@ -242,6 +242,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "A flight from Dubai to Tel Aviv diverts to Saudi Arabia after making distress call",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
+      "date": "Wed, 30 Sep 2026 09:35:11 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
       "link": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
       "date": "Wed, 30 Sep 2026 07:13:17 -0400",
@@ -251,6 +257,12 @@
       "title": "U.S. military withdraws from Iraq two decades after invasion",
       "link": "https://www.npr.org/2026/09/30/nx-s1-5983426/u-s-withdraws-final-troops-from-iraq",
       "date": "Wed, 30 Sep 2026 04:43:00 -0400",
+      "source": "NPR World"
+    },
+    {
+      "title": "Retired general who led troops in Iraq warns U.S. exit may give Iran, ISIS an opening",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5984953/mcmaster-us-troop-withdrawal-iraq-iran-isis",
+      "date": "Wed, 30 Sep 2026 04:42:46 -0400",
       "source": "NPR World"
     },
     {
@@ -278,16 +290,10 @@
       "source": "NPR World"
     },
     {
-      "title": "British men released on bail after suspected terror plot",
-      "link": "https://www.npr.org/2026/09/28/nx-s1-5983550/british-men-released-on-bail-after-suspected-terror-plot",
-      "date": "Mon, 28 Sep 2026 18:10:02 -0400",
-      "source": "NPR World"
-    },
-    {
-      "title": "What we know about the suspected U.K. terror plot. And, why the Gulf remains in limbo",
-      "link": "https://www.npr.org/2026/09/28/g-s1-145248/up-first-newsletter-uk-us-air-base-iran-strait-hormuz-media-outlets-cnn-trump",
-      "date": "Mon, 28 Sep 2026 08:15:05 -0400",
-      "source": "NPR World"
+      "title": "Christa Pike seeks firing squad, not lethal injection: Inside US executions",
+      "link": "https://www.aljazeera.com/news/2026/9/30/christa-pike-seeks-firing-squad-not-lethal-injection-inside-us-executions?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 13:14:39 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue",
@@ -329,12 +335,6 @@
       "title": "Iraq celebrates National Sovereignty Day as US troops withdraw",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/iraq-celebrates-national-sovereignty-day-as-us-troops-withdraw?traffic_source=rss",
       "date": "Wed, 30 Sep 2026 12:17:00 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "‘Economic war’: Is Iran losing its leverage over the Strait of Hormuz?",
-      "link": "https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 12:05:45 +0000",
       "source": "Al Jazeera"
     }
   ]
