@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T23:33:55.965918+00:00",
+  "updated": "2026-09-30T23:46:25.818232+00:00",
   "items": [
     {
       "title": "ركاب رحلة \"فلاي دبي\" يصلون تل أبيب ونتنياهو يلتقيهم في المطار، وإسرائيل تعتزم تشديد فحص الطيارين الدوليين",
@@ -56,21 +56,33 @@
       "source": "BBC World"
     },
     {
+      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 30 Sep 2026 23:10:06 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 30 Sep 2026 23:42:10 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
       "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 30 Sep 2026 17:14:03 GMT",
       "source": "BBC World"
     },
     {
-      "title": "UK-France 'one in, one out' migrant scheme scrapped",
-      "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 17:11:08 GMT",
+      "title": "Tiny image sparks big backlash in Nikon photo contest",
+      "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 30 Sep 2026 23:10:19 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-      "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 15:29:11 GMT",
+      "title": "UK-France 'one in, one out' migrant scheme scrapped",
+      "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 30 Sep 2026 17:11:08 GMT",
       "source": "BBC World"
     },
     {
@@ -83,18 +95,6 @@
       "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
       "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 30 Sep 2026 14:53:02 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
-      "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 11:36:23 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 15:04:32 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Pennsylvania confirms fifth measles-associated death as US outbreak grows",
+      "link": "https://www.aljazeera.com/news/2026/9/30/pennsylvania-confirms-fifth-measles-associated-death-as-us-outbreak-grows?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 23:31:54 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "US judge approves settlement allowing Paramount to acquire Warner Bros",
+      "link": "https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 23:15:00 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "US Senate rejects bill targeting AI data centre electricity costs",
       "link": "https://www.aljazeera.com/news/2026/9/30/us-senate-rejects-bill-targeting-ai-data-centre-electricity-costs?traffic_source=rss",
       "date": "Wed, 30 Sep 2026 22:58:21 +0000",
@@ -323,18 +335,6 @@
       "title": "Flydubai passengers arrive in Tel Aviv after pilot stabbing",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-passengers-arrive-in-tel-aviv-after-pilot-stabbing?traffic_source=rss",
       "date": "Wed, 30 Sep 2026 21:12:46 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Gas pipeline explodes in Syria, knocks three power plants offline",
-      "link": "https://www.aljazeera.com/news/2026/9/30/gas-pipeline-explodes-in-syria-knocks-three-power-plants-offline?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 21:01:13 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Israeli attacks across Gaza kill at least eight",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 20:12:22 +0000",
       "source": "Al Jazeera"
     }
   ]
