@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T15:01:34.143827+00:00",
+  "updated": "2026-09-30T15:23:14.007013+00:00",
   "items": [
     {
       "title": "نتنياهو: طيار في رحلة \"فلاي دبي\" طعن الطيار الآخر وحاول إسقاط الطائرة والسعودية \"أوقفت منفذ العملية\"",
@@ -11,6 +11,18 @@
       "title": "إيران تتسلم الرد الأمريكي على مقترحها لإنهاء الحرب وسط استمرار التوتر في مضيق هرمز",
       "link": "https://www.bbc.com/arabic/articles/cq62jpvz5pg5o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 30 Sep 2026 14:12:26 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "\"قراراتي مرتبطة باحتمال تجدُّد القتال\": ماذا يعني أن تُصبح الحرب \"الوضع الطبيعي\"؟",
+      "link": "https://www.bbc.com/arabic/articles/c9e8e57004zmo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 30 Sep 2026 15:02:14 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "وردة المسيح والعندليب: قصة القديسة تريز الطفل يسوع وسر لوحة عبد الحليم حافظ في كنيستها بمصر",
+      "link": "https://www.bbc.com/arabic/articles/c331lxl75xmo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 30 Sep 2026 05:35:38 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -26,12 +38,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "وردة المسيح والعندليب: قصة القديسة تريز الطفل يسوع وسر لوحة عبد الحليم حافظ في كنيستها بمصر",
-      "link": "https://www.bbc.com/arabic/articles/c331lxl75xmo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 05:35:38 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "مخيمات تعج بالجرذان وجروح لا تلتئم: هكذا صارت الأوضاع في غزة",
       "link": "https://www.bbc.com/arabic/articles/c5n4kelydjd1o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 29 Sep 2026 19:44:56 GMT",
@@ -44,15 +50,9 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "دعوات لاستبعاد مانشستر سيتي من الدوري الإنجليزي الممتاز بعد إدانته بإبرام عقود \"صورية\" ومخالفات مالية واسعة",
-      "link": "https://www.bbc.com/arabic/articles/c6e30dkyve4po?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 00:38:49 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "Execution of US murderer Christa Pike halted an hour before it was due to happen",
+      "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
       "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 14:55:04 GMT",
+      "date": "Wed, 30 Sep 2026 15:06:32 GMT",
       "source": "BBC World"
     },
     {
@@ -112,7 +112,7 @@
     {
       "title": "Greggs to shut four factories and cut 740 jobs",
       "link": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 11:47:22 GMT",
+      "date": "Wed, 30 Sep 2026 15:03:22 GMT",
       "source": "BBC Business"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "Economic growth in UK and US revised higher; diesel on brink of £2 a litre for first time – business live",
       "link": "https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates",
-      "date": "Wed, 30 Sep 2026 14:13:20 GMT",
+      "date": "Wed, 30 Sep 2026 14:58:02 GMT",
       "source": "Guardian Business"
     },
     {
@@ -236,13 +236,13 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Homeowners in England urged to check flood risk: ‘A third of people don’t realise’",
+      "title": "Two million people in England unaware that their properties are at risk of flooding",
       "link": "https://www.theguardian.com/environment/2026/sep/30/two-million-people-uk-unaware-flooding-risk",
       "date": "Wed, 30 Sep 2026 13:50:05 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Netanyahu says a flydubai pilot tried to crash a plane of mostly Israeli passengers",
+      "title": "Israel says a flydubai pilot tried to crash a plane of mostly Israeli passengers",
       "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
       "date": "Wed, 30 Sep 2026 09:35:11 -0400",
       "source": "NPR World"
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "China extends 52-year unbeaten record as Asian Games organisers apologise",
+      "link": "https://www.aljazeera.com/sports/2026/9/30/china-extends-52-year-unbeaten-record-as-asian-games-organisers-apologise?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 14:54:34 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Is Spain’s anti-eviction decree a fix for its housing crisis?",
       "link": "https://www.aljazeera.com/news/2026/9/30/is-spains-anti-eviction-decree-a-fix-to-its-housing-crisis?traffic_source=rss",
       "date": "Wed, 30 Sep 2026 14:40:01 +0000",
@@ -329,12 +335,6 @@
       "title": "Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue",
       "link": "https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue?traffic_source=rss",
       "date": "Wed, 30 Sep 2026 12:49:04 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Settlers closing in on Ramallah",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/settlers-closing-in-on-ramallah?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 12:43:27 +0000",
       "source": "Al Jazeera"
     }
   ]
