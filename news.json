@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T18:15:33.738080+00:00",
+  "updated": "2026-09-30T18:35:17.892236+00:00",
   "items": [
     {
       "title": "ركاب رحلة \"فلاي دبي\" يصلون تل أبيب ونتنياهو يلتقيهم في المطار",
@@ -200,15 +200,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "New UK gas and oil projects are a ‘no-brainer’, says EDF boss",
-      "link": "https://www.theguardian.com/business/2026/sep/30/uk-gas-and-oil-climate-crisis-energy-edf-boss",
-      "date": "Wed, 30 Sep 2026 16:24:53 GMT",
+      "title": "Federal Reserve watchdog finds no criminal violations for building renovation cost overruns",
+      "link": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation",
+      "date": "Wed, 30 Sep 2026 17:49:27 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "We need ‘right to intervene’ in AI amid growing threat, says Bank of England boss",
-      "link": "https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss",
-      "date": "Wed, 30 Sep 2026 15:22:25 GMT",
+      "title": "New UK gas and oil projects are a ‘no-brainer’, says EDF boss",
+      "link": "https://www.theguardian.com/business/2026/sep/30/uk-gas-and-oil-climate-crisis-energy-edf-boss",
+      "date": "Wed, 30 Sep 2026 16:24:53 GMT",
       "source": "Guardian Business"
     },
     {
@@ -218,15 +218,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Greggs announces plans to shut four UK factories that could cost 740 jobs",
-      "link": "https://www.theguardian.com/business/2026/sep/30/greggs-to-close-four-uk-factories-with-potential-for-740-job-losses",
-      "date": "Wed, 30 Sep 2026 09:32:09 GMT",
+      "title": "We need ‘right to intervene’ in AI amid growing threat, says Bank of England boss",
+      "link": "https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss",
+      "date": "Wed, 30 Sep 2026 15:22:25 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Poundland management in talks to lead bid that could save 11,000 jobs",
-      "link": "https://www.theguardian.com/business/2026/sep/30/poundland-management-in-rescue-talks-that-could-save-11000-jobs",
-      "date": "Wed, 30 Sep 2026 07:57:43 GMT",
+      "title": "Greggs announces plans to shut four UK factories that could cost 740 jobs",
+      "link": "https://www.theguardian.com/business/2026/sep/30/greggs-to-close-four-uk-factories-with-potential-for-740-job-losses",
+      "date": "Wed, 30 Sep 2026 09:32:09 GMT",
       "source": "Guardian Business"
     },
     {
@@ -236,9 +236,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Two million people in England unaware their properties are at risk of flooding",
-      "link": "https://www.theguardian.com/environment/2026/sep/30/two-million-people-uk-unaware-flooding-risk",
-      "date": "Wed, 30 Sep 2026 13:50:05 GMT",
+      "title": "Poundland management in talks to lead bid that could save 11,000 jobs",
+      "link": "https://www.theguardian.com/business/2026/sep/30/poundland-management-in-rescue-talks-that-could-save-11000-jobs",
+      "date": "Wed, 30 Sep 2026 07:57:43 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,36 @@
       "source": "NPR World"
     },
     {
+      "title": "Video: Bangladesh Dengue deaths surpass 233 in deadly outbreak",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/video-bangladesh-dengue-deaths-surpass-233-in-deadly-outbreak?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 18:12:27 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Strong indications’ Iran linked to suspected UK airbase plot",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_indications-iran-linked-suspected-uk-airbase-plot-300926?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 18:09:51 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Trump set to announce $200bn in energy investments from South Korea",
+      "link": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 18:01:14 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Why is Malaysia sending back Rohingya refugees to Myanmar?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/30/why-is-malaysia-sending-back-rohingya-refugees-to-myanmar?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 17:55:59 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Syria removed from US arms export ban list",
+      "link": "https://www.aljazeera.com/news/2026/9/30/syria-removed-from-us-arms-export-ban-list?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 17:55:13 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Netanyahu meets Flydubai passenger who subdued pilot in stabbing attack",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/netanyahu-meets-flydubai-passenger-who-subdued-pilot-in-stabbing-attack?traffic_source=rss",
       "date": "Wed, 30 Sep 2026 17:36:17 +0000",
@@ -305,36 +335,6 @@
       "title": "Hundreds of Israelis storm Al-Aqsa Mosque compound",
       "link": "https://www.aljazeera.com/news/2026/9/30/over-1300-settlers-raid-al-aqsa-mosque-alongside-israeli-forces?traffic_source=rss",
       "date": "Wed, 30 Sep 2026 17:13:05 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "MI5 warns UK academics to cut ties with Chinese group over alleged spying",
-      "link": "https://www.aljazeera.com/news/2026/9/30/mi5-warns-uk-academics-to-cut-ties-with-chinese-group-over-alleged-spying?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 17:07:09 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "US appeals court halts Tennessee execution of Christa Pike",
-      "link": "https://www.aljazeera.com/news/2026/9/30/us-appeals-court-halts-tennessee-execution-of-christa-pike?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 16:44:16 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Swiss Football Association withdraws support for FIFA boss Gianni Infantino",
-      "link": "https://www.aljazeera.com/sports/2026/9/30/swiss-football-association-withdraws-support-for-fifa-boss-gianni-infantino?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 16:38:25 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Jerusalem Daily: Flight carrying Israelis diverted after stabbing",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/jerusalem-daily-flight-carrying-israelis-diverted-after-stabbing?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 16:36:52 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Pentagon says US troop withdrawal from Iraq is complete",
-      "link": "https://www.aljazeera.com/news/2026/9/30/pentagon-says-us-troop-withdrawal-from-iraq-is-complete?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 16:33:02 +0000",
       "source": "Al Jazeera"
     }
   ]
