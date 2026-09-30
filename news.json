@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T17:46:35.534714+00:00",
+  "updated": "2026-09-30T17:58:12.793187+00:00",
   "items": [
     {
       "title": "ركاب رحلة \"فلاي دبي\" يصلون تل أبيب ونتنياهو يلتقيهم في المطار",
@@ -17,6 +17,12 @@
       "title": "\"قراراتي مرتبطة باحتمال تجدُّد القتال\": ماذا يعني أن تُصبح الحرب \"الوضع الطبيعي\"؟",
       "link": "https://www.bbc.com/arabic/articles/c9e8e57004zmo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 30 Sep 2026 15:02:14 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "طبيب مصري شهير يشعل الجدل بالحديث عن نقل أعضاء المحكومين بالإعدام",
+      "link": "https://www.bbc.com/arabic/articles/cwp8038rjd4go?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 30 Sep 2026 17:47:32 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,15 +50,9 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "مخيمات تعج بالجرذان وجروح لا تلتئم: هكذا صارت الأوضاع في غزة",
-      "link": "https://www.bbc.com/arabic/articles/c5n4kelydjd1o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 29 Sep 2026 19:44:56 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "What we know about stabbing on Flydubai flight to Israel",
       "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 16:24:18 GMT",
+      "date": "Wed, 30 Sep 2026 17:51:49 GMT",
       "source": "BBC World"
     },
     {
@@ -242,6 +242,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass",
+      "date": "Wed, 30 Sep 2026 13:51:42 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "How Ukrainians are coping with new, more deadly Russian attacks",
       "link": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
       "date": "Wed, 30 Sep 2026 11:33:19 -0400",
@@ -284,10 +290,16 @@
       "source": "NPR World"
     },
     {
-      "title": "Trump weakens fuel efficiency standards. And, Cornell fraternity rape case reopened",
-      "link": "https://www.npr.org/2026/09/29/g-s1-145422/up-first-newsletter-fuel-efficiency-standards-cornell-rape-case-terror-suspects",
-      "date": "Tue, 29 Sep 2026 07:36:24 -0400",
-      "source": "NPR World"
+      "title": "Netanyahu meets Flydubai passenger who subdued pilot in stabbing attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/netanyahu-meets-flydubai-passenger-who-subdued-pilot-in-stabbing-attack?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 17:36:17 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "The Burnham bounce: Is Labour gaining ground against Farage’s Reform?",
+      "link": "https://www.aljazeera.com/news/2026/9/30/burnham-bounce-why-labours-rising-again-reforms-slipping?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 17:34:55 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Hundreds of Israelis storm Al-Aqsa Mosque compound",
@@ -323,18 +335,6 @@
       "title": "Pentagon says US troop withdrawal from Iraq is complete",
       "link": "https://www.aljazeera.com/news/2026/9/30/pentagon-says-us-troop-withdrawal-from-iraq-is-complete?traffic_source=rss",
       "date": "Wed, 30 Sep 2026 16:33:02 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Romania’s political crisis intensifies as Parliament rejects pro-EU PM",
-      "link": "https://www.aljazeera.com/news/2026/9/30/romanian-political-crisis-intensifies-as-parliament-rejects-pro-eu-pm?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 16:18:11 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
-      "link": "https://www.aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 15:27:26 +0000",
       "source": "Al Jazeera"
     }
   ]
