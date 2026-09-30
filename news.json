@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T13:02:00.511918+00:00",
+  "updated": "2026-09-30T13:22:34.508447+00:00",
   "items": [
     {
       "title": "إصابة قائد طائرة \"فلاي دبي\" ومساعده بعد تقارير عن مشاجرة على متن طائرة هبطت في السعودية",
@@ -50,6 +50,12 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "What we know about the Dubai-Israel plane incident after reported stabbing",
+      "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 30 Sep 2026 12:30:05 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
       "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 30 Sep 2026 12:42:34 GMT",
@@ -74,12 +80,6 @@
       "source": "BBC World"
     },
     {
-      "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 08:59:38 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Six Flags shuts down X2 rollercoaster after more than 100 allege brain injuries",
       "link": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 29 Sep 2026 22:33:13 GMT",
@@ -92,9 +92,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Botswana condemned for slaughtering elephants for independence celebrations",
-      "link": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 12:06:28 GMT",
+      "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 30 Sep 2026 08:59:38 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue",
+      "link": "https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 12:49:04 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Settlers closing in on Ramallah",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/settlers-closing-in-on-ramallah?traffic_source=rss",
       "date": "Wed, 30 Sep 2026 12:43:27 +0000",
@@ -329,12 +335,6 @@
       "title": "‘Economic war’: Is Iran losing its leverage over the Strait of Hormuz?",
       "link": "https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz?traffic_source=rss",
       "date": "Wed, 30 Sep 2026 12:05:45 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Flydubai flight to Israel diverted after attack on pilot",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-after-attack-on-pilot?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 11:43:35 +0000",
       "source": "Al Jazeera"
     }
   ]
