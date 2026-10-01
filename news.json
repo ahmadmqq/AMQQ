@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T04:20:19.771266+00:00",
+  "updated": "2026-10-01T04:37:40.495265+00:00",
   "items": [
     {
       "title": "نتنياهو يتهم مساعد طيار بمحاولة إسقاط رحلة \"فلاي دبي\"، وترامب يقول إنه \"إرهابي أو مختل\"",
@@ -50,6 +50,12 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
+      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 01 Oct 2026 04:35:26 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
       "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 01 Oct 2026 03:43:06 GMT",
@@ -59,12 +65,6 @@
       "title": "What we know about stabbing on Flydubai flight to Israel",
       "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 01 Oct 2026 02:31:24 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
-      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 04:13:49 GMT",
       "source": "BBC World"
     },
     {
@@ -290,13 +290,25 @@
       "source": "NPR World"
     },
     {
+      "title": "Afghanistan says nine killed in Pakistani air raids on Kunar, Helmand",
+      "link": "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand?traffic_source=rss",
+      "date": "Thu, 01 Oct 2026 04:16:19 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "South Korea’s exports hit record high on AI boom",
+      "link": "https://www.aljazeera.com/economy/2026/10/1/south-koreas-exports-hit-record-high-on-ai-boom?traffic_source=rss",
+      "date": "Thu, 01 Oct 2026 04:08:15 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "AFCON 2027: East Africa races to get tournament-ready",
       "link": "https://www.aljazeera.com/news/2026/10/1/afcon-2027-east-africa-races-to-get-tournament-ready?traffic_source=rss",
       "date": "Thu, 01 Oct 2026 03:04:24 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "US officials fail to put Christa Pike to death by lethal injection",
+      "title": "Christa Pike’s execution by lethal injection fails in Tennessee",
       "link": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-clears-way-for-christa-pikes-execution-in-tennessee?traffic_source=rss",
       "date": "Thu, 01 Oct 2026 02:35:59 +0000",
       "source": "Al Jazeera"
@@ -323,18 +335,6 @@
       "title": "Passengers tell of ‘nightmare’ onboard diverted Flydubai flight",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/passengers-tell-of-nightmare-onboard-diverted-flydubai-flight?traffic_source=rss",
       "date": "Thu, 01 Oct 2026 00:53:54 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Iran parades Shahed drones through capital",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss",
-      "date": "Thu, 01 Oct 2026 00:39:04 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
-      "date": "Thu, 01 Oct 2026 00:00:00 +0000",
       "source": "Al Jazeera"
     }
   ]
