@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-01T00:14:00.811010+00:00",
+  "updated": "2026-10-01T00:40:14.449317+00:00",
   "items": [
     {
       "title": "نتنياهو يتهم مساعد طيار بمحاولة إسقاط رحلة \"فلاي دبي\"، وترامب يقول إنه \"إرهابي أو مختل\"",
       "link": "https://www.bbc.com/arabic/articles/ck0e3v20ljxlo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 01 Oct 2026 00:07:41 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "رئيس الوزراء البريطاني: إيران ضالعة في حادثة قاعدة \"فيرفورد\" الجوية",
+      "link": "https://www.bbc.com/arabic/articles/c6grvr0xpdpeo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 01 Oct 2026 00:22:47 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "قصة الصحفي الأوغندي الذي تُوج ملكاً بعد صراع على العرش",
-      "link": "https://www.bbc.com/arabic/articles/cry4z954nn7yo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 17:04:51 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "What we know about stabbing on Flydubai flight to Israel",
       "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 30 Sep 2026 21:36:31 GMT",
@@ -64,7 +64,7 @@
     {
       "title": "US Supreme Court allows execution of Christa Pike to go ahead",
       "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 23:55:17 GMT",
+      "date": "Thu, 01 Oct 2026 00:19:20 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
+      "date": "Thu, 01 Oct 2026 00:00:00 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Trump amazed that an ‘Israeli plumber’ helped land Flydubai flight",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-amazed-that-an-israeli-plumber-helped-land-flydubai-flight?traffic_source=rss",
+      "date": "Wed, 30 Sep 2026 23:50:17 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Pennsylvania confirms fifth measles-associated death as US outbreak grows",
       "link": "https://www.aljazeera.com/news/2026/9/30/pennsylvania-confirms-fifth-measles-associated-death-as-us-outbreak-grows?traffic_source=rss",
       "date": "Wed, 30 Sep 2026 23:31:54 +0000",
@@ -323,18 +335,6 @@
       "title": "It’s the ‘closest thing to an HIV vaccine’, but who gets access?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/its-the-closest-thing-to-an-hiv-vaccine-but-who-gets-access?traffic_source=rss",
       "date": "Wed, 30 Sep 2026 21:34:30 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Trump administration files complaint against judges over media comments",
-      "link": "https://www.aljazeera.com/news/2026/9/30/trump-administration-files-complaint-against-judges-over-media-comments?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 21:28:43 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Flydubai passengers arrive in Tel Aviv after pilot stabbing",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-passengers-arrive-in-tel-aviv-after-pilot-stabbing?traffic_source=rss",
-      "date": "Wed, 30 Sep 2026 21:12:46 +0000",
       "source": "Al Jazeera"
     }
   ]
