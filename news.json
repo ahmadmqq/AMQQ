@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-01T18:29:11.730071+00:00",
+  "updated": "2026-10-01T18:48:33.876957+00:00",
   "items": [
     {
       "title": "نتنياهو يقول إن مساعد طيار رحلة \"فلاي دبي\" خضع لتلقين \"أفكار إسلامية متطرفة\"، وشركات إسرائيلية تعتزم استئناف رحلاتها لدبي",
       "link": "https://www.bbc.com/arabic/articles/ck0e3v20ljxlo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 01 Oct 2026 17:54:56 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "بريطانيا تعتقل مواطناً من أصل إيراني على خلفية حادثة قاعدة \"فيرفورد\" الجوية",
+      "link": "https://www.bbc.com/arabic/articles/cmzxzx19wwe2o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 01 Oct 2026 18:30:30 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "\"سأكشف الحقيقة في الوقت المناسب\"، كيف تفاعل الجمهور العربي مع خلاف رونالدو ومدرب منتخب البرتغال؟",
       "link": "https://www.bbc.com/arabic/articles/ck05r5655022o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 01 Oct 2026 11:15:21 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "هل يمكن أن نثق بتحذيرات بيل غيتس من الذكاء الاصطناعي بعد علاقته بإبستين؟ - مقال في الغارديان",
-      "link": "https://www.bbc.com/arabic/articles/c8vgygw793dqo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 10:21:19 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -104,6 +104,18 @@
       "source": "BBC Business"
     },
     {
+      "title": "HMRC urged to scrutinise tax implications of Man City case",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 01 Oct 2026 18:21:22 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "PM warned Rosebank oil field could breach West Bank sanctions",
+      "link": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 01 Oct 2026 18:38:22 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "Thames Water apologises after £145,000 customer billing mistake",
       "link": "https://www.bbc.co.uk/news/articles/ck24j46424veo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 01 Oct 2026 18:09:16 GMT",
@@ -116,33 +128,21 @@
       "source": "BBC Business"
     },
     {
-      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 11:37:46 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Travelodge failed sex assault victim 'at every stage'",
-      "link": "https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 16:40:03 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "The AI telling farmers when to harvest",
       "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 30 Sep 2026 23:02:21 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Vape tax comes into effect - but prices won't rise yet",
-      "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 23:02:11 GMT",
+      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 01 Oct 2026 11:37:46 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Employers should teach primary-age children about work, says Milburn",
-      "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 07:07:08 GMT",
+      "title": "Vape tax comes into effect - but prices won't rise yet",
+      "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 30 Sep 2026 23:02:11 GMT",
       "source": "BBC Business"
     },
     {
@@ -176,6 +176,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "Brazil attorney general says meddling ‘cannot be tolerated’ after Trump funding plans revealed",
+      "link": "https://www.theguardian.com/world/2026/oct/01/brazil-attorney-general-election-meddling-trump-funding-plans",
+      "date": "Thu, 01 Oct 2026 18:34:10 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "‘It’s utter surrealism’: Venezuela’s Chavistas lament government’s embrace of Trump",
       "link": "https://www.theguardian.com/world/2026/oct/01/venezuela-hugo-chavez-supporters-critical-delcy-rodriguez-embrace-of-trump",
       "date": "Thu, 01 Oct 2026 09:00:34 GMT",
@@ -185,12 +191,6 @@
       "title": "Mighty Sparrow, the Trinidad and Tobago singer known as the ‘calypso king of the world’, dies aged 91",
       "link": "https://www.theguardian.com/music/2026/sep/28/mighty-sparrow-the-trinidad-and-tobago-singer-known-as-the-calypso-king-of-the-world-dies-aged-91",
       "date": "Sun, 27 Sep 2026 23:24:10 GMT",
-      "source": "Guardian World"
-    },
-    {
-      "title": "Hurricane Nolo still threatens Hawaii as Mexico’s Baja braces for Hurricane Polo",
-      "link": "https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico",
-      "date": "Sun, 27 Sep 2026 22:59:25 GMT",
       "source": "Guardian World"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "School protests spread as fires, blockades deepen unrest in France",
+      "link": "https://www.aljazeera.com/news/2026/10/1/school-protests-spread-as-fires-blockades-deepen-unrest-in-france?traffic_source=rss",
+      "date": "Thu, 01 Oct 2026 18:18:18 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Palestinian children in Israeli military detention",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/palestinian-children-in-israeli-military-detention?traffic_source=rss",
       "date": "Thu, 01 Oct 2026 17:44:51 +0000",
@@ -329,12 +335,6 @@
       "title": "Israel’s Supreme Court advises Arab party leader to drop election bid",
       "link": "https://www.aljazeera.com/news/2026/10/1/israels-supreme-court-advises-arab-party-leader-to-drop-election-bid?traffic_source=rss",
       "date": "Thu, 01 Oct 2026 17:09:27 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "British police arrest UK-Iranian national over airbase incident",
-      "link": "https://www.aljazeera.com/news/2026/10/1/british-police-arrest-uk-iranian-national-over-airbase-incident?traffic_source=rss",
-      "date": "Thu, 01 Oct 2026 16:55:47 +0000",
       "source": "Al Jazeera"
     }
   ]
