@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-01T15:55:19.174802+00:00",
+  "updated": "2026-10-01T16:07:46.013340+00:00",
   "items": [
     {
       "title": "نتنياهو يقول إن مساعد طيار رحلة \"فلاي دبي\" خضع لتلقين \"أفكار إسلامية متطرفة\"، وشركات إسرائيلية تعتزم استئناف رحلاتها لدبي",
       "link": "https://www.bbc.com/arabic/articles/ck0e3v20ljxlo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 01 Oct 2026 15:54:42 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "كاليفورنيا تحظر زواج الأطفال، بينما يبقى قانونياً في 32 ولاية أمريكية",
+      "link": "https://www.bbc.com/arabic/articles/ckwyzyry4d3yo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 01 Oct 2026 15:59:59 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,15 +50,9 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "خرافة أم حقيقة: هل يساعد وضع البصل النيء أسفل القدمين في علاج نزلات البرد؟",
-      "link": "https://www.bbc.com/arabic/articles/c8x2z26l3w1do?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 06:10:26 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "US death row inmate survives execution attempt after two lethal injections",
-      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 09:59:59 GMT",
+      "title": "Tennessee halts executions after death row inmate Christa Pike survives hers",
+      "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 01 Oct 2026 15:43:05 GMT",
       "source": "BBC World"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "Bond sell-off: US government borrowing costs hit highest since 2002, as UK 30-year bond yield hits 6% – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/01/uk-house-prices-september-mortgage-rates-bonds-stock-markets-manufacturing-latest-news-updates",
-      "date": "Thu, 01 Oct 2026 15:06:25 GMT",
+      "date": "Thu, 01 Oct 2026 15:46:57 GMT",
       "source": "Guardian Business"
     },
     {
@@ -209,6 +209,12 @@
       "title": "Should cockpits stay locked from the inside? Flydubai stabbing raises flight security questions",
       "link": "https://www.theguardian.com/business/2026/oct/01/flydubai-stabbing-cockpit-security-fz-1073",
       "date": "Thu, 01 Oct 2026 12:04:08 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Crude oil exports from strait of Hormuz largely return to pre-war levels",
+      "link": "https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel",
+      "date": "Thu, 01 Oct 2026 15:52:14 GMT",
       "source": "Guardian Business"
     },
     {
@@ -227,12 +233,6 @@
       "title": "Bedford rail crash: train sped up after red light warning, say investigators",
       "link": "https://www.theguardian.com/uk-news/2026/oct/01/bedford-rail-crash-report-train-sped-up-red-light-warning",
       "date": "Thu, 01 Oct 2026 12:40:56 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Healey urged to offer energy support in budget as bills rise 4%",
-      "link": "https://www.theguardian.com/money/2026/oct/01/john-healey-uk-energy-bills-rise-support-budget-great-britain",
-      "date": "Thu, 01 Oct 2026 05:00:29 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,7 +290,13 @@
       "source": "NPR World"
     },
     {
-      "title": "LIVE: Denmark vs Portugal – UEFA Nations League",
+      "title": "Flydubai attack gives Netanyahu new security message ahead of Israel vote",
+      "link": "https://www.aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote?traffic_source=rss",
+      "date": "Thu, 01 Oct 2026 15:47:23 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "LIVE: Denmark vs Portugal – UEFA Nations League; Ronaldo latest",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/10/1/live-denmark-vs-portugal-uefa-nations-league-ronaldo?traffic_source=rss",
       "date": "Thu, 01 Oct 2026 15:32:17 +0000",
       "source": "Al Jazeera"
@@ -329,12 +335,6 @@
       "title": "UK PM Burnham says Iran likely behind RAF base incident: Is there evidence?",
       "link": "https://www.aljazeera.com/news/2026/10/1/uk-pm-burnham-says-iran-likely-behind-raf-base-incident-is-there-evidence?traffic_source=rss",
       "date": "Thu, 01 Oct 2026 13:51:58 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
-      "link": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss",
-      "date": "Thu, 01 Oct 2026 13:25:54 +0000",
       "source": "Al Jazeera"
     }
   ]
