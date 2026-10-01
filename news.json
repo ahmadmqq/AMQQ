@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T17:24:06.571996+00:00",
+  "updated": "2026-10-01T17:39:03.348385+00:00",
   "items": [
     {
       "title": "نتنياهو يقول إن مساعد طيار رحلة \"فلاي دبي\" خضع لتلقين \"أفكار إسلامية متطرفة\"، وشركات إسرائيلية تعتزم استئناف رحلاتها لدبي",
@@ -8,9 +8,15 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "كاليفورنيا تحظر زواج الأطفال، بينما يبقى قانونياً في 32 ولاية أمريكية",
+      "title": "كيف تلهم عيون القطط الباحثين في تطوير تكنولوجيا التصوير؟",
+      "link": "https://www.bbc.com/arabic/articles/c6rr4y1yq1q9o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 01 Oct 2026 17:31:45 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "ولاية كاليفورنيا تحظر زواج الأطفال في \"خطوة طال انتظارها لحماية القاصرين\"",
       "link": "https://www.bbc.com/arabic/articles/ckwyzyry4d3yo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 15:59:59 GMT",
+      "date": "Thu, 01 Oct 2026 17:25:47 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "من خنافس ذهبية إلى اكتشافات داروين: متحف رقمي جديد يعرض ملايين القطع ويُحدث \"نقلة هائلة\" في فهمنا للعالم",
-      "link": "https://www.bbc.com/arabic/articles/c5pve9vzz1y3o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 07:28:29 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Tennessee halts executions after Christa Pike survives two lethal injection attempts",
       "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 01 Oct 2026 16:45:35 GMT",
@@ -58,7 +58,7 @@
     {
       "title": "What happened in the failed execution of Christa Pike - and what next?",
       "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 16:52:33 GMT",
+      "date": "Thu, 01 Oct 2026 17:31:06 GMT",
       "source": "BBC World"
     },
     {
@@ -88,7 +88,7 @@
     {
       "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
       "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 16:40:59 GMT",
+      "date": "Thu, 01 Oct 2026 17:32:50 GMT",
       "source": "BBC World"
     },
     {
@@ -96,6 +96,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 01 Oct 2026 16:34:22 GMT",
       "source": "BBC World"
+    },
+    {
+      "title": "UK in talks with EU partners to release strategic fuel reserves if needed, BBC understands",
+      "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 01 Oct 2026 17:27:37 GMT",
+      "source": "BBC Business"
     },
     {
       "title": "AI boom could trigger market shocks, Bank of England boss warns",
@@ -122,27 +128,21 @@
       "source": "BBC Business"
     },
     {
-      "title": "Employers should teach primary-age children about work, says Milburn",
-      "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 07:07:08 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "The AI telling farmers when to harvest",
       "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 30 Sep 2026 23:02:21 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Energy bills are rising by £60 a year - here's how you can bring that down",
-      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 07:08:22 GMT",
+      "title": "Employers should teach primary-age children about work, says Milburn",
+      "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 01 Oct 2026 07:07:08 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Household energy bills forecast to see biggest rise in four years",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 14:36:45 GMT",
+      "title": "Energy bills are rising by £60 a year - here's how you can bring that down",
+      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 01 Oct 2026 07:08:22 GMT",
       "source": "BBC Business"
     },
     {
@@ -194,7 +194,7 @@
       "source": "Guardian World"
     },
     {
-      "title": "Global bond sell-off intensifies, as UK long-term borrowing costs pass 6%",
+      "title": "Global bond sell-off intensifies as UK long-term borrowing costs pass 6%",
       "link": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
       "date": "Thu, 01 Oct 2026 15:55:50 GMT",
       "source": "Guardian Business"
@@ -290,6 +290,36 @@
       "source": "NPR World"
     },
     {
+      "title": "Renee Good’s family sues Trump administration over fatal ICE shooting",
+      "link": "https://www.aljazeera.com/news/2026/10/1/renee-goods-family-sues-trump-administration-over-fatal-ice-shooting?traffic_source=rss",
+      "date": "Thu, 01 Oct 2026 17:28:13 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Despite praise and White House visits, Trump avoids endorsing Netanyahu",
+      "link": "https://www.aljazeera.com/news/2026/10/1/despite-praise-and-white-house-visits-trump-avoids-endorsing-netanyahu?traffic_source=rss",
+      "date": "Thu, 01 Oct 2026 17:23:12 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Death penalty bill for forest arsonists clears Algeria lower house",
+      "link": "https://www.aljazeera.com/news/2026/10/1/death-penalty-bill-for-forest-arsonists-clears-algeria-lower-house?traffic_source=rss",
+      "date": "Thu, 01 Oct 2026 17:18:30 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "How AI is reshaping everyday life in China",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/how-ai-is-reshaping-everyday-life-in-china?traffic_source=rss",
+      "date": "Thu, 01 Oct 2026 17:12:38 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Israel’s Supreme Court advises Arab party leader to drop election bid",
+      "link": "https://www.aljazeera.com/news/2026/10/1/israels-supreme-court-advises-arab-party-leader-to-drop-election-bid?traffic_source=rss",
+      "date": "Thu, 01 Oct 2026 17:09:27 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "British police arrest UK-Iranian national over airbase incident",
       "link": "https://www.aljazeera.com/news/2026/10/1/british-police-arrest-uk-iranian-national-over-airbase-incident?traffic_source=rss",
       "date": "Thu, 01 Oct 2026 16:55:47 +0000",
@@ -305,36 +335,6 @@
       "title": "Chinese hackers impersonated AI experts to target US policy minds",
       "link": "https://www.aljazeera.com/economy/2026/10/1/chinese-hackers-impersonated-ai-experts-to-target-us-policy-minds?traffic_source=rss",
       "date": "Thu, 01 Oct 2026 16:28:41 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Jerusalem Daily: Netanyahu calls flight incident another 9/11",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/jerusalem-daily-netanyahu-calls-flight-incident-another-9?traffic_source=rss",
-      "date": "Thu, 01 Oct 2026 16:19:35 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Who is Man City whistleblower Rui Pinto and what has become of him?",
-      "link": "https://www.aljazeera.com/sports/2026/10/1/who-is-man-city-whistleblower-rui-pinto-and-whats-happening-to-him?traffic_source=rss",
-      "date": "Thu, 01 Oct 2026 16:13:28 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Flydubai attack gives Netanyahu new security message ahead of Israel vote",
-      "link": "https://www.aljazeera.com/news/2026/10/1/flydubai-attack-gives-netanyahu-new-security-message-ahead-of-israel-vote?traffic_source=rss",
-      "date": "Thu, 01 Oct 2026 15:47:23 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "LIVE: Denmark vs Portugal – UEFA Nations League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/1/live-denmark-vs-portugal-uefa-nations-league-ronaldo?traffic_source=rss",
-      "date": "Thu, 01 Oct 2026 15:32:17 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Moroccan intelligence uses surveillance to ‘silence’ journalists: Amnesty",
-      "link": "https://www.aljazeera.com/news/2026/10/1/moroccan-intelligence-uses-surveillance-to-silence-journalists-amnesty?traffic_source=rss",
-      "date": "Thu, 01 Oct 2026 15:04:21 +0000",
       "source": "Al Jazeera"
     }
   ]
