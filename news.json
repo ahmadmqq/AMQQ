@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T04:00:53.810943+00:00",
+  "updated": "2026-10-01T04:20:19.771266+00:00",
   "items": [
     {
       "title": "نتنياهو يتهم مساعد طيار بمحاولة إسقاط رحلة \"فلاي دبي\"، وترامب يقول إنه \"إرهابي أو مختل\"",
@@ -50,7 +50,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "Too early to say who was behind Dubai-Tel Aviv flight attack, Israeli PM says",
+      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
       "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 01 Oct 2026 03:43:06 GMT",
       "source": "BBC World"
@@ -64,7 +64,7 @@
     {
       "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
       "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 03:46:55 GMT",
+      "date": "Thu, 01 Oct 2026 04:13:49 GMT",
       "source": "BBC World"
     },
     {
@@ -98,6 +98,12 @@
       "source": "BBC World"
     },
     {
+      "title": "AI boom could trigger market shocks, Bank of England boss warns",
+      "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 01 Oct 2026 04:03:17 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "Vape prices to rise as new tax takes effect",
       "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 30 Sep 2026 23:02:11 GMT",
@@ -113,12 +119,6 @@
       "title": "Household energy bills forecast to see biggest rise in four years",
       "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 30 Sep 2026 14:36:45 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Regulating AI 'not the right place to start' says Bailey",
-      "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 14:00:33 GMT",
       "source": "BBC Business"
     },
     {
@@ -140,9 +140,9 @@
       "source": "BBC Business"
     },
     {
-      "title": "Doubters spur me on: why more women are taking up DIY",
-      "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 07:27:11 GMT",
+      "title": "Regulating AI 'not the right place to start' says Bailey",
+      "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 30 Sep 2026 14:00:33 GMT",
       "source": "BBC Business"
     },
     {
@@ -296,7 +296,7 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "US Supreme Court clears way for Christa Pike’s execution in Tennessee",
+      "title": "US officials fail to put Christa Pike to death by lethal injection",
       "link": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-clears-way-for-christa-pikes-execution-in-tennessee?traffic_source=rss",
       "date": "Thu, 01 Oct 2026 02:35:59 +0000",
       "source": "Al Jazeera"
