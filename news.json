@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-01T06:03:30.206284+00:00",
+  "updated": "2026-10-01T06:28:30.575881+00:00",
   "items": [
     {
       "title": "\"فلاي دبي\" تعلّق الرحلات الجوية من وإلى إسرائيل، وترامب يقول إن مساعد الطيار كان \"إرهابي أو مختل\"",
       "link": "https://www.bbc.com/arabic/articles/ck0e3v20ljxlo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 01 Oct 2026 05:59:13 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "خرافة أم حقيقة: هل يساعد وضع البصل النيّئ أسفل القدمين في علاج نزلات البرد؟",
+      "link": "https://www.bbc.com/arabic/articles/c8x2z26l3w1do?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 01 Oct 2026 06:10:26 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,13 +50,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "طبيب مصري شهير يشعل الجدل بالحديث عن نقل أعضاء المحكومين بالإعدام",
-      "link": "https://www.bbc.com/arabic/articles/cwp8038rjd4go?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 30 Sep 2026 17:47:32 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
+      "title": "US death row inmate survives execution attempt after two lethal injections",
       "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 01 Oct 2026 05:34:41 GMT",
       "source": "BBC World"
@@ -194,9 +194,21 @@
       "source": "Guardian World"
     },
     {
-      "title": "UK income growth revised upwards as markets hail ‘resilient’ economy",
-      "link": "https://www.theguardian.com/business/2026/sep/30/uk-income-growth-john-healey-budget-gdp-ons",
-      "date": "Wed, 30 Sep 2026 14:13:55 GMT",
+      "title": "Annual UK house price growth halves as mortgage rates rise – business live",
+      "link": "https://www.theguardian.com/business/live/2026/oct/01/uk-house-prices-september-mortgage-rates-bonds-stock-markets-manufacturing-latest-news-updates",
+      "date": "Thu, 01 Oct 2026 06:15:39 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Healey urged to offer energy support in budget as bills rise 4%",
+      "link": "https://www.theguardian.com/money/2026/oct/01/john-healey-uk-energy-bills-rise-support-budget-great-britain",
+      "date": "Thu, 01 Oct 2026 05:00:29 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "US trade regulator opens investigation into AI giants including Anthropic and OpenAI",
+      "link": "https://www.theguardian.com/us-news/2026/sep/30/ftc-investigation-anthropic-openai",
+      "date": "Wed, 30 Sep 2026 18:35:05 GMT",
       "source": "Guardian Business"
     },
     {
@@ -209,18 +221,6 @@
       "title": "New UK gas and oil projects are a ‘no-brainer’, says EDF boss",
       "link": "https://www.theguardian.com/business/2026/sep/30/uk-gas-and-oil-climate-crisis-energy-edf-boss",
       "date": "Wed, 30 Sep 2026 16:24:53 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Energy bills: what to do as prices head for £2,000 a year, from switching deals to insulating",
-      "link": "https://www.theguardian.com/money/2026/sep/30/energy-bills-price-cap-switching-deals-insulating-save",
-      "date": "Wed, 30 Sep 2026 15:44:17 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "We need ‘right to intervene’ in AI amid growing threat, says Bank of England boss",
-      "link": "https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss",
-      "date": "Wed, 30 Sep 2026 15:22:25 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "India vs Pakistan live: Asian Games hockey semifinal",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/1/india-vs-pakistan-live-asian-games-hockey-semifinal?traffic_source=rss",
+      "date": "Thu, 01 Oct 2026 06:07:43 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Modi’s India takes on Trump more openly, from ‘terrorism’ to tariffs",
       "link": "https://www.aljazeera.com/news/2026/10/1/modis-india-takes-on-trump-more-openly-from-terrorism-to-tariffs?traffic_source=rss",
       "date": "Thu, 01 Oct 2026 05:37:39 +0000",
@@ -329,12 +335,6 @@
       "title": "South Korea’s exports hit record high on AI boom",
       "link": "https://www.aljazeera.com/economy/2026/10/1/south-koreas-exports-hit-record-high-on-ai-boom?traffic_source=rss",
       "date": "Thu, 01 Oct 2026 04:08:15 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "AFCON 2027: East Africa races to get tournament-ready",
-      "link": "https://www.aljazeera.com/news/2026/10/1/afcon-2027-east-africa-races-to-get-tournament-ready?traffic_source=rss",
-      "date": "Thu, 01 Oct 2026 03:04:24 +0000",
       "source": "Al Jazeera"
     }
   ]
