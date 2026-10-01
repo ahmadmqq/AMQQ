@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-01T10:38:29.222902+00:00",
+  "updated": "2026-10-01T10:53:29.691583+00:00",
   "items": [
     {
       "title": "\"فلاي دبي\" تعلّق الرحلات الجوية من وإلى إسرائيل، والقضاء الإماراتي يباشر التحقيق بالحادثة",
       "link": "https://www.bbc.com/arabic/articles/ck0e3v20ljxlo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 01 Oct 2026 09:05:14 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "\"سأكشف الحقيقة في الوقت المناسب\"، كيف تفاعل الجمهور العربي مع خلاف رونالدو ومدرب منتخب البرتغال؟",
+      "link": "https://www.bbc.com/arabic/articles/ck05r5655022o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 01 Oct 2026 10:43:11 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -35,12 +41,6 @@
       "title": "سوريا: قتلى وجرحى في هجوم على حافلة في حمص، وانفجار خط غاز يعطّل ثلاث محطات لتوليد الكهرباء",
       "link": "https://www.bbc.com/arabic/articles/c69w4wrl4re8o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 30 Sep 2026 23:10:47 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "رئيس الوزراء البريطاني: \"مؤشرات قوية\" على ضلوع إيران في حادثة قاعدة \"فيرفورد\" الجوية",
-      "link": "https://www.bbc.com/arabic/articles/c6grvr0xpdpeo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 00:22:47 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -104,6 +104,12 @@
       "source": "BBC Business"
     },
     {
+      "title": "Employers should teach primary-age children about work, says Milburn",
+      "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 01 Oct 2026 07:07:08 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "Vape tax comes into effect - but prices won't rise yet",
       "link": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 30 Sep 2026 23:02:11 GMT",
@@ -118,13 +124,7 @@
     {
       "title": "Travelodge failed sex assault victim 'at every stage'",
       "link": "https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 10:31:07 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Employers should teach primary-age children about work, says Milburn",
-      "link": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 07:07:08 GMT",
+      "date": "Thu, 01 Oct 2026 10:48:36 GMT",
       "source": "BBC Business"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "UK 30-year borrowing costs hit 6%, highest since 1998, as government bond sell-off intensifies – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/01/uk-house-prices-september-mortgage-rates-bonds-stock-markets-manufacturing-latest-news-updates",
-      "date": "Thu, 01 Oct 2026 10:19:24 GMT",
+      "date": "Thu, 01 Oct 2026 10:32:53 GMT",
       "source": "Guardian Business"
     },
     {
