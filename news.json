@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-02T07:34:58.658373+00:00",
+  "updated": "2026-10-02T07:50:25.931976+00:00",
   "items": [
+    {
+      "title": "ترامب يتوعّد إيران بـ\"ضربة قوية جداً\" إذا ثبت ضلوعها في حادثة طائرة \"فلاي دبي\"",
+      "link": "https://www.bbc.com/arabic/articles/cjx2z23z0neeo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 02 Oct 2026 07:36:24 GMT",
+      "source": "BBC Arabic"
+    },
     {
       "title": "القوات الحكومية اليمنية تعلن استهداف مواقع \"ذات قيمة عالية\" في صنعاء بعد سماع دوي انفجارات قوية",
       "link": "https://www.bbc.com/arabic/articles/c3dx0xjxkd94o?at_medium=RSS&at_campaign=rss",
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "ولاية كاليفورنيا تحظر زواج الأطفال، الذي ما زال مسموحاً في 32 ولاية أمريكية أخرى",
-      "link": "https://www.bbc.com/arabic/articles/ckwyzyry4d3yo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 17:25:47 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
       "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 02 Oct 2026 07:31:52 GMT",
@@ -62,9 +62,9 @@
       "source": "BBC World"
     },
     {
-      "title": "I opened cockpit door of plane while being attacked, Indian pilot tells Modi",
+      "title": "I wasn't going to let others die, says Indian pilot who opened cockpit door during attack",
       "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 02 Oct 2026 07:20:25 GMT",
+      "date": "Fri, 02 Oct 2026 07:42:09 GMT",
       "source": "BBC World"
     },
     {
@@ -194,9 +194,9 @@
       "source": "Guardian World"
     },
     {
-      "title": "French bond sell-off ‘reminiscent of the euro crisis’ as Paris proposes cuts and tax rises – business live",
+      "title": "Global bond market steadies after French sell-off revives memories of the euro crisis – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates",
-      "date": "Fri, 02 Oct 2026 07:06:16 GMT",
+      "date": "Fri, 02 Oct 2026 07:34:18 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "How the fighting in Ethiopia spread beyond Tigray, in maps and charts",
+      "link": "https://www.aljazeera.com/news/2026/10/2/how-the-fighting-in-ethiopia-spread-beyond-tigray-in-maps-and-charts?traffic_source=rss",
+      "date": "Fri, 02 Oct 2026 07:17:02 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Miami judge rules federal noncitizen voting law violates US Constitution",
       "link": "https://www.aljazeera.com/news/2026/10/2/miami-judge-rules-federal-noncitizen-voting-law-violates-us-constitution?traffic_source=rss",
       "date": "Fri, 02 Oct 2026 06:26:48 +0000",
@@ -329,12 +335,6 @@
       "title": "Student protests in Chile turn to violent clashes with police",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/student-protests-in-chile-turn-to-violent-clashes-with-police?traffic_source=rss",
       "date": "Fri, 02 Oct 2026 04:49:52 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Arab-Israeli party leader drops election bid",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-israeli-party-leader-drops-election-bid?traffic_source=rss",
-      "date": "Fri, 02 Oct 2026 04:41:21 +0000",
       "source": "Al Jazeera"
     }
   ]
