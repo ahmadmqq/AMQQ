@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T05:17:24.699923+00:00",
+  "updated": "2026-10-02T05:33:13.808491+00:00",
   "items": [
     {
       "title": "القوات الحكومية اليمنية تعلن استهداف مواقع \"ذات قيمة عالية\" في صنعاء بعد سماع دوي انفجارات قوية",
@@ -52,7 +52,7 @@
     {
       "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
       "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 22:21:16 GMT",
+      "date": "Fri, 02 Oct 2026 05:26:06 GMT",
       "source": "BBC World"
     },
     {
@@ -100,7 +100,7 @@
     {
       "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
       "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 22:21:16 GMT",
+      "date": "Fri, 02 Oct 2026 05:26:06 GMT",
       "source": "BBC Business"
     },
     {
@@ -194,9 +194,33 @@
       "source": "Guardian World"
     },
     {
-      "title": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
-      "link": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
-      "date": "Thu, 01 Oct 2026 17:56:18 GMT",
+      "title": "Britain in talks with European allies over release of emergency diesel stockpiles amid Trump pressure",
+      "link": "https://www.theguardian.com/business/2026/oct/01/britain-talks-european-allies-eu-emergency-diesel-stockpiles-reserves",
+      "date": "Thu, 01 Oct 2026 16:49:01 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Labour figures uneasy about Healey’s ‘underpowered’ approach to budget",
+      "link": "https://www.theguardian.com/politics/2026/oct/01/labour-unease-healey-budget",
+      "date": "Thu, 01 Oct 2026 18:33:40 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Staff fears grow that BBC will shut its Three and Scotland channels next week",
+      "link": "https://www.theguardian.com/media/2026/oct/02/bbc-shut-three-scotland-channels-redundancy",
+      "date": "Fri, 02 Oct 2026 05:00:10 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Would a gambling tax rise in the budget really shut shops and cost jobs?",
+      "link": "https://www.theguardian.com/politics/2026/oct/02/will-slot-machine-tax-result-in-shop-closures-job-losses",
+      "date": "Fri, 02 Oct 2026 05:00:11 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "UK airlines to be banned from charging parents to sit with children",
+      "link": "https://www.theguardian.com/business/2026/oct/01/uk-airlines-to-be-banned-from-charging-parents-to-sit-with-children",
+      "date": "Thu, 01 Oct 2026 21:41:19 GMT",
       "source": "Guardian Business"
     },
     {
@@ -206,39 +230,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Travelodge guests are still at risk, finds review launched after sexual assault",
-      "link": "https://www.theguardian.com/business/2026/oct/01/travelodge-report-guests-still-at-risk-room-intrusions-sexual-assault",
-      "date": "Thu, 01 Oct 2026 13:10:40 GMT",
+      "title": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
+      "link": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+      "date": "Thu, 01 Oct 2026 17:56:18 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Crude oil exports from strait of Hormuz largely return to pre-war levels",
-      "link": "https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel",
-      "date": "Thu, 01 Oct 2026 15:52:14 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Should cockpits stay locked from the inside? Flydubai stabbing raises flight security questions",
-      "link": "https://www.theguardian.com/business/2026/oct/01/flydubai-stabbing-cockpit-security-fz-1073",
-      "date": "Thu, 01 Oct 2026 12:04:08 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Boots owner ‘closing in on sale to Canada’s Weston family for $9bn’",
-      "link": "https://www.theguardian.com/business/2026/oct/01/boots-owner-sale-canada-weston-family",
-      "date": "Thu, 01 Oct 2026 09:03:35 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "UK bookmakers that warned of rogue casinos profited from offshore gambling",
-      "link": "https://www.theguardian.com/society/2026/oct/01/uk-bookmakers-offshore-casinos",
-      "date": "Thu, 01 Oct 2026 11:18:45 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Bedford rail crash: train sped up after red light warning, say investigators",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/01/bedford-rail-crash-report-train-sped-up-red-light-warning",
-      "date": "Thu, 01 Oct 2026 12:40:56 GMT",
+      "title": "Lyft agrees to pay California $272.5m in largest-ever wage theft settlement",
+      "link": "https://www.theguardian.com/technology/2026/oct/01/lyft-largest-ever-wage-theft-settlement",
+      "date": "Thu, 01 Oct 2026 20:05:46 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "How Switzerland lost 20 percent of its ice in five years",
+      "link": "https://www.aljazeera.com/news/2026/10/2/how-switzerland-lost-20-percent-of-its-ice-in-five-years?traffic_source=rss",
+      "date": "Fri, 02 Oct 2026 04:59:58 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Nepal avalanche kills at least 15 expedition workers",
       "link": "https://www.aljazeera.com/news/2026/10/2/nepal-avalanche-kills-at-least-15-expedition-workers?traffic_source=rss",
       "date": "Fri, 02 Oct 2026 04:53:49 +0000",
@@ -329,12 +335,6 @@
       "title": "Indian artist takes ‘deleted voter’ song to Cockroach protest",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/indian-artist-takes-deleted-voter-song-to-cockroach-protest?traffic_source=rss",
       "date": "Fri, 02 Oct 2026 03:49:23 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "US to send third aircraft carrier towards Iran: US official to Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/2/us-to-send-third-aircraft-carrier-towards-iran-us-official-to-al-jazeera?traffic_source=rss",
-      "date": "Fri, 02 Oct 2026 03:14:47 +0000",
       "source": "Al Jazeera"
     }
   ]
