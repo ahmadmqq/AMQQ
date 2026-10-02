@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T16:18:12.303572+00:00",
+  "updated": "2026-10-02T16:36:42.851308+00:00",
   "items": [
     {
       "title": "إصابة ناقلة بمقذوف في هرمز وترامب يلوّح بضرب إيران إذا ثبت تورطها في حادثة \"فلاي دبي\"",
@@ -50,15 +50,27 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
-      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 02 Oct 2026 09:08:06 GMT",
+      "title": "Riot police clash with students as education protests rage in France",
+      "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 02 Oct 2026 16:26:09 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 02 Oct 2026 16:07:15 GMT",
       "source": "BBC World"
     },
     {
       "title": "Cornell students gather to voice anger over alleged gang rape",
       "link": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 02 Oct 2026 10:00:24 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 02 Oct 2026 09:08:06 GMT",
       "source": "BBC World"
     },
     {
@@ -83,18 +95,6 @@
       "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
       "link": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 02 Oct 2026 05:53:51 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "OpenAI fires workers for 'mishandling sensitive information'",
-      "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 02 Oct 2026 08:20:32 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-      "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 19:59:24 GMT",
       "source": "BBC World"
     },
     {
@@ -200,15 +200,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Bosses of three firms that supply trains to UK railways made £3.5m last year",
-      "link": "https://www.theguardian.com/business/2026/oct/02/bosses-firms-trains-uk-35m-pounds-last-year",
-      "date": "Fri, 02 Oct 2026 15:54:18 GMT",
+      "title": "G7 to release up to 100m barrels of emergency oil and diesel reserves",
+      "link": "https://www.theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency",
+      "date": "Fri, 02 Oct 2026 15:57:13 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "UK diesel price hits record high of £2 a litre",
-      "link": "https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil",
-      "date": "Fri, 02 Oct 2026 13:41:04 GMT",
+      "title": "Bosses of three firms that supply trains to UK railways made £3.5m last year",
+      "link": "https://www.theguardian.com/business/2026/oct/02/bosses-firms-trains-uk-35m-pounds-last-year",
+      "date": "Fri, 02 Oct 2026 15:54:18 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Three in four households go hungry in parts of Yemen amid fighting: UN",
+      "link": "https://www.aljazeera.com/news/2026/10/2/three-in-four-households-go-hungry-in-parts-of-yemen-amid-fighting-un?traffic_source=rss",
+      "date": "Fri, 02 Oct 2026 16:06:25 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Trump to name intelligence chief Clayton as AI tsar: Reports",
+      "link": "https://www.aljazeera.com/news/2026/10/2/reports-trump-to-name-intel-chief-clayton-as-ai-tsar?traffic_source=rss",
+      "date": "Fri, 02 Oct 2026 16:06:15 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Does the punishment fit the crime? Controversy erupts around ‘Cornell 7’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/does-the-punishment-fit-the-crime-controversy-erupts-around-cornell?traffic_source=rss",
+      "date": "Fri, 02 Oct 2026 16:02:39 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "LIVE: France vs Italy – UEFA Nations League",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/10/2/live-france-vs-italy-uefa-nations-league?traffic_source=rss",
       "date": "Fri, 02 Oct 2026 15:45:55 +0000",
@@ -317,24 +335,6 @@
       "title": "Can India’s ‘cockroach’ movement oust Modi’s election chief?",
       "link": "https://www.aljazeera.com/features/2026/10/2/can-indias-cockroach-movement-oust-modis-election-chief?traffic_source=rss",
       "date": "Fri, 02 Oct 2026 13:50:06 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Man City lodge appeal after guilty finding in financial breach scandal",
-      "link": "https://www.aljazeera.com/sports/2026/10/2/manchester-city-appeal-premier-league-financial-ruling-england-fa?traffic_source=rss",
-      "date": "Fri, 02 Oct 2026 13:17:42 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Trump vs Europe as US presses for release of emergency diesel stocks",
-      "link": "https://www.aljazeera.com/news/2026/10/2/trump-vs-europe-as-us-presses-for-release-of-emergency-diesel-stocks?traffic_source=rss",
-      "date": "Fri, 02 Oct 2026 13:16:44 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Wolf encounter: A photographer on what humans have lost",
-      "link": "https://www.aljazeera.com/features/longform/2026/10/2/wolf-encounter-a-photographer-on-what-humans-have-lost?traffic_source=rss",
-      "date": "Fri, 02 Oct 2026 13:13:05 +0000",
       "source": "Al Jazeera"
     }
   ]
