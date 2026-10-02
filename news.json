@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-02T00:07:13.616257+00:00",
+  "updated": "2026-10-02T00:31:20.432204+00:00",
   "items": [
     {
-      "title": "القوات الحكومية اليمنية تعلن استهداف مواقع \"ذات قيمة عالية\" في صنعاء، والتحالف يعترض مسيرات وصواريخ حوثية باتجاه جنوب السعودية",
+      "title": "القوات الحكومية اليمنية تعلن استهداف مواقع \"ذات قيمة عالية\" في صنعاء",
       "link": "https://www.bbc.com/arabic/articles/c3dx0xjxkd94o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 01 Oct 2026 22:39:51 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "حرائق واحتجاجات طلابية: ماذا يحدث في فرنسا؟",
+      "link": "https://www.bbc.com/arabic/articles/cq3d7dle9jz7o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 02 Oct 2026 00:11:37 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "سجينة أمريكية محكوم عليها بالإعدام تنجو من الموت رغم حقنها بجرعتين قاتلتين",
       "link": "https://www.bbc.com/arabic/articles/c6lyeyrn32xdo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 01 Oct 2026 12:58:16 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "حبس فريق صحفي كامل يعيد ملف حرية الصحافة في مصر إلى الواجهة محلياً ودولياً",
-      "link": "https://www.bbc.com/arabic/articles/cqj9x9vz8v33o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 11:39:15 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss",
+      "date": "Fri, 02 Oct 2026 00:00:00 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
       "link": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
       "date": "Thu, 01 Oct 2026 23:44:39 +0000",
@@ -329,12 +335,6 @@
       "title": "Flydubai co-pilot ‘assaulted’ captain before landing: Initial Saudi probe",
       "link": "https://www.aljazeera.com/news/2026/10/1/flydubai-co-pilot-assaulted-captain-before-landing-initial-saudi-probe?traffic_source=rss",
       "date": "Thu, 01 Oct 2026 21:53:16 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
-      "link": "https://www.aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow?traffic_source=rss",
-      "date": "Thu, 01 Oct 2026 21:33:15 +0000",
       "source": "Al Jazeera"
     }
   ]
