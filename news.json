@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-02T16:00:18.674245+00:00",
+  "updated": "2026-10-02T16:18:12.303572+00:00",
   "items": [
     {
-      "title": "ترامب يتوعّد إيران بـ\"ضربة قوية جداً\" إذا ثبت تورطها بحادثة طائرة \"فلاي دبي\"",
+      "title": "إصابة ناقلة بمقذوف في هرمز وترامب يلوّح بضرب إيران إذا ثبت تورطها في حادثة \"فلاي دبي\"",
       "link": "https://www.bbc.com/arabic/articles/cjx2z23z0neeo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 02 Oct 2026 15:26:37 GMT",
+      "date": "Fri, 02 Oct 2026 16:11:33 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -194,9 +194,15 @@
       "source": "Guardian World"
     },
     {
-      "title": "Nasdaq hits record high after weaker-than-expected US jobs report – business live",
-      "link": "https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates",
-      "date": "Fri, 02 Oct 2026 15:39:06 GMT",
+      "title": "US added just 29,000 jobs in September in sharp drop from last month’s gains",
+      "link": "https://www.theguardian.com/business/2026/oct/02/september-jobs-report",
+      "date": "Fri, 02 Oct 2026 14:04:29 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Bosses of three firms that supply trains to UK railways made £3.5m last year",
+      "link": "https://www.theguardian.com/business/2026/oct/02/bosses-firms-trains-uk-35m-pounds-last-year",
+      "date": "Fri, 02 Oct 2026 15:54:18 GMT",
       "source": "Guardian Business"
     },
     {
@@ -206,15 +212,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Tesco is first supermarket to offer paid ‘safe leave’ for victims of domestic abuse",
-      "link": "https://www.theguardian.com/business/2026/oct/02/tesco-supermarket-paid-safe-leave-domestic-abuse",
-      "date": "Fri, 02 Oct 2026 14:00:08 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "Gordon Ramsay’s UK restaurants stay in red despite sales topping £100m",
       "link": "https://www.theguardian.com/food/2026/oct/02/gordon-ramsay-uk-restaurants-sales-savoy-petrus-lucky-cat",
       "date": "Fri, 02 Oct 2026 11:46:01 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Tesco is first supermarket to offer paid ‘safe leave’ for victims of domestic abuse",
+      "link": "https://www.theguardian.com/business/2026/oct/02/tesco-supermarket-paid-safe-leave-domestic-abuse",
+      "date": "Fri, 02 Oct 2026 14:00:08 GMT",
       "source": "Guardian Business"
     },
     {
@@ -224,21 +230,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Kinky dating app Feeld’s founders share in record £3.8m dividend after sales jump",
-      "link": "https://www.theguardian.com/technology/2026/oct/02/feeld-dating-app-pays-founders-sales-jump",
-      "date": "Fri, 02 Oct 2026 09:58:19 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Aviation security back in spotlight after nightmare on flydubai flight to Israel",
-      "link": "https://www.theguardian.com/world/2026/oct/02/aviation-security-flydubai-flight-israel",
-      "date": "Fri, 02 Oct 2026 15:40:05 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "OpenAI disclose another hack on government department in Australia",
       "link": "https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia",
       "date": "Fri, 02 Oct 2026 10:00:05 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Kinky dating app Feeld’s founders share in record £3.8m dividend after sales jump",
+      "link": "https://www.theguardian.com/technology/2026/oct/02/feeld-dating-app-pays-founders-sales-jump",
+      "date": "Fri, 02 Oct 2026 09:58:19 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "LIVE: France vs Italy – UEFA Nations League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/2/live-france-vs-italy-uefa-nations-league?traffic_source=rss",
+      "date": "Fri, 02 Oct 2026 15:45:55 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Spain’s parliament rejects gov’t housing decrees amid mass protests",
       "link": "https://www.aljazeera.com/news/2026/10/2/spains-parliament-rejects-govt-housing-decrees-amid-mass-protests?traffic_source=rss",
       "date": "Fri, 02 Oct 2026 15:01:08 +0000",
@@ -329,12 +335,6 @@
       "title": "Wolf encounter: A photographer on what humans have lost",
       "link": "https://www.aljazeera.com/features/longform/2026/10/2/wolf-encounter-a-photographer-on-what-humans-have-lost?traffic_source=rss",
       "date": "Fri, 02 Oct 2026 13:13:05 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Protests shutter hundreds of French schools as violence flares",
-      "link": "https://www.aljazeera.com/news/2026/10/2/protests-shutter-hundreds-of-french-schools-as-violence-flares?traffic_source=rss",
-      "date": "Fri, 02 Oct 2026 13:12:45 +0000",
       "source": "Al Jazeera"
     }
   ]
