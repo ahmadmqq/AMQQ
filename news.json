@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-02T10:59:57.821046+00:00",
+  "updated": "2026-10-02T11:16:32.283622+00:00",
   "items": [
     {
       "title": "ترامب يتوعّد إيران بـ\"ضربة قوية جداً\" إذا ثبت ضلوعها في حادثة طائرة \"فلاي دبي\"",
       "link": "https://www.bbc.com/arabic/articles/cjx2z23z0neeo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 02 Oct 2026 09:27:41 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "\"الاعتماد على الأمم المتحدة في هذا الوضع يضع العالم في مأزق كبير\" - الغارديان",
+      "link": "https://www.bbc.com/arabic/articles/cmp8d88z5we9o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 02 Oct 2026 11:14:52 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "بريطانيا تعتقل مواطناً من أصل إيراني على خلفية حادثة قاعدة \"فيرفورد\" الجوية",
-      "link": "https://www.bbc.com/arabic/articles/cmzxzx19wwe2o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 18:30:30 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
       "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 02 Oct 2026 09:08:06 GMT",
@@ -58,7 +58,7 @@
     {
       "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
       "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 22:28:45 GMT",
+      "date": "Fri, 02 Oct 2026 11:06:10 GMT",
       "source": "BBC World"
     },
     {
@@ -290,12 +290,6 @@
       "source": "NPR World"
     },
     {
-      "title": "Indian authorities clamp down as ‘cockroach’ movement launches new protests",
-      "link": "https://www.aljazeera.com/news/2026/10/2/indian-authorities-clamp-down-as-cockroach-movement-launches-new-protests?traffic_source=rss",
-      "date": "Fri, 02 Oct 2026 10:46:47 +0000",
-      "source": "Al Jazeera"
-    },
-    {
       "title": "Protests disrupt Ireland football match with ‘Palestine tennis balls’",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/02-10-sv-ireland-austria-game-tennis-balls-ie?traffic_source=rss",
       "date": "Fri, 02 Oct 2026 10:35:21 +0000",
@@ -335,6 +329,12 @@
       "title": "Israeli court ruling a ‘new threshold’ in Palestinian suppression",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-ziad-abu-rish-israel-politics-qt-mp4?traffic_source=rss",
       "date": "Fri, 02 Oct 2026 09:24:39 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "UK arrests British-Iranian suspect over RAF ‘plot’: What we know",
+      "link": "https://www.aljazeera.com/news/2026/10/2/uk-arrests-british-iranian-suspect-over-raf-plot-what-we-know?traffic_source=rss",
+      "date": "Fri, 02 Oct 2026 09:03:21 +0000",
       "source": "Al Jazeera"
     }
   ]
