@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-02T13:36:09.426371+00:00",
+  "updated": "2026-10-02T13:52:18.431165+00:00",
   "items": [
     {
       "title": "ترامب يتوعّد إيران بـ\"ضربة قوية جداً\" إذا ثبت تورطها بحادثة طائرة \"فلاي دبي\"",
       "link": "https://www.bbc.com/arabic/articles/cjx2z23z0neeo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 02 Oct 2026 11:30:32 GMT",
+      "date": "Fri, 02 Oct 2026 13:37:57 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "\"أوبن إيه آي\" تفصل ثلاثة موظفين بسبب \"سوء التعامل مع معلومات حساسة\"",
+      "link": "https://www.bbc.com/arabic/articles/c317kggjnr82o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 02 Oct 2026 13:39:05 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "الجزائر تُقر عقوبة الإعدام لمفتعِلي حرائق الغابات",
       "link": "https://www.bbc.com/arabic/articles/c65ywyz03pn4o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 02 Oct 2026 01:14:21 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "حرائق واحتجاجات طلابية: ماذا يحدث في فرنسا؟",
-      "link": "https://www.bbc.com/arabic/articles/cq3d7dle9jz7o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 02 Oct 2026 00:11:37 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -134,15 +134,15 @@
       "source": "BBC Business"
     },
     {
-      "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 23:45:06 GMT",
+      "title": "Why UK diesel prices have breached the £2 per litre mark",
+      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 02 Oct 2026 13:38:22 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "OpenAI fires workers for 'mishandling sensitive information'",
-      "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 02 Oct 2026 08:20:32 GMT",
+      "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 01 Oct 2026 23:45:06 GMT",
       "source": "BBC Business"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "US bonds rally after weaker-than-expected jobs report shows hiring slowdown – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates",
-      "date": "Fri, 02 Oct 2026 13:11:09 GMT",
+      "date": "Fri, 02 Oct 2026 13:31:10 GMT",
       "source": "Guardian Business"
     },
     {
@@ -208,7 +208,7 @@
     {
       "title": "UK diesel price hits record high of £2 a litre",
       "link": "https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil",
-      "date": "Fri, 02 Oct 2026 11:00:04 GMT",
+      "date": "Fri, 02 Oct 2026 13:41:04 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,30 @@
       "source": "NPR World"
     },
     {
+      "title": "Man City lodge appeal after guilty finding in financial breach scandal",
+      "link": "https://www.aljazeera.com/sports/2026/10/2/manchester-city-appeal-premier-league-financial-ruling-england-fa?traffic_source=rss",
+      "date": "Fri, 02 Oct 2026 13:17:42 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Trump vs Europe as US presses for release of emergency diesel stocks",
+      "link": "https://www.aljazeera.com/news/2026/10/2/trump-vs-europe-as-us-presses-for-release-of-emergency-diesel-stocks?traffic_source=rss",
+      "date": "Fri, 02 Oct 2026 13:16:44 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Wolf encounter: A photographer on what humans have lost",
+      "link": "https://www.aljazeera.com/features/longform/2026/10/2/wolf-encounter-a-photographer-on-what-humans-have-lost?traffic_source=rss",
+      "date": "Fri, 02 Oct 2026 13:13:05 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Protests shutter hundreds of French schools as violence flares",
+      "link": "https://www.aljazeera.com/news/2026/10/2/protests-shutter-hundreds-of-french-schools-as-violence-flares?traffic_source=rss",
+      "date": "Fri, 02 Oct 2026 13:12:45 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Ebola death toll surpasses 4,000 as DR Congo struggles to suppress outbreak",
       "link": "https://www.aljazeera.com/news/2026/10/2/ebola-death-toll-surpasses-4000-as-dr-congo-struggles-to-suppress-outbreak?traffic_source=rss",
       "date": "Fri, 02 Oct 2026 12:56:18 +0000",
@@ -311,30 +335,6 @@
       "title": "Moment mother bear slams into car to protect cub",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-clip-mother-bear-crashes-into-a-car-in-japan-jp?traffic_source=rss",
       "date": "Fri, 02 Oct 2026 12:42:11 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "12 minutes of madness: How Flydubai pilot, passengers saved plane midfall",
-      "link": "https://www.aljazeera.com/news/2026/10/2/12-minutes-of-madness-how-flydubai-pilot-passengers-saved-plane-midfall?traffic_source=rss",
-      "date": "Fri, 02 Oct 2026 12:37:20 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ethiopian gov’t-aligned group claims close to full control of Tigray region",
-      "link": "https://www.aljazeera.com/news/2026/10/2/ethiopian-govt-aligned-group-claims-close-to-full-control-of-tigray-region?traffic_source=rss",
-      "date": "Fri, 02 Oct 2026 12:27:52 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Tunisia softens its ‘false news’ penalty. What really changed, and why now?",
-      "link": "https://www.aljazeera.com/news/2026/10/2/tunisia-softens-its-false-news-penalty-what-really-changed-and-why-now?traffic_source=rss",
-      "date": "Fri, 02 Oct 2026 12:03:20 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "What’s behind France’s school protests?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/2-10-reported-natascha-paris-school-fr?traffic_source=rss",
-      "date": "Fri, 02 Oct 2026 11:42:52 +0000",
       "source": "Al Jazeera"
     }
   ]
