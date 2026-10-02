@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T18:20:00.012399+00:00",
+  "updated": "2026-10-02T18:40:08.594981+00:00",
   "items": [
     {
       "title": "إصابة ناقلة بمقذوف في هرمز وترامب يلوّح بضرب إيران إذا ثبت تورطها في حادثة \"فلاي دبي\"",
@@ -242,6 +242,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?",
+      "link": "https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first",
+      "date": "Fri, 02 Oct 2026 14:16:07 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'",
       "link": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
       "date": "Fri, 02 Oct 2026 10:37:27 -0400",
@@ -284,10 +290,16 @@
       "source": "NPR World"
     },
     {
-      "title": "What life under U.S. sanctions looks like for one ICC judge",
-      "link": "https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost",
-      "date": "Thu, 01 Oct 2026 04:42:13 -0400",
-      "source": "NPR World"
+      "title": "Israeli barrier cuts off water to West Bank Palestinians before elections",
+      "link": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss",
+      "date": "Fri, 02 Oct 2026 18:18:42 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
+      "link": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties?traffic_source=rss",
+      "date": "Fri, 02 Oct 2026 18:11:37 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "‘I want the truth’: NY governor appoints prosecutor in Cornell rape case",
@@ -323,18 +335,6 @@
       "title": "Three in four households go hungry in parts of Yemen amid fighting: UN",
       "link": "https://www.aljazeera.com/news/2026/10/2/three-in-four-households-go-hungry-in-parts-of-yemen-amid-fighting-un?traffic_source=rss",
       "date": "Fri, 02 Oct 2026 16:06:25 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Trump to name intelligence chief Jay Clayton as AI tsar: Reports",
-      "link": "https://www.aljazeera.com/news/2026/10/2/reports-trump-to-name-intel-chief-clayton-as-ai-tsar?traffic_source=rss",
-      "date": "Fri, 02 Oct 2026 16:06:15 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Does the punishment fit the crime? Controversy erupts around ‘Cornell 7’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/does-the-punishment-fit-the-crime-controversy-erupts-around-cornell?traffic_source=rss",
-      "date": "Fri, 02 Oct 2026 16:02:39 +0000",
       "source": "Al Jazeera"
     }
   ]
