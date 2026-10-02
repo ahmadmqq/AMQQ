@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T08:50:51.121086+00:00",
+  "updated": "2026-10-02T09:01:50.150914+00:00",
   "items": [
     {
       "title": "ترامب يتوعّد إيران بـ\"ضربة قوية جداً\" إذا ثبت ضلوعها في حادثة طائرة \"فلاي دبي\"",
@@ -58,7 +58,7 @@
     {
       "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
       "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 02 Oct 2026 08:16:32 GMT",
+      "date": "Fri, 02 Oct 2026 08:54:00 GMT",
       "source": "BBC World"
     },
     {
@@ -98,27 +98,9 @@
       "source": "BBC World"
     },
     {
-      "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-      "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 02 Oct 2026 08:16:32 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
       "link": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 01 Oct 2026 23:00:06 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "OpenAI fires workers for 'mishandling sensitive information'",
-      "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 02 Oct 2026 08:20:32 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 01 Oct 2026 23:45:06 GMT",
       "source": "BBC Business"
     },
     {
@@ -128,9 +110,27 @@
       "source": "BBC Business"
     },
     {
+      "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+      "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 02 Oct 2026 08:54:00 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 01 Oct 2026 23:45:06 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
       "link": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 01 Oct 2026 23:00:05 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "OpenAI fires workers for 'mishandling sensitive information'",
+      "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 02 Oct 2026 08:20:32 GMT",
       "source": "BBC Business"
     },
     {
@@ -242,12 +242,6 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Investigation into copilot continues after midair stabbing on FlyDubai flight",
-      "link": "https://www.npr.org/2026/10/02/nx-s1-5987790/investigation-into-copilot-continues-after-midair-stabbing-on-flydubai-flight",
-      "date": "Fri, 02 Oct 2026 04:44:09 -0400",
-      "source": "NPR World"
-    },
-    {
       "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
       "link": "https://www.npr.org/2026/10/01/nx-s1-5928148/pearly-king-peckham-george-major-london-cockney",
       "date": "Thu, 01 Oct 2026 10:13:38 -0400",
@@ -290,6 +284,18 @@
       "source": "NPR World"
     },
     {
+      "title": "A midair stabbing on a flight to Israel is investigated for possible terrorist links",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
+      "date": "Wed, 30 Sep 2026 09:35:11 -0400",
+      "source": "NPR World"
+    },
+    {
+      "title": "US delivers F-16V fighter jets to Taiwan as island eyes threat from China",
+      "link": "https://www.aljazeera.com/news/2026/10/2/us-delivers-f-16v-fighter-jets-to-taiwan-as-island-eyes-threat-from-china?traffic_source=rss",
+      "date": "Fri, 02 Oct 2026 08:26:22 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "‘They are crying’: Refugees in Malaysia in fear amid Myanmar deportation",
       "link": "https://www.aljazeera.com/features/2026/10/2/they-are-crying-refugees-in-malaysia-in-fear-amid-myanmar-deportation?traffic_source=rss",
       "date": "Fri, 02 Oct 2026 08:14:18 +0000",
@@ -329,12 +335,6 @@
       "title": "Greece pushes EU to suspend asylum during mass migration surges",
       "link": "https://www.aljazeera.com/news/2026/10/2/greece-pushes-eu-to-suspend-asylum-during-mass-migration-surges?traffic_source=rss",
       "date": "Fri, 02 Oct 2026 06:16:14 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Election debate cancelled in Brazil, bomb scare outside Supreme Court",
-      "link": "https://www.aljazeera.com/news/2026/10/2/election-debate-cancelled-in-brazil-bomb-scare-outside-supreme-court?traffic_source=rss",
-      "date": "Fri, 02 Oct 2026 06:09:57 +0000",
       "source": "Al Jazeera"
     }
   ]
