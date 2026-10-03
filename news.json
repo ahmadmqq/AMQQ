@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T07:00:38.384667+00:00",
+  "updated": "2026-10-03T07:19:20.982226+00:00",
   "items": [
     {
       "title": "هجوم \"مجهول\" يستهدف ناقلتين في مضيق هرمز، ومصادر تتحدّث عن تخطيط سعودي لشن هجوم على الحوثيين",
@@ -194,6 +194,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "BT accused of ‘bullying’ customers by pausing broadband in digital landline push",
+      "link": "https://www.theguardian.com/business/2026/oct/03/bt-customers-broadband-digital-landline-switch-internet",
+      "date": "Sat, 03 Oct 2026 07:00:52 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "US added just 29,000 jobs in September in sharp drop from last month’s gains",
       "link": "https://www.theguardian.com/business/2026/oct/02/september-jobs-report",
       "date": "Fri, 02 Oct 2026 14:04:29 GMT",
@@ -206,9 +212,21 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Bosses of three firms that supply trains to UK railways made £3.5m last year",
-      "link": "https://www.theguardian.com/business/2026/oct/02/bosses-firms-trains-uk-35m-pounds-last-year",
-      "date": "Fri, 02 Oct 2026 15:54:18 GMT",
+      "title": "‘People are deserting it’: why are London mansions struggling to sell?",
+      "link": "https://www.theguardian.com/money/2026/oct/03/london-mansions-sell-house-prices-prime-property",
+      "date": "Sat, 03 Oct 2026 06:00:50 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day",
+      "link": "https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day",
+      "date": "Sat, 03 Oct 2026 05:39:22 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "DoJ declines to reopen investigation into former Fed chair Jay Powell",
+      "link": "https://www.theguardian.com/business/2026/oct/02/doj-fed-chair-jerome-powell-investigation",
+      "date": "Fri, 02 Oct 2026 22:32:21 GMT",
       "source": "Guardian Business"
     },
     {
@@ -218,27 +236,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Tesco is first supermarket to offer paid ‘safe leave’ for victims of domestic abuse",
-      "link": "https://www.theguardian.com/business/2026/oct/02/tesco-supermarket-paid-safe-leave-domestic-abuse",
-      "date": "Fri, 02 Oct 2026 14:00:08 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Burnham to pass law scrapping pension triple lock before next election",
-      "link": "https://www.theguardian.com/politics/2026/oct/02/burnham-law-pension-triple-lock",
-      "date": "Fri, 02 Oct 2026 16:39:11 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "OpenAI disclose another hack on government department in Australia",
-      "link": "https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia",
-      "date": "Fri, 02 Oct 2026 10:00:05 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Kinky dating app Feeld’s founders share in record £3.8m dividend after sales jump",
-      "link": "https://www.theguardian.com/technology/2026/oct/02/feeld-dating-app-pays-founders-sales-jump",
-      "date": "Fri, 02 Oct 2026 09:58:19 GMT",
+      "title": "Bosses of three firms that supply trains to UK railways made £3.5m last year",
+      "link": "https://www.theguardian.com/business/2026/oct/02/bosses-firms-trains-uk-35m-pounds-last-year",
+      "date": "Fri, 02 Oct 2026 15:54:18 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,13 +290,25 @@
       "source": "NPR World"
     },
     {
-      "title": "India vs Pakistan live: Asian Games cricket final",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 06:17:31 +0000",
+      "title": "Singer Zach Bryan wears Free Palestine shirt at Gillette Stadium",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-zach-byran-free-palestine-clip-mp4?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 06:53:09 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Flydubai co-pilot stabbed captain with crash axe in ‘terrorist’ attack: UAE",
+      "title": "‘Trauma still there’: A decades-old standoff returns to Northern Ireland",
+      "link": "https://www.aljazeera.com/news/2026/10/3/trauma-still-there-a-decades-old-standoff-returns-to-northern-ireland?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 06:51:09 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "India vs Pakistan live: Asian Games cricket final",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 06:37:31 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Flydubai co-pilot attacked captain with crash axe in ‘terrorist act’: UAE",
       "link": "https://www.aljazeera.com/news/2026/10/3/flydubai-co-pilot-stabbed-pilot-with-crash-axe-in-terrorist-attack-uae?traffic_source=rss",
       "date": "Sat, 03 Oct 2026 06:16:47 +0000",
       "source": "Al Jazeera"
@@ -323,18 +335,6 @@
       "title": "Brazil’s Lula and Bolsonaro draw thousands as campaigns near end",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/brazils-lula-and-bolsonaro-draw-thousands-as-campaigns-near-end?traffic_source=rss",
       "date": "Sat, 03 Oct 2026 04:43:15 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "10 injured after car crashes into rugby supporters in Australia",
-      "link": "https://www.aljazeera.com/news/2026/10/3/10-injured-after-car-crashes-into-rugby-supporters-in-australia?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 04:29:23 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "India’s Cockroach Party headlines day of anti-establishment protests",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/indias-cockroach-party-headlines-day-of-anti-establishment-protests?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 04:28:03 +0000",
       "source": "Al Jazeera"
     }
   ]
