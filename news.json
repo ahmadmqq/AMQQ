@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-03T18:23:19.493776+00:00",
+  "updated": "2026-10-04T00:07:08.255890+00:00",
   "items": [
     {
-      "title": "تقارير: \"السعودية تستعد لهجوم على جماعة أنصار الله\"، وحريق بمنشأة لأرامكو وانفجارات في صنعاء",
+      "title": "الجيش اليمني يعلن تنفيذ ضربات ضد الحوثيين في صنعاء، وجماعة أنصار الله تقول إنها استهدفت منشأة لأرامكو بالرياض",
       "link": "https://www.bbc.com/arabic/articles/cqy7l6m2n22mo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 03 Oct 2026 17:11:17 GMT",
+      "date": "Sat, 03 Oct 2026 23:00:53 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "استقالة مسؤول السجون في ولاية تينيسي بعد فشل إعدام كريستا بايك",
+      "link": "https://www.bbc.com/arabic/articles/c5zjxyzkjyrxo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 03 Oct 2026 23:02:37 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -22,7 +28,7 @@
     {
       "title": "النائب العام الإماراتي: مساعد طيّار \"فلاي دبي\" خطط لتنفيذ \"عملية إرهابية\"، ومشاركة إسرائيلية في التحقيق معه",
       "link": "https://www.bbc.com/arabic/articles/cmz65xn02l1do?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 03 Oct 2026 18:17:44 GMT",
+      "date": "Sat, 03 Oct 2026 19:15:25 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,15 +50,15 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "استهداف ناقلتين بمقذوفات مجهولة قرب مضيق هرمز وعُمان، ومجموعة السبع تتفق على ضخ احتياطيات نفطية",
-      "link": "https://www.bbc.com/arabic/articles/cqpvgyjxmwwno?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 03 Oct 2026 12:31:27 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
       "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 03 Oct 2026 17:48:42 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Cornell president says university 'must do better' after frat house rape allegations",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 03 Oct 2026 23:35:59 GMT",
       "source": "BBC World"
     },
     {
@@ -82,13 +88,7 @@
     {
       "title": "Medical plane with 6 on board missing off Massachusetts coast",
       "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 03 Oct 2026 18:06:47 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Women given shorts at Oktoberfest to prevent upskirting",
-      "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 02 Oct 2026 23:16:03 GMT",
+      "date": "Sat, 03 Oct 2026 21:16:21 GMT",
       "source": "BBC World"
     },
     {
@@ -194,21 +194,15 @@
       "source": "Guardian World"
     },
     {
+      "title": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’",
+      "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "date": "Sat, 03 Oct 2026 19:41:21 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "UAE may halt UK investments after Manchester City guilty verdict",
       "link": "https://www.theguardian.com/football/2026/oct/03/united-arab-emirates-uae-uk-investments-manchester-city-guilty-verdict",
       "date": "Sat, 03 Oct 2026 12:00:27 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "BT accused of ‘bullying’ customers by pausing broadband in digital landline push",
-      "link": "https://www.theguardian.com/business/2026/oct/03/bt-customers-broadband-digital-landline-switch-internet",
-      "date": "Sat, 03 Oct 2026 07:00:52 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Nitrite-free bacon sales boom in UK amid fears over curing chemicals",
-      "link": "https://www.theguardian.com/food/2026/oct/03/nitrite-free-bacon-sales-consumers-health-risks",
-      "date": "Sat, 03 Oct 2026 12:00:58 GMT",
       "source": "Guardian Business"
     },
     {
@@ -218,15 +212,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "UK urged to act as Polymarket takes bets on whether HSBC and Lloyds will fail",
-      "link": "https://www.theguardian.com/business/2026/oct/03/uk-polymarket-hsbc-lloyds-failures-banks",
-      "date": "Sat, 03 Oct 2026 08:00:53 GMT",
+      "title": "Nitrite-free bacon sales boom in UK amid fears over curing chemicals",
+      "link": "https://www.theguardian.com/food/2026/oct/03/nitrite-free-bacon-sales-consumers-health-risks",
+      "date": "Sat, 03 Oct 2026 12:00:58 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day",
-      "link": "https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day",
-      "date": "Sat, 03 Oct 2026 05:39:22 GMT",
+      "title": "UK urged to act as Polymarket takes bets on whether HSBC and Lloyds will fail",
+      "link": "https://www.theguardian.com/business/2026/oct/03/uk-polymarket-hsbc-lloyds-failures-banks",
+      "date": "Sat, 03 Oct 2026 08:00:53 GMT",
       "source": "Guardian Business"
     },
     {
@@ -236,10 +230,40 @@
       "source": "Guardian Business"
     },
     {
-      "title": "London Labour council warns it may raise council tax by 150%",
-      "link": "https://www.theguardian.com/society/2026/oct/03/london-labour-council-tax-hammersmith-fulham",
-      "date": "Sat, 03 Oct 2026 06:00:53 GMT",
+      "title": "They embraced the Fiat 500, the Vespa, even tuk-tuks. But will Romans draw the line at the golf cart?",
+      "link": "https://www.theguardian.com/world/2026/oct/03/rome-golf-cart-tours-crackdown-tourism",
+      "date": "Sat, 03 Oct 2026 10:00:56 GMT",
       "source": "Guardian Business"
+    },
+    {
+      "title": "Burnham must remember: more regulation is not the best way to improve public services | Phillip Inman",
+      "link": "https://www.theguardian.com/business/2026/oct/03/andy-burnham-regulation-public-services-nhs",
+      "date": "Sat, 03 Oct 2026 15:00:02 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "For some Brazilians, this election is a vote on Trump",
+      "link": "https://www.npr.org/2026/10/03/nx-s1-5989699/for-some-brazilians-this-election-is-a-vote-on-trump",
+      "date": "Sat, 03 Oct 2026 17:57:36 -0400",
+      "source": "NPR World"
+    },
+    {
+      "title": "France arrests 5,000 people, mostly teens, as school protests spread",
+      "link": "https://www.npr.org/2026/10/03/nx-s1-5989532/france-arrests-5-000-people-mostly-teens-as-school-protests-spread",
+      "date": "Sat, 03 Oct 2026 17:57:35 -0400",
+      "source": "NPR World"
+    },
+    {
+      "title": "U.S. withdrawal from Iraq is complete",
+      "link": "https://www.npr.org/2026/10/03/nx-s1-5987758/u-s-withdrawal-from-iraq-is-complete",
+      "date": "Sat, 03 Oct 2026 17:57:33 -0400",
+      "source": "NPR World"
+    },
+    {
+      "title": "Lula or Bolsonaro? Some Brazilian voters say they don't want either",
+      "link": "https://www.npr.org/2026/10/03/nx-s1-5981108/lula-or-bolsonaro-some-brazilian-voters-say-they-dont-want-either",
+      "date": "Sat, 03 Oct 2026 17:57:29 -0400",
+      "source": "NPR World"
     },
     {
       "title": "Brazil's big political rematch: What to know about the Brazilian election",
@@ -266,75 +290,51 @@
       "source": "NPR World"
     },
     {
-      "title": "October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?",
-      "link": "https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first",
-      "date": "Fri, 02 Oct 2026 14:16:07 -0400",
-      "source": "NPR World"
-    },
-    {
-      "title": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'",
-      "link": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
-      "date": "Fri, 02 Oct 2026 10:37:27 -0400",
-      "source": "NPR World"
-    },
-    {
-      "title": "Cornell rape case gets special prosecutor. And, Renee Good's family sues the government",
-      "link": "https://www.npr.org/2026/10/02/g-s1-146075/up-first-newsletter-cornell-assault-case-christa-pike-jobs-report-renee-good",
-      "date": "Fri, 02 Oct 2026 07:22:38 -0400",
-      "source": "NPR World"
-    },
-    {
-      "title": "Pro-democracy activists increasingly vulnerable to authoritarian governments in Southeast Asia",
-      "link": "https://www.npr.org/2026/10/02/g-s1-146064/pro-democracy-activists-asia-authoritarian-governments",
-      "date": "Fri, 02 Oct 2026 05:00:00 -0400",
-      "source": "NPR World"
-    },
-    {
-      "title": "Tennessee prisons official resigns after Christa Pike’s failed US execution",
-      "link": "https://www.aljazeera.com/news/2026/10/3/tennessee-prisons-official-resigns-after-christa-pikes-failed-us-execution?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 17:31:54 +0000",
+      "title": "Air ambulance missing on flight from Bermuda to Boston",
+      "link": "https://www.aljazeera.com/news/2026/10/3/air-ambulance-missing-on-flight-from-bermuda-to-boston?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 23:03:44 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Israeli reporter’s ‘verbal attack’ ends Ireland football news conference",
-      "link": "https://www.aljazeera.com/sports/2026/10/3/israeli-reporters-verbal-attack-ends-ireland-football-news-conference?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 17:25:28 +0000",
+      "title": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
+      "link": "https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 22:43:58 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
-      "link": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 16:25:03 +0000",
+      "title": "Israeli settlers attack Palestinian farmers during olive harvest",
+      "link": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 21:15:05 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 16:17:23 +0000",
+      "title": "Fernandes denies Portugal rift, hails Ronaldo after walk out",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 21:02:22 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 16:16:32 +0000",
+      "title": "Trump ramps up pressure on US Republicans to end US clock switching",
+      "link": "https://www.aljazeera.com/news/2026/10/3/trump-ramps-up-pressure-on-us-republicans-to-end-us-clock-switching?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 20:16:50 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "What we know about the co-pilot accused in Flydubai attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/what-we-know-about-the-co-pilot-accused-in-flydubai-attack?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 15:39:10 +0000",
+      "title": "Funeral held at Gaza church for mother and daughter killed in Gaza strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 20:10:17 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "‘Bordering on angry’: The state of play as US midterms enter final month",
-      "link": "https://www.aljazeera.com/news/2026/10/3/bordering-on-angry-the-state-of-play-as-us-midterms-enter-final-month?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 15:18:28 +0000",
+      "title": "Remains of Bulgaria’s Czar Samuel return ‘home’ after 1,000 years",
+      "link": "https://www.aljazeera.com/news/2026/10/3/remains-of-bulgarias-czar-samuel-return-home-after-1000-years?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 19:14:43 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Tens of thousands protest in Spain after failed housing reforms",
-      "link": "https://www.aljazeera.com/news/2026/10/3/tens-of-thousands-protest-in-spain-after-failed-housing-reforms?traffic_source=rss",
-      "date": "Sat, 03 Oct 2026 15:06:40 +0000",
+      "title": "Is the CJP changing India’s political landscape?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/3/is-the-cjp-changing-indias-political-landscape?traffic_source=rss",
+      "date": "Sat, 03 Oct 2026 19:00:01 +0000",
       "source": "Al Jazeera"
     }
   ]
