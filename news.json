@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T21:09:50.005854+00:00",
+  "updated": "2026-10-04T21:37:30.626670+00:00",
   "items": [
     {
       "title": "الحكومة اليمنية تعلن بدء عملية عسكرية ضد الحوثيين، والجماعة تعلن مهاجمة \"أرامكو\" في \"عمليتين نوعيتين\"",
@@ -8,9 +8,9 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "قوات متمردة إثيوبية تنسحب من عاصمة إقليم تيغراي",
-      "link": "https://www.bbc.com/arabic/articles/c64g1d73rl9lo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 04 Oct 2026 15:34:34 GMT",
+      "title": "معسكرات لتدريب النساء على حمل السلاح في إيران، وعراقجي يؤكد: \"لا حلّ عسكري\" مع بلاده",
+      "link": "https://www.bbc.com/arabic/articles/cq8jz7yl7r12o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 04 Oct 2026 21:11:58 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -20,15 +20,15 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "\"عودة الغايب\" فضل شاكر يستعد للقاء جمهوره من جديد، كيف مهّدت السعودية لعودته؟",
-      "link": "https://www.bbc.com/arabic/articles/c670pznve45ko?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 04 Oct 2026 18:23:15 GMT",
+      "title": "قوات متمردة إثيوبية تنسحب من عاصمة إقليم تيغراي",
+      "link": "https://www.bbc.com/arabic/articles/c64g1d73rl9lo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 04 Oct 2026 15:34:34 GMT",
       "source": "BBC Arabic"
     },
     {
-      "title": "عراقجي يؤكد: \"لا حلّ عسكري مع إيران\"، وقاليباف يقول إن هرمز لن يُفتح قبل استيفاء 7 شروط",
-      "link": "https://www.bbc.com/arabic/articles/cq8jz7yl7r12o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 04 Oct 2026 18:13:52 GMT",
+      "title": "\"عودة الغايب\" فضل شاكر يستعد للقاء جمهوره من جديد، كيف مهّدت السعودية لعودته؟",
+      "link": "https://www.bbc.com/arabic/articles/c670pznve45ko?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 04 Oct 2026 18:23:15 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -68,6 +68,12 @@
       "source": "BBC World"
     },
     {
+      "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 04 Oct 2026 21:11:49 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
       "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 04 Oct 2026 13:33:05 GMT",
@@ -80,21 +86,15 @@
       "source": "BBC World"
     },
     {
-      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
-      "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 04 Oct 2026 14:36:57 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Indian police accused of sexually harassing journalists at protest",
       "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 04 Oct 2026 17:01:19 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Australia investigating Flydubai co-pilot's links to country",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 04 Oct 2026 06:19:17 GMT",
+      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 04 Oct 2026 14:36:57 GMT",
       "source": "BBC World"
     },
     {
@@ -188,7 +188,7 @@
       "source": "Guardian World"
     },
     {
-      "title": "Brazil goes to polls in decisive election for future of Latin America",
+      "title": "Polls close in first round of Brazil’s high-stakes presidential election",
       "link": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
       "date": "Sun, 04 Oct 2026 13:52:33 GMT",
       "source": "Guardian World"
@@ -218,6 +218,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Tories to pledge to scrap Environment Agency and Natural England",
+      "link": "https://www.theguardian.com/politics/2026/oct/04/tories-scrap-environment-agency-natural-england-conservative-conference",
+      "date": "Sun, 04 Oct 2026 21:00:38 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Ministers explore how to stop regional leaders misusing planned new spending powers",
       "link": "https://www.theguardian.com/politics/2026/oct/04/ministers-regional-leaders-spending-powers-devolution",
       "date": "Sun, 04 Oct 2026 06:00:19 GMT",
@@ -233,12 +239,6 @@
       "title": "Thousands of Glasgow council workers face pay cuts in one of UK’s biggest fire-and-rehire plans",
       "link": "https://www.theguardian.com/society/2026/oct/04/glasgow-council-workers-face-pay-cuts-in-fire-and-rehire-plan-after-union-talks-break-down",
       "date": "Sun, 04 Oct 2026 09:13:29 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "‘They call every week’: the phishing attacks targeting past victims",
-      "link": "https://www.theguardian.com/money/2026/oct/04/repeat-phishing-attacks-target-past-scam-victims",
-      "date": "Sun, 04 Oct 2026 06:00:20 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Ronaldo-less Portugal beat Norway 2-1 to reach Nations League quarterfinals",
+      "link": "https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals?traffic_source=rss",
+      "date": "Sun, 04 Oct 2026 21:10:00 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’",
+      "link": "https://www.aljazeera.com/news/2026/10/4/israel-lashes-out-as-uks-green-party-formally-defines-zionism-as-racism?traffic_source=rss",
+      "date": "Sun, 04 Oct 2026 20:38:56 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Debris found near Nantucket believed to be from missing medical plane",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/debris-found-near-nantucket-believed-to-be-from-missing-medical-plane?traffic_source=rss",
       "date": "Sun, 04 Oct 2026 20:21:09 +0000",
@@ -323,18 +335,6 @@
       "title": "Pro-Imran Khan mass rally launched after Pakistan government talks fail",
       "link": "https://www.aljazeera.com/news/2026/10/4/pro-imran-khan-mass-rally-launched-after-pakistan-government-talks-fail?traffic_source=rss",
       "date": "Sun, 04 Oct 2026 19:20:08 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "War on Iran: Is escalation more likely than a deal?",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
-      "date": "Sun, 04 Oct 2026 18:47:22 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ku Klux Klan leader claims rising support ahead of US midterm elections",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/ku-klux-klan-leader-claims-rising-support-ahead-of-us-midterm-elections?traffic_source=rss",
-      "date": "Sun, 04 Oct 2026 18:34:30 +0000",
       "source": "Al Jazeera"
     }
   ]
