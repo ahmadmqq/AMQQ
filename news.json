@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-05T02:02:14.778150+00:00",
+  "updated": "2026-10-05T02:19:23.383754+00:00",
   "items": [
     {
       "title": "أطراف \"اتفاقية مكة\" تجتمع في الرياض الاثنين، والحكومة اليمنية والحوثيون ينفذون عمليات عسكرية متبادلة",
       "link": "https://www.bbc.com/arabic/articles/cqy7l6m2n22mo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 04 Oct 2026 23:20:07 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "الولايات المتحدة تسحب جميع قاذفاتها من قاعدة \"فيرفورد\" الجوية البريطانية",
+      "link": "https://www.bbc.com/arabic/articles/cqev3y8gxw8jo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 05 Oct 2026 02:11:21 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -29,12 +35,6 @@
       "title": "\"عودة الغايب\" فضل شاكر يستعد للقاء جمهوره من جديد، كيف مهّدت السعودية لعودته؟",
       "link": "https://www.bbc.com/arabic/articles/c670pznve45ko?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 04 Oct 2026 18:23:15 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "قوات متمردة إثيوبية تنسحب من عاصمة إقليم تيغراي",
-      "link": "https://www.bbc.com/arabic/articles/c64g1d73rl9lo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 04 Oct 2026 15:34:34 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -104,9 +104,9 @@
       "source": "BBC Business"
     },
     {
-      "title": "Trump announces 'Super Intelligence Force' to oversee AI policy",
+      "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
       "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 05 Oct 2026 01:59:56 GMT",
+      "date": "Mon, 05 Oct 2026 02:09:44 GMT",
       "source": "BBC Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Can the KKK find a new foothold in the US?",
+      "link": "https://www.aljazeera.com/news/2026/10/5/can-the-kkk-find-a-new-foothold-in-the-us?traffic_source=rss",
+      "date": "Mon, 05 Oct 2026 01:47:13 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
       "link": "https://www.aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings?traffic_source=rss",
       "date": "Mon, 05 Oct 2026 01:08:44 +0000",
@@ -329,12 +335,6 @@
       "title": "Cristiano Ronaldo can return to Portugal team if he wants, says Jesus",
       "link": "https://www.aljazeera.com/sports/2026/10/4/cristiano-ronaldo-can-return-to-portugal-team-if-he-wants-says-jesus?traffic_source=rss",
       "date": "Sun, 04 Oct 2026 23:16:18 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Mysterious luminous object burns in the skies above Libya",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mysterious-luminous-object-burns-in-the-skies-above-libya?traffic_source=rss",
-      "date": "Sun, 04 Oct 2026 22:56:32 +0000",
       "source": "Al Jazeera"
     }
   ]
