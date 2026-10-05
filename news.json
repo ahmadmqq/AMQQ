@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T07:40:45.991589+00:00",
+  "updated": "2026-10-05T07:56:20.604432+00:00",
   "items": [
     {
       "title": "إسرائيل تفرض إغلاقاً شاملاً على الضفة الغربية ومعابر غزة اليوم مع اقتراب ذكرى 7 أكتوبر",
@@ -10,7 +10,7 @@
     {
       "title": "اجتماع للجان \"اتفاقية مكة\" في الرياض اليوم، والقوات اليمنية تنفّذ 1,122 عملية ضد الحوثيين",
       "link": "https://www.bbc.com/arabic/articles/c6x23k87n4ejo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 05 Oct 2026 06:20:26 GMT",
+      "date": "Mon, 05 Oct 2026 07:41:12 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -50,7 +50,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
       "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 05 Oct 2026 03:16:16 GMT",
       "source": "BBC World"
@@ -100,7 +100,7 @@
     {
       "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
       "link": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 05 Oct 2026 07:05:42 GMT",
+      "date": "Mon, 05 Oct 2026 07:46:29 GMT",
       "source": "BBC Business"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "BT strikes deal to rescue broadband firm TalkTalk; euro slides amid France debt burden fears – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/05/bt-strikes-deal-rescue-broadband-firm-talktalk-euro-slides-france-debt-burden-fears-live-updates",
-      "date": "Mon, 05 Oct 2026 07:29:40 GMT",
+      "date": "Mon, 05 Oct 2026 07:36:12 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Spanish Prime Minister Pedro Sanchez announces snap election",
+      "link": "https://www.aljazeera.com/news/2026/10/5/spanish-prime-minister-pedro-sanchez-announces-snap-election?traffic_source=rss",
+      "date": "Mon, 05 Oct 2026 07:14:41 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "World Space Week: Which countries have sent people to space?",
       "link": "https://www.aljazeera.com/news/2026/10/5/world-space-week-which-countries-have-sent-people-to-space?traffic_source=rss",
       "date": "Mon, 05 Oct 2026 07:06:18 +0000",
@@ -329,12 +335,6 @@
       "title": "FBI arrests ‘Chinese foreign agent’ for spying on Taiwan president’s son",
       "link": "https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son?traffic_source=rss",
       "date": "Mon, 05 Oct 2026 04:13:20 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Russian lab worker dies of suspected plague in Siberia; US monitoring case",
-      "link": "https://www.aljazeera.com/news/2026/10/5/russian-lab-worker-dies-of-suspected-plague-in-siberia-us-monitoring-case?traffic_source=rss",
-      "date": "Mon, 05 Oct 2026 04:07:51 +0000",
       "source": "Al Jazeera"
     }
   ]
