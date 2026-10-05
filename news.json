@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T08:52:01.530692+00:00",
+  "updated": "2026-10-05T09:03:45.245582+00:00",
   "items": [
     {
       "title": "اجتماع للجان \"اتفاقية مكة\" في الرياض اليوم، والقوات اليمنية تنفّذ عمليات ضد جماعة أنصار الله",
@@ -17,6 +17,12 @@
       "title": "كيف أصبحت الهند تعتمد بشكل كبير على الواردات الصينية؟",
       "link": "https://www.bbc.com/arabic/articles/cmvgxwj1nv04o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 05 Oct 2026 07:28:22 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "ماذا تفعل عندما يُطرَح عليك هذا السؤال في مقابلة العمل؟",
+      "link": "https://www.bbc.com/arabic/articles/c9ly0lrmx80xo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 05 Oct 2026 08:51:56 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "معسكرات لتدريب النساء على حمل السلاح في إيران، وعراقجي يؤكد: \"لا يوجد حلٌ عسكريٌ\" مع بلاده",
       "link": "https://www.bbc.com/arabic/articles/cq8jz7yl7r12o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 04 Oct 2026 21:11:58 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "\"عودة الغايب\" فضل شاكر يستعد للقاء جمهوره من جديد، كيف مهّدت السعودية لعودته؟",
-      "link": "https://www.bbc.com/arabic/articles/c670pznve45ko?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 04 Oct 2026 18:23:15 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -140,9 +140,9 @@
       "source": "BBC Business"
     },
     {
-      "title": "US jobs market sees sharp slowdown ahead of midterm elections",
-      "link": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 02 Oct 2026 14:30:48 GMT",
+      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 03 Oct 2026 04:38:31 GMT",
       "source": "BBC Business"
     },
     {
@@ -196,11 +196,11 @@
     {
       "title": "BT strikes deal to rescue broadband firm TalkTalk; euro slides amid France debt burden fears – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/05/bt-strikes-deal-rescue-broadband-firm-talktalk-euro-slides-france-debt-burden-fears-live-updates",
-      "date": "Mon, 05 Oct 2026 08:30:31 GMT",
+      "date": "Mon, 05 Oct 2026 08:50:07 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Coach services could be cut due to record diesel prices, operators warn",
+      "title": "Coach services could be cut due to record diesel prices, UK operators warn",
       "link": "https://www.theguardian.com/uk-news/2026/oct/05/coach-services-cut-record-diesel-prices-fuel-school-transport",
       "date": "Mon, 05 Oct 2026 08:20:17 GMT",
       "source": "Guardian Business"
@@ -242,12 +242,6 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Iraq's Iranian-backed militias say it'll cease attacks once U.S. military withdraws",
-      "link": "https://www.npr.org/2026/10/05/nx-s1-5989380/iraqs-iranian-backed-militias-say-itll-cease-attacks-once-u-s-military-withdraws",
-      "date": "Mon, 05 Oct 2026 04:45:05 -0400",
-      "source": "NPR World"
-    },
-    {
       "title": "Russia's attacks on Ukraine escalate as its drones target bridges in Kyiv",
       "link": "https://www.npr.org/2026/10/05/nx-s1-5989637/russias-attacks-on-ukraine-escalate-as-its-drones-target-bridges-in-kyiv",
       "date": "Mon, 05 Oct 2026 04:44:06 -0400",
@@ -287,6 +281,12 @@
       "title": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
       "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
       "date": "Sun, 04 Oct 2026 06:00:00 -0400",
+      "source": "NPR World"
+    },
+    {
+      "title": "For some Brazilians, this election is a vote on Trump",
+      "link": "https://www.npr.org/2026/10/03/nx-s1-5989699/for-some-brazilians-this-election-is-a-vote-on-trump",
+      "date": "Sat, 03 Oct 2026 17:57:36 -0400",
       "source": "NPR World"
     },
     {
