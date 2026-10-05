@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T00:21:41.524643+00:00",
+  "updated": "2026-10-05T00:46:55.685314+00:00",
   "items": [
     {
       "title": "أطراف \"اتفاقية مكة\" تجتمع في الرياض الاثنين، والحكومة اليمنية والحوثيون ينفذون عمليات عسكرية متبادلة",
@@ -70,7 +70,7 @@
     {
       "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
       "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 05 Oct 2026 00:15:27 GMT",
+      "date": "Mon, 05 Oct 2026 00:27:06 GMT",
       "source": "BBC World"
     },
     {
@@ -178,19 +178,19 @@
     {
       "title": "Brazil presidential election 2026: first-round live results",
       "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
-      "date": "Sun, 04 Oct 2026 22:01:31 GMT",
+      "date": "Mon, 05 Oct 2026 00:24:55 GMT",
+      "source": "Guardian World"
+    },
+    {
+      "title": "Brazil’s presidential race to go to second round as Flávio Bolsonaro leads incumbent Lula",
+      "link": "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro",
+      "date": "Mon, 05 Oct 2026 00:16:52 GMT",
       "source": "Guardian World"
     },
     {
       "title": "Would slashing migration tank the economy or reset Australia’s living standards? Canada may offer clues",
       "link": "https://www.theguardian.com/australia-news/2026/oct/05/canada-migration-technical-recession-economy-lessons-for-australia",
       "date": "Sun, 04 Oct 2026 14:00:32 GMT",
-      "source": "Guardian World"
-    },
-    {
-      "title": "Polls close in first round of Brazil’s high-stakes presidential election",
-      "link": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
-      "date": "Sun, 04 Oct 2026 13:52:33 GMT",
       "source": "Guardian World"
     },
     {
@@ -242,6 +242,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Brazil's presidential race heads to Lula–Bolsonaro run-off as right gains ground",
+      "link": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
+      "date": "Sun, 04 Oct 2026 20:17:35 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "The Amazon's future is on the ballot in Brazil. Many voters aren't focused on it",
       "link": "https://www.npr.org/2026/10/04/nx-s1-5986271/the-amazons-future-is-on-the-ballot-in-brazil-many-voters-arent-focused-on-it",
       "date": "Sun, 04 Oct 2026 17:57:06 -0400",
@@ -284,10 +290,16 @@
       "source": "NPR World"
     },
     {
-      "title": "U.S. withdrawal from Iraq is complete",
-      "link": "https://www.npr.org/2026/10/03/nx-s1-5987758/u-s-withdrawal-from-iraq-is-complete",
-      "date": "Sat, 03 Oct 2026 17:57:33 -0400",
-      "source": "NPR World"
+      "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
+      "date": "Mon, 05 Oct 2026 00:00:00 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Israel face spitting allegation as Ireland boss ‘delighted’ ties after over",
+      "link": "https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss",
+      "date": "Sun, 04 Oct 2026 23:52:49 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Manchester City must be relegated, says Canada’s ex-Leeds manager",
@@ -323,18 +335,6 @@
       "title": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
       "link": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss",
       "date": "Sun, 04 Oct 2026 22:23:30 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Cornell case puts New York’s progressive image at odds with its rape laws",
-      "link": "https://www.aljazeera.com/news/2026/10/4/cornell-case-puts-new-yorks-progressive-image-at-odds-with-its-rape-laws?traffic_source=rss",
-      "date": "Sun, 04 Oct 2026 21:39:55 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ireland refuse handshake with Israel and don armbands in Nations League tie",
-      "link": "https://www.aljazeera.com/sports/2026/10/4/ireland-refuse-handshake-with-israel-and-don-armbands-in-nations-league-tie?traffic_source=rss",
-      "date": "Sun, 04 Oct 2026 21:30:22 +0000",
       "source": "Al Jazeera"
     }
   ]
