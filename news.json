@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T09:43:56.841374+00:00",
+  "updated": "2026-10-05T09:59:18.850174+00:00",
   "items": [
     {
       "title": "اجتماع للجان \"اتفاقية مكة\" في الرياض اليوم، والقوات اليمنية تنفّذ عمليات ضد جماعة أنصار الله",
@@ -100,7 +100,7 @@
     {
       "title": "Average five-year mortgage rate hits 6% for first time in three years",
       "link": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 05 Oct 2026 09:16:24 GMT",
+      "date": "Mon, 05 Oct 2026 09:54:57 GMT",
       "source": "BBC Business"
     },
     {
@@ -176,6 +176,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "Quebec poised to elect separatists to power for first time more than decade",
+      "link": "https://www.theguardian.com/world/2026/oct/05/quebec-election-separatist-government-parti-quebecois-referendum",
+      "date": "Mon, 05 Oct 2026 09:30:52 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "Sass Jordan, Canadian rock singer-songwriter, dies aged 65",
       "link": "https://www.theguardian.com/music/2026/oct/05/sass-jordan-canadian-rock-singer-songwriter-dies-aged-65",
       "date": "Mon, 05 Oct 2026 09:22:59 GMT",
@@ -188,15 +194,15 @@
       "source": "Guardian World"
     },
     {
-      "title": "Brazil’s presidential race goes to second round as Flávio Bolsonaro leads incumbent Lula",
-      "link": "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro",
-      "date": "Mon, 05 Oct 2026 00:16:52 GMT",
-      "source": "Guardian World"
-    },
-    {
       "title": "BT strikes deal to rescue broadband firm TalkTalk; euro slides amid France debt burden fears – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/05/bt-strikes-deal-rescue-broadband-firm-talktalk-euro-slides-france-debt-burden-fears-live-updates",
-      "date": "Mon, 05 Oct 2026 09:21:49 GMT",
+      "date": "Mon, 05 Oct 2026 09:44:28 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "UK considering tariffs on Chinese car imports to align with EU, reports say",
+      "link": "https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing",
+      "date": "Mon, 05 Oct 2026 09:43:22 GMT",
       "source": "Guardian Business"
     },
     {
@@ -227,12 +233,6 @@
       "title": "‘I didn’t know what to do’: collapse of providers of high-end digs leaves students in shock",
       "link": "https://www.theguardian.com/education/2026/oct/05/collapse-providers-high-end-student-accommodation",
       "date": "Mon, 05 Oct 2026 05:00:47 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets",
-      "link": "https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws",
-      "date": "Sun, 04 Oct 2026 05:00:18 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Yemen forces claim to seize Dhubab, sites near Bab al-Mandeb from Houthis",
+      "link": "https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis?traffic_source=rss",
+      "date": "Mon, 05 Oct 2026 09:40:37 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Yemen war escalates: What’s the latest, as government forces claim gains?",
+      "link": "https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield?traffic_source=rss",
+      "date": "Mon, 05 Oct 2026 09:38:26 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Formula One to probe software bug behind Bahrain GP chaos in Sepang",
       "link": "https://www.aljazeera.com/sports/2026/10/5/formula-one-to-probe-software-bug-behind-bahrain-gp-chaos-in-sepang?traffic_source=rss",
       "date": "Mon, 05 Oct 2026 09:02:06 +0000",
@@ -323,18 +335,6 @@
       "title": "Spain’s Pedro Sanchez announces snap election amid housing crisis",
       "link": "https://www.aljazeera.com/news/2026/10/5/spanish-prime-minister-pedro-sanchez-announces-snap-election?traffic_source=rss",
       "date": "Mon, 05 Oct 2026 07:14:41 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "World Space Week: Which countries have sent people to space?",
-      "link": "https://www.aljazeera.com/news/2026/10/5/world-space-week-which-countries-have-sent-people-to-space?traffic_source=rss",
-      "date": "Mon, 05 Oct 2026 07:06:18 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Djokovic defeats top seed Zverev to reach China Open semifinals",
-      "link": "https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss",
-      "date": "Mon, 05 Oct 2026 05:56:13 +0000",
       "source": "Al Jazeera"
     }
   ]
