@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T11:24:00.283423+00:00",
+  "updated": "2026-10-05T11:42:04.645588+00:00",
   "items": [
     {
       "title": "القوات الحكومية اليمنية تعلن السيطرة على باب المندب وبدء هجوم على صنعاء، واجتماع للجان \"اتفاقية مكة\" في الرياض اليوم",
@@ -50,13 +50,19 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "Spanish PM Sánchez calls early election after housing protests",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 05 Oct 2026 10:18:47 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
       "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 05 Oct 2026 03:16:16 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Nobel Prize awarded for showing how nerve cells shape feelings",
+      "title": "Nobel Prize awarded for showing inner workings of the brain",
       "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 05 Oct 2026 11:04:37 GMT",
       "source": "BBC World"
@@ -89,12 +95,6 @@
       "title": "Supporters of jailed ex-PM Imran Khan begin march in Pakistan",
       "link": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 05 Oct 2026 10:23:26 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Trump chooses top spy boss to run new AI taskforce",
-      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 05 Oct 2026 10:03:38 GMT",
       "source": "BBC World"
     },
     {
@@ -134,15 +134,15 @@
       "source": "BBC Business"
     },
     {
-      "title": "How India became dangerously addicted to Chinese imports",
-      "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 05 Oct 2026 01:42:11 GMT",
+      "title": "Why are data centres such a big deal in Scotland?",
+      "link": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 05 Oct 2026 10:04:08 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Suppliers pile pressure on government over energy bills",
-      "link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 03 Oct 2026 08:58:44 GMT",
+      "title": "How India became dangerously addicted to Chinese imports",
+      "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 05 Oct 2026 01:42:11 GMT",
       "source": "BBC Business"
     },
     {
@@ -242,6 +242,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Imran Khan supporters march in Pakistan to demand his release after talks failed",
+      "link": "https://www.npr.org/2026/10/05/g-s1-146408/imran-khan-supporters-march-in-pakistan-to-demand-his-release-after-talks-failed",
+      "date": "Mon, 05 Oct 2026 07:38:26 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
       "link": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
       "date": "Mon, 05 Oct 2026 07:07:09 -0400",
@@ -284,10 +290,22 @@
       "source": "NPR World"
     },
     {
-      "title": "The Amazon's future is on the ballot in Brazil. Many voters aren't focused on it",
-      "link": "https://www.npr.org/2026/10/04/nx-s1-5986271/the-amazons-future-is-on-the-ballot-in-brazil-many-voters-arent-focused-on-it",
-      "date": "Sun, 04 Oct 2026 17:57:06 -0400",
-      "source": "NPR World"
+      "title": "Growing outrage in Japan after US Marine arrested in woman’s killing",
+      "link": "https://www.aljazeera.com/news/2026/10/5/growing-outrage-in-japan-after-us-marine-arrested-in-womans-killing?traffic_source=rss",
+      "date": "Mon, 05 Oct 2026 11:25:45 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "US abruptly withdraws bombers from UK’s RAF Fairford",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/us-abruptly-withdraws-bombers-from-uks-raf-fairford?traffic_source=rss",
+      "date": "Mon, 05 Oct 2026 11:09:57 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Photos: Yemen’s hospitals struggle to operate amid persistent power outages",
+      "link": "https://www.aljazeera.com/gallery/2026/10/5/photos-yemens-hospitals-struggle-to-operate-amid-persistent-power-outages?traffic_source=rss",
+      "date": "Mon, 05 Oct 2026 11:01:07 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Gaza mothers seek breastfeeding support amid hunger and siege",
@@ -317,24 +335,6 @@
       "title": "Yemeni forces reclaim Dhubab, key positions near Bab al-Mandeb from Houthis",
       "link": "https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis?traffic_source=rss",
       "date": "Mon, 05 Oct 2026 09:40:37 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Yemen war: What’s the latest, as government forces claim advances?",
-      "link": "https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield?traffic_source=rss",
-      "date": "Mon, 05 Oct 2026 09:38:26 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Formula One to probe software bug behind Bahrain GP chaos in Sepang",
-      "link": "https://www.aljazeera.com/sports/2026/10/5/formula-one-to-probe-software-bug-behind-bahrain-gp-chaos-in-sepang?traffic_source=rss",
-      "date": "Mon, 05 Oct 2026 09:02:06 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "‘If I didn’t write what moved me, it’d be like putting myself in prison’",
-      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/5/if-i-didnt-write-what-moved-me-itd-be-like-putting-myself-in-prison?traffic_source=rss",
-      "date": "Mon, 05 Oct 2026 09:00:00 +0000",
       "source": "Al Jazeera"
     }
   ]
