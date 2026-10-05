@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T14:43:12.134679+00:00",
+  "updated": "2026-10-05T15:00:00.782785+00:00",
   "items": [
     {
       "title": "القوات الحكومية اليمنية تعلن السيطرة على باب المندب وبدء هجوم على صنعاء، واجتماع للجان \"اتفاقية مكة\" في الرياض اليوم",
@@ -11,6 +11,12 @@
       "title": "إسرائيل تفرض إغلاقاً شاملاً على الضفة الغربية ومعابر غزة اليوم مع اقتراب ذكرى 7 أكتوبر",
       "link": "https://www.bbc.com/arabic/articles/cmeq3nv8vg9ro?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 05 Oct 2026 08:25:58 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "\"لا نحتفل بوطن يظلم نصفه\": اعتراضات على \"المدونة الجعفرية\" وواقع حقوق النساء في العراق",
+      "link": "https://www.bbc.com/arabic/articles/cm2ked7k00d7o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 05 Oct 2026 14:54:32 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "الولايات المتحدة تسحب جميع قاذفاتها من قاعدة \"فيرفورد\" الجوية البريطانية",
       "link": "https://www.bbc.com/arabic/articles/cqev3y8gxw8jo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 05 Oct 2026 02:11:21 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "لماذا قد يؤثر الجدل حول أيقونة للسيدة مريم العذراء على الانتخابات الرئاسية بالبرازيل؟",
-      "link": "https://www.bbc.com/arabic/articles/ckd7qxdl9l3lo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 04 Oct 2026 20:24:32 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -290,7 +290,19 @@
       "source": "NPR World"
     },
     {
-      "title": "Samoa Prime Minister apologises after Nazi salute video surfaces",
+      "title": "US pulls bombers from UK base: Is Iran manoeuvring Trump’s war plans?",
+      "link": "https://www.aljazeera.com/news-analysis/2026/10/5/us-pulls-bombers-from-uk-base-is-iran-maneouvering-trumps-war-plans?traffic_source=rss",
+      "date": "Mon, 05 Oct 2026 14:19:44 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Nobel medicine prize honours US and German scientists for optogenetics work",
+      "link": "https://www.aljazeera.com/news/2026/10/5/nobel-medicine-prize-honours-us-and-german-scientists-for-optogenetics-work?traffic_source=rss",
+      "date": "Mon, 05 Oct 2026 14:18:18 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Samoa prime minister apologises after Nazi salute video surfaces",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/samoa-prime-minister-apologises-after-nazi-salute-video-surfaces?traffic_source=rss",
       "date": "Mon, 05 Oct 2026 13:48:32 +0000",
       "source": "Al Jazeera"
@@ -323,18 +335,6 @@
       "title": "In Russia-occupied Oleshky, Ukrainians face hunger, drones and landmines",
       "link": "https://www.aljazeera.com/news/2026/10/5/in-russia-occupied-oleshky-ukrainians-face-hunger-drones-and-landmines?traffic_source=rss",
       "date": "Mon, 05 Oct 2026 12:26:40 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Students continue to protest in France as hundreds of schools close",
-      "link": "https://www.aljazeera.com/news/2026/10/5/students-continue-to-protest-in-france-as-hundreds-of-schools-close?traffic_source=rss",
-      "date": "Mon, 05 Oct 2026 12:25:26 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "UK Green Party votes to define Zionism as ‘racism’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/uk-green-party-votes-to-define-zionism-as?traffic_source=rss",
-      "date": "Mon, 05 Oct 2026 12:16:32 +0000",
       "source": "Al Jazeera"
     }
   ]
