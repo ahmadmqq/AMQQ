@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T07:22:10.294212+00:00",
+  "updated": "2026-10-05T07:40:45.991589+00:00",
   "items": [
     {
       "title": "إسرائيل تفرض إغلاقاً شاملاً على الضفة الغربية ومعابر غزة اليوم مع اقتراب ذكرى 7 أكتوبر",
@@ -11,6 +11,12 @@
       "title": "اجتماع للجان \"اتفاقية مكة\" في الرياض اليوم، والقوات اليمنية تنفّذ 1,122 عملية ضد الحوثيين",
       "link": "https://www.bbc.com/arabic/articles/c6x23k87n4ejo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 05 Oct 2026 06:20:26 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "كيف أصبحت الهند تعتمد بشكل كبير على الواردات الصينية؟",
+      "link": "https://www.bbc.com/arabic/articles/cmvgxwj1nv04o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 05 Oct 2026 07:28:22 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "\"عودة الغايب\" فضل شاكر يستعد للقاء جمهوره من جديد، كيف مهّدت السعودية لعودته؟",
       "link": "https://www.bbc.com/arabic/articles/c670pznve45ko?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 04 Oct 2026 18:23:15 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "نهائي خليجي 27: السعودية والإمارات، لقب رابع للأخضر أم ثالث للأبيض؟",
-      "link": "https://www.bbc.com/arabic/articles/cw054gpmz17go?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 04 Oct 2026 12:04:51 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "BT strikes deal to rescue broadband firm TalkTalk; euro slides amid France debt burden fears – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/05/bt-strikes-deal-rescue-broadband-firm-talktalk-euro-slides-france-debt-burden-fears-live-updates",
-      "date": "Mon, 05 Oct 2026 07:06:15 GMT",
+      "date": "Mon, 05 Oct 2026 07:29:40 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "World Space Week: Which countries have sent people to space?",
+      "link": "https://www.aljazeera.com/news/2026/10/5/world-space-week-which-countries-have-sent-people-to-space?traffic_source=rss",
+      "date": "Mon, 05 Oct 2026 07:06:18 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Djokovic defeats top seed Zverev to reach China Open semifinals",
       "link": "https://www.aljazeera.com/sports/2026/10/5/djokovic-defeats-top-seed-zverev-to-reach-china-open-semifinals?traffic_source=rss",
       "date": "Mon, 05 Oct 2026 05:56:13 +0000",
@@ -329,12 +335,6 @@
       "title": "Russian lab worker dies of suspected plague in Siberia; US monitoring case",
       "link": "https://www.aljazeera.com/news/2026/10/5/russian-lab-worker-dies-of-suspected-plague-in-siberia-us-monitoring-case?traffic_source=rss",
       "date": "Mon, 05 Oct 2026 04:07:51 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Singapore turns matchmaker amid rock-bottom birthrate",
-      "link": "https://www.aljazeera.com/economy/2026/10/5/singapore-turns-matchmaker-amid-rock-bottom-birthrate?traffic_source=rss",
-      "date": "Mon, 05 Oct 2026 03:48:17 +0000",
       "source": "Al Jazeera"
     }
   ]
