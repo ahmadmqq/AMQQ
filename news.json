@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T12:39:43.655953+00:00",
+  "updated": "2026-10-05T13:01:07.724888+00:00",
   "items": [
     {
       "title": "القوات الحكومية اليمنية تعلن السيطرة على باب المندب وبدء هجوم على صنعاء، واجتماع للجان \"اتفاقية مكة\" في الرياض اليوم",
@@ -11,6 +11,12 @@
       "title": "إسرائيل تفرض إغلاقاً شاملاً على الضفة الغربية ومعابر غزة اليوم مع اقتراب ذكرى 7 أكتوبر",
       "link": "https://www.bbc.com/arabic/articles/cmeq3nv8vg9ro?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 05 Oct 2026 08:25:58 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "لماذا لا يقتنع ناخبون أمريكيون بـ\"قوة\" اقتصاد ترامب؟ - مقال في واشنطن بوست",
+      "link": "https://www.bbc.com/arabic/articles/cjx2341w0nyyo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 05 Oct 2026 12:45:13 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "معسكرات لتدريب النساء على حمل السلاح في إيران، وعراقجي يؤكد: \"لا يوجد حلٌ عسكريٌ\" مع بلاده",
-      "link": "https://www.bbc.com/arabic/articles/cq8jz7yl7r12o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 04 Oct 2026 21:11:58 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Spanish PM Sánchez calls early election after housing protests",
       "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 05 Oct 2026 10:18:47 GMT",
@@ -68,7 +68,7 @@
       "source": "BBC World"
     },
     {
-      "title": "Nobel Prize awarded for showing inner workings of the brain",
+      "title": "Nobel Prize awarded for revealing inner workings of the brain",
       "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 05 Oct 2026 11:04:37 GMT",
       "source": "BBC World"
@@ -76,7 +76,7 @@
     {
       "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
       "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 05 Oct 2026 12:21:32 GMT",
+      "date": "Mon, 05 Oct 2026 12:48:01 GMT",
       "source": "BBC World"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "Global oil stockpiles ‘scarily thin,’ says Saudi Aramco chief; euro hits 17-month low on France debt fears – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/05/bt-strikes-deal-rescue-broadband-firm-talktalk-euro-slides-france-debt-burden-fears-live-updates",
-      "date": "Mon, 05 Oct 2026 11:35:52 GMT",
+      "date": "Mon, 05 Oct 2026 12:36:21 GMT",
       "source": "Guardian Business"
     },
     {
@@ -242,6 +242,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Drones buzz overhead, troops hunker underground in Ukraine's hellish Kill Zone",
+      "link": "https://www.npr.org/2026/10/05/nx-s1-5925803/drones-buzz-overhead-troops-hunker-underground-in-ukraines-hellish-kill-zone",
+      "date": "Mon, 05 Oct 2026 08:33:20 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "FBI arrests a woman accused of spying on Taiwan leader's family for China",
       "link": "https://www.npr.org/2026/10/05/g-s1-146410/fbi-arrests-a-woman-accused-of-spying-on-taiwan-leaders-family-for-china",
       "date": "Mon, 05 Oct 2026 07:47:36 -0400",
@@ -257,6 +263,12 @@
       "title": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
       "link": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
       "date": "Mon, 05 Oct 2026 07:07:09 -0400",
+      "source": "NPR World"
+    },
+    {
+      "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, ongoing investigation finds",
+      "link": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
+      "date": "Mon, 05 Oct 2026 06:53:46 -0400",
       "source": "NPR World"
     },
     {
@@ -278,16 +290,16 @@
       "source": "NPR World"
     },
     {
-      "title": "Spain's prime minister calls early elections as pressure mounts over housing crisis",
-      "link": "https://www.npr.org/2026/10/05/nx-s1-5991404/spain-snap-elections",
-      "date": "Mon, 05 Oct 2026 05:15:55 -0400",
-      "source": "NPR World"
+      "title": "Bolsonaro favourite to win: What Brazil’s first round of elections tells us",
+      "link": "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us?traffic_source=rss",
+      "date": "Mon, 05 Oct 2026 12:34:30 +0000",
+      "source": "Al Jazeera"
     },
     {
-      "title": "Russia's attacks on Ukraine escalate as its drones target bridges in Kyiv",
-      "link": "https://www.npr.org/2026/10/05/nx-s1-5989637/russias-attacks-on-ukraine-escalate-as-its-drones-target-bridges-in-kyiv",
-      "date": "Mon, 05 Oct 2026 04:44:06 -0400",
-      "source": "NPR World"
+      "title": "Lionel Messi to join Argentina for farewell match against Benin",
+      "link": "https://www.aljazeera.com/sports/2026/10/5/lionel-messi-argentina-farewell-final-match-benin?traffic_source=rss",
+      "date": "Mon, 05 Oct 2026 12:30:46 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "In Russia-occupied Oleshky, Ukrainians face hunger, drones and landmines",
@@ -323,18 +335,6 @@
       "title": "US abruptly withdraws bombers from UK’s RAF Fairford",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/us-abruptly-withdraws-bombers-from-uks-raf-fairford?traffic_source=rss",
       "date": "Mon, 05 Oct 2026 11:09:57 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Photos: Yemen’s hospitals struggle to operate amid persistent power outages",
-      "link": "https://www.aljazeera.com/gallery/2026/10/5/photos-yemens-hospitals-struggle-to-operate-amid-persistent-power-outages?traffic_source=rss",
-      "date": "Mon, 05 Oct 2026 11:01:07 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Gaza mothers seek breastfeeding support amid hunger and siege",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/gaza-mothers-seek-breastfeeding-support-amid-hunger-and-siege?traffic_source=rss",
-      "date": "Mon, 05 Oct 2026 10:42:08 +0000",
       "source": "Al Jazeera"
     }
   ]
