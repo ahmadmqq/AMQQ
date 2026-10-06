@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T19:00:01.980261+00:00",
+  "updated": "2026-10-06T19:16:00.538600+00:00",
   "items": [
     {
       "title": "التحالف يعترض صاروخاً باتجاه خميس مشيط، والحوثيون يؤكدون \"إحكام قبضتهم\" على مكتسباتهم",
@@ -50,6 +50,12 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "Tear gas in Paris and Marseille as school protests grow across France",
+      "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 06 Oct 2026 18:03:19 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Former German spy chief arrested for espionage and treason",
       "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 06 Oct 2026 10:05:42 GMT",
@@ -89,12 +95,6 @@
       "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
       "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 06 Oct 2026 02:22:24 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "AfD candidate elected speaker of German regional parliament for first time",
-      "link": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 06 Oct 2026 14:44:03 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Catalan separatist leader Puigdemont to return home after warrant lifted",
+      "link": "https://www.aljazeera.com/news/2026/10/6/catalan-separatist-leader-puigdemont-to-return-home-after-warrant-lifted?traffic_source=rss",
+      "date": "Tue, 06 Oct 2026 18:58:01 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Amid protests, Kosovo’s political deadlock raises prospect of new elections",
       "link": "https://www.aljazeera.com/news/2026/10/6/amid-protests-kosovos-political-deadlock-raises-prospect-of-new-elections?traffic_source=rss",
       "date": "Tue, 06 Oct 2026 18:25:45 +0000",
@@ -329,12 +335,6 @@
       "title": "Djokovic wins China Open after de Minaur retires, Alcaraz wins Japan Open",
       "link": "https://www.aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open?traffic_source=rss",
       "date": "Tue, 06 Oct 2026 16:53:37 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ship sinks off Bulgaria after drone attack in Black Sea",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss",
-      "date": "Tue, 06 Oct 2026 16:53:04 +0000",
       "source": "Al Jazeera"
     }
   ]
