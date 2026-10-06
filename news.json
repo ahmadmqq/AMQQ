@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T21:12:49.103015+00:00",
+  "updated": "2026-10-06T21:28:59.761232+00:00",
   "items": [
     {
       "title": "التحالف يعترض صاروخاً باتجاه خميس مشيط، والحوثيون يؤكدون \"إحكام قبضتهم\" على مكتسباتهم",
@@ -50,15 +50,15 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "Tear gas in Paris and Marseille as school protests grow across France",
-      "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 06 Oct 2026 18:03:19 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "US death row inmate Christa Pike conscious after failed execution, lawyers say",
       "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 06 Oct 2026 21:09:41 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Tear gas in Paris and Marseille as school protests grow across France",
+      "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 06 Oct 2026 18:03:19 GMT",
       "source": "BBC World"
     },
     {
@@ -242,6 +242,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Is it time to talk to the Taliban?",
+      "link": "https://www.npr.org/2026/10/06/nx-s1-5971130/is-it-time-to-talk-to-the-taliban",
+      "date": "Tue, 06 Oct 2026 17:16:10 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "The questions swirling around a U.K. base and possible Iranian-backed attacks",
       "link": "https://www.npr.org/2026/10/06/nx-s1-5992853/the-questions-swirling-around-a-u-k-base-and-possible-iranian-backed-attacks",
       "date": "Tue, 06 Oct 2026 16:53:46 -0400",
@@ -284,10 +290,22 @@
       "source": "NPR World"
     },
     {
-      "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
-      "link": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
-      "date": "Tue, 06 Oct 2026 06:16:28 -0400",
-      "source": "NPR World"
+      "title": "US CDC says it’s ‘aware of and closely monitoring’ Russian plague case",
+      "link": "https://www.aljazeera.com/news-analysis/2026/10/6/us-cdc-says-its-aware-of-and-closely-monitoring-russian-plague-case?traffic_source=rss",
+      "date": "Tue, 06 Oct 2026 20:54:07 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Cornell names Sally Yates to review university’s response to rape case",
+      "link": "https://www.aljazeera.com/news/2026/10/6/cornell-names-sally-yates-to-review-universitys-response-to-rape-case?traffic_source=rss",
+      "date": "Tue, 06 Oct 2026 20:49:10 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Why Flavio Bolsonaro outperformed the polls in Brazil’s election",
+      "link": "https://www.aljazeera.com/news/2026/10/6/why-flavio-bolsonaro-outperformed-the-polls-in-brazils-election?traffic_source=rss",
+      "date": "Tue, 06 Oct 2026 20:44:12 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "US lawmakers call on Israel to release imprisoned doctor Hussam Abu Safia",
@@ -317,24 +335,6 @@
       "title": "Is there a MAGA after Trump?",
       "link": "https://www.aljazeera.com/video/lets-focus/2026/10/6/is-there-a-maga-after-trump?traffic_source=rss",
       "date": "Tue, 06 Oct 2026 20:07:11 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ronaldo apologizes for Portugal walkout; says Jesus broke promise",
-      "link": "https://www.aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss",
-      "date": "Tue, 06 Oct 2026 19:56:14 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Yemen’s government is on the attack against the Houthis. What has changed?",
-      "link": "https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed?traffic_source=rss",
-      "date": "Tue, 06 Oct 2026 19:43:05 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "The new players in space",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/the-new-players-in-space?traffic_source=rss",
-      "date": "Tue, 06 Oct 2026 19:34:42 +0000",
       "source": "Al Jazeera"
     }
   ]
