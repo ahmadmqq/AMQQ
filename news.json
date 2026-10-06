@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T14:28:15.820168+00:00",
+  "updated": "2026-10-06T14:45:13.378848+00:00",
   "items": [
     {
       "title": "التحالف ينفذ عملية عسكرية في الحديدة \"حمايةً للملاحة\"، وأنصار الله يؤكدون \"إحكام قبضتهم\" على مكتسباتهم",
@@ -14,15 +14,21 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "رونالدو أمام نهاية مصيرية ومفاجئة لمسيرته الدولية",
-      "link": "https://www.bbc.com/arabic/articles/ck79pz30lng7o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 06 Oct 2026 11:19:24 GMT",
+      "title": "مواجهة مرتقبة بين السعودية والإمارات في نهائي كأس الخليج بتحكيم مغربي",
+      "link": "https://www.bbc.com/arabic/articles/c5x2v8xn44deo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 06 Oct 2026 14:41:11 GMT",
       "source": "BBC Arabic"
     },
     {
       "title": "ماذا تقول الأرقام عن ضحايا الحرب في قطاع غزة؟ ومن دفع الثمن الأكبر؟",
       "link": "https://www.bbc.com/arabic/articles/crlyjpj4wl94o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 06 Oct 2026 06:12:27 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "رونالدو أمام نهاية مصيرية ومفاجئة لمسيرته الدولية",
+      "link": "https://www.bbc.com/arabic/articles/ck79pz30lng7o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 06 Oct 2026 11:19:24 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "لماذا سحب ترامب قاذفاته من بريطانيا؟ - مقال في الإندبندنت",
       "link": "https://www.bbc.com/arabic/articles/ckd6dv5wq19xo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 06 Oct 2026 08:04:53 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "سانشيز يدعو لانتخابات مبكرة في إسبانيا بعد أزمة السكن، فلماذا تعثرت تدابير الحكومة؟",
-      "link": "https://www.bbc.com/arabic/articles/cr5yn3n7xdv9o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 05 Oct 2026 17:26:12 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -100,7 +100,7 @@
     {
       "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
       "link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 06 Oct 2026 14:05:20 GMT",
+      "date": "Tue, 06 Oct 2026 14:37:38 GMT",
       "source": "BBC Business"
     },
     {
@@ -194,9 +194,9 @@
       "source": "Guardian World"
     },
     {
-      "title": "Asos investigating after thousands of customers get notification saying retailer has been hacked – business live",
-      "link": "https://www.theguardian.com/business/live/2026/oct/06/euro-france-central-bank-interest-rates-bonds-latest-live-updates",
-      "date": "Tue, 06 Oct 2026 14:18:52 GMT",
+      "title": "Asos customers receive ‘hack’ notification threatening to leak data",
+      "link": "https://www.theguardian.com/business/2026/oct/06/asos-hack-notification-website-app",
+      "date": "Tue, 06 Oct 2026 13:35:31 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,30 @@
       "source": "NPR World"
     },
     {
+      "title": "France protests: What we know as schools brace for nationwide action",
+      "link": "https://www.aljazeera.com/features/2026/10/6/france-protests-what-we-know-as-schools-brace-for-nationwide-action?traffic_source=rss",
+      "date": "Tue, 06 Oct 2026 14:22:36 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Hormuz ship attacks surge: Are increased oil exports sustainable?",
+      "link": "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable?traffic_source=rss",
+      "date": "Tue, 06 Oct 2026 14:15:09 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "‘Cockroach stir stripped Modi’s carefully confected image’: Arundhati Roy",
+      "link": "https://www.aljazeera.com/news/2026/10/6/cockroach-stir-stripped-modis-carefully-confected-image-arundhati-roy?traffic_source=rss",
+      "date": "Tue, 06 Oct 2026 14:13:55 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "What we know about Russia’s suspected plague case",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/what-we-know-about-russias-suspected-plague-case?traffic_source=rss",
+      "date": "Tue, 06 Oct 2026 14:12:36 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "UK police arrest British national linked to airbase incident",
       "link": "https://www.aljazeera.com/news/2026/10/6/uk-police-arrest-british-national-linked-to-airbase-incident?traffic_source=rss",
       "date": "Tue, 06 Oct 2026 13:44:19 +0000",
@@ -311,30 +335,6 @@
       "title": "Ukraine launches major drone attack on Russia’s Moscow region, killing two",
       "link": "https://www.aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two?traffic_source=rss",
       "date": "Tue, 06 Oct 2026 12:42:19 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Francis Halzen wins Nobel Prize in Physics for work on ‘ghost particles’",
-      "link": "https://www.aljazeera.com/news/2026/10/6/francis-halzen-wins-nobel-prize-in-physics-for-work-on-ghost-particles?traffic_source=rss",
-      "date": "Tue, 06 Oct 2026 12:31:16 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Mapping where US bombers are based globally",
-      "link": "https://www.aljazeera.com/news/2026/10/6/mapping-where-us-bombers-are-based-around-the-world?traffic_source=rss",
-      "date": "Tue, 06 Oct 2026 12:22:54 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Pakistan, Turkiye and Saudi deterrence against Houthis: What that means",
-      "link": "https://www.aljazeera.com/news/2026/10/6/pakistan-turkiye-join-saudi-deterrence-against-houthis-what-that-means?traffic_source=rss",
-      "date": "Tue, 06 Oct 2026 12:22:46 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Qatar and India among seven countries bidding for 2036 Olympics, IOC says",
-      "link": "https://www.aljazeera.com/sports/2026/10/6/qatar-and-india-among-seven-countries-bidding-for-2036-olympics-ioc-says?traffic_source=rss",
-      "date": "Tue, 06 Oct 2026 12:19:50 +0000",
       "source": "Al Jazeera"
     }
   ]
