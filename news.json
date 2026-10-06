@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-06T06:04:32.714698+00:00",
+  "updated": "2026-10-06T06:28:02.376434+00:00",
   "items": [
     {
       "title": "تقدمٌ لقوات الحكومة اليمنية بعد معارك على باب المندب، وأنصار الله تقصف أهدفاً في السعودية",
       "link": "https://www.bbc.com/arabic/articles/cwvg0742x1mvo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 06 Oct 2026 01:03:34 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "ماذا تقول الأرقام عن ضحايا الحرب في قطاع غزة؟ ومن دفع الثمن الأكبر؟",
+      "link": "https://www.bbc.com/arabic/articles/crlyjpj4wl94o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 06 Oct 2026 06:12:27 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "كيف أصبحت الهند تعتمد بشكل كبير على الواردات الصينية؟",
       "link": "https://www.bbc.com/arabic/articles/cmvgxwj1nv04o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 05 Oct 2026 07:28:22 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "هل تستطيع التمييز بين ما يكتبه الإنسان وما ينتجه الذكاء الاصطناعي؟",
-      "link": "https://www.bbc.com/arabic/articles/cm4gle7nqp65o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 05 Oct 2026 09:28:14 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -92,9 +92,9 @@
       "source": "BBC World"
     },
     {
-      "title": "UK MPs call for investigation after Lutnick-Epstein whistleblower dies",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 05 Oct 2026 23:29:02 GMT",
+      "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 06 Oct 2026 06:00:53 GMT",
       "source": "BBC World"
     },
     {
@@ -107,6 +107,18 @@
       "title": "OpenAI admits response to Australian government hacks 'not good enough'",
       "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 06 Oct 2026 06:00:53 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Last call for the mall? How shopping centres are reinventing themselves",
+      "link": "https://www.bbc.co.uk/news/articles/ck9qrq1d19w4o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 06 Oct 2026 05:28:37 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Wood Group offshore workers launch 48-hour strike in row over pay",
+      "link": "https://www.bbc.co.uk/news/articles/cm79pn0y8257o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 06 Oct 2026 04:57:20 GMT",
       "source": "BBC Business"
     },
     {
@@ -128,21 +140,9 @@
       "source": "BBC Business"
     },
     {
-      "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
-      "link": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 05 Oct 2026 10:25:36 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
       "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 05 Oct 2026 17:23:28 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Trump chooses top spy boss to run new AI taskforce",
-      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 05 Oct 2026 10:03:38 GMT",
       "source": "BBC Business"
     },
     {
@@ -230,9 +230,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Accept ‘bad things’ in return for benefits of AI, says Sam Altman",
-      "link": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-      "date": "Mon, 05 Oct 2026 13:27:45 GMT",
+      "title": "‘Pull the plug’: protesters resort to direct action against AI firms",
+      "link": "https://www.theguardian.com/technology/2026/oct/06/pull-the-plug-protesters-resort-to-direct-action-against-ai-firms",
+      "date": "Tue, 06 Oct 2026 06:00:04 GMT",
       "source": "Guardian Business"
     },
     {
