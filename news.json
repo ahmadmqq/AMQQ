@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-06T19:58:05.805747+00:00",
+  "updated": "2026-10-06T20:12:42.793450+00:00",
   "items": [
     {
       "title": "التحالف يعترض صاروخاً باتجاه خميس مشيط، والحوثيون يؤكدون \"إحكام قبضتهم\" على مكتسباتهم",
       "link": "https://www.bbc.com/arabic/articles/c9vgr411jl21o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 06 Oct 2026 17:20:21 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "مناشدات للسعودية بالعفو عن شاب حُكم عليه بالإعدام بسبب تعليق على فيسبوك",
+      "link": "https://www.bbc.com/arabic/articles/cmkgk7edzdd8o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 06 Oct 2026 19:53:39 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "مواجهة مرتقبة بين السعودية والإمارات في نهائي كأس الخليج بتحكيم مغربي",
       "link": "https://www.bbc.com/arabic/articles/c5x2v8xn44deo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 06 Oct 2026 14:41:11 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "رونالدو أمام نهاية مصيرية ومفاجئة لمسيرته الدولية",
-      "link": "https://www.bbc.com/arabic/articles/ck79pz30lng7o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 06 Oct 2026 11:19:24 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Yemen’s government is on the attack against the Houthis. What has changed?",
+      "link": "https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed?traffic_source=rss",
+      "date": "Tue, 06 Oct 2026 19:43:05 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "The new players in space",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/the-new-players-in-space?traffic_source=rss",
+      "date": "Tue, 06 Oct 2026 19:34:42 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Russia denies imposing anti-plague measures after lab worker death",
+      "link": "https://www.aljazeera.com/news/2026/10/6/russia-denies-imposing-anti-plague-measures-after-lab-worker-death?traffic_source=rss",
+      "date": "Tue, 06 Oct 2026 19:26:27 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Catalan separatist Puigdemont to return to Spain after warrant lifted",
       "link": "https://www.aljazeera.com/news/2026/10/6/catalan-separatist-leader-puigdemont-to-return-home-after-warrant-lifted?traffic_source=rss",
       "date": "Tue, 06 Oct 2026 18:58:01 +0000",
@@ -317,24 +335,6 @@
       "title": "Jerusalem Daily:  Tension high in Israel ahead of October 7",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/jerusalem-daily-tension-high-in-israel-ahead-of-october-7?traffic_source=rss",
       "date": "Tue, 06 Oct 2026 17:39:19 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Yemen’s Taiz residents fear food and fuel crisis amid fighting",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/yemens-taiz-residents-fear-food-and-fuel-crisis-amid-fighting?traffic_source=rss",
-      "date": "Tue, 06 Oct 2026 17:34:32 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Kenya confirms first Ebola case as man dies in Nairobi after DRC return",
-      "link": "https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi?traffic_source=rss",
-      "date": "Tue, 06 Oct 2026 17:00:52 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Djokovic wins China Open after de Minaur retires, Alcaraz wins Japan Open",
-      "link": "https://www.aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open?traffic_source=rss",
-      "date": "Tue, 06 Oct 2026 16:53:37 +0000",
       "source": "Al Jazeera"
     }
   ]
