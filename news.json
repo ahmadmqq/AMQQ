@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T16:03:26.196087+00:00",
+  "updated": "2026-10-06T16:23:51.602858+00:00",
   "items": [
     {
       "title": "التحالف ينفذ عملية عسكرية في الحديدة \"حمايةً للملاحة\"، وأنصار الله يؤكدون \"إحكام قبضتهم\" على مكتسباتهم",
@@ -11,6 +11,12 @@
       "title": "لماذا أثار قرار السعودية بتصحيح أوضاع اليمنيين في البلاد تفاعلاً واسعاً عبر مواقع التواصل؟",
       "link": "https://www.bbc.com/arabic/articles/c65yn3kj9ww4o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 06 Oct 2026 15:45:03 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "طحالب ومكعب جليدي وراء جوائز نوبل في الطب والفيزياء لهذا العام...كيف يتم ترشيح الفائزين؟",
+      "link": "https://www.bbc.com/arabic/articles/cqvgr43px763o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 06 Oct 2026 16:11:46 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -38,12 +44,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "أطفال اليمن يتحدّون نيران القناصة وقذائف الهاون في طريقهم إلى المدرسة",
-      "link": "https://www.bbc.com/arabic/articles/cm70p4z3724go?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 06 Oct 2026 09:21:59 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "حالة \"تأهب قصوى\" في إسرائيل، وإغلاق شامل على معابر الضفة الغربية و غزة قُبيل ذكرى 7 أكتوبر",
       "link": "https://www.bbc.com/arabic/articles/cmeq3nv8vg9ro?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 06 Oct 2026 09:14:54 GMT",
@@ -64,7 +64,7 @@
     {
       "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
       "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 06 Oct 2026 14:15:06 GMT",
+      "date": "Tue, 06 Oct 2026 16:22:37 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Is Europe preparing for a wider war with Russia?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/is-europe-preparing-for-a-wider-war-with-russia?traffic_source=rss",
+      "date": "Tue, 06 Oct 2026 16:17:58 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "FIFA chief Infantino’s ‘abuse of power’ questioned by Norway in complaints",
+      "link": "https://www.aljazeera.com/sports/2026/10/6/fifa-chief-infantinos-abuse-of-power-questioned-by-norway-in-complaints?traffic_source=rss",
+      "date": "Tue, 06 Oct 2026 15:49:54 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "LIVE: Croatia vs Spain – UEFA Nations League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/6/live-crostia-vs-spain-uefa-nations-league?traffic_source=rss",
+      "date": "Tue, 06 Oct 2026 15:47:16 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Birzeit University memorial destruction aims to crush Palestinian memory",
       "link": "https://www.aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory?traffic_source=rss",
       "date": "Tue, 06 Oct 2026 15:14:28 +0000",
@@ -317,24 +335,6 @@
       "title": "What new measures is Iran taking to counter US economic pressure?",
       "link": "https://www.aljazeera.com/news/2026/10/6/what-new-measures-is-iran-taking-to-counter-us-economic-pressure?traffic_source=rss",
       "date": "Tue, 06 Oct 2026 14:42:33 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "In Gaza, we cannot even begin to recover from trauma",
-      "link": "https://www.aljazeera.com/opinions/2026/10/6/in-gaza-we-cannot-even-begin-to-recover-from-trauma?traffic_source=rss",
-      "date": "Tue, 06 Oct 2026 14:42:22 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Saudi Arabia says East-West pipeline pumping 5.8 million bpd",
-      "link": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-east-west-pipeline-pumping-5-8-million-bpd?traffic_source=rss",
-      "date": "Tue, 06 Oct 2026 14:38:09 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "France protests: What we know as schools face nationwide action",
-      "link": "https://www.aljazeera.com/features/2026/10/6/france-protests-what-we-know-as-schools-brace-for-nationwide-action?traffic_source=rss",
-      "date": "Tue, 06 Oct 2026 14:22:36 +0000",
       "source": "Al Jazeera"
     }
   ]
