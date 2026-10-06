@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T08:07:40.477246+00:00",
+  "updated": "2026-10-06T08:27:12.815906+00:00",
   "items": [
     {
       "title": "\"التحالف\" ينفذ عملية عسكرية في الحديدة لحماية الملاحة، وأنصار الله يؤكدون \"إحكام قبضتهم\" على مكتسباتهم",
@@ -14,12 +14,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "ترامب يقول إن \"تهديداً\" دفع الولايات المتحدة إلى سحب قاذفاتها من قاعدة فيرفورد الجوية البريطانية",
-      "link": "https://www.bbc.com/arabic/articles/c6ly3lyy81xmo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 06 Oct 2026 06:59:21 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "ماذا تقول الأرقام عن ضحايا الحرب في قطاع غزة؟ ومن دفع الثمن الأكبر؟",
       "link": "https://www.bbc.com/arabic/articles/crlyjpj4wl94o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 06 Oct 2026 06:12:27 GMT",
@@ -29,6 +23,12 @@
       "title": "سانشيز يدعو لانتخابات مبكرة في إسبانيا بعد أزمة السكن، فلماذا تعثرت تدابير الحكومة؟",
       "link": "https://www.bbc.com/arabic/articles/cr5yn3n7xdv9o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 05 Oct 2026 17:26:12 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "ترامب يقول إن \"تهديداً\" دفع الولايات المتحدة إلى سحب قاذفاتها من قاعدة فيرفورد الجوية البريطانية",
+      "link": "https://www.bbc.com/arabic/articles/c6ly3lyy81xmo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 06 Oct 2026 06:59:21 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -74,9 +74,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Nigeria mourns as 32 killed in military plane crash",
+      "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
       "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 06 Oct 2026 06:33:13 GMT",
+      "date": "Tue, 06 Oct 2026 08:16:57 GMT",
       "source": "BBC World"
     },
     {
@@ -98,9 +98,9 @@
       "source": "BBC World"
     },
     {
-      "title": "We're saving £100 a month for our kids but they won't get it until they're 57",
+      "title": "My baby has a pension - is it ever too early to start saving?",
       "link": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 06 Oct 2026 06:59:53 GMT",
+      "date": "Tue, 06 Oct 2026 08:16:11 GMT",
       "source": "BBC Business"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "Euro dips further as French central bank chief warns the country risks being ‘strangled by interest rates’ – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/06/euro-france-central-bank-interest-rates-bonds-latest-live-updates",
-      "date": "Tue, 06 Oct 2026 07:56:51 GMT",
+      "date": "Tue, 06 Oct 2026 08:05:58 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Harmanpreet Kaur steps down as captain of India’s women’s cricket team",
+      "link": "https://www.aljazeera.com/sports/2026/10/6/harmanpreet-kaur-steps-down-as-captain-of-indias-womens-cricket-team?traffic_source=rss",
+      "date": "Tue, 06 Oct 2026 07:49:48 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Are pets replacing human babies?",
       "link": "https://www.aljazeera.com/video/money-works/2026/10/6/are-pets-replacing-human-babies?traffic_source=rss",
       "date": "Tue, 06 Oct 2026 07:39:00 +0000",
@@ -329,12 +335,6 @@
       "title": "Croatia vs Spain: UEFA Nations League – Yamal, Modric, head-to-head",
       "link": "https://www.aljazeera.com/sports/2026/10/6/croatia-spain-uefa-nations-league-yamal-modric-format-teams?traffic_source=rss",
       "date": "Tue, 06 Oct 2026 06:17:15 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Widowed twice: A Gaza mother’s story of loss and survival",
-      "link": "https://www.aljazeera.com/features/2026/10/6/widowed-twice-a-gaza-mothers-story-of-loss-and-survival?traffic_source=rss",
-      "date": "Tue, 06 Oct 2026 05:44:39 +0000",
       "source": "Al Jazeera"
     }
   ]
