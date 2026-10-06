@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T08:44:19.330241+00:00",
+  "updated": "2026-10-06T08:58:33.727777+00:00",
   "items": [
     {
       "title": "\"التحالف\" ينفذ عملية عسكرية في الحديدة لحماية الملاحة، وأنصار الله يؤكدون \"إحكام قبضتهم\" على مكتسباتهم",
@@ -50,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "Mass school protests begin in France after days of clashes",
-      "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 06 Oct 2026 08:39:09 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
       "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 06 Oct 2026 07:02:24 GMT",
@@ -68,9 +62,15 @@
       "source": "BBC World"
     },
     {
-      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-      "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 06 Oct 2026 02:37:46 GMT",
+      "title": "Yemeni military says it has 'secured' Red Sea waterway",
+      "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 06 Oct 2026 07:43:07 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Kenya confirms its first Ebola death as outbreak spreads",
+      "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 06 Oct 2026 08:49:20 GMT",
       "source": "BBC World"
     },
     {
@@ -80,21 +80,21 @@
       "source": "BBC World"
     },
     {
-      "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 05 Oct 2026 23:07:08 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Yemeni military says it has 'secured' Red Sea waterway",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 06 Oct 2026 07:43:07 GMT",
+      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+      "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 06 Oct 2026 02:37:46 GMT",
       "source": "BBC World"
     },
     {
       "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
       "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 06 Oct 2026 02:22:24 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 06 Oct 2026 06:53:17 GMT",
       "source": "BBC World"
     },
     {
@@ -196,12 +196,24 @@
     {
       "title": "Euro dips further as French central bank chief warns the country risks being ‘strangled by interest rates’ – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/06/euro-france-central-bank-interest-rates-bonds-latest-live-updates",
-      "date": "Tue, 06 Oct 2026 08:05:58 GMT",
+      "date": "Tue, 06 Oct 2026 08:34:58 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "UK events firm that hosts arms fairs and comic shows sold to rival for £2bn",
+      "link": "https://www.theguardian.com/business/2026/oct/06/informa-buy-clarion-blackstone-ftse-100",
+      "date": "Tue, 06 Oct 2026 08:16:48 GMT",
       "source": "Guardian Business"
     },
     {
       "title": "UK regulator FCA to investigate how it handled Epstein whistleblower who took his own life",
       "link": "https://www.theguardian.com/business/2026/oct/06/uk-regulator-epstein-whistleblower",
+      "date": "Tue, 06 Oct 2026 05:00:03 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "‘It really hammers people’: Scottish islanders hit by highest diesel prices in UK",
+      "link": "https://www.theguardian.com/business/2026/oct/06/scottish-islanders-highest-level-diesel-prices-uk-hebrides-shetland",
       "date": "Tue, 06 Oct 2026 05:00:03 GMT",
       "source": "Guardian Business"
     },
@@ -212,21 +224,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "‘It really hammers people’: Scottish islanders hit by highest diesel prices in UK",
-      "link": "https://www.theguardian.com/business/2026/oct/06/scottish-islanders-highest-level-diesel-prices-uk-hebrides-shetland",
-      "date": "Tue, 06 Oct 2026 05:00:03 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "Sainsbury’s and Morrisons ‘held talks this year’ on multibillion-pound merger",
       "link": "https://www.theguardian.com/business/2026/oct/05/sainsburys-morrisons-merger-talks",
       "date": "Mon, 05 Oct 2026 15:24:29 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Average five-year fixed mortgage rate hits 6% for first time in three years",
-      "link": "https://www.theguardian.com/money/2026/oct/05/five-year-fixed-mortgage-rate-banks-building-societies",
-      "date": "Mon, 05 Oct 2026 11:39:37 GMT",
       "source": "Guardian Business"
     },
     {
@@ -236,10 +236,16 @@
       "source": "Guardian Business"
     },
     {
-      "title": "UK reviewing whether to impose tariffs on Chinese car imports to align with EU",
-      "link": "https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing",
-      "date": "Mon, 05 Oct 2026 11:37:46 GMT",
+      "title": "Average five-year fixed mortgage rate hits 6% for first time in three years",
+      "link": "https://www.theguardian.com/money/2026/oct/05/five-year-fixed-mortgage-rate-banks-building-societies",
+      "date": "Mon, 05 Oct 2026 11:39:37 GMT",
       "source": "Guardian Business"
+    },
+    {
+      "title": "A plague research employee in Russia died from an unknown cause. Here's what we know",
+      "link": "https://www.npr.org/2026/10/06/nx-s1-5991803/a-plague-research-employee-in-russia-died-from-an-unknown-cause-heres-what-we-know",
+      "date": "Tue, 06 Oct 2026 04:49:38 -0400",
+      "source": "NPR World"
     },
     {
       "title": "In Iraq, ISIS members once jailed in Syria face trial",
@@ -284,10 +290,16 @@
       "source": "NPR World"
     },
     {
-      "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
-      "link": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
-      "date": "Mon, 05 Oct 2026 06:11:33 -0400",
-      "source": "NPR World"
+      "title": "Sahibzada Farhan named Pakistan’s T20 captain as Naseem Shah returns",
+      "link": "https://www.aljazeera.com/sports/2026/10/6/sahibzada-farhan-named-pakistans-t20-captain-as-naseem-shah-returns?traffic_source=rss",
+      "date": "Tue, 06 Oct 2026 08:30:26 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Yemen war: What’s the latest on the battlefield?",
+      "link": "https://www.aljazeera.com/news/2026/10/6/yemen-war-whats-the-latest-on-the-battlefield?traffic_source=rss",
+      "date": "Tue, 06 Oct 2026 08:27:51 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Harmanpreet Kaur steps down as captain of India’s women’s cricket team",
@@ -323,18 +335,6 @@
       "title": "Southeast Asia’s energy chiefs meet against backdrop of Iran war",
       "link": "https://www.aljazeera.com/economy/2026/10/6/southeast-asias-energy-chiefs-meet-against-backdrop-of-iran-war?traffic_source=rss",
       "date": "Tue, 06 Oct 2026 07:07:47 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Will Cristiano Ronaldo play for Portugal after a row with coach Jesus?",
-      "link": "https://www.aljazeera.com/sports/2026/10/6/cristiano-ronaldo-portugal-nations-league-jorge-jesus?traffic_source=rss",
-      "date": "Tue, 06 Oct 2026 06:33:13 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Croatia vs Spain: UEFA Nations League – Yamal, Modric, head-to-head",
-      "link": "https://www.aljazeera.com/sports/2026/10/6/croatia-spain-uefa-nations-league-yamal-modric-format-teams?traffic_source=rss",
-      "date": "Tue, 06 Oct 2026 06:17:15 +0000",
       "source": "Al Jazeera"
     }
   ]
