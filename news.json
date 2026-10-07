@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-07T10:28:05.777726+00:00",
+  "updated": "2026-10-07T10:44:57.132909+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله الحوثية \"تستهدف مطارين في الرياض وعدن\"، ووزارة النقل اليمنية تلغي هبوط طائرة قادمة من القاهرة",
       "link": "https://www.bbc.com/arabic/articles/c64g1v70k8wpo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 07 Oct 2026 10:01:05 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "سكان كيبوتس دُمّر في هجمات 7 أكتوبر التي قادتها حماس يواجهون معضلة إعادة البناء",
+      "link": "https://www.bbc.com/arabic/articles/cw4g1x6d3v8do?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 10:40:25 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "السعودية تحرز لقب كأس الخليج للمرة الرابعة في تاريخها بعد الفوز على الإمارات",
-      "link": "https://www.bbc.com/arabic/articles/c5x2v8xn44deo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 06 Oct 2026 20:17:41 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "France halts use of stun grenades after boy's hand blown off in student protests",
       "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 07 Oct 2026 10:23:23 GMT",
@@ -82,7 +82,7 @@
     {
       "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
       "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 10:09:57 GMT",
+      "date": "Wed, 07 Oct 2026 10:33:05 GMT",
       "source": "BBC World"
     },
     {
@@ -98,9 +98,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Royal Mail plans to cut 2,500 head office jobs",
+      "title": "Royal Mail plans to cut 2,500 jobs",
       "link": "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 09:55:07 GMT",
+      "date": "Wed, 07 Oct 2026 10:42:52 GMT",
       "source": "BBC Business"
     },
     {
@@ -196,13 +196,13 @@
     {
       "title": "Royal Mail to cut up to 2,500 head office and support jobs by end of next year – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/07/imf-chief-warns-energy-shockk-public-debt-ai-boom-threaten-global-growth-uk-house-prices-standstill-latest-live-updates",
-      "date": "Wed, 07 Oct 2026 10:10:14 GMT",
+      "date": "Wed, 07 Oct 2026 10:23:45 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Chancellor plans major intervention to help poorer UK households with rising energy bills",
-      "link": "https://www.theguardian.com/money/2026/oct/06/chancellor-plans-major-intervention-to-help-poorer-uk-households-with-rising-energy-bills",
-      "date": "Tue, 06 Oct 2026 19:27:59 GMT",
+      "title": "IMF chief urges governments to tighten belts as global debt levels soar",
+      "link": "https://www.theguardian.com/business/2026/oct/07/imf-chief-kristalina-georgieva-urges-governments-tighten-belts-global-debt-levels-soar",
+      "date": "Wed, 07 Oct 2026 10:14:35 GMT",
       "source": "Guardian Business"
     },
     {
@@ -218,15 +218,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "UK house prices flatline as rising mortgage costs weigh on market",
-      "link": "https://www.theguardian.com/business/2026/oct/07/uk-house-prices-flatline-as-rising-mortgage-costs-weigh-on-market",
-      "date": "Wed, 07 Oct 2026 07:56:02 GMT",
+      "title": "Chancellor plans major intervention to help poorer UK households with rising energy bills",
+      "link": "https://www.theguardian.com/money/2026/oct/06/chancellor-plans-major-intervention-to-help-poorer-uk-households-with-rising-energy-bills",
+      "date": "Tue, 06 Oct 2026 19:27:59 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Jaguar targets young Americans with Type 01 EV – but it’s too long for UK parking spaces",
-      "link": "https://www.theguardian.com/business/2026/oct/07/jaguar-launch-type-01-electric-vehicle",
-      "date": "Wed, 07 Oct 2026 00:00:28 GMT",
+      "title": "UK house prices flatline as rising mortgage costs weigh on market",
+      "link": "https://www.theguardian.com/business/2026/oct/07/uk-house-prices-flatline-as-rising-mortgage-costs-weigh-on-market",
+      "date": "Wed, 07 Oct 2026 07:56:02 GMT",
       "source": "Guardian Business"
     },
     {
@@ -236,9 +236,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "O2 signs record £200m deal to keep London venue’s naming rights",
-      "link": "https://www.theguardian.com/business/2026/oct/07/o2-signs-record-deal-london-venue-the-o2-naming-rights",
-      "date": "Wed, 07 Oct 2026 05:00:35 GMT",
+      "title": "Jaguar targets young Americans with Type 01 EV – but it’s too long for UK parking spaces",
+      "link": "https://www.theguardian.com/business/2026/oct/07/jaguar-launch-type-01-electric-vehicle",
+      "date": "Wed, 07 Oct 2026 00:00:28 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "CAS to hear Senegal appeal over AFCON title awarded to Morocco",
+      "link": "https://www.aljazeera.com/sports/2026/10/7/cas-to-hear-senegal-appeal-over-afcon-title-awarded-to-morocco?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 10:28:32 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Christa Pike is awake after surviving execution: What happens now?",
+      "link": "https://www.aljazeera.com/news/2026/10/7/christa-pike-is-awake-after-surviving-execution-what-happens-now?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 10:22:11 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Bulgaria ends search for missing crew after drone strike sinks cargo ship",
+      "link": "https://www.aljazeera.com/news/2026/10/7/bulgaria-ends-search-for-missing-crew-after-drone-strike-sinks-cargo-ship?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 10:12:04 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Photos: Three years of Israel’s war on Gaza as tent cities spread amid ruin",
       "link": "https://www.aljazeera.com/gallery/2026/10/7/photos-three-years-of-israels-war-on-gaza-as-tent-cities-spread-amid-ruin?traffic_source=rss",
       "date": "Wed, 07 Oct 2026 09:55:26 +0000",
@@ -317,24 +335,6 @@
       "title": "Head coach Scaloni’s emotional farewell to ‘irreplaceable’ Messi",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/head-coach-scalonis-emotional-farewell-to-irreplaceable-messi?traffic_source=rss",
       "date": "Wed, 07 Oct 2026 08:42:53 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Advocates decry detention of Kashmiri filmmaker Arfat Sheikh by ICE in US",
-      "link": "https://www.aljazeera.com/news/2026/10/7/advocates-decry-unlawful-detention-of-kashmiri-filmmaker-by-ice-in-us?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 08:35:23 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "‘We’re short of resources’: France’s student protesters, in their own words",
-      "link": "https://www.aljazeera.com/news/2026/10/7/were-short-of-resources-frances-student-protesters-in-their-own-words?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 08:32:16 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Three years of Israel’s mass dispossession of West Bank Palestinians",
-      "link": "https://www.aljazeera.com/features/2026/10/7/three-years-of-israels-mass-dispossession-of-west-bank-palestinians?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 08:22:19 +0000",
       "source": "Al Jazeera"
     }
   ]
