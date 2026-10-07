@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-07T13:46:22.655554+00:00",
+  "updated": "2026-10-07T14:00:25.649531+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله الحوثية \"تستهدف مطارين في الرياض وعدن\"، ووزارة النقل اليمنية تلغي هبوط طائرة قادمة من القاهرة",
       "link": "https://www.bbc.com/arabic/articles/c64g1v70k8wpo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 07 Oct 2026 12:43:54 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "وفاة فنية مختبر في روسيا تثير مخاوف من الطاعون، ما حقيقة ما حدث وماذا نعرف عن المرض؟",
+      "link": "https://www.bbc.com/arabic/articles/c63djep3dddlo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 13:56:57 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "\"رهنت بطاقتي الشخصية كي أتمكن من الولادة\" قصص النزوح في تعز",
       "link": "https://www.bbc.com/arabic/articles/cvze43yn3e1jo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 07 Oct 2026 10:02:11 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "الغاز المسيل للدموع في باريس ومرسيليا مع اتساع الاحتجاجات الطلابية في فرنسا",
-      "link": "https://www.bbc.com/arabic/articles/ck9dzln35725o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 06:30:07 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -100,7 +100,7 @@
     {
       "title": "Ex-bankers jailed for rigging rates have convictions quashed",
       "link": "https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 12:28:52 GMT",
+      "date": "Wed, 07 Oct 2026 13:52:13 GMT",
       "source": "BBC Business"
     },
     {
@@ -242,6 +242,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5992681/lahore-pakistan-high-court-square",
+      "date": "Wed, 07 Oct 2026 09:53:54 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "DIY fertilizer is a blessing as farmers face steep prices due to the Iran war",
       "link": "https://www.npr.org/2026/10/07/g-s1-146541/fertilizer-diy-farmers-iran-war",
       "date": "Wed, 07 Oct 2026 09:32:37 -0400",
@@ -284,10 +290,10 @@
       "source": "NPR World"
     },
     {
-      "title": "France's police fire tear gas and water cannons as school protests sweep the country",
-      "link": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools",
-      "date": "Tue, 06 Oct 2026 14:05:44 -0400",
-      "source": "NPR World"
+      "title": "South Korea signals military exemption cuts for athletes after Asian Games",
+      "link": "https://www.aljazeera.com/sports/2026/10/7/south-korea-signals-military-exemption-cuts-for-gold-medallists-after-backlash-at-athletes-asian-games-comments?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 13:38:14 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Okinawa governor urges Japan action after US Marine arrested over killing",
@@ -302,7 +308,7 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "Henri Kagan, Kenso Soai win chemistry Nobel for ‘mirror image’ breakthrough",
+      "title": "Henri Kagan, Kenso Soai win Nobel chemistry prize for ‘mirror image’ work",
       "link": "https://www.aljazeera.com/news/2026/10/7/henri-kagan-kenso-soai-win-chemistry-nobel-for-mirror-image-breakthrough?traffic_source=rss",
       "date": "Wed, 07 Oct 2026 13:00:32 +0000",
       "source": "Al Jazeera"
@@ -329,12 +335,6 @@
       "title": "UK Greens are wrong – Zionism is not racism",
       "link": "https://www.aljazeera.com/opinions/2026/10/7/the-uk-greens-are-wrong-zionism-is-not-racism?traffic_source=rss",
       "date": "Wed, 07 Oct 2026 12:37:22 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Yes, Zionism is racism",
-      "link": "https://www.aljazeera.com/opinions/2026/10/7/yes-zionism-is-racism?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 12:33:55 +0000",
       "source": "Al Jazeera"
     }
   ]
