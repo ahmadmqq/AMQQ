@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-07T02:19:43.470419+00:00",
+  "updated": "2026-10-07T02:36:52.033617+00:00",
   "items": [
     {
-      "title": "صواريخ أنصار الله تستهدف الرياض وعدن، وسط تصاعد القتال في اليمن",
+      "title": "صواريخ أنصار الله تستهدف الرياض وعدن",
       "link": "https://www.bbc.com/arabic/articles/c64g1v70k8wpo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 07 Oct 2026 02:01:55 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "ترامب في مواجهة مع لوس أنجلوس وسان دييغو بسبب إيران",
+      "link": "https://www.bbc.com/arabic/articles/c6z0vmpnmn7xo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 02:24:46 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "احتجاجات طلابية واسعة في فرنسا وسط اتهامات للشرطة باستخدام القوة المفرطة",
       "link": "https://www.bbc.com/arabic/articles/c3dxwvkre40ko?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 06 Oct 2026 10:25:15 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "لماذا أثار قرار السعودية بتصحيح أوضاع اليمنيين في البلاد تفاعلاً واسعاً عبر مواقع التواصل؟",
-      "link": "https://www.bbc.com/arabic/articles/c65yn3kj9ww4o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 06 Oct 2026 15:45:03 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Explosion shutters Venezuela’s second-largest oil refinery",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/explosion-shutters-venezuelas-second-largest-oil-refinery?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 02:23:03 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Why do airport and flight rules exist?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/why-do-airport-and-flight-rules-exist?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 02:20:17 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Two Houthi missiles target Yemen’s Aden International Airport",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/two-houthi-missiles-target-yemens-aden-international-airport?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 01:59:15 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Syrian embassy returns seized passport after 43 years",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years?traffic_source=rss",
       "date": "Wed, 07 Oct 2026 01:20:11 +0000",
@@ -317,24 +335,6 @@
       "title": "Sudan’s al-Burhan rejects talks, vows to retake all territory from RSF",
       "link": "https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss",
       "date": "Wed, 07 Oct 2026 00:26:47 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "South Sudan’s aid crisis deepens as food stocks run low",
-      "link": "https://www.aljazeera.com/news/2026/10/7/south-sudans-aid-crisis-deepens-as-food-stocks-run-low?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 00:13:59 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "French mayor tear-gassed after shielding protesters from police",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/french-mayor-tear-gassed-after-shielding-protesters-from-police?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 00:10:56 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Iran war live: Yemen forces claim control over strategic Taiz mountain peak",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 00:00:00 +0000",
       "source": "Al Jazeera"
     }
   ]
