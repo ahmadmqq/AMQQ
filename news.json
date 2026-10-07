@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-07T06:24:47.904491+00:00",
+  "updated": "2026-10-07T06:46:24.271328+00:00",
   "items": [
     {
       "title": "أنصار الله \"تقصف مطار الرياض بالمسيّرات\"، والسعودية \"تتتبع منصة إطلاق صواريخ\" لتدميرها",
       "link": "https://www.bbc.com/arabic/articles/c64g1v70k8wpo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 07 Oct 2026 03:45:08 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "الغاز المسيل للدموع في باريس ومرسيليا مع اتساع الاحتجاجات الطلابية في فرنسا",
+      "link": "https://www.bbc.com/arabic/articles/ck9dzln35725o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 06:30:07 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "هل تستغني السعودية عن شراكتها مع الولايات المتحدة؟",
       "link": "https://www.bbc.com/arabic/articles/cv5yn5k8x615o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 06 Oct 2026 16:57:23 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "طحالب ومكعب جليدي وراء جوائز نوبل في الطب والفيزياء لهذا العام...كيف يتم ترشيح الفائزين؟",
-      "link": "https://www.bbc.com/arabic/articles/cqvgr43px763o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 06 Oct 2026 16:11:46 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -104,7 +104,7 @@
       "source": "BBC Business"
     },
     {
-      "title": "UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor",
+      "title": "Equinor says it may stop investing in UK if oil and gas fields do not get go-ahead",
       "link": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 06 Oct 2026 23:01:13 GMT",
       "source": "BBC Business"
@@ -290,6 +290,36 @@
       "source": "NPR World"
     },
     {
+      "title": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?",
+      "link": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 06:33:54 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "How has Israel’s genocide changed Gaza?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 06:27:18 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 06:19:26 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Yemen’s displaced children dream of returning to school",
+      "link": "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 06:15:44 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Finland orders halt to work on Google data centre sites",
+      "link": "https://www.aljazeera.com/news/2026/10/7/finland-orders-halt-to-work-on-google-data-sites-over-environment-concerns?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 06:10:21 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Lionel Messi’s last game for Argentina ends in triumph and tears",
       "link": "https://www.aljazeera.com/sports/2026/10/7/lionel-messis-last-game-for-argentina-ends-in-triumph-and-tears?traffic_source=rss",
       "date": "Wed, 07 Oct 2026 05:54:10 +0000",
@@ -305,36 +335,6 @@
       "title": "Libya’s parliament removes Speaker Saleh after 12 years as discontent grows",
       "link": "https://www.aljazeera.com/news/2026/10/7/libyas-parliament-removes-speaker-aguila-saleh-after-12-years?traffic_source=rss",
       "date": "Wed, 07 Oct 2026 05:12:55 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Three years of Israel’s genocide in Gaza: In numbers",
-      "link": "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 05:02:04 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Israelis pause to mark October 7 Hamas-attack anniversary",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israelis-pause-to-mark-october-7-hamas-attack-anniversary?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 04:43:02 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Tree nearly as old as US torn down to expand Mexico border wall",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/tree-nearly-as-old-as-us-torn-down-to-expand-mexico-border-wall?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 04:20:28 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "What Israeli schools teach",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/what-israeli-schools-teach?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 04:00:00 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "US stock market hits all-time high as investors continue to bet on AI",
-      "link": "https://www.aljazeera.com/economy/2026/10/7/us-stock-market-hits-all-time-high-as-investors-bet-big-on-ai?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 03:27:20 +0000",
       "source": "Al Jazeera"
     }
   ]
