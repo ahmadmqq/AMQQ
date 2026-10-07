@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T23:27:09.426667+00:00",
+  "updated": "2026-10-07T23:41:14.493637+00:00",
   "items": [
     {
       "title": "مقتل ثلاثة أشخاص وإصابة العشرات في هجمات على مطارين بالسعودية",
@@ -20,24 +20,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "سكان كيبوتس دُمّر في هجمات 7 أكتوبر التي قادتها حماس يواجهون معضلة إعادة البناء",
-      "link": "https://www.bbc.com/arabic/articles/cw4g1x6d3v8do?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 10:40:25 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "ماذا تقول الأرقام عن ضحايا الحرب في قطاع غزة؟ ومن دفع الثمن الأكبر؟",
-      "link": "https://www.bbc.com/arabic/articles/crlyjpj4wl94o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 11:25:43 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "ليونيل ميسي يودّع الأرجنتين، دموع وأهداف وهتافات في \"التانغو الأخير\"",
-      "link": "https://www.bbc.com/arabic/articles/cwn73rly5y13o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 16:36:01 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "كريستا بايك \"تستعيد وعيها وتتحدث\"، بعد نجاتها من محاولتين لتنفيذ حكم الإعدام",
       "link": "https://www.bbc.com/arabic/articles/cmpqgdr0j8dxo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 07 Oct 2026 15:52:51 GMT",
@@ -47,6 +29,24 @@
       "title": "حبس فريق \"متصدقش\" في مصر: نقابة الصحفيين تطلب الإفراج ومجلسها في انعقاد دائم",
       "link": "https://www.bbc.com/arabic/articles/cmwy9199z1p4o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 07 Oct 2026 15:21:06 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "وفاة فنية مختبر في روسيا تثير مخاوف من الطاعون، ما حقيقة ما حدث وماذا نعرف عن المرض؟",
+      "link": "https://www.bbc.com/arabic/articles/c63djep3dddlo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 13:56:57 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "سكان كيبوتس دُمّر في هجمات 7 أكتوبر التي قادتها حماس يواجهون معضلة إعادة البناء",
+      "link": "https://www.bbc.com/arabic/articles/cw4g1x6d3v8do?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 10:40:25 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "ماذا تقول الأرقام عن ضحايا الحرب في قطاع غزة؟ ومن دفع الثمن الأكبر؟",
+      "link": "https://www.bbc.com/arabic/articles/crlyjpj4wl94o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 11:25:43 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Christa Pike was nearly taken off life support before waking, lawyers say",
+      "link": "https://www.aljazeera.com/news/2026/10/7/christa-pike-was-nearly-taken-off-life-support-before-waking-lawyers-say?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 23:20:01 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "‘No to the father, no to the son’: Thousands march in Rio against Bolsonaro",
       "link": "https://www.aljazeera.com/gallery/2026/10/7/no-to-the-father-no-to-the-son-thousands-march-in-rio-against-bolsonaro-2?traffic_source=rss",
       "date": "Wed, 07 Oct 2026 22:14:58 +0000",
@@ -329,12 +335,6 @@
       "title": "Gaza child’s autoimmune condition triggered amid Israel’s war",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/gaza-childs-autoimmune-condition-triggered-amid-israels-war?traffic_source=rss",
       "date": "Wed, 07 Oct 2026 21:06:46 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Inside SpaceX’s new look for AI data centres in orbit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/inside-spacexs-new-look-for-ai-data-centres-in-orbit?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 20:54:43 +0000",
       "source": "Al Jazeera"
     }
   ]
