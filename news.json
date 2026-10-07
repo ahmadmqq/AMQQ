@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T16:36:13.715090+00:00",
+  "updated": "2026-10-07T17:14:08.842130+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله الحوثية \"تستهدف مطارين في الرياض وعدن\"، ووزارة النقل اليمنية تلغي هبوط طائرة قادمة من القاهرة",
@@ -32,6 +32,12 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "ليونيل ميسي يودّع الأرجنتين، دموع وأهداف وهتافات في \"التانغو الأخير\"",
+      "link": "https://www.bbc.com/arabic/articles/cwn73rly5y13o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 16:36:01 GMT",
+      "source": "BBC Arabic"
+    },
+    {
       "title": "كريستا بايك \"تستعيد وعيها وتتحدث\"، بعد نجاتها من محاولتين لتنفيذ حكم الإعدام",
       "link": "https://www.bbc.com/arabic/articles/cmpqgdr0j8dxo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 07 Oct 2026 15:52:51 GMT",
@@ -44,21 +50,21 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "وفاة فنية مختبر في روسيا تثير مخاوف من الطاعون، ما حقيقة ما حدث وماذا نعرف عن المرض؟",
-      "link": "https://www.bbc.com/arabic/articles/c63djep3dddlo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 13:56:57 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "France halts use of stun grenades after boy's hand blown off in student protests",
       "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 15:57:51 GMT",
+      "date": "Wed, 07 Oct 2026 16:41:57 GMT",
       "source": "BBC World"
     },
     {
       "title": "Israelis demand accountability over 7 October failures three years after attacks",
       "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 07 Oct 2026 16:00:18 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 16:54:17 GMT",
       "source": "BBC World"
     },
     {
@@ -92,15 +98,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Japan beer giants raided over alleged price-fixing cartel",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 12:09:59 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Boots sold in £7bn deal to Canadian billionaire family",
       "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 15:57:43 GMT",
+      "date": "Wed, 07 Oct 2026 16:43:51 GMT",
       "source": "BBC Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Germany’s Merz vows to fight ‘extremism’ after AfD, far-left election gains",
+      "link": "https://www.aljazeera.com/news/2026/10/7/germanys-merz-vows-to-fight-extremism-after-afd-far-left-election-gains?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 16:12:29 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "More than 200,000 displaced as fighting escalates in Yemen, UN says",
       "link": "https://www.aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2?traffic_source=rss",
       "date": "Wed, 07 Oct 2026 16:02:17 +0000",
@@ -329,12 +335,6 @@
       "title": "South Korea signals military exemption cuts for athletes after Asian Games",
       "link": "https://www.aljazeera.com/sports/2026/10/7/south-korea-signals-military-exemption-cuts-for-gold-medallists-after-backlash-at-athletes-asian-games-comments?traffic_source=rss",
       "date": "Wed, 07 Oct 2026 13:38:14 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Okinawa governor urges Japan action after US Marine arrested over killing",
-      "link": "https://www.aljazeera.com/news/2026/10/7/okinawa-governor-urges-japan-action-after-us-marine-arrested-over-killing?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 13:31:18 +0000",
       "source": "Al Jazeera"
     }
   ]
