@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T14:00:25.649531+00:00",
+  "updated": "2026-10-07T14:20:29.538126+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله الحوثية \"تستهدف مطارين في الرياض وعدن\"، ووزارة النقل اليمنية تلغي هبوط طائرة قادمة من القاهرة",
@@ -98,6 +98,12 @@
       "source": "BBC World"
     },
     {
+      "title": "Boots sold in £7bn deal to Canadian billionaire family",
+      "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 14:10:50 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "Ex-bankers jailed for rigging rates have convictions quashed",
       "link": "https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 07 Oct 2026 13:52:13 GMT",
@@ -137,12 +143,6 @@
       "title": "Equinor says it may stop investing in UK if oil and gas fields do not get go-ahead",
       "link": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 06 Oct 2026 23:01:13 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Japan beer giants raided over alleged price-fixing cartel",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 12:09:59 GMT",
       "source": "BBC Business"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Millions of Pakistanis get government fuel relief but some miss out",
+      "link": "https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 14:02:40 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Why Paramount-Warner merger has sparked fears about press freedom",
+      "link": "https://www.aljazeera.com/news/2026/10/7/why-paramount-warner-merger-has-sparked-fears-about-press-freedom?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 13:56:27 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "South Korea signals military exemption cuts for athletes after Asian Games",
       "link": "https://www.aljazeera.com/sports/2026/10/7/south-korea-signals-military-exemption-cuts-for-gold-medallists-after-backlash-at-athletes-asian-games-comments?traffic_source=rss",
       "date": "Wed, 07 Oct 2026 13:38:14 +0000",
@@ -323,18 +335,6 @@
       "title": "Israeli soldier assaults Palestinian woman in occupied West Bank",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israeli-soldier-assaults-palestinian-woman-in-occupied-west-bank?traffic_source=rss",
       "date": "Wed, 07 Oct 2026 12:39:07 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Palestinian killed, several injured in Israeli pogrom in occupied West Bank",
-      "link": "https://www.aljazeera.com/news/2026/10/7/palestinian-killed-several-injured-in-israeli-pogrom-in-occupied-west-bank?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 12:38:31 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "UK Greens are wrong – Zionism is not racism",
-      "link": "https://www.aljazeera.com/opinions/2026/10/7/the-uk-greens-are-wrong-zionism-is-not-racism?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 12:37:22 +0000",
       "source": "Al Jazeera"
     }
   ]
