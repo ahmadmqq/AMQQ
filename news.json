@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-07T06:01:53.337013+00:00",
+  "updated": "2026-10-07T06:24:47.904491+00:00",
   "items": [
     {
       "title": "أنصار الله \"تقصف مطار الرياض بالمسيّرات\"، والسعودية \"تتتبع منصة إطلاق صواريخ\" لتدميرها",
       "link": "https://www.bbc.com/arabic/articles/c64g1v70k8wpo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 07 Oct 2026 03:45:08 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "ماريا فالتورتا: لغز امرأة أعادت كتابة حياة المسيح والعذراء مريم والإنجيل بـ \"رؤى خارقة للطبيعة\"",
+      "link": "https://www.bbc.com/arabic/articles/cm9qzl4rzvn0o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 06:09:17 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "طحالب ومكعب جليدي وراء جوائز نوبل في الطب والفيزياء لهذا العام...كيف يتم ترشيح الفائزين؟",
       "link": "https://www.bbc.com/arabic/articles/cqvgr43px763o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 06 Oct 2026 16:11:46 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "احتجاجات طلابية واسعة في فرنسا وسط اتهامات للشرطة باستخدام القوة المفرطة",
-      "link": "https://www.bbc.com/arabic/articles/c3dxwvkre40ko?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 06 Oct 2026 10:25:15 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -242,6 +242,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Israelis mourn on the anniversary of the Oct. 7 as Palestinians grapple with war it sparked",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5993459/israelis-oct-7-palestinians-war",
+      "date": "Wed, 07 Oct 2026 02:02:57 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "The questions swirling around a U.K. base and possible Iranian-backed attacks",
       "link": "https://www.npr.org/2026/10/06/nx-s1-5992853/the-questions-swirling-around-a-u-k-base-and-possible-iranian-backed-attacks",
       "date": "Tue, 06 Oct 2026 16:53:46 -0400",
@@ -284,10 +290,16 @@
       "source": "NPR World"
     },
     {
-      "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
-      "link": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
-      "date": "Tue, 06 Oct 2026 06:16:28 -0400",
-      "source": "NPR World"
+      "title": "Lionel Messi’s last game for Argentina ends in triumph and tears",
+      "link": "https://www.aljazeera.com/sports/2026/10/7/lionel-messis-last-game-for-argentina-ends-in-triumph-and-tears?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 05:54:10 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "How three years of Israel’s genocidal war have changed Gaza",
+      "link": "https://www.aljazeera.com/news/2026/10/7/how-three-years-of-israels-genocidal-war-have-changed-gaza?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 05:41:54 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Libya’s parliament removes Speaker Saleh after 12 years as discontent grows",
@@ -323,18 +335,6 @@
       "title": "US stock market hits all-time high as investors continue to bet on AI",
       "link": "https://www.aljazeera.com/economy/2026/10/7/us-stock-market-hits-all-time-high-as-investors-bet-big-on-ai?traffic_source=rss",
       "date": "Wed, 07 Oct 2026 03:27:20 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Oman evacuates injured crew from attacked tanker in Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/10/7/oman-evacuates-injured-crew-from-attacked-tanker-in-strait-of-hormuz?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 03:16:32 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Lionel Messi plays final Argentina game to roaring Buenos Aires farewell",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/10-7-messi-final-game-sv-mp4?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 03:03:16 +0000",
       "source": "Al Jazeera"
     }
   ]
