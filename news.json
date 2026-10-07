@@ -1,22 +1,16 @@
 {
-  "updated": "2026-10-07T14:54:06.018907+00:00",
+  "updated": "2026-10-07T15:37:18.295611+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله الحوثية \"تستهدف مطارين في الرياض وعدن\"، ووزارة النقل اليمنية تلغي هبوط طائرة قادمة من القاهرة",
       "link": "https://www.bbc.com/arabic/articles/c64g1v70k8wpo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 12:43:54 GMT",
+      "date": "Wed, 07 Oct 2026 15:34:23 GMT",
       "source": "BBC Arabic"
     },
     {
       "title": "7 أكتوبر 2023: إسرائيل تحيي الذكرى الثالثة لهجمات حماس",
       "link": "https://www.bbc.com/arabic/articles/cm62ylyn7lnro?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 11:22:57 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "وفاة فنية مختبر في روسيا تثير مخاوف من الطاعون، ما حقيقة ما حدث وماذا نعرف عن المرض؟",
-      "link": "https://www.bbc.com/arabic/articles/c63djep3dddlo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 13:56:57 GMT",
+      "date": "Wed, 07 Oct 2026 15:29:05 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -32,9 +26,21 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "\"بصفتي أماً في باريس، أخشى على الطلاب وعلى المستقبل\"- مقال في ذا جورنال",
-      "link": "https://www.bbc.com/arabic/articles/cmkgk7kw5jxko?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 12:44:51 GMT",
+      "title": "ماذا تقول الأرقام عن ضحايا الحرب في قطاع غزة؟ ومن دفع الثمن الأكبر؟",
+      "link": "https://www.bbc.com/arabic/articles/crlyjpj4wl94o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 11:25:43 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "حبس فريق \"متصدقش\" في مصر: نقابة الصحفيين تطلب الإفراج ومجلسها في انعقاد دائم",
+      "link": "https://www.bbc.com/arabic/articles/cmwy9199z1p4o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 15:21:06 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "وفاة فنية مختبر في روسيا تثير مخاوف من الطاعون، ما حقيقة ما حدث وماذا نعرف عن المرض؟",
+      "link": "https://www.bbc.com/arabic/articles/c63djep3dddlo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 13:56:57 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,21 +50,9 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "\"رهنت بطاقتي الشخصية كي أتمكن من الولادة\" قصص النزوح في تعز",
-      "link": "https://www.bbc.com/arabic/articles/cvze43yn3e1jo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 10:02:11 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "France halts use of stun grenades after boy's hand blown off in student protests",
       "link": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 07 Oct 2026 12:16:58 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-      "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 10:12:36 GMT",
       "source": "BBC World"
     },
     {
@@ -98,9 +92,15 @@
       "source": "BBC World"
     },
     {
+      "title": "Japan beer giants raided over alleged price-fixing cartel",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 12:09:59 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Boots sold in £7bn deal to Canadian billionaire family",
       "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 14:42:45 GMT",
+      "date": "Wed, 07 Oct 2026 15:27:24 GMT",
       "source": "BBC Business"
     },
     {
@@ -178,7 +178,7 @@
     {
       "title": "‘Another coup d’état’: fears grow as Flávio Bolsonaro vows to ‘re-democratise’ Brazil",
       "link": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-vows-to-re-democratise-brazil-election",
-      "date": "Wed, 07 Oct 2026 14:06:42 GMT",
+      "date": "Wed, 07 Oct 2026 15:03:26 GMT",
       "source": "Guardian World"
     },
     {
@@ -194,15 +194,15 @@
       "source": "Guardian World"
     },
     {
-      "title": "Royal Mail to cut up to 2,500 jobs amid restructure and fall in letter deliveries",
-      "link": "https://www.theguardian.com/business/2026/oct/07/royal-mail-to-cut-jobs-restructure-fall-in-letter-deliveries",
-      "date": "Wed, 07 Oct 2026 11:23:31 GMT",
+      "title": "Canada’s Weston family buys Boots for $8.9bn",
+      "link": "https://www.theguardian.com/business/2026/oct/07/canada-weston-family-buys-boots-uk",
+      "date": "Wed, 07 Oct 2026 15:12:09 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "IMF chief urges governments to tighten belts as global debt levels soar",
-      "link": "https://www.theguardian.com/business/2026/oct/07/imf-chief-kristalina-georgieva-urges-governments-tighten-belts-global-debt-levels-soar",
-      "date": "Wed, 07 Oct 2026 10:14:35 GMT",
+      "title": "Royal Mail to cut up to 2,500 jobs amid restructure and fall in letter deliveries",
+      "link": "https://www.theguardian.com/business/2026/oct/07/royal-mail-to-cut-jobs-restructure-fall-in-letter-deliveries",
+      "date": "Wed, 07 Oct 2026 11:23:31 GMT",
       "source": "Guardian Business"
     },
     {
@@ -218,9 +218,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "South West Water owner taps investors to fix infrastructure after sewage spills",
-      "link": "https://www.theguardian.com/business/2026/oct/07/south-west-water-owner-taps-investors-to-fix-infrastructure-after-sewage-spills",
-      "date": "Wed, 07 Oct 2026 14:14:35 GMT",
+      "title": "IMF chief urges governments to tighten belts as global debt levels soar",
+      "link": "https://www.theguardian.com/business/2026/oct/07/imf-chief-kristalina-georgieva-urges-governments-tighten-belts-global-debt-levels-soar",
+      "date": "Wed, 07 Oct 2026 10:14:35 GMT",
       "source": "Guardian Business"
     },
     {
@@ -230,16 +230,22 @@
       "source": "Guardian Business"
     },
     {
+      "title": "South West Water owner taps investors to fix infrastructure after sewage spills",
+      "link": "https://www.theguardian.com/business/2026/oct/07/south-west-water-owner-taps-investors-to-fix-infrastructure-after-sewage-spills",
+      "date": "Wed, 07 Oct 2026 14:14:35 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Poland’s ‘solidarity’ push for EU energy resilience in face of Russian aggression",
       "link": "https://www.theguardian.com/world/2026/oct/07/poland-solidarity-eu-energy-resilience-russian-aggression-economy",
       "date": "Wed, 07 Oct 2026 04:00:33 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Apparent exodus of super-rich suggests UK is no longer billionaires’ playground",
-      "link": "https://www.theguardian.com/news/2026/oct/07/apparent-exodus-of-super-rich-suggests-uk-is-no-longer-billionaires-playground",
-      "date": "Wed, 07 Oct 2026 07:00:37 GMT",
-      "source": "Guardian Business"
+      "title": "Gut microbes followed migrating humans across continents, new study suggests",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5987874/ancient-gut-microbiome-migration-evolution-hadza-tsimane",
+      "date": "Wed, 07 Oct 2026 11:00:47 -0400",
+      "source": "NPR World"
     },
     {
       "title": "Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai",
@@ -284,10 +290,16 @@
       "source": "NPR World"
     },
     {
-      "title": "The questions swirling around a U.K. base and possible Iranian-backed attacks",
-      "link": "https://www.npr.org/2026/10/06/nx-s1-5992853/the-questions-swirling-around-a-u-k-base-and-possible-iranian-backed-attacks",
-      "date": "Tue, 06 Oct 2026 16:53:46 -0400",
-      "source": "NPR World"
+      "title": "How Israel’s genocide in Gaza pulled Britons into the Palestine movement",
+      "link": "https://www.aljazeera.com/news/2026/10/7/how-israels-genocide-in-gaza-pulled-britons-into-the-palestine-movement?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 15:13:21 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Ex-German spy chief arrested: A history of spooks working for enemy powers",
+      "link": "https://www.aljazeera.com/news/2026/10/7/ex-german-spy-chief-arrested-a-history-of-spooks-working-for-enemy-powers?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 14:52:26 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Millions of Pakistanis get government fuel relief but some miss out",
@@ -323,18 +335,6 @@
       "title": "Henri Kagan, Kenso Soai win Nobel chemistry prize for ‘mirror image’ work",
       "link": "https://www.aljazeera.com/news/2026/10/7/henri-kagan-kenso-soai-win-chemistry-nobel-for-mirror-image-breakthrough?traffic_source=rss",
       "date": "Wed, 07 Oct 2026 13:00:32 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Coco Gauff says online racist abuse was ‘draining’ after China Open exit",
-      "link": "https://www.aljazeera.com/sports/2026/10/7/coco-gauff-says-online-racist-abuse-was-draining-after-china-open-exit?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 12:53:11 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Israeli soldier assaults Palestinian woman in occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israeli-soldier-assaults-palestinian-woman-in-occupied-west-bank?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 12:39:07 +0000",
       "source": "Al Jazeera"
     }
   ]
