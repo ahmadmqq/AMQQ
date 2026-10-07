@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T20:19:09.516818+00:00",
+  "updated": "2026-10-07T20:36:02.875554+00:00",
   "items": [
     {
       "title": "مقتل ثلاثة أشخاص وإصابة العشرات في هجمات على مطارين بالسعودية",
@@ -10,7 +10,7 @@
     {
       "title": "7 أكتوبر 2023: إسرائيل تحيي الذكرى الثالثة، وحماس تؤكد أن \"روح الطوفان لا تزال حية\"",
       "link": "https://www.bbc.com/arabic/articles/cm62ylyn7lnro?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 19:34:02 GMT",
+      "date": "Wed, 07 Oct 2026 20:23:57 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -104,6 +104,12 @@
       "source": "BBC Business"
     },
     {
+      "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 20:34:17 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "Ex-bankers jailed for rigging rates have convictions quashed",
       "link": "https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 07 Oct 2026 13:52:13 GMT",
@@ -122,27 +128,21 @@
       "source": "BBC Business"
     },
     {
-      "title": "Half the harvest, twice the bills: how drought hit farms",
-      "link": "https://www.bbc.co.uk/news/articles/c5rm9mdm79neo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 05:22:52 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "Rainmakers: The drones used to seed clouds",
       "link": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 07 Oct 2026 07:09:32 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Froyo's made a comeback. But at £12 a tub will it last?",
-      "link": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 06 Oct 2026 23:01:31 GMT",
+      "title": "Half the harvest, twice the bills: how drought hit farms",
+      "link": "https://www.bbc.co.uk/news/articles/c5rm9mdm79neo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 05:22:52 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Equinor says it may stop investing in UK if oil and gas fields do not get go-ahead",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 06 Oct 2026 23:01:13 GMT",
+      "title": "Froyo's made a comeback. But at £12 a tub will it last?",
+      "link": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 06 Oct 2026 23:01:31 GMT",
       "source": "BBC Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Democratic FCC member warns of AI robocall misinformation risks in US",
+      "link": "https://www.aljazeera.com/economy/2026/10/7/democratic-fcc-member-warns-of-ai-robocall-misinformation-risks-in-us?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 20:14:35 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Former Catholic bishop sentenced for abusing indigenous men in Australia",
       "link": "https://www.aljazeera.com/news/2026/10/7/former-catholic-bishop-sentenced-for-abusing-indigenous-men-in-australia?traffic_source=rss",
       "date": "Wed, 07 Oct 2026 19:57:14 +0000",
@@ -329,12 +335,6 @@
       "title": "Saudi Arabia says Houthi attacks on airports killed three foreign nationals",
       "link": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports?traffic_source=rss",
       "date": "Wed, 07 Oct 2026 18:29:34 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "LSD – from counterculture to clinical trials",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/lsd-from-counterculture-to-clinical-trials?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 18:27:12 +0000",
       "source": "Al Jazeera"
     }
   ]
