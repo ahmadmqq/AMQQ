@@ -1,10 +1,22 @@
 {
-  "updated": "2026-10-07T11:15:58.965750+00:00",
+  "updated": "2026-10-07T11:33:08.278098+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله الحوثية \"تستهدف مطارين في الرياض وعدن\"، ووزارة النقل اليمنية تلغي هبوط طائرة قادمة من القاهرة",
       "link": "https://www.bbc.com/arabic/articles/c64g1v70k8wpo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 07 Oct 2026 11:11:18 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "7 أكتوبر 2023: إسرائيل تحيي الذكرى الثالثة لهجمات حماس",
+      "link": "https://www.bbc.com/arabic/articles/cm62ylyn7lnro?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 11:22:57 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "ماذا تقول الأرقام عن ضحايا الحرب في قطاع غزة؟ ومن دفع الثمن الأكبر؟",
+      "link": "https://www.bbc.com/arabic/articles/crlyjpj4wl94o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 11:25:43 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -20,33 +32,21 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "الغاز المسيل للدموع في باريس ومرسيليا مع اتساع الاحتجاجات الطلابية في فرنسا",
-      "link": "https://www.bbc.com/arabic/articles/ck9dzln35725o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 06:30:07 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "ماريا فالتورتا: لغز امرأة أعادت كتابة حياة المسيح والعذراء مريم والإنجيل بـ \"رؤى خارقة للطبيعة\"",
       "link": "https://www.bbc.com/arabic/articles/cm9qzl4rzvn0o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 07 Oct 2026 06:09:17 GMT",
       "source": "BBC Arabic"
     },
     {
+      "title": "الغاز المسيل للدموع في باريس ومرسيليا مع اتساع الاحتجاجات الطلابية في فرنسا",
+      "link": "https://www.bbc.com/arabic/articles/ck9dzln35725o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 06:30:07 GMT",
+      "source": "BBC Arabic"
+    },
+    {
       "title": "ترامب في مواجهة مع لوس أنجلوس وسان دييغو بسبب إيران",
       "link": "https://www.bbc.com/arabic/articles/c6z0vmpnmn7xo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 07 Oct 2026 02:24:46 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "مناشدات للسعودية بالعفو عن شاب حُكم عليه بالإعدام بسبب تعليق على فيسبوك",
-      "link": "https://www.bbc.com/arabic/articles/cmkgk7edzdd8o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 06 Oct 2026 19:53:39 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "هل تخشى التحدث أمام زملائك في الاجتماعات؟ اقرأ هذه النصائح قبل اجتماعك المقبل",
-      "link": "https://www.bbc.com/arabic/articles/c574p8ww8w3go?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 06 Oct 2026 18:11:47 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -70,13 +70,7 @@
     {
       "title": "Trump to speak to Putin about plague lab worker's death in Russia",
       "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 09:59:13 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
-      "link": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 09:49:31 GMT",
+      "date": "Wed, 07 Oct 2026 11:24:17 GMT",
       "source": "BBC World"
     },
     {
@@ -86,9 +80,15 @@
       "source": "BBC World"
     },
     {
+      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
+      "link": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 09:49:31 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
       "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 11:04:48 GMT",
+      "date": "Wed, 07 Oct 2026 11:21:49 GMT",
       "source": "BBC World"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "Royal Mail to cut up to 2,500 head office and support jobs by end of next year – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/07/imf-chief-warns-energy-shockk-public-debt-ai-boom-threaten-global-growth-uk-house-prices-standstill-latest-live-updates",
-      "date": "Wed, 07 Oct 2026 10:23:45 GMT",
+      "date": "Wed, 07 Oct 2026 11:20:20 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "US sets new demands for Iran deal: What are they?",
+      "link": "https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 10:58:23 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Girl pleads for world leaders to save her country from climate change",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/girl-pleads-for-world-leaders-to-save-her-country-from-climate-change?traffic_source=rss",
+      "date": "Wed, 07 Oct 2026 10:55:05 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "CAS to hear Senegal appeal over AFCON title awarded to Morocco",
       "link": "https://www.aljazeera.com/sports/2026/10/7/cas-to-hear-senegal-appeal-over-afcon-title-awarded-to-morocco?traffic_source=rss",
       "date": "Wed, 07 Oct 2026 10:28:32 +0000",
@@ -323,18 +335,6 @@
       "title": "What does a year-long ceasefire in Gaza look like?",
       "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/7/what-does-a-year-long-ceasefire-in-gaza-look-like?traffic_source=rss",
       "date": "Wed, 07 Oct 2026 08:55:12 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Fear and a far-right lurch: How October 7 reshaped Israel",
-      "link": "https://www.aljazeera.com/news/2026/10/7/fear-and-a-far-right-lurch-how-october-7-reshaped-israel?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 08:53:23 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Head coach Scaloni’s emotional farewell to ‘irreplaceable’ Messi",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/head-coach-scalonis-emotional-farewell-to-irreplaceable-messi?traffic_source=rss",
-      "date": "Wed, 07 Oct 2026 08:42:53 +0000",
       "source": "Al Jazeera"
     }
   ]
