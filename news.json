@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T07:27:10.252079+00:00",
+  "updated": "2026-10-08T07:45:07.614646+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله الحوثية تستهدف مطار الرياض مجدداً، وسوريا تنفي تقارير عن احتمالية انخراطها عسكرياً في اليمن",
@@ -110,15 +110,15 @@
       "source": "BBC Business"
     },
     {
-      "title": "Hedgehog among four animals chosen to feature on new banknotes",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 23:01:30 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
       "link": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 08 Oct 2026 07:11:14 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "The wildlife winners set to appear on your banknotes revealed",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 23:01:30 GMT",
       "source": "BBC Business"
     },
     {
@@ -140,9 +140,9 @@
       "source": "BBC Business"
     },
     {
-      "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 20:34:17 GMT",
+      "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 23:50:29 GMT",
       "source": "BBC Business"
     },
     {
@@ -196,7 +196,13 @@
     {
       "title": "Oil prices climb amid supply fears and shipping attacks; prospect of rate rise weighs on UK housing market – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/08/oil-prices-rise-shipping-attacks-rate-rise-uk-housing-market-bank-england-latest-live-updates",
-      "date": "Thu, 08 Oct 2026 07:14:48 GMT",
+      "date": "Thu, 08 Oct 2026 07:29:08 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Tesco lifts profit forecast and says consumer confidence is resilient",
+      "link": "https://www.theguardian.com/business/2026/oct/08/tesco-lifts-profit-forecast-consumer-confidence-resilient",
+      "date": "Thu, 08 Oct 2026 06:52:40 GMT",
       "source": "Guardian Business"
     },
     {
@@ -206,21 +212,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "UK motorists can now see live fuel prices on Google Maps",
-      "link": "https://www.theguardian.com/money/2026/oct/08/uk-drivers-live-petrol-diesel-prices-google-maps-pump-pricing",
-      "date": "Thu, 08 Oct 2026 05:00:11 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "Next UK banknotes to feature barn owls, bumblebees, puffins and hedgehogs",
       "link": "https://www.theguardian.com/business/2026/oct/08/uk-banknotes-new-design-barn-owl-bumblebee-puffin-hedgehog",
       "date": "Thu, 08 Oct 2026 04:00:11 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "The Jaguar Type 01: a £150k gargantuan getaway vehicle utterly useless in the city",
-      "link": "https://www.theguardian.com/business/2026/oct/07/jaguar-type-01-g-car-review",
-      "date": "Wed, 07 Oct 2026 12:29:24 GMT",
       "source": "Guardian Business"
     },
     {
@@ -230,15 +224,21 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Ex-Barclays traders jailed for rigging interest rates have convictions quashed",
-      "link": "https://www.theguardian.com/business/2026/oct/07/former-barclays-traders-rigging-interest-rates-convictions-quashed-libor",
-      "date": "Wed, 07 Oct 2026 15:19:25 GMT",
+      "title": "UK motorists can now see live fuel prices on Google Maps",
+      "link": "https://www.theguardian.com/money/2026/oct/08/uk-drivers-live-petrol-diesel-prices-google-maps-pump-pricing",
+      "date": "Thu, 08 Oct 2026 05:00:11 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "‘I reside in Monaco’: billionaire said to have quit UK over potential wealth tax had already left",
-      "link": "https://www.theguardian.com/news/2026/oct/07/billionaire-quit-uk-wealth-tax-resident-monaco-super-rich-exodus",
-      "date": "Wed, 07 Oct 2026 17:00:00 GMT",
+      "title": "The Jaguar Type 01: a £150k gargantuan getaway vehicle utterly useless in the city",
+      "link": "https://www.theguardian.com/business/2026/oct/07/jaguar-type-01-g-car-review",
+      "date": "Wed, 07 Oct 2026 12:29:24 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Ex-Barclays traders jailed for rigging interest rates have convictions quashed",
+      "link": "https://www.theguardian.com/business/2026/oct/07/former-barclays-traders-rigging-interest-rates-convictions-quashed-libor",
+      "date": "Wed, 07 Oct 2026 15:19:25 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Cristiano Ronaldo pays tribute to Lionel Messi after Argentina farewell",
+      "link": "https://www.aljazeera.com/sports/2026/10/8/cristiano-ronaldo-pays-tribute-to-lionel-messi-after-argentina-farewell?traffic_source=rss",
+      "date": "Thu, 08 Oct 2026 07:12:46 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Yemen’s government needs tribes to defeat the Houthis. Will they join?",
       "link": "https://www.aljazeera.com/news/2026/10/8/yemens-government-needs-tribes-to-defeat-the-houthis-will-they-join?traffic_source=rss",
       "date": "Thu, 08 Oct 2026 06:50:08 +0000",
@@ -329,12 +335,6 @@
       "title": "UK says East Jerusalem consulate building to remain open as a mission",
       "link": "https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over?traffic_source=rss",
       "date": "Thu, 08 Oct 2026 05:06:25 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Trump interrupted by protesters at Texas rally",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/trump-interrupted-by-protesters-at-texas-rally?traffic_source=rss",
-      "date": "Thu, 08 Oct 2026 04:30:57 +0000",
       "source": "Al Jazeera"
     }
   ]
