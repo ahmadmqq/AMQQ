@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T17:25:04.210760+00:00",
+  "updated": "2026-10-08T17:41:21.393349+00:00",
   "items": [
     {
       "title": "أنصار الله يجددون استهداف مطار الرياض وأنباء عن تضرّر طائرات جراء الهجمات",
@@ -64,7 +64,7 @@
     {
       "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
       "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 08 Oct 2026 17:07:43 GMT",
+      "date": "Thu, 08 Oct 2026 17:38:59 GMT",
       "source": "BBC World"
     },
     {
@@ -200,9 +200,15 @@
       "source": "Guardian Business"
     },
     {
+      "title": "MoD has objected to four windfarms in past year over radar interference fears",
+      "link": "https://www.theguardian.com/environment/2026/oct/08/mod-objection-four-windfarms-radar-interference-fears",
+      "date": "Thu, 08 Oct 2026 17:00:24 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Harvey Nichols’ Birmingham store to close in January",
       "link": "https://www.theguardian.com/business/2026/oct/08/harvey-nichols-birmingham-store-closure-frasers-group-mike-ashley",
-      "date": "Thu, 08 Oct 2026 16:28:22 GMT",
+      "date": "Thu, 08 Oct 2026 17:18:09 GMT",
       "source": "Guardian Business"
     },
     {
@@ -221,12 +227,6 @@
       "title": "Asos says customers’ names, contact details and search histories hacked",
       "link": "https://www.theguardian.com/business/2026/oct/08/asos-customer-data-accessed-hacker-posing-impersonated",
       "date": "Thu, 08 Oct 2026 13:54:58 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Supermarket shake-up: why Asda or Morrisons could vanish within a decade",
-      "link": "https://www.theguardian.com/business/2026/oct/08/supermarket-shakeup-big-brands-ripe-merger",
-      "date": "Thu, 08 Oct 2026 10:26:10 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Jerusalem Daily: Remembrance and mourning",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/jerusalem-daily-remembrance-and-mourning?traffic_source=rss",
+      "date": "Thu, 08 Oct 2026 17:17:22 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "CAS promises Senegal-Morocco AFCON title decision within days",
       "link": "https://www.aljazeera.com/sports/2026/10/8/cas-promises-senegal-morocco-afcon-title-decision-within-days?traffic_source=rss",
       "date": "Thu, 08 Oct 2026 17:08:15 +0000",
@@ -329,12 +335,6 @@
       "title": "Video said to show Mali army in Kidal after retaking city",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/video-said-to-show-mali-army-in-kidal-after-retaking-city?traffic_source=rss",
       "date": "Thu, 08 Oct 2026 15:50:35 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Venezuela’s Nicolas Maduro and his wife charged over torture allegations",
-      "link": "https://www.aljazeera.com/news/2026/10/8/venezuelas-nicolas-maduro-and-his-wife-charged-over-torture-allegations?traffic_source=rss",
-      "date": "Thu, 08 Oct 2026 15:20:39 +0000",
       "source": "Al Jazeera"
     }
   ]
