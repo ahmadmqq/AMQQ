@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-08T14:43:00.983473+00:00",
+  "updated": "2026-10-08T14:59:44.675439+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله الحوثية تعلن استهداف مطار الرياض للمرة الثانية اليوم",
       "link": "https://www.bbc.com/arabic/articles/c5kgl1en13xzo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 08 Oct 2026 13:28:03 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "البرلمان الأوروبي يحقق في نزع ريما حسن العلم الإسرائيلي من معرض لإحياء ذكرى 7 أكتوبر",
+      "link": "https://www.bbc.com/arabic/articles/cd11ey3xpyeo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 08 Oct 2026 14:54:00 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "7 أكتوبر 2023: إسرائيل تحيي الذكرى الثالثة، ونتنياهو يؤكد أن \"المهمة ستنجز\"",
-      "link": "https://www.bbc.com/arabic/articles/cm62ylyn7lnro?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 20:23:57 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
       "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 08 Oct 2026 12:43:56 GMT",
@@ -74,7 +74,7 @@
       "source": "BBC World"
     },
     {
-      "title": "Italy overhauls electoral system after fiercely contested debate",
+      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
       "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 08 Oct 2026 12:32:12 GMT",
       "source": "BBC World"
@@ -194,13 +194,13 @@
       "source": "Guardian World"
     },
     {
-      "title": "Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower – business live",
-      "link": "https://www.theguardian.com/business/live/2026/oct/08/oil-prices-rise-shipping-attacks-rate-rise-uk-housing-market-bank-england-latest-live-updates",
-      "date": "Thu, 08 Oct 2026 14:23:50 GMT",
+      "title": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
+      "link": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat",
+      "date": "Thu, 08 Oct 2026 11:11:47 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Medium-term borrowing costs for UK government hit 19-year high",
+      "title": "Bank governor urges John Healey to use budget to allay market fears amid bond turmoil",
       "link": "https://www.theguardian.com/business/2026/oct/08/medium-term-borrowing-costs-uk-government-19-year-high",
       "date": "Thu, 08 Oct 2026 12:47:49 GMT",
       "source": "Guardian Business"
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "More killed in Kramatorsk as Russia targets Ukraine’s transportation system",
+      "link": "https://www.aljazeera.com/news/2026/10/8/more-killed-in-kramatorsk-as-russia-targets-ukraines-transportation-system?traffic_source=rss",
+      "date": "Thu, 08 Oct 2026 14:50:20 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Saudi-led coalition says it intercepts three Houthi ballistic missiles",
+      "link": "https://www.aljazeera.com/news/2026/10/8/saudi-led-coalition-says-it-intercepts-three-houthi-ballistic-missiles?traffic_source=rss",
+      "date": "Thu, 08 Oct 2026 14:43:19 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "New York Mayor Mamdani under fire for attending October 7 vigil",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/new-york-mayor-mamdani-under-fire-for-attending-october-7-vigil?traffic_source=rss",
       "date": "Thu, 08 Oct 2026 14:07:13 +0000",
@@ -323,18 +335,6 @@
       "title": "French PM vows changes as students keep up school protests",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/french-pm-vows-changes-as-students-keep-up-school-protests?traffic_source=rss",
       "date": "Thu, 08 Oct 2026 13:45:10 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Rubio praises nationalism and ties ‘America First’ values to ancient Greece",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/rubio-praises-nationalism-and-ties-america-first-values-to-ancient-greece?traffic_source=rss",
-      "date": "Thu, 08 Oct 2026 13:38:03 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Has Israel shut the UK consulate in East Jerusalem – or downgraded it?",
-      "link": "https://www.aljazeera.com/news/2026/10/8/has-israel-shut-the-uk-consulate-in-east-jerusalem-or-downgraded?traffic_source=rss",
-      "date": "Thu, 08 Oct 2026 13:32:32 +0000",
       "source": "Al Jazeera"
     }
   ]
