@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T10:03:19.391491+00:00",
+  "updated": "2026-10-08T10:24:01.430202+00:00",
   "items": [
     {
       "title": "سماع دوي انفجارات في الرياض، وسوريا تنفي تلقيها طلباً سعودياً للقتال في اليمن",
@@ -50,6 +50,12 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+      "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 08 Oct 2026 10:16:33 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
       "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 08 Oct 2026 05:00:44 GMT",
@@ -68,21 +74,15 @@
       "source": "BBC World"
     },
     {
+      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+      "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 08 Oct 2026 10:07:58 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
       "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 08 Oct 2026 07:15:45 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
-      "link": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 08 Oct 2026 03:02:06 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
-      "link": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 08 Oct 2026 05:10:40 GMT",
       "source": "BBC World"
     },
     {
@@ -104,7 +104,7 @@
       "source": "BBC Business"
     },
     {
-      "title": "Asos warns customers about full extent of data breach after BBC contacted by hackers",
+      "title": "Asos hackers took more personal details than first revealed, BBC finds",
       "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 08 Oct 2026 09:45:28 GMT",
       "source": "BBC Business"
@@ -196,7 +196,7 @@
     {
       "title": "Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/08/oil-prices-rise-shipping-attacks-rate-rise-uk-housing-market-bank-england-latest-live-updates",
-      "date": "Thu, 08 Oct 2026 09:44:55 GMT",
+      "date": "Thu, 08 Oct 2026 10:06:40 GMT",
       "source": "Guardian Business"
     },
     {
@@ -206,15 +206,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Wrexham and Rochdale train services rejected over west coast line pressure",
+      "title": "New direct train services from London to Wrexham and Rochdale rejected",
       "link": "https://www.theguardian.com/business/2026/oct/08/wrexham-rochdale-train-services-rejected-west-coast-line-blackpool-london",
       "date": "Thu, 08 Oct 2026 09:38:00 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Next UK banknotes to feature barn owls, bumblebees, puffins and hedgehogs",
-      "link": "https://www.theguardian.com/business/2026/oct/08/uk-banknotes-new-design-barn-owl-bumblebee-puffin-hedgehog",
-      "date": "Thu, 08 Oct 2026 04:00:11 GMT",
+      "title": "Supermarket shake-up: why Asda or Morrisons could vanish within a decade",
+      "link": "https://www.theguardian.com/business/2026/oct/08/supermarket-shakeup-big-brands-ripe-merger",
+      "date": "Thu, 08 Oct 2026 10:00:16 GMT",
       "source": "Guardian Business"
     },
     {
@@ -266,6 +266,12 @@
       "source": "NPR World"
     },
     {
+      "title": "'We need to go. We need to help.' Israelis return to border to rebuild after Oct. 7",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5948736/israel-border-gaza-oct-7-hamas-attack",
+      "date": "Wed, 07 Oct 2026 16:18:46 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "Gut microbes followed migrating humans across continents, new study suggests",
       "link": "https://www.npr.org/2026/10/07/nx-s1-5987874/ancient-gut-microbiome-migration-evolution-hadza-tsimane",
       "date": "Wed, 07 Oct 2026 11:00:47 -0400",
@@ -284,10 +290,10 @@
       "source": "NPR World"
     },
     {
-      "title": "U.S. moves long-range bombers from U.K. And, Israel allegedly warned before Oct. 7",
-      "link": "https://www.npr.org/2026/10/07/g-s1-146853/up-first-newsletter-long-range-bombers-france-high-school-protest-germany-august-hanning-oct-7-memorial-day",
-      "date": "Wed, 07 Oct 2026 06:52:58 -0400",
-      "source": "NPR World"
+      "title": "How much does France spend on education compared with the rest of Europe?",
+      "link": "https://www.aljazeera.com/news/2026/10/8/how-much-does-france-spend-on-education-compared-with-the-rest-of-europe?traffic_source=rss",
+      "date": "Thu, 08 Oct 2026 10:00:21 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "UK police charge Royal Navy member accused of working with foreign power",
@@ -329,12 +335,6 @@
       "title": "Video: Signs removed from British consulate in occupied East Jerusalem",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/video-signs-removed-from-british-consulate-in-occupied-east-jerusalem?traffic_source=rss",
       "date": "Thu, 08 Oct 2026 08:25:20 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Why Israel loves skunk water",
-      "link": "https://www.aljazeera.com/opinions/2026/10/8/why-israel-loves-skunk-water?traffic_source=rss",
-      "date": "Thu, 08 Oct 2026 08:15:52 +0000",
       "source": "Al Jazeera"
     }
   ]
