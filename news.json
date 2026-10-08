@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T08:00:13.527290+00:00",
+  "updated": "2026-10-08T08:20:24.237290+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله الحوثية تستهدف مطار الرياض مجدداً، وسوريا تنفي تقارير عن احتمالية انخراطها عسكرياً في اليمن",
@@ -11,6 +11,12 @@
       "title": "وفاة الإسبانية التي أثار قرار إخلائها من منزلها احتجاجات في أنحاء البلاد",
       "link": "https://www.bbc.com/arabic/articles/cxnv03z3vrd3o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 08 Oct 2026 05:31:03 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "ارتفاع نسبة السكر في الدم \"ليس بالضرورة خبراً سيئاً\"",
+      "link": "https://www.bbc.com/arabic/articles/crkg7d7g0ngvo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 08 Oct 2026 08:05:12 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,21 +50,15 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "وفاة فنية مختبر في روسيا تثير مخاوف من الطاعون، ما حقيقة ما حدث وماذا نعرف عن المرض؟",
-      "link": "https://www.bbc.com/arabic/articles/c63djep3dddlo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 07 Oct 2026 13:56:57 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
       "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 08 Oct 2026 05:00:44 GMT",
       "source": "BBC World"
     },
     {
-      "title": "UK says 'vital services' to continue in East Jerusalem as Israel says most consulate diplomats leaving",
+      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
       "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 08 Oct 2026 07:51:06 GMT",
+      "date": "Thu, 08 Oct 2026 08:18:36 GMT",
       "source": "BBC World"
     },
     {
@@ -92,9 +92,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Trump wants a new Camp David-like retreat at his Florida golf club",
-      "link": "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 08 Oct 2026 03:00:50 GMT",
+      "title": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
+      "link": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 07 Oct 2026 18:40:52 GMT",
       "source": "BBC World"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "Oil prices climb amid supply fears and shipping attacks; prospect of rate rise weighs on UK housing market – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/08/oil-prices-rise-shipping-attacks-rate-rise-uk-housing-market-bank-england-latest-live-updates",
-      "date": "Thu, 08 Oct 2026 07:47:22 GMT",
+      "date": "Thu, 08 Oct 2026 08:03:28 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Southampton manager Eckert can stay on despite role in ‘spygate’ scandal",
+      "link": "https://www.aljazeera.com/sports/2026/10/8/southampton-manager-eckert-can-stay-on-despite-role-in-spygate-scandal?traffic_source=rss",
+      "date": "Thu, 08 Oct 2026 07:49:46 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Cristiano Ronaldo pays tribute to Lionel Messi after Argentina farewell",
       "link": "https://www.aljazeera.com/sports/2026/10/8/cristiano-ronaldo-pays-tribute-to-lionel-messi-after-argentina-farewell?traffic_source=rss",
       "date": "Thu, 08 Oct 2026 07:12:46 +0000",
@@ -329,12 +335,6 @@
       "title": "Protesters in Colombia rally against ties with Israel",
       "link": "https://www.aljazeera.com/news/2026/10/8/protesters-in-colombia-rally-against-ties-with-israel?traffic_source=rss",
       "date": "Thu, 08 Oct 2026 05:09:13 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "UK says East Jerusalem consulate building to remain open as a mission",
-      "link": "https://www.aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over?traffic_source=rss",
-      "date": "Thu, 08 Oct 2026 05:06:25 +0000",
       "source": "Al Jazeera"
     }
   ]
