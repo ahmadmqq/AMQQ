@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T02:00:56.642191+00:00",
+  "updated": "2026-10-08T02:18:24.214347+00:00",
   "items": [
     {
       "title": "مقتل ثلاثة أشخاص وإصابة العشرات في هجمات على مطارين بالسعودية",
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Why is Guantanamo prison still open?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss",
+      "date": "Thu, 08 Oct 2026 01:49:11 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Democrats sue US President Trump over taxpayer-funded ad campaign",
       "link": "https://www.aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign?traffic_source=rss",
       "date": "Thu, 08 Oct 2026 01:21:26 +0000",
@@ -329,12 +335,6 @@
       "title": "Saudi Arabia confirms three dead in Houthi strikes on its airports",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/saudi-arabia-confirms-three-dead-in-houthi-strikes-on-its-airports?traffic_source=rss",
       "date": "Thu, 08 Oct 2026 00:16:25 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Yemen war live: Yemeni forces claim key heights as Houthi attacks go on",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss",
-      "date": "Thu, 08 Oct 2026 00:00:00 +0000",
       "source": "Al Jazeera"
     }
   ]
