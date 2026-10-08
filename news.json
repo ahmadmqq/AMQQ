@@ -1,8 +1,14 @@
 {
-  "updated": "2026-10-08T17:56:19.280341+00:00",
+  "updated": "2026-10-08T18:11:05.157830+00:00",
   "items": [
     {
-      "title": "أنصار الله يجددون استهداف مطار الرياض وأنباء عن تضرّر طائرات جراء الهجمات",
+      "title": "ترامب يستبعد مهاجمة إيران قبل الانتخابات النصفية تزامناً مع تشديد العقوبات",
+      "link": "https://www.bbc.com/arabic/articles/ckpqg9x4rz70o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 08 Oct 2026 18:04:06 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "أنصار الله يجددون استهداف مطار الرياض وأنباء عن تضرّر طائرات",
       "link": "https://www.bbc.com/arabic/articles/c5kgl1en13xzo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 08 Oct 2026 17:01:26 GMT",
       "source": "BBC Arabic"
@@ -41,12 +47,6 @@
       "title": "ارتفاع نسبة السكر في الدم \"ليس بالضرورة خبراً سيئاً\"",
       "link": "https://www.bbc.com/arabic/articles/crkg7d7g0ngvo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 08 Oct 2026 08:05:12 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "وفاة الإسبانية التي أثار قرار إخلائها من منزلها احتجاجات في أنحاء البلاد",
-      "link": "https://www.bbc.com/arabic/articles/cxnv03z3vrd3o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 08 Oct 2026 05:31:03 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Syria calls for independent probe into sinking of ship in Black Sea",
+      "link": "https://www.aljazeera.com/news/2026/10/8/syria-calls-for-independent-probe-into-sinking-of-ship-in-black-sea?traffic_source=rss",
+      "date": "Thu, 08 Oct 2026 17:27:47 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "US suspends Microsoft and Adobe from visa programme amid fraud claims",
       "link": "https://www.aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims?traffic_source=rss",
       "date": "Thu, 08 Oct 2026 17:25:02 +0000",
@@ -302,7 +308,7 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "CAS promises Senegal-Morocco AFCON title decision within days",
+      "title": "Senegal-Morocco AFCON title decision within days, says CAS",
       "link": "https://www.aljazeera.com/sports/2026/10/8/cas-promises-senegal-morocco-afcon-title-decision-within-days?traffic_source=rss",
       "date": "Thu, 08 Oct 2026 17:08:15 +0000",
       "source": "Al Jazeera"
@@ -329,12 +335,6 @@
       "title": "Man City charges: Haaland says Premier League club must ‘stick together’",
       "link": "https://www.aljazeera.com/sports/2026/10/8/man-city-must-stick-together-after-premier-league-charges-says-haaland?traffic_source=rss",
       "date": "Thu, 08 Oct 2026 16:21:52 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "UK ex-prince Andrew search warrants quashed after police accept legal error",
-      "link": "https://www.aljazeera.com/news/2026/10/8/uk-ex-prince-andrew-search-warrants-quashed-after-police-accept-legal-error?traffic_source=rss",
-      "date": "Thu, 08 Oct 2026 15:53:07 +0000",
       "source": "Al Jazeera"
     }
   ]
