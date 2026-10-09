@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-09T11:11:30.502778+00:00",
+  "updated": "2026-10-09T11:28:25.074018+00:00",
   "items": [
     {
       "title": "مقتل ثلاثة سعوديين بهجمات على مطار الرياض ومصدر يربط الهدنة باستعادة الحكومة اليمنية كل الأراضي التي خسرتها",
       "link": "https://www.bbc.com/arabic/articles/cw80zv045evno?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 09 Oct 2026 09:26:17 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "هل تتطيح أزمة الإسكان بحكومة سانشيز أم تنقذها؟ - في الغارديان",
+      "link": "https://www.bbc.com/arabic/articles/cvy0rpn3551zo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 09 Oct 2026 11:19:20 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "آن كارسون: شاعرة كندية \"جريئة ومبتكرة\" تفوز بجائزة نوبل في الأدب",
-      "link": "https://www.bbc.com/arabic/articles/cqp8g30kjke9o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 08 Oct 2026 16:37:30 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Firing squad execution to be livestreamed, Pentagon says",
       "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 09 Oct 2026 09:29:52 GMT",
@@ -80,7 +80,7 @@
       "source": "BBC World"
     },
     {
-      "title": "Crazy Rich Asians TV show to reunite Constance Wu and Henry Golding",
+      "title": "Crazy Rich Asians to return as TV show with original film's stars",
       "link": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 09 Oct 2026 10:54:21 GMT",
       "source": "BBC World"
@@ -196,7 +196,7 @@
     {
       "title": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
-      "date": "Fri, 09 Oct 2026 10:57:51 GMT",
+      "date": "Fri, 09 Oct 2026 11:10:04 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Labour fends off the Green party in closely watched UK by-election",
+      "link": "https://www.aljazeera.com/news/2026/10/9/labour-fends-off-the-green-party-in-closely-watched-uk-by-election?traffic_source=rss",
+      "date": "Fri, 09 Oct 2026 10:56:33 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Is Trump signalling a return to war with Iran after the midterms?",
       "link": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms?traffic_source=rss",
       "date": "Fri, 09 Oct 2026 10:40:36 +0000",
@@ -329,12 +335,6 @@
       "title": "Everton’s US owners seek sale of controlling stake in Premier League club",
       "link": "https://www.aljazeera.com/sports/2026/10/9/evertons-us-owners-seek-sale-of-controlling-stake-in-premier-league-club?traffic_source=rss",
       "date": "Fri, 09 Oct 2026 09:26:58 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "2026 Nobel Peace Prize awarded to Navi Pillay",
-      "link": "https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay?traffic_source=rss",
-      "date": "Fri, 09 Oct 2026 09:06:43 +0000",
       "source": "Al Jazeera"
     }
   ]
