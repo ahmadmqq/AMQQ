@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-09T16:05:47.973542+00:00",
+  "updated": "2026-10-09T16:24:31.268555+00:00",
   "items": [
     {
       "title": "أنباء عن انفجار قرب مطار عدن ومقتل ثلاثة سعوديين بهجمات على مطار الرياض",
       "link": "https://www.bbc.com/arabic/articles/cw80zv045evno?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 09 Oct 2026 15:24:13 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "سغال عبد الولي: أول امرأة من أصول صومالية في البرلمان البريطاني",
+      "link": "https://www.bbc.com/arabic/articles/cm89z7xvyzn1o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 09 Oct 2026 16:21:00 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,15 +50,9 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "سيدة تنجب طفلاً بفضل أنسجة المبيض المُجمَّدة، بعد صراع مع السرطان وانقطاع الطمث المبكر",
-      "link": "https://www.bbc.com/arabic/articles/ckpdgvdyvn4xo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 07:34:31 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
       "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 14:00:47 GMT",
+      "date": "Fri, 09 Oct 2026 16:15:09 GMT",
       "source": "BBC World"
     },
     {
@@ -68,13 +68,13 @@
       "source": "BBC World"
     },
     {
-      "title": "France promises 3,000 extra teachers in first step to calm student protests",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 11:35:00 GMT",
+      "title": "US imposes sanctions on International Criminal Court",
+      "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 09 Oct 2026 16:06:59 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Ethiopia and Eritrea accuse each other of starting conflict after troops cross border",
+      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
       "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 09 Oct 2026 15:24:43 GMT",
       "source": "BBC World"
@@ -100,7 +100,7 @@
     {
       "title": "Burnham promises to curb non-compete rules in job contracts",
       "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 13:02:47 GMT",
+      "date": "Fri, 09 Oct 2026 16:15:30 GMT",
       "source": "BBC Business"
     },
     {
@@ -206,9 +206,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "OpenAI projected to bring in $20bn less in revenue than expected",
-      "link": "https://www.theguardian.com/technology/2026/oct/09/openai-forecast-revenue-gap",
-      "date": "Fri, 09 Oct 2026 08:06:09 GMT",
+      "title": "Christian Bittar has conviction for rigging interest rates quashed",
+      "link": "https://www.theguardian.com/business/2026/oct/09/christian-bittar-conviction-rigging-interest-rates-quashed-euribor",
+      "date": "Fri, 09 Oct 2026 15:59:38 GMT",
       "source": "Guardian Business"
     },
     {
@@ -218,15 +218,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Tory tax break for banks has cost UK public purse £6bn, says TUC",
-      "link": "https://www.theguardian.com/money/2026/oct/09/tory-tax-break-banks-cost-uk-public-purse-tuc",
-      "date": "Fri, 09 Oct 2026 13:18:58 GMT",
+      "title": "OpenAI projected to bring in $20bn less in revenue than expected",
+      "link": "https://www.theguardian.com/technology/2026/oct/09/openai-forecast-revenue-gap",
+      "date": "Fri, 09 Oct 2026 08:06:09 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Thieves make off with €5m haul from prestigious Italian winery",
-      "link": "https://www.theguardian.com/world/2026/oct/09/thieves-make-off-with-haul-from-prestigious-italian-winery-marchesi-antinori",
-      "date": "Fri, 09 Oct 2026 11:57:49 GMT",
+      "title": "Tory tax break for banks has cost UK public purse £6bn, says TUC",
+      "link": "https://www.theguardian.com/money/2026/oct/09/tory-tax-break-banks-cost-uk-public-purse-tuc",
+      "date": "Fri, 09 Oct 2026 13:18:58 GMT",
       "source": "Guardian Business"
     },
     {
@@ -236,9 +236,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Top bosses at Goldman Sachs to share bonus pot worth up to $500m",
-      "link": "https://www.theguardian.com/business/2026/oct/08/top-bosses-goldman-sachs-bonus-pot",
-      "date": "Thu, 08 Oct 2026 18:09:14 GMT",
+      "title": "Thieves make off with €5m haul from prestigious Italian winery",
+      "link": "https://www.theguardian.com/world/2026/oct/09/thieves-make-off-with-haul-from-prestigious-italian-winery-marchesi-antinori",
+      "date": "Fri, 09 Oct 2026 11:57:49 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
+      "link": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss",
+      "date": "Fri, 09 Oct 2026 16:07:29 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Trump launches probe into Federal Reserve Governor Lisa Cook",
+      "link": "https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss",
+      "date": "Fri, 09 Oct 2026 16:01:37 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss",
+      "date": "Fri, 09 Oct 2026 15:59:04 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Israeli settler attacks target Palestinian olive harvest in West Bank",
       "link": "https://www.aljazeera.com/news/2026/10/9/israeli-settler-attacks-target-palestinian-olive-harvest-in-west-bank?traffic_source=rss",
       "date": "Fri, 09 Oct 2026 15:28:10 +0000",
@@ -317,24 +335,6 @@
       "title": "Trump’s planned DC arch faces new lawsuit",
       "link": "https://www.aljazeera.com/news/2026/10/9/trumps-planned-dc-arch-faces-new-lawsuit?traffic_source=rss",
       "date": "Fri, 09 Oct 2026 15:04:01 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Man City case causing ‘uncertainty’ for whole Premier League, says Iraola",
-      "link": "https://www.aljazeera.com/sports/2026/10/9/man-city-case-causing-uncertainty-for-whole-premier-league-says-iraola?traffic_source=rss",
-      "date": "Fri, 09 Oct 2026 14:40:01 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "US to livestream Fort Hood shooter’s execution: Is that legal?​",
-      "link": "https://www.aljazeera.com/news/2026/10/9/us-to-livestream-fort-hood-shooters-execution-is-that?traffic_source=rss",
-      "date": "Fri, 09 Oct 2026 14:37:08 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Man City face Liverpool after being found guilty of financial breaches",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/man-city-face-liverpool-after-being-found-guilty-of-financial-breaches?traffic_source=rss",
-      "date": "Fri, 09 Oct 2026 14:29:06 +0000",
       "source": "Al Jazeera"
     }
   ]
