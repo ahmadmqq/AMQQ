@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T10:03:33.191688+00:00",
+  "updated": "2026-10-09T10:24:03.126056+00:00",
   "items": [
     {
       "title": "مقتل ثلاثة سعوديين بهجمات على مطار الرياض ومصدر يربط الهدنة باستعادة الحكومة اليمنية كل الأراضي التي خسرتها",
@@ -8,9 +8,15 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "منح جائزة نوبل السلام للجنوب أفريقية نافانيثيم بيلاي",
+      "title": "منح جائزة نوبل للسلام للجنوب أفريقية نافانيثيم بيلاي",
       "link": "https://www.bbc.com/arabic/articles/cvde89ny1r0ko?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 09:19:23 GMT",
+      "date": "Fri, 09 Oct 2026 10:04:41 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "وزير الدفاع الأمريكي يعلن عن بث تنفيذ الإعدام بحق نضال حسن على الهواء مباشرة",
+      "link": "https://www.bbc.com/arabic/articles/cxnv0qdj9y6vo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 09 Oct 2026 10:11:56 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "آن كارسون: شاعرة كندية \"جريئة ومبتكرة\" تفوز بجائزة نوبل في الأدب",
       "link": "https://www.bbc.com/arabic/articles/cqp8g30kjke9o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 08 Oct 2026 16:37:30 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "احتجاجات تلاميذ المدارس في فرنسا تتصاعد... فما جذور هذا الغضب؟",
-      "link": "https://www.bbc.com/arabic/articles/cq2e9x4ml4nro?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 08 Oct 2026 16:22:22 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -116,15 +116,15 @@
       "source": "BBC Business"
     },
     {
-      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-      "link": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 08 Oct 2026 23:14:02 GMT",
+      "title": "White House blocks Microsoft from foreign worker hiring programme",
+      "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 08 Oct 2026 21:37:35 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-      "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 07:14:30 GMT",
+      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+      "link": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 08 Oct 2026 23:14:02 GMT",
       "source": "BBC Business"
     },
     {
@@ -134,15 +134,15 @@
       "source": "BBC Business"
     },
     {
-      "title": "White House blocks Microsoft from foreign worker hiring programme",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 08 Oct 2026 21:37:35 GMT",
+      "title": "'You cannot build this car anywhere else in the world'",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2q7rlxxw8o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 09 Oct 2026 05:11:49 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Everton owners consider selling club two years after takeover",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 08:23:50 GMT",
+      "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 09 Oct 2026 07:14:30 GMT",
       "source": "BBC Business"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
-      "date": "Fri, 09 Oct 2026 09:18:03 GMT",
+      "date": "Fri, 09 Oct 2026 09:57:38 GMT",
       "source": "Guardian Business"
     },
     {
@@ -218,6 +218,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Sydney trader sacked for working from Singapore without permission wins unfair dismissal case",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/09/sydney-currency-trader-sacked-for-working-from-singapore-without-permission-wins-unfair-dismissal-case",
+      "date": "Fri, 09 Oct 2026 05:55:27 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Top bosses at Goldman Sachs to share bonus pot worth up to $500m",
       "link": "https://www.theguardian.com/business/2026/oct/08/top-bosses-goldman-sachs-bonus-pot",
       "date": "Thu, 08 Oct 2026 18:09:14 GMT",
@@ -233,12 +239,6 @@
       "title": "E.ON Next deal to buy Ovo Energy leaves UK with just ‘big three’ energy suppliers",
       "link": "https://www.theguardian.com/business/2026/oct/08/eon-next-ovo-energy-takeover-uk-big-three-energy-suppliers",
       "date": "Thu, 08 Oct 2026 15:16:14 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Harvey Nichols’ Birmingham store to close in January",
-      "link": "https://www.theguardian.com/business/2026/oct/08/harvey-nichols-birmingham-store-closure-frasers-group-mike-ashley",
-      "date": "Thu, 08 Oct 2026 17:18:09 GMT",
       "source": "Guardian Business"
     },
     {
