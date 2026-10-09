@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T10:24:03.126056+00:00",
+  "updated": "2026-10-09T10:41:29.837930+00:00",
   "items": [
     {
       "title": "مقتل ثلاثة سعوديين بهجمات على مطار الرياض ومصدر يربط الهدنة باستعادة الحكومة اليمنية كل الأراضي التي خسرتها",
@@ -68,9 +68,21 @@
       "source": "BBC World"
     },
     {
+      "title": "Thieves steal 30,000 wine bottles worth €5m in Italy, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 09 Oct 2026 09:09:03 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "ICE agent shoots man in New York City",
       "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 09 Oct 2026 04:26:19 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 09 Oct 2026 10:07:04 GMT",
       "source": "BBC World"
     },
     {
@@ -80,21 +92,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-      "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 09:30:49 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 08:28:57 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 08 Oct 2026 19:10:06 GMT",
+      "title": "Christa Pike has 'profound' health turnaround after botched execution, lawyers say",
+      "link": "https://www.bbc.co.uk/news/articles/c6dxw90kdp5yo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 09 Oct 2026 02:09:45 GMT",
       "source": "BBC World"
     },
     {
@@ -110,7 +110,7 @@
       "source": "BBC Business"
     },
     {
-      "title": "How soon into dating should you reveal your salary?",
+      "title": "I've been with my boyfriend for two years and don't know his salary",
       "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 09 Oct 2026 09:37:38 GMT",
       "source": "BBC Business"
@@ -146,6 +146,18 @@
       "source": "BBC Business"
     },
     {
+      "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
+      "link": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
+      "date": "Fri, 09 Oct 2026 09:59:06 GMT",
+      "source": "Guardian World"
+    },
+    {
+      "title": "ICJ judge Navi Pillay wins Nobel peace prize for defending international law",
+      "link": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+      "date": "Fri, 09 Oct 2026 09:32:14 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
       "link": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
       "date": "Fri, 09 Oct 2026 04:00:38 GMT",
@@ -161,18 +173,6 @@
       "title": "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
       "link": "https://www.theguardian.com/world/2026/oct/08/ethiopia-drone-attack-against-eritrean-troops-in-tigray",
       "date": "Thu, 08 Oct 2026 16:11:32 GMT",
-      "source": "Guardian World"
-    },
-    {
-      "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
-      "link": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
-      "date": "Tue, 06 Oct 2026 12:46:56 GMT",
-      "source": "Guardian World"
-    },
-    {
-      "title": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads",
-      "link": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes",
-      "date": "Tue, 06 Oct 2026 05:00:02 GMT",
       "source": "Guardian World"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
-      "date": "Fri, 09 Oct 2026 09:57:38 GMT",
+      "date": "Fri, 09 Oct 2026 10:21:40 GMT",
       "source": "Guardian Business"
     },
     {
@@ -242,7 +242,7 @@
       "source": "Guardian Business"
     },
     {
-      "title": "South African Human Rights lawyer Navi Pillay wins Nobel Peace Prize",
+      "title": "South African human rights lawyer Navi Pillay wins the Nobel Peace Prize",
       "link": "https://www.npr.org/2026/10/08/nx-s1-5994952/nobel-peace-prize",
       "date": "Fri, 09 Oct 2026 04:23:16 -0400",
       "source": "NPR World"
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "The girls in the Gaza school photograph",
+      "link": "https://www.aljazeera.com/features/longform/2026/10/9/the-girls-in-the-gaza-school-photograph?traffic_source=rss",
+      "date": "Fri, 09 Oct 2026 10:23:42 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Nobel chair admits they haven’t reached Peace Prize winner Pillay",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/nobel-chair-admits-they-havent-reached-peace-prize-winner-pillay?traffic_source=rss",
+      "date": "Fri, 09 Oct 2026 10:18:41 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "A’ja Wilson wins her third straight WNBA MVP and record fifth overall",
+      "link": "https://www.aljazeera.com/sports/2026/10/9/aja-wilson-wins-her-third-straight-wnba-mvp-and-record-fifth-overall?traffic_source=rss",
+      "date": "Fri, 09 Oct 2026 10:03:52 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Navi Pillay wins Nobel Peace Prize",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/navi-pillay-wins-nobel-peace-prize?traffic_source=rss",
       "date": "Fri, 09 Oct 2026 09:28:18 +0000",
@@ -317,24 +335,6 @@
       "title": "New York police push politician to ground during anti-ICE protest",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/new-york-police-push-politician-to-ground-during-anti-ice-protest?traffic_source=rss",
       "date": "Fri, 09 Oct 2026 08:59:49 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Japan’s Okinawa calls for review of US forces pact after killing",
-      "link": "https://www.aljazeera.com/news/2026/10/9/japans-okinawa-calls-for-review-of-us-forces-pact-after-killing?traffic_source=rss",
-      "date": "Fri, 09 Oct 2026 08:51:04 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "LeBron James stars in NBA preseason debut but Nets defeat 76ers",
-      "link": "https://www.aljazeera.com/sports/2026/10/9/lebron-james-shines-in-nba-pre-season-debut-by-76ers-defeated?traffic_source=rss",
-      "date": "Fri, 09 Oct 2026 08:25:12 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "US ICE releases Kashmiri filmmaker Arfat Sheikh from custody",
-      "link": "https://www.aljazeera.com/news/2026/10/9/us-ice-releases-kashmiri-filmmaker-arfat-sheikh-from-custody?traffic_source=rss",
-      "date": "Fri, 09 Oct 2026 08:05:54 +0000",
       "source": "Al Jazeera"
     }
   ]
