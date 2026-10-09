@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T04:27:58.869387+00:00",
+  "updated": "2026-10-09T04:45:55.624199+00:00",
   "items": [
     {
       "title": "ترامب يستبعد مهاجمة إيران قبل الانتخابات النصفية ويعلن عن محادثات \"مثمرة\" مع طهران",
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Mexico prison clash in strife-torn Sinaloa state leaves 10 dead",
+      "link": "https://www.aljazeera.com/news/2026/10/9/mexico-prison-clash-in-strife-torn-sinaloa-state-leaves-10-dead?traffic_source=rss",
+      "date": "Fri, 09 Oct 2026 04:26:55 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Uproar in NY after ICE shoots man with child in the car",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uproar-in-ny-after-ice-shoots-man-with-child-in-the-car?traffic_source=rss",
+      "date": "Fri, 09 Oct 2026 04:26:50 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Northern Ireland’s Sinn Fein faces police probe as protest tensions fester",
       "link": "https://www.aljazeera.com/news/2026/10/9/northern-irelands-sinn-fein-faces-police-probe-as-protest-tensions-fester?traffic_source=rss",
       "date": "Fri, 09 Oct 2026 03:47:41 +0000",
@@ -323,18 +335,6 @@
       "title": "USS Abraham Lincoln returns after record-breaking deployment",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uss-abraham-lincoln-returns-after-record-breaking-deployment?traffic_source=rss",
       "date": "Fri, 09 Oct 2026 00:57:45 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
-      "link": "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss",
-      "date": "Fri, 09 Oct 2026 00:50:38 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "USS Lincoln returns to US after long deployment supporting war on Iran",
-      "link": "https://www.aljazeera.com/news/2026/10/9/uss-lincoln-returns-to-us-after-long-deployment-supporting-war-on-iran?traffic_source=rss",
-      "date": "Fri, 09 Oct 2026 00:39:20 +0000",
       "source": "Al Jazeera"
     }
   ]
