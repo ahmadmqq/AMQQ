@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T06:29:20.447515+00:00",
+  "updated": "2026-10-09T06:53:48.020059+00:00",
   "items": [
     {
       "title": "ترامب يستبعد مهاجمة إيران قبل الانتخابات النصفية ويعلن عن محادثات \"مثمرة\" مع طهران",
@@ -74,9 +74,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 08 Oct 2026 15:02:32 GMT",
+      "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 09 Oct 2026 04:44:22 GMT",
       "source": "BBC World"
     },
     {
@@ -122,7 +122,7 @@
       "source": "BBC Business"
     },
     {
-      "title": "Nvidia-backed AI data centre firm scraps landmark listing over market fears",
+      "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
       "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 09 Oct 2026 04:06:23 GMT",
       "source": "BBC Business"
@@ -224,6 +224,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "E.ON Next deal to buy Ovo Energy leaves UK with just ‘big three’ energy suppliers",
+      "link": "https://www.theguardian.com/business/2026/oct/08/eon-next-ovo-energy-takeover-uk-big-three-energy-suppliers",
+      "date": "Thu, 08 Oct 2026 15:16:14 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Harvey Nichols’ Birmingham store to close in January",
       "link": "https://www.theguardian.com/business/2026/oct/08/harvey-nichols-birmingham-store-closure-frasers-group-mike-ashley",
       "date": "Thu, 08 Oct 2026 17:18:09 GMT",
@@ -233,12 +239,6 @@
       "title": "Starbucks reportedly exploring Chipotle takeover",
       "link": "https://www.theguardian.com/business/2026/oct/08/starbucks-chipotle-merger",
       "date": "Thu, 08 Oct 2026 17:35:53 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Bank governor urges John Healey to use budget to allay market fears amid bond turmoil",
-      "link": "https://www.theguardian.com/business/2026/oct/08/medium-term-borrowing-costs-uk-government-19-year-high",
-      "date": "Thu, 08 Oct 2026 16:38:25 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Brazilian Supreme Court judge issues arrest warrant for Eduardo Bolsonaro",
+      "link": "https://www.aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro?traffic_source=rss",
+      "date": "Fri, 09 Oct 2026 06:19:56 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "From Aden to Sanaa, Yemenis struggle to deal with soaring living costs",
       "link": "https://www.aljazeera.com/economy/2026/10/9/from-aden-to-sanaa-yemenis-struggle-to-deal-with-soaring-living-costs?traffic_source=rss",
       "date": "Fri, 09 Oct 2026 05:53:04 +0000",
@@ -326,15 +332,9 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "ICE agent shoots man in car with five-year-old child in New York: Mayor",
+      "title": "ICE shooting of New York man in car with 5-year-old sparks protests",
       "link": "https://www.aljazeera.com/news/2026/10/9/ice-agent-shoots-man-in-car-with-five-year-old-child-in-new-york-mayor?traffic_source=rss",
       "date": "Fri, 09 Oct 2026 03:25:33 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Christa Pike case underscores prevalence of botched executions in US",
-      "link": "https://www.aljazeera.com/news/2026/10/9/christa-pike-case-underscores-prevalence-of-botched-executions-in-us?traffic_source=rss",
-      "date": "Fri, 09 Oct 2026 02:05:00 +0000",
       "source": "Al Jazeera"
     }
   ]
