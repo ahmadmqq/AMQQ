@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T19:09:22.425180+00:00",
+  "updated": "2026-10-09T19:26:26.083543+00:00",
   "items": [
     {
       "title": "أنباء عن انفجار قرب مطار عدن ومقتل ثلاثة سعوديين بهجمات على مطار الرياض",
@@ -50,6 +50,12 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "Trump announces deal with Putin to release Russian diesel",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 09 Oct 2026 19:24:38 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
       "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 09 Oct 2026 18:40:10 GMT",
@@ -74,12 +80,6 @@
       "source": "BBC World"
     },
     {
-      "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 09:09:03 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Man named Hitler Mussolini elected mayor in Peru",
       "link": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 09 Oct 2026 16:32:22 GMT",
@@ -94,7 +94,7 @@
     {
       "title": "Commentator Katie Zacharia picked as new White House press secretary",
       "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 18:52:06 GMT",
+      "date": "Fri, 09 Oct 2026 19:22:33 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Injured Orangutan rescued from Indonesia wildfires",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/injured-orangutan-rescued-from-indonesia-wildfires?traffic_source=rss",
+      "date": "Fri, 09 Oct 2026 19:14:56 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Katie Zacharia ‘offered’ position as White House press secretary",
       "link": "https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss",
       "date": "Fri, 09 Oct 2026 18:49:24 +0000",
@@ -329,12 +335,6 @@
       "title": "Drone strike kills 30 people in Sudan’s Blue Nile region",
       "link": "https://www.aljazeera.com/news/2026/10/9/drone-strike-kills-30-people-in-sudans-blue-nile-region?traffic_source=rss",
       "date": "Fri, 09 Oct 2026 17:19:43 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Palestinians seek protection from violent settlers during olive harvest",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/palestinians-seek-protection-from-violent-settlers-during-olive-harvest?traffic_source=rss",
-      "date": "Fri, 09 Oct 2026 17:05:25 +0000",
       "source": "Al Jazeera"
     }
   ]
