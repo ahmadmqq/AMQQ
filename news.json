@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-09T11:58:49.040787+00:00",
+  "updated": "2026-10-09T12:18:03.108292+00:00",
   "items": [
     {
       "title": "مقتل ثلاثة سعوديين بهجمات على مطار الرياض ومصدر يربط الهدنة باستعادة الحكومة اليمنية كل الأراضي التي خسرتها",
       "link": "https://www.bbc.com/arabic/articles/cw80zv045evno?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 09:26:17 GMT",
+      "date": "Fri, 09 Oct 2026 12:01:11 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -80,6 +80,12 @@
       "source": "BBC World"
     },
     {
+      "title": "Two Renoir paintings stolen from French museum are recovered",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 09 Oct 2026 12:05:12 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "ICE agent shoots man in New York City",
       "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 09 Oct 2026 04:26:19 GMT",
@@ -89,12 +95,6 @@
       "title": "Crazy Rich Asians to return as TV show with original film's stars",
       "link": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 09 Oct 2026 10:54:21 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
-      "link": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 11:44:49 GMT",
       "source": "BBC World"
     },
     {
@@ -200,15 +200,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "OpenAI projected to bring in $20bn less in revenue than expected",
-      "link": "https://www.theguardian.com/technology/2026/oct/09/openai-forecast-revenue-gap",
-      "date": "Fri, 09 Oct 2026 08:06:09 GMT",
+      "title": "Shein outsells British rival Asos as UK revenue hits £2.58bn",
+      "link": "https://www.theguardian.com/business/2026/oct/09/shein-outsells-british-rival-asos-as-uk-revenue-hits-258bn",
+      "date": "Fri, 09 Oct 2026 11:49:48 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Revealed: the ‘black box’ wastewater trade that rakes in millions for UK utility companies",
-      "link": "https://www.theguardian.com/environment/2026/oct/09/uk-water-companies-industrial-commercial-wastewater-sewage-treatment",
-      "date": "Fri, 09 Oct 2026 05:00:39 GMT",
+      "title": "OpenAI projected to bring in $20bn less in revenue than expected",
+      "link": "https://www.theguardian.com/technology/2026/oct/09/openai-forecast-revenue-gap",
+      "date": "Fri, 09 Oct 2026 08:06:09 GMT",
       "source": "Guardian Business"
     },
     {
@@ -218,9 +218,21 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Sydney trader sacked for working from Singapore without permission wins unfair dismissal case",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/09/sydney-currency-trader-sacked-for-working-from-singapore-without-permission-wins-unfair-dismissal-case",
-      "date": "Fri, 09 Oct 2026 05:55:27 GMT",
+      "title": "Revealed: the ‘black box’ wastewater trade that rakes in millions for UK utility companies",
+      "link": "https://www.theguardian.com/environment/2026/oct/09/uk-water-companies-industrial-commercial-wastewater-sewage-treatment",
+      "date": "Fri, 09 Oct 2026 05:00:39 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Trump immigrant purge could cut social security for Americans by $2,000 a year",
+      "link": "https://www.theguardian.com/us-news/2026/oct/09/trump-immigration-cost-social-security",
+      "date": "Fri, 09 Oct 2026 12:00:28 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Thieves make off with €5m haul from prestigious Italian winery",
+      "link": "https://www.theguardian.com/world/2026/oct/09/thieves-make-off-with-haul-from-prestigious-italian-winery-marchesi-antinori",
+      "date": "Fri, 09 Oct 2026 11:57:49 GMT",
       "source": "Guardian Business"
     },
     {
@@ -230,19 +242,7 @@
       "source": "Guardian Business"
     },
     {
-      "title": "MoD has objected to four windfarms in past year over radar interference fears",
-      "link": "https://www.theguardian.com/environment/2026/oct/08/mod-objection-four-windfarms-radar-interference-fears",
-      "date": "Thu, 08 Oct 2026 17:00:24 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "E.ON Next deal to buy Ovo Energy leaves UK with just ‘big three’ energy suppliers",
-      "link": "https://www.theguardian.com/business/2026/oct/08/eon-next-ovo-energy-takeover-uk-big-three-energy-suppliers",
-      "date": "Thu, 08 Oct 2026 15:16:14 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Trump says U.S. won't attack Iran before midterms. And, And, ICE agent shoots man in NYC",
+      "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
       "link": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
       "date": "Fri, 09 Oct 2026 07:37:04 -0400",
       "source": "NPR World"
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three",
+      "link": "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
+      "date": "Fri, 09 Oct 2026 11:46:39 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Real Madrid’s Mourinho lashes out at ‘ridiculous’ criticism of Mbappe",
       "link": "https://www.aljazeera.com/sports/2026/10/9/real-madrids-mourinho-lashes-out-at-ridiculous-criticism-of-mbappe?traffic_source=rss",
       "date": "Fri, 09 Oct 2026 11:29:15 +0000",
@@ -329,12 +335,6 @@
       "title": "Ex-OpenAI staff say they were fired for raising safety concerns",
       "link": "https://www.aljazeera.com/economy/2026/10/9/ex-openai-staff-say-they-were-fired-for-raising-safety-concerns?traffic_source=rss",
       "date": "Fri, 09 Oct 2026 10:39:07 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "The girls in the Gaza school photograph",
-      "link": "https://www.aljazeera.com/features/longform/2026/10/9/the-girls-in-the-gaza-school-photograph?traffic_source=rss",
-      "date": "Fri, 09 Oct 2026 10:23:42 +0000",
       "source": "Al Jazeera"
     }
   ]
