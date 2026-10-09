@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T12:18:03.108292+00:00",
+  "updated": "2026-10-09T12:42:38.879468+00:00",
   "items": [
     {
       "title": "مقتل ثلاثة سعوديين بهجمات على مطار الرياض ومصدر يربط الهدنة باستعادة الحكومة اليمنية كل الأراضي التي خسرتها",
@@ -8,7 +8,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "هل تتطيح أزمة الإسكان بحكومة سانشيز أم تنقذها؟ - في الغارديان",
+      "title": "هل تطيح أزمة الإسكان بحكومة سانشيز أم تنقذها؟ - الغارديان",
       "link": "https://www.bbc.com/arabic/articles/cvy0rpn3551zo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 09 Oct 2026 11:19:20 GMT",
       "source": "BBC Arabic"
@@ -52,7 +52,7 @@
     {
       "title": "Firing squad execution to be livestreamed, Pentagon says",
       "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 09:29:52 GMT",
+      "date": "Fri, 09 Oct 2026 12:24:58 GMT",
       "source": "BBC World"
     },
     {
@@ -88,7 +88,7 @@
     {
       "title": "ICE agent shoots man in New York City",
       "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 04:26:19 GMT",
+      "date": "Fri, 09 Oct 2026 12:18:52 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "India’s Cockroach Party says members detained ahead of protest",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/indias-cockroach-party-says-members-detained-ahead-of-protest?traffic_source=rss",
+      "date": "Fri, 09 Oct 2026 12:17:25 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three",
       "link": "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
       "date": "Fri, 09 Oct 2026 11:46:39 +0000",
@@ -329,12 +335,6 @@
       "title": "Is Trump signalling a return to war with Iran after the midterms?",
       "link": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms?traffic_source=rss",
       "date": "Fri, 09 Oct 2026 10:40:36 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ex-OpenAI staff say they were fired for raising safety concerns",
-      "link": "https://www.aljazeera.com/economy/2026/10/9/ex-openai-staff-say-they-were-fired-for-raising-safety-concerns?traffic_source=rss",
-      "date": "Fri, 09 Oct 2026 10:39:07 +0000",
       "source": "Al Jazeera"
     }
   ]
