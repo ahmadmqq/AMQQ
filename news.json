@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-09T14:20:29.638083+00:00",
+  "updated": "2026-10-09T14:41:31.451013+00:00",
   "items": [
     {
-      "title": "مقتل ثلاثة سعوديين بهجمات على مطار الرياض ومصدر يربط الهدنة باستعادة الحكومة اليمنية كل الأراضي التي خسرتها",
+      "title": "مقتل ثلاثة سعوديين بهجمات على مطار الرياض",
       "link": "https://www.bbc.com/arabic/articles/cw80zv045evno?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 09 Oct 2026 12:01:11 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "نافي بيلاي تفوز بنوبل للسلام تقديراً لجهودها في تعزيز القانون الدولي",
+      "link": "https://www.bbc.com/arabic/articles/cvde89ny1r0ko?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 09 Oct 2026 10:04:41 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -14,13 +20,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "منح جائزة نوبل للسلام للجنوب أفريقية نافانيثيم بيلاي",
-      "link": "https://www.bbc.com/arabic/articles/cvde89ny1r0ko?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 10:04:41 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "وزراة الدفاع الأمريكية ستبثّ مباشرة إعدام نضال حسن رمياً بالرصاص",
+      "title": "وزراة الدفاع الأمريكية ستبثّ إعدام نضال حسن رمياً بالرصاص",
       "link": "https://www.bbc.com/arabic/articles/cxnv0qdj9y6vo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 09 Oct 2026 10:11:56 GMT",
       "source": "BBC Arabic"
@@ -104,6 +104,12 @@
       "source": "BBC Business"
     },
     {
+      "title": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 09 Oct 2026 14:36:35 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
       "link": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 09 Oct 2026 04:55:14 GMT",
@@ -122,21 +128,15 @@
       "source": "BBC Business"
     },
     {
-      "title": "'Add me on WhatsApp' scam calls to be investigated",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 08 Oct 2026 23:05:09 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "Why are more roofs not made of solar tiles?",
       "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 08 Oct 2026 23:09:56 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "White House blocks Microsoft from foreign worker hiring programme",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 08 Oct 2026 21:37:35 GMT",
+      "title": "'Add me on WhatsApp' scam calls to be investigated",
+      "link": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 08 Oct 2026 23:05:09 GMT",
       "source": "BBC Business"
     },
     {
@@ -194,12 +194,6 @@
       "source": "Guardian World"
     },
     {
-      "title": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live",
-      "link": "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
-      "date": "Fri, 09 Oct 2026 13:46:25 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "Shein outsells British rival Asos as UK revenue hits £2.58bn",
       "link": "https://www.theguardian.com/business/2026/oct/09/shein-outsells-british-rival-asos-as-uk-revenue-hits-258bn",
       "date": "Fri, 09 Oct 2026 11:49:48 GMT",
@@ -212,15 +206,21 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Tory tax break for banks has cost UK public purse £6bn, says TUC",
+      "link": "https://www.theguardian.com/money/2026/oct/09/tory-tax-break-banks-cost-uk-public-purse-tuc",
+      "date": "Fri, 09 Oct 2026 13:18:58 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Virgin unveils its future cross-Channel train as it gears up to take on Eurostar",
       "link": "https://www.theguardian.com/business/2026/oct/09/virgin-cross-channel-train-eurostar",
       "date": "Fri, 09 Oct 2026 06:00:39 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Tory tax break for banks has cost UK public purse £6bn, says TUC",
-      "link": "https://www.theguardian.com/money/2026/oct/09/tory-tax-break-banks-cost-uk-public-purse-tuc",
-      "date": "Fri, 09 Oct 2026 13:18:58 GMT",
+      "title": "EU ‘pulling out all stops’ with minerals projects as it tries to avert China trade war",
+      "link": "https://www.theguardian.com/world/2026/oct/09/eu-pulling-out-all-stops-with-minerals-projects-as-it-tries-to-avert-china-trade-war",
+      "date": "Fri, 09 Oct 2026 13:31:04 GMT",
       "source": "Guardian Business"
     },
     {
@@ -236,9 +236,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "EU ‘pulling out all stops’ with minerals projects as it tries to avert China trade war",
-      "link": "https://www.theguardian.com/world/2026/oct/09/eu-pulling-out-all-stops-with-minerals-projects-as-it-tries-to-avert-china-trade-war",
-      "date": "Fri, 09 Oct 2026 13:31:04 GMT",
+      "title": "Top bosses at Goldman Sachs to share bonus pot worth up to $500m",
+      "link": "https://www.theguardian.com/business/2026/oct/08/top-bosses-goldman-sachs-bonus-pot",
+      "date": "Thu, 08 Oct 2026 18:09:14 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Ethiopia and Eritrea accuse one another of launching war",
+      "link": "https://www.aljazeera.com/news/2026/10/9/ethiopia-and-eritrea-accuse-one-another-of-launching-war?traffic_source=rss",
+      "date": "Fri, 09 Oct 2026 14:11:50 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Bangladesh’s mango diplomacy with India has reached its limits",
+      "link": "https://www.aljazeera.com/opinions/2026/10/9/bangladeshs-mango-diplomacy-with-india-has-reached-its-limits?traffic_source=rss",
+      "date": "Fri, 09 Oct 2026 14:09:16 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Who is Navi Pillay, winner of the 2026 Nobel Peace Prize?",
       "link": "https://www.aljazeera.com/news/2026/10/9/who-is-navi-pillay-winner-of-the-2026-nobel-peace-prize?traffic_source=rss",
       "date": "Fri, 09 Oct 2026 14:02:58 +0000",
@@ -323,18 +335,6 @@
       "title": "Satire silenced: Indian artists face censorship as anti-Modi protests grow",
       "link": "https://www.aljazeera.com/news/2026/10/9/satire-silenced-indian-artists-face-censorship-as-anti-modi-protests-grow?traffic_source=rss",
       "date": "Fri, 09 Oct 2026 12:37:49 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "India’s Cockroach Party says members detained ahead of protest",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/indias-cockroach-party-says-members-detained-ahead-of-protest?traffic_source=rss",
-      "date": "Fri, 09 Oct 2026 12:17:25 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Saudi Arabia reopens Riyadh airport after Houthi attack kills three",
-      "link": "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
-      "date": "Fri, 09 Oct 2026 11:46:39 +0000",
       "source": "Al Jazeera"
     }
   ]
