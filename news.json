@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-10T13:46:48.135892+00:00",
+  "updated": "2026-10-10T13:57:54.469973+00:00",
   "items": [
     {
       "title": "\"كل يوم هناك قتلى\": غزيون يواجهون غارات إسرائيلية رغم وقف إطلاق النار، مع تعثر اتفاق سلام",
       "link": "https://www.bbc.com/arabic/articles/c617kev1nv8lo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 10 Oct 2026 13:16:36 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "مقتل 15 شخصاً على الأقل في هجوم روسي بقنابل انزلاقية على زابوريجيا",
+      "link": "https://www.bbc.com/arabic/articles/c6qxn9p0gzqzo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 10 Oct 2026 13:45:21 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -35,12 +41,6 @@
       "title": "هل يُمكن قياس السعادة؟",
       "link": "https://www.bbc.com/arabic/articles/cw05r280zn33o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 10 Oct 2026 08:08:22 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "ترامب يعلن اتفاقاً بشأن الديزل الروسي، وزيلينسكي ينتقد ما وصفه بأنه \"هدية لبوتين\"",
-      "link": "https://www.bbc.com/arabic/articles/c83vqp544zp7o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 23:58:53 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "High silver prices threaten Lucknow’s famed bridal nagra craft",
+      "link": "https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 13:25:35 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "New Delhi police crack down on protesters ahead of anti-gov’t march",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 13:23:42 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran",
       "link": "https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss",
       "date": "Sat, 10 Oct 2026 13:09:09 +0000",
@@ -323,18 +335,6 @@
       "title": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss",
       "date": "Sat, 10 Oct 2026 12:33:07 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Graffiti artist honours Spain’s housing rights figure ‘Maricarmen’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/graffiti-artist-honours-spains-housing-rights-figure?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 12:17:30 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Why is US turning to Russia for diesel despite sanctions?",
-      "link": "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 12:16:12 +0000",
       "source": "Al Jazeera"
     }
   ]
