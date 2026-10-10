@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-10T15:04:26.605261+00:00",
+  "updated": "2026-10-10T15:20:51.965114+00:00",
   "items": [
     {
-      "title": "دوي انفجار قوي في مطار الملك خالد بالرياض، والتحالف الدولي يعلن تدمير 136 هدفاً لأنصار الله",
+      "title": "خمسة جرحى في انفجار قوي بمطار الملك خالد بالرياض",
       "link": "https://www.bbc.com/arabic/articles/cmly049ljq1ro?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 14:50:34 GMT",
+      "date": "Sat, 10 Oct 2026 15:19:44 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -80,6 +80,12 @@
       "source": "BBC World"
     },
     {
+      "title": "Saudi capital airport hit again, sparking evacuations, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 10 Oct 2026 15:05:55 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
       "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 10 Oct 2026 10:06:23 GMT",
@@ -89,12 +95,6 @@
       "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
       "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 10 Oct 2026 12:28:51 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 14:49:32 GMT",
       "source": "BBC World"
     },
     {
@@ -224,21 +224,21 @@
       "source": "Guardian Business"
     },
     {
-      "title": "UK savings: 5% interest rate deals may not last, say experts",
-      "link": "https://www.theguardian.com/money/2026/oct/10/uk-savings-interest-rate-deals-nsi-bonds",
-      "date": "Sat, 10 Oct 2026 06:00:50 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "France’s dilemma: protesters demand spending as markets require fiscal restraint",
       "link": "https://www.theguardian.com/world/2026/oct/10/france-caught-between-bond-markets-student-worker-blockades",
       "date": "Sat, 10 Oct 2026 04:00:47 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "AI surveillance startup Flock to cut several hundred jobs amid backlash, sources say",
-      "link": "https://www.theguardian.com/world/2026/oct/09/flock-job-cuts",
-      "date": "Fri, 09 Oct 2026 19:46:53 GMT",
+      "title": "How a South African billionaire is turning a corner of Somerset into ‘one man’s estate’",
+      "link": "https://www.theguardian.com/news/2026/oct/10/how-a-south-african-billionaire-is-turning-a-corner-of-somerset-into-one-mans-estate",
+      "date": "Sat, 10 Oct 2026 13:00:58 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "UK savings: 5% interest rate deals may not last, say experts",
+      "link": "https://www.theguardian.com/money/2026/oct/10/uk-savings-interest-rate-deals-nsi-bonds",
+      "date": "Sat, 10 Oct 2026 06:00:50 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Arsenal beat Leeds 2-1 in comeback win to move level with Man City at top",
+      "link": "https://www.aljazeera.com/sports/2026/10/10/arsenal-beat-leeds-2-1-in-comeback-win-to-move-level-with-man-city-at-top?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 14:42:39 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Jerusalem Daily: Israeli settlers attack olive farmers",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
       "date": "Sat, 10 Oct 2026 14:39:53 +0000",
@@ -329,12 +335,6 @@
       "title": "High silver prices threaten Lucknow’s famed bridal nagra craft",
       "link": "https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss",
       "date": "Sat, 10 Oct 2026 13:25:35 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "New Delhi police crack down on protesters ahead of anti-gov’t march",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 13:23:42 +0000",
       "source": "Al Jazeera"
     }
   ]
