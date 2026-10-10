@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T00:00:49.634782+00:00",
+  "updated": "2026-10-10T00:29:21.405295+00:00",
   "items": [
     {
       "title": "أنباء عن انفجار قرب مطار عدن ومقتل ثلاثة سعوديين بهجمات على مطار الرياض",
@@ -50,15 +50,27 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
       "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 21:54:28 GMT",
+      "date": "Sat, 10 Oct 2026 00:19:26 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 09 Oct 2026 22:30:22 GMT",
       "source": "BBC World"
     },
     {
       "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
       "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 09 Oct 2026 18:40:10 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 09 Oct 2026 23:02:07 GMT",
       "source": "BBC World"
     },
     {
@@ -74,9 +86,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-      "link": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 17:14:44 GMT",
+      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+      "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 09 Oct 2026 17:37:10 GMT",
       "source": "BBC World"
     },
     {
@@ -86,21 +98,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-      "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 17:37:10 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
-      "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 21:55:51 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
       "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 21:54:28 GMT",
+      "date": "Sat, 10 Oct 2026 00:19:26 GMT",
       "source": "BBC Business"
     },
     {
@@ -176,9 +176,9 @@
       "source": "Guardian World"
     },
     {
-      "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
+      "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
       "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-      "date": "Fri, 09 Oct 2026 22:48:01 GMT",
+      "date": "Sat, 10 Oct 2026 00:13:15 GMT",
       "source": "Guardian World"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Intercommunal clashes kill 71 people in South Sudan",
+      "link": "https://www.aljazeera.com/news/2026/10/10/intercommunal-clashes-kill-71-people-in-south-sudan?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 00:01:32 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Iran war live: Kremlin says Trump welcomed Russia effort in Iran deal",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 00:00:00 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Mexico investigates video said to show cartel members fighting for Ukraine",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine?traffic_source=rss",
       "date": "Fri, 09 Oct 2026 22:50:15 +0000",
@@ -323,18 +335,6 @@
       "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
       "link": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
       "date": "Fri, 09 Oct 2026 20:56:01 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "How will Spain’s housing crisis affect elections?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss",
-      "date": "Fri, 09 Oct 2026 20:39:11 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss",
-      "date": "Fri, 09 Oct 2026 20:29:30 +0000",
       "source": "Al Jazeera"
     }
   ]
