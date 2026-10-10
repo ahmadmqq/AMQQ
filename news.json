@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-10T07:59:44.560574+00:00",
+  "updated": "2026-10-10T08:16:16.067157+00:00",
   "items": [
     {
       "title": "التحالف الدولي يقول إنه شن عملية عسكرية واسعة ضد جماعة أنصار الله ودمر 136 هدفاً",
       "link": "https://www.bbc.com/arabic/articles/cmly049ljq1ro?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 10 Oct 2026 04:03:55 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "هل يُمكن قياس السعادة؟",
+      "link": "https://www.bbc.com/arabic/articles/cw05r280zn33o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 10 Oct 2026 08:08:22 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "عقوبات أمريكية على الجنائية الدولية بالتزامن مع فوز نافي بيلاي بنوبل السلام",
       "link": "https://www.bbc.com/arabic/articles/cvde89ny1r0ko?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 09 Oct 2026 16:53:23 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "كيف تغيّرت حسابات الردع الإيرانية بعد ثلاث سنوات على 7 أكتوبر؟",
-      "link": "https://www.bbc.com/arabic/articles/cm4g1lej42g7o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 14:41:55 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "US lifts sanctions on daughter of military-linked Myanmar businessman",
+      "link": "https://www.aljazeera.com/news/2026/10/10/us-lifts-sanctions-on-daughter-of-military-linked-myanmar-tycoon?traffic_source=rss",
+      "date": "Sat, 10 Oct 2026 07:50:59 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Ronaldo returns after Portugal quarrel to score in Al-Nassr win",
       "link": "https://www.aljazeera.com/sports/2026/10/10/ronaldo-returns-after-portugal-quarrel-and-back-in-the-goals-in-al-nassr-wi?traffic_source=rss",
       "date": "Sat, 10 Oct 2026 07:34:18 +0000",
@@ -329,12 +335,6 @@
       "title": "Yemen’s Taiz under siege again as food and fuel prices rise",
       "link": "https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss",
       "date": "Sat, 10 Oct 2026 06:20:53 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "India protest live: ‘Cockroach’ leaders detained; New Delhi in lockdown",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss",
-      "date": "Sat, 10 Oct 2026 05:54:36 +0000",
       "source": "Al Jazeera"
     }
   ]
