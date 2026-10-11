@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T23:15:03.440379+00:00",
+  "updated": "2026-10-11T23:30:50.801404+00:00",
   "items": [
     {
       "title": "السعودية تعلن استهداف مطار الدمام بعد ساعات من وقوع إصابات بهجوم صاروخي جديد استهدف مطار الرياض",
@@ -98,6 +98,36 @@
       "source": "BBC World"
     },
     {
+      "title": "Iran war threatens Healey's Budget plans, think tank warns",
+      "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 23:04:07 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Trump faces growing backlash over plans to import diesel from Russia",
+      "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 23:18:45 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Debt advice that may leave you owing even more money",
+      "link": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 23:19:07 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Roofing scammers con homeowners out of thousands of pounds",
+      "link": "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 23:19:49 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "AI is less regulated than milk, says Microsoft president",
+      "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 23:07:35 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "Citroen revives the 2CV for an electric age",
       "link": "https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 17:00:05 GMT",
@@ -110,39 +140,9 @@
       "source": "BBC Business"
     },
     {
-      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 22:30:22 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
       "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 14:38:10 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Boots has a new owner: Three ways it could affect you",
-      "link": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 23:01:14 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Burnham promises to curb non-compete rules in job contracts",
-      "link": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 16:15:30 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
-      "link": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 14:36:35 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "I've been with my boyfriend for two years and don't know his salary",
-      "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 09:37:38 GMT",
       "source": "BBC Business"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 23:20:46 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
+      "link": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 23:17:05 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 22:49:23 +0000",
@@ -323,18 +335,6 @@
       "title": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 20:44:17 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "How Man City beat Liverpool after guilty verdict",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/how-man-city-beat-liverpool-after-guilty-verdict?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 20:41:09 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Zelenskyy welcomes US-announced energy ceasefire",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 20:28:46 +0000",
       "source": "Al Jazeera"
     }
   ]
