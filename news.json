@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-11T18:52:43.604808+00:00",
+  "updated": "2026-10-11T19:03:24.393567+00:00",
   "items": [
     {
-      "title": "السعودية تعلن وقوع إصابات بهجوم صاروخي جديد استهدف مطار الرياض اليوم، وارتفاع عدد قتلى هجوم يوم السبت إلى 13",
+      "title": "السعودية تعلن استهداف مطار الدمام بعد ساعات من وقوع إصابات بهجوم صاروخي جديد استهدف مطار الرياض",
       "link": "https://www.bbc.com/arabic/articles/cme3x48ppl22o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 18:50:14 GMT",
+      "date": "Sun, 11 Oct 2026 18:57:55 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -20,15 +20,21 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "أطفال من بين 139 شخصاً لقوا مصرعهم إثر غرق قارب قبالة سواحل جيبوتي",
-      "link": "https://www.bbc.com/arabic/articles/cvp8gl55y7ypo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 15:28:04 GMT",
+      "title": "ترامب وبوتين هما \"كراب وجويل\" النظام العالمي الجديد - الأوبزرفر",
+      "link": "https://www.bbc.com/arabic/articles/cv5yn00z1j2lo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 12:00:07 GMT",
       "source": "BBC Arabic"
     },
     {
       "title": "خروج القاتلة الأمريكية كريستا بايك من المستشفى بعد 10 أيام من محاولة إعدام فاشلة",
       "link": "https://www.bbc.com/arabic/articles/cm20r19nzx3wo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 16:03:03 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "أطفال من بين 139 شخصاً لقوا مصرعهم إثر غرق قارب قبالة سواحل جيبوتي",
+      "link": "https://www.bbc.com/arabic/articles/cvp8gl55y7ypo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 15:28:04 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "لماذا يعود الإعدام العلني إلى الولايات المتحدة بعد نحو قرن من إيقافه؟",
       "link": "https://www.bbc.com/arabic/articles/c5j9k14xg400o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 09:43:08 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "ترامب وبوتين هما \"كراب وجويل\" النظام العالمي الجديد - الأوبزرفر",
-      "link": "https://www.bbc.com/arabic/articles/cv5yn00z1j2lo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 12:00:07 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
+      "link": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 18:47:57 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 18:25:42 +0000",
@@ -329,12 +335,6 @@
       "title": "‘Who will represent us?’ Palestinians react to election delay",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/who-will-represent-us-palestinians-react-to-election-delay?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 17:09:19 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Turkiye highway crash kills 11, injures 27 after tour bus hits truck",
-      "link": "https://www.aljazeera.com/news/2026/10/11/turkiye-highway-crash-kills-11-injures-27-after-tour-bus-hits-truck?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 17:06:09 +0000",
       "source": "Al Jazeera"
     }
   ]
