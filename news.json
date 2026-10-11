@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-11T15:31:47.627781+00:00",
+  "updated": "2026-10-11T15:47:42.477968+00:00",
   "items": [
     {
       "title": "التحالف يعلن تعرض مطار الرياض لهجوم جديد وتدمير صاروخ بمحيطه",
       "link": "https://www.bbc.com/arabic/articles/cme3x48ppl22o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 15:16:04 GMT",
+      "date": "Sun, 11 Oct 2026 15:42:44 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -68,9 +68,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Children among 109 dead after boat capsizes off Djibouti, UN says",
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
       "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 12:08:20 GMT",
+      "date": "Sun, 11 Oct 2026 15:32:23 GMT",
       "source": "BBC World"
     },
     {
@@ -110,6 +110,12 @@
       "source": "BBC Business"
     },
     {
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 14:38:10 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "Boots has a new owner: Three ways it could affect you",
       "link": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 09 Oct 2026 23:01:14 GMT",
@@ -137,12 +143,6 @@
       "title": "Anthropic bans users from being 'cruel' to its AI systems",
       "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 09 Oct 2026 12:34:27 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
-      "link": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 19:32:50 GMT",
       "source": "BBC Business"
     },
     {
@@ -248,7 +248,7 @@
       "source": "NPR World"
     },
     {
-      "title": "A heroic, 7-day bike ride made this teen a global star. Where is she now?",
+      "title": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?",
       "link": "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic",
       "date": "Sun, 11 Oct 2026 07:28:15 -0400",
       "source": "NPR World"
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Power bank fire forces plane to emergency land in India",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 15:26:29 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Pope Leo XIV to undergo surgery after lump found in lung",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pope-leo-xiv-to-undergo-surgery-after-lump-found-in-lung?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 15:24:50 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "How the ICC can be saved",
       "link": "https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 15:15:35 +0000",
@@ -323,18 +335,6 @@
       "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
       "link": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 14:09:12 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "The Mafia Football Murders | True Crime Reports",
-      "link": "https://www.aljazeera.com/video/true-crime-reports/2026/10/11/true-crime-reports-the-mafia-football-murders?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 14:05:14 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
-      "link": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 14:04:32 +0000",
       "source": "Al Jazeera"
     }
   ]
