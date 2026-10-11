@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-11T17:15:32.321544+00:00",
+  "updated": "2026-10-11T17:31:31.863381+00:00",
   "items": [
     {
       "title": "السعودية تعلن وقوع إصابات بهجوم صاروخي جديد استهدف مطار الرياض اليوم، وارتفاع عدد قتلى هجوم يوم السبت إلى 13",
       "link": "https://www.bbc.com/arabic/articles/cme3x48ppl22o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 17:09:44 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "الهجوم على مطار الرياض: حدث خطير آخر في صراع مشحون بالتوتر",
+      "link": "https://www.bbc.com/arabic/articles/cm70per39l6do?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 17:22:54 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "ترامب بعد إدانة زيلينسكي صفقة الديزل: \"حان الوقت ليكون لأوكرانيا رئيس جديد\"",
-      "link": "https://www.bbc.com/arabic/articles/cr5yn230nd8wo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 05:04:04 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Saudi Arabia's Riyadh airport hit by second Houthi strike in two days",
       "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 16:41:37 GMT",
@@ -62,9 +62,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Pope Leo to have surgery after lump found on lung",
-      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 13:38:55 GMT",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 17:27:24 GMT",
       "source": "BBC World"
     },
     {
@@ -74,27 +74,27 @@
       "source": "BBC World"
     },
     {
-      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 15:32:23 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Poland stabbings driven by online glorification of violence, Tusk says",
       "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 15:18:52 GMT",
       "source": "BBC World"
     },
     {
-      "title": "US justice department investigates TV networks over Trump pool coverage",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 05:05:43 GMT",
+      "title": "Children among 139 dead after boat capsizes off Djibouti, UN says",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 15:32:23 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 18:22:29 GMT",
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 13:38:55 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 05:05:43 GMT",
       "source": "BBC World"
     },
     {
@@ -194,7 +194,7 @@
       "source": "Guardian World"
     },
     {
-      "title": "Volkswagen boss backs EU plan to boost domestic European industry",
+      "title": "Volkswagen boss backs EU plan to bolster domestic European industry",
       "link": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
       "date": "Sun, 11 Oct 2026 16:53:01 GMT",
       "source": "Guardian Business"
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Israel pushes its ‘Yellow Line’ deeper into Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/israel-pushes-its-yellow-line-deeper-into-gaza?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 17:14:50 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "‘Who will represent us?’ Palestinians react to election delay",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/who-will-represent-us-palestinians-react-to-election-delay?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 17:09:19 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Turkiye highway crash kills 11, injures 27 after tour bus hits truck",
+      "link": "https://www.aljazeera.com/news/2026/10/11/turkiye-highway-crash-kills-11-injures-27-after-tour-bus-hits-truck?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 17:06:09 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Football fans speak about City’s charges as they face Liverpool",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/football-fans-speak-about-citys-charges-as-they-face-liverpool?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 16:18:45 +0000",
@@ -317,24 +335,6 @@
       "title": "Pope Leo XIV to undergo surgery after lump found in lung",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pope-leo-xiv-to-undergo-surgery-after-lump-found-in-lung?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 15:24:50 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "How the ICC can be saved",
-      "link": "https://www.aljazeera.com/opinions/2026/10/11/how-the-icc-can-be-saved?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 15:15:35 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
-      "link": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 15:10:27 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Pope Leo to undergo surgery to remove lung nodule",
-      "link": "https://www.aljazeera.com/news/2026/10/11/pope-leo-to-undergo-surgery-to-remove-lung-nodule?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 14:59:38 +0000",
       "source": "Al Jazeera"
     }
   ]
