@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-11T11:59:04.457599+00:00",
+  "updated": "2026-10-11T12:18:27.793211+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله تجدد التحذير من الملاحة في أجواء السعودية، والسفارة الأمريكية بالمملكة تقيّد استخدام مطاري جدة والدمام",
       "link": "https://www.bbc.com/arabic/articles/cme3x48ppl22o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 11:37:45 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "ترامب وبوتين هما \"كراب وجويل\" النظام العالمي الجديد - الأوبزرفر",
+      "link": "https://www.bbc.com/arabic/articles/cv5yn00z1j2lo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 12:00:07 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "مقتل 15 شخصاً على الأقل في هجوم روسي بقنابل انزلاقية على زابوريجيا",
-      "link": "https://www.bbc.com/arabic/articles/c6qxn9p0gzqzo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 13:45:21 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
       "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 01:41:29 GMT",
@@ -62,9 +62,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
-      "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 22:13:08 GMT",
+      "title": "Homes and bridges swept away as fresh floods hit Nepal",
+      "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 12:03:52 GMT",
       "source": "BBC World"
     },
     {
@@ -80,9 +80,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-      "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 23:19:55 GMT",
+      "title": "Children among 109 dead after boat capsizes off Djibouti, UN says",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 12:08:20 GMT",
       "source": "BBC World"
     },
     {
@@ -290,15 +290,33 @@
       "source": "NPR World"
     },
     {
-      "title": "The scramble to rewrite Biden’s record on Gaza",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/11/the-scramble-to-rewrite-bidens-record-on-gaza?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 11:29:48 +0000",
+      "title": "Kenya’s Eliud Kipchoge wins his first marathon in three years in Melbourne",
+      "link": "https://www.aljazeera.com/sports/2026/10/11/kenyas-eliud-kipchoge-wins-his-first-marathon-in-three-years-in-melbourne?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 12:04:54 +0000",
       "source": "Al Jazeera"
     },
     {
       "title": "Liverpool vs Man City live: Premier League",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/10/11/live-liverpool-vs-manchester-city-premier-league-football?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 11:22:30 +0000",
+      "date": "Sun, 11 Oct 2026 11:58:30 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Trump’s brash remarks entertain crowd at election rally in Tennessee",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/trumps-brash-remarks-entertain-crowd-at-election-rally-in-tennessee?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 11:42:50 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "At least 109 dead, over 100 missing as migrant boat capsizes off Djibouti",
+      "link": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 11:34:40 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "The scramble to rewrite Biden’s record on Gaza",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/11/the-scramble-to-rewrite-bidens-record-on-gaza?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 11:29:48 +0000",
       "source": "Al Jazeera"
     },
     {
@@ -317,24 +335,6 @@
       "title": "Fear and uncertainty for civilians as Yemen’s capital comes under attack",
       "link": "https://www.aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 10:42:35 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Modi is in trouble",
-      "link": "https://www.aljazeera.com/opinions/2026/10/11/modi-is-in-trouble?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 10:31:45 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Marco Bezzecchi wins in Indonesia as Martin takes MotoGP lead",
-      "link": "https://www.aljazeera.com/sports/2026/10/11/indonesia-gp-motogp-bezzecchi-martin-world-championship?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 10:28:08 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Anti-ICE protests in New York after man shot in car with child",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/anti-ice-protests-in-new-york-after-man-shot-in-car-with-child?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 10:22:39 +0000",
       "source": "Al Jazeera"
     }
   ]
