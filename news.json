@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-11T13:50:14.097957+00:00",
+  "updated": "2026-10-11T14:00:23.446479+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله تجدد التحذير من الملاحة في أجواء السعودية، والسفارة الأمريكية بالمملكة تقيّد استخدام مطاري جدة والدمام",
       "link": "https://www.bbc.com/arabic/articles/cme3x48ppl22o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 12:27:01 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "أطفال من بين 109 أشخاص لقوا مصرعهم إثر غرق قارب قبالة سواحل جيبوتي",
+      "link": "https://www.bbc.com/arabic/articles/cvp8gl55y7ypo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 13:51:08 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,13 +50,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "\"كل يوم هناك قتلى\": غزيون يواجهون غارات إسرائيلية رغم وقف إطلاق النار، مع تعثر اتفاق سلام",
-      "link": "https://www.bbc.com/arabic/articles/c617kev1nv8lo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 13:16:36 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "Ukraine strikes Russian data centre again despite Trump warning",
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
       "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 12:50:46 GMT",
       "source": "BBC World"
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
+      "link": "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 13:41:57 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Cockroach Janta Party accuses Modi of ‘waging war’ on Indians",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/cockroach-janta-party-accuses-modi-of-waging-war-on-indians?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 13:34:07 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "India’s crackdown on youth protesters: What next?",
       "link": "https://www.aljazeera.com/news/2026/10/11/indias-crackdown-on-youth-protesters-what-next?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 13:06:00 +0000",
@@ -323,18 +335,6 @@
       "title": "Liverpool vs Man City live: Premier League",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/10/11/live-liverpool-vs-manchester-city-premier-league-football?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 12:20:30 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Polish police probe alleged plot to assassinate PM Tusk, defence minister",
-      "link": "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 12:09:54 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Kenya’s Eliud Kipchoge wins his first marathon in three years in Melbourne",
-      "link": "https://www.aljazeera.com/sports/2026/10/11/kenyas-eliud-kipchoge-wins-his-first-marathon-in-three-years-in-melbourne?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 12:04:54 +0000",
       "source": "Al Jazeera"
     }
   ]
