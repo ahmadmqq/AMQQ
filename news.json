@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-11T16:59:44.389331+00:00",
+  "updated": "2026-10-11T17:15:32.321544+00:00",
   "items": [
     {
-      "title": "السعودية تعلن وقوع إصابات بهجوم جديد استهدف مطار الرياض اليوم، والحوثيون يعلنون مسؤوليتهم عن هجوم السبت",
+      "title": "السعودية تعلن وقوع إصابات بهجوم صاروخي جديد استهدف مطار الرياض اليوم، وارتفاع عدد قتلى هجوم يوم السبت إلى 13",
       "link": "https://www.bbc.com/arabic/articles/cme3x48ppl22o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 16:41:32 GMT",
+      "date": "Sun, 11 Oct 2026 17:09:44 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -98,6 +98,12 @@
       "source": "BBC World"
     },
     {
+      "title": "Citroen revives the 2CV for an electric age",
+      "link": "https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 17:00:05 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
       "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 10 Oct 2026 14:24:14 GMT",
@@ -137,12 +143,6 @@
       "title": "I've been with my boyfriend for two years and don't know his salary",
       "link": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 09 Oct 2026 09:37:38 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Anthropic bans users from being 'cruel' to its AI systems",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 09 Oct 2026 12:34:27 GMT",
       "source": "BBC Business"
     },
     {
@@ -194,15 +194,15 @@
       "source": "Guardian World"
     },
     {
-      "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
-      "link": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
-      "date": "Sun, 11 Oct 2026 15:56:25 GMT",
+      "title": "Volkswagen boss backs EU plan to boost domestic European industry",
+      "link": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
+      "date": "Sun, 11 Oct 2026 16:53:01 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Developing nations face triple shock from energy crisis, El Niño and borrowing costs, UN warns",
-      "link": "https://www.theguardian.com/business/2026/oct/11/developing-nations-triple-shock-energy-crisis-el-nino-borrowing-costs-un-warns",
-      "date": "Sun, 11 Oct 2026 04:00:15 GMT",
+      "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
+      "link": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices",
+      "date": "Sun, 11 Oct 2026 15:56:25 GMT",
       "source": "Guardian Business"
     },
     {
@@ -212,15 +212,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "China agrees to ‘halve’ hybrid car exports to EU in landmark deal",
-      "link": "https://www.theguardian.com/business/2026/oct/09/china-agrees-to-curb-hybrid-car-exports-to-eu-in-landmark-deal",
-      "date": "Fri, 09 Oct 2026 15:05:57 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "‘Halloweenmas’: how the spooky one-nighter turned into a month-long spectacular",
       "link": "https://www.theguardian.com/business/2026/oct/11/halloween-from-one-night-to-month-long-celebration",
       "date": "Sun, 11 Oct 2026 07:00:19 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "China agrees to ‘halve’ hybrid car exports to EU in landmark deal",
+      "link": "https://www.theguardian.com/business/2026/oct/09/china-agrees-to-curb-hybrid-car-exports-to-eu-in-landmark-deal",
+      "date": "Fri, 09 Oct 2026 15:05:57 GMT",
       "source": "Guardian Business"
     },
     {
