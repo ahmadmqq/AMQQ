@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-11T09:36:30.267764+00:00",
+  "updated": "2026-10-11T09:51:33.253972+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله تجدد التحذير من الملاحة بأجواء السعودية، والسفارة الأمريكية بالمملكة تقيد استخدام مطاري جدة والدمام",
       "link": "https://www.bbc.com/arabic/articles/cme3x48ppl22o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 08:03:20 GMT",
+      "date": "Sun, 11 Oct 2026 09:50:52 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "لماذا يعود الإعدام العلني إلى الولايات المتحدة بعد نحو قرن على حظره؟",
+      "link": "https://www.bbc.com/arabic/articles/c5j9k14xg400o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 09:43:08 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "مقتل 15 شخصاً على الأقل في هجوم روسي بقنابل انزلاقية على زابوريجيا",
       "link": "https://www.bbc.com/arabic/articles/c6qxn9p0gzqzo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 10 Oct 2026 13:45:21 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "\"أمريكا على طريق الدستوبيا: عندما تصبح عقوبة الإعدام عرضاً تلفزيونياً\"- مقال في الاندبندنت",
-      "link": "https://www.bbc.com/arabic/articles/c6d93qvy1wkko?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 12:23:30 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Russia’s Yandex says data centre in Vladimir shut down after drone attack",
+      "link": "https://www.aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 09:33:03 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "What can Man City expect against Liverpool at Anfield on Sunday?",
       "link": "https://www.aljazeera.com/sports/2026/10/11/manchester-city-financial-breach-liverpool-fans-anfield?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 08:46:10 +0000",
@@ -329,12 +335,6 @@
       "title": "Flash flood sweeps away buildings in Nepal",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 06:34:31 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Vinicius apologises for hair-pull red card but could miss El Clasico",
-      "link": "https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 05:57:00 +0000",
       "source": "Al Jazeera"
     }
   ]
