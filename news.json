@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T17:31:31.863381+00:00",
+  "updated": "2026-10-11T17:46:42.667123+00:00",
   "items": [
     {
       "title": "السعودية تعلن وقوع إصابات بهجوم صاروخي جديد استهدف مطار الرياض اليوم، وارتفاع عدد قتلى هجوم يوم السبت إلى 13",
@@ -11,6 +11,12 @@
       "title": "الهجوم على مطار الرياض: حدث خطير آخر في صراع مشحون بالتوتر",
       "link": "https://www.bbc.com/arabic/articles/cm70per39l6do?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 17:22:54 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "كيف تناول مستخدمو مواقع التواصل الاجتماعي \"أزمة البيض\" في العراق؟",
+      "link": "https://www.bbc.com/arabic/articles/c8r4y2nvp09ro?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 17:33:32 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -32,21 +38,15 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "ترامب وبوتين هما \"كراب وجويل\" النظام العالمي الجديد - الأوبزرفر",
-      "link": "https://www.bbc.com/arabic/articles/cv5yn00z1j2lo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 12:00:07 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "لماذا يعود الإعدام العلني إلى الولايات المتحدة بعد نحو قرن من إيقافه؟",
       "link": "https://www.bbc.com/arabic/articles/c5j9k14xg400o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 09:43:08 GMT",
       "source": "BBC Arabic"
     },
     {
-      "title": "ما هو \"الاكتئاب المبتسم\" وكيف تعرف إذا كنت مصاباً به؟",
-      "link": "https://www.bbc.com/arabic/articles/cx8dz90nz5edo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 07:09:34 GMT",
+      "title": "ترامب وبوتين هما \"كراب وجويل\" النظام العالمي الجديد - الأوبزرفر",
+      "link": "https://www.bbc.com/arabic/articles/cv5yn00z1j2lo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 12:00:07 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Is the Yemen war entering a new phase?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/is-the-yemen-war-entering-a-new-phase?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 17:30:55 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Israel pushes its ‘Yellow Line’ deeper into Gaza",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/israel-pushes-its-yellow-line-deeper-into-gaza?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 17:14:50 +0000",
@@ -329,12 +335,6 @@
       "title": "Power bank fire forces plane to emergency land in India",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/power-bank-fire-forces-plane-to-emergency-land-in-india?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 15:26:29 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Pope Leo XIV to undergo surgery after lump found in lung",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pope-leo-xiv-to-undergo-surgery-after-lump-found-in-lung?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 15:24:50 +0000",
       "source": "Al Jazeera"
     }
   ]
