@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T05:57:45.488539+00:00",
+  "updated": "2026-10-11T06:15:19.083940+00:00",
   "items": [
     {
       "title": "12 قتيلاً ومئات المصابين في هجوم مطار الرياض وتعليق الدراسة حضورياً بدءاً من اليوم، وترامب يلوّح بالرد",
@@ -50,15 +50,15 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 01:41:29 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
       "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 03:57:22 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 01:41:29 GMT",
       "source": "BBC World"
     },
     {
@@ -68,15 +68,15 @@
       "source": "BBC World"
     },
     {
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 20:51:12 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
       "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 10 Oct 2026 17:44:26 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 10 Oct 2026 20:51:12 GMT",
       "source": "BBC World"
     },
     {
@@ -92,9 +92,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 10 Oct 2026 12:28:51 GMT",
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 05:05:43 GMT",
       "source": "BBC World"
     },
     {
@@ -212,6 +212,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "‘You have a meeting’: the calendar phishing scam growing exponentially",
+      "link": "https://www.theguardian.com/money/2026/oct/11/calendar-phishing-scam-meeting-renewal-google-microsoft-paypal",
+      "date": "Sun, 11 Oct 2026 06:00:18 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "UK must not be beholden to foreign AI, says head of Alan Turing Institute",
       "link": "https://www.theguardian.com/technology/2026/oct/10/uk-foreign-ai-head-alan-turing-institute-george-williamson",
       "date": "Sat, 10 Oct 2026 10:00:55 GMT",
@@ -233,12 +239,6 @@
       "title": "Create new pre-apprenticeship scheme to close youth unemployment gap, says Milburn",
       "link": "https://www.theguardian.com/education/2026/oct/10/pre-apprenticeship-scheme-landmark-alan-milburn-youth-jobs-crisis-report",
       "date": "Sat, 10 Oct 2026 05:00:47 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Heathrow’s third runway is a bottomless money pit. Stop it now | Simon Jenkins",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/09/heathrow-third-runway-money-pit",
-      "date": "Fri, 09 Oct 2026 10:45:25 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,7 +290,19 @@
       "source": "NPR World"
     },
     {
-      "title": "US opens antitrust probe into TV networks halting Trump coverage",
+      "title": "Vinicius apologises for hair-pull red card but could miss El Clasico",
+      "link": "https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 05:57:00 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "How genocidal war on Gaza is shaping Israel’s election",
+      "link": "https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 05:35:09 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "US opens antitrust probe into TV networks for halting Trump coverage",
       "link": "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 04:30:10 +0000",
       "source": "Al Jazeera"
@@ -323,18 +335,6 @@
       "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
       "link": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 02:12:07 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 01:59:02 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Man dies after entering tiger enclosure at England wildlife park",
-      "link": "https://www.aljazeera.com/news/2026/10/11/man-dies-after-entering-tiger-enclosure-at-england-wildlife-park?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 01:16:18 +0000",
       "source": "Al Jazeera"
     }
   ]
