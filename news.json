@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T14:34:10.811183+00:00",
+  "updated": "2026-10-11T14:49:13.454008+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله تجدد التحذير من الملاحة في أجواء السعودية، والسفارة الأمريكية بالمملكة تقيّد استخدام مطاري جدة والدمام",
@@ -11,6 +11,12 @@
       "title": "أطفال من بين 109 أشخاص لقوا مصرعهم إثر غرق قارب قبالة سواحل جيبوتي",
       "link": "https://www.bbc.com/arabic/articles/cvp8gl55y7ypo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 13:51:08 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "تصاعد الاحتجاجات في دلهي بعد تعهد قادة \"حركة الصراصير\" المفرج عنهم \"بمواصلة النضال\"",
+      "link": "https://www.bbc.com/arabic/articles/cwzd6n3l6268o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 14:41:42 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,15 +50,9 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "رئيسة مؤسسة سيغنال: الاستخدام غير المسؤول للذكاء الاصطناعي هو التهديد الحقيقي",
-      "link": "https://www.bbc.com/arabic/articles/c6n9r3x2yxw9o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 02:57:55 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
       "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 12:50:46 GMT",
+      "date": "Sun, 11 Oct 2026 14:38:10 GMT",
       "source": "BBC World"
     },
     {
@@ -65,12 +65,6 @@
       "title": "Homes and bridges swept away as fresh floods hit Nepal",
       "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 12:03:52 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
-      "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 11:11:42 GMT",
       "source": "BBC World"
     },
     {
@@ -95,6 +89,12 @@
       "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
       "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 10 Oct 2026 17:44:26 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+      "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 11:11:42 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
+      "link": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 14:09:12 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "The Mafia Football Murders | True Crime Reports",
+      "link": "https://www.aljazeera.com/video/true-crime-reports/2026/10/11/true-crime-reports-the-mafia-football-murders?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 14:05:14 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
+      "link": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 14:04:32 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
       "link": "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 13:41:57 +0000",
@@ -317,24 +335,6 @@
       "title": "Meet the man helping India’s detained protesters get home",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/meet-the-man-helping-indias-detained-protesters-get-home?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 12:36:35 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 12:28:11 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Sweet protein brazzein shows promise in reducing blood sugar spikes: Study",
-      "link": "https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 12:23:37 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Liverpool vs Man City live: Premier League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/11/live-liverpool-vs-manchester-city-premier-league-football?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 12:20:30 +0000",
       "source": "Al Jazeera"
     }
   ]
