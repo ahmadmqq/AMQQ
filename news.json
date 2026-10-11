@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T06:39:21.625891+00:00",
+  "updated": "2026-10-11T06:58:22.771543+00:00",
   "items": [
     {
       "title": "12 قتيلاً ومئات المصابين في هجوم مطار الرياض وتعليق الدراسة حضورياً بدءاً من اليوم، وترامب يلوّح بالرد",
@@ -50,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-      "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 03:57:22 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
       "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 01:41:29 GMT",
@@ -70,7 +64,7 @@
     {
       "title": "Delhi braces for more protests as 'cockroach' group's leaders released",
       "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 06:02:25 GMT",
+      "date": "Sun, 11 Oct 2026 06:57:55 GMT",
       "source": "BBC World"
     },
     {
@@ -95,6 +89,12 @@
       "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
       "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 10 Oct 2026 23:19:55 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 05:05:43 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Flash flood sweeps away buildings in Nepal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/flash-flood-sweeps-away-buildings-in-nepal?traffic_source=rss",
+      "date": "Sun, 11 Oct 2026 06:34:31 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Vinicius apologises for hair-pull red card but could miss El Clasico",
       "link": "https://www.aljazeera.com/sports/2026/10/11/vinicius-apologises-for-hair-pull-red-card-but-could-miss-el-clasico?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 05:57:00 +0000",
@@ -329,12 +335,6 @@
       "title": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
       "link": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 03:13:53 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
-      "link": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 02:12:07 +0000",
       "source": "Al Jazeera"
     }
   ]
