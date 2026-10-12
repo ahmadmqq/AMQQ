@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-12T06:34:33.182971+00:00",
+  "updated": "2026-10-12T07:03:36.471403+00:00",
   "items": [
     {
       "title": "مقتل شخص وإصابة 11 في هجوم ثانٍ على مطار الرياض، واستهداف مطار الدمام",
       "link": "https://www.bbc.com/arabic/articles/cme3x48ppl22o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 12 Oct 2026 05:00:19 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "لماذا لا نصنع المزيد من أسقف المنازل من ألواح شمسية؟",
+      "link": "https://www.bbc.com/arabic/articles/c9vgrejyp041o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 12 Oct 2026 06:57:03 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "أطفال من بين 139 شخصاً لقوا مصرعهم إثر غرق قارب قبالة سواحل جيبوتي",
-      "link": "https://www.bbc.com/arabic/articles/cvp8gl55y7ypo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 15:28:04 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
       "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 21:36:40 GMT",
@@ -68,7 +68,7 @@
       "source": "BBC World"
     },
     {
-      "title": "Documents falsified to evade tax on Abramovich's wealth",
+      "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
       "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 12 Oct 2026 05:00:52 GMT",
       "source": "BBC World"
@@ -98,13 +98,13 @@
       "source": "BBC World"
     },
     {
-      "title": "Healey must find up to £35bn to meet spending plans, says think tank",
+      "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
       "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 12 Oct 2026 06:23:50 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Documents falsified to evade tax on Abramovich's wealth",
+      "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
       "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 12 Oct 2026 05:00:52 GMT",
       "source": "BBC Business"
@@ -194,6 +194,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "UK inflation pressures hits three-year high; Nobel prize for economics awarded today – business live",
+      "link": "https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates",
+      "date": "Mon, 12 Oct 2026 06:57:39 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "IFS: budget will be ‘work of fiction’ without clear plan to cover UK’s £35bn spending pressures",
       "link": "https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
       "date": "Mon, 12 Oct 2026 05:49:11 GMT",
@@ -212,15 +218,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Volkswagen boss backs EU plan to bolster domestic European industry",
-      "link": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
-      "date": "Sun, 11 Oct 2026 16:53:01 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "‘Some aren’t going to make it’: how pressure on farmers threatens UK food security",
       "link": "https://www.theguardian.com/uk-news/2026/oct/11/farmers-uk-food-security-producers-supply-chains",
       "date": "Sun, 11 Oct 2026 11:00:24 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Volkswagen boss backs EU plan to bolster domestic European industry",
+      "link": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
+      "date": "Sun, 11 Oct 2026 16:53:01 GMT",
       "source": "Guardian Business"
     },
     {
@@ -236,10 +242,10 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Labour has got the message – developing nations suffer most from bond market turmoil | Heather Stewart",
-      "link": "https://www.theguardian.com/business/2026/oct/11/labour-bond-market-turmoil-developing-nations-andy-burnham-brown-blair",
-      "date": "Sun, 11 Oct 2026 10:11:19 GMT",
-      "source": "Guardian Business"
+      "title": "Trump says Russia and Ukraine agree to an 'energy ceasefire'",
+      "link": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
+      "date": "Mon, 12 Oct 2026 02:41:57 -0400",
+      "source": "NPR World"
     },
     {
       "title": "Seafarer's union official says crews offered big money to transit Strait of Hormuz",
@@ -281,12 +287,6 @@
       "title": "Bayeux Tapestry's London tour spurs enthusiasts to Battle of Hastings reenactment",
       "link": "https://www.npr.org/2026/10/10/nx-s1-5993847/bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-re-enactment",
       "date": "Sat, 10 Oct 2026 17:40:58 -0400",
-      "source": "NPR World"
-    },
-    {
-      "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
-      "link": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
-      "date": "Sat, 10 Oct 2026 17:32:53 -0400",
       "source": "NPR World"
     },
     {
