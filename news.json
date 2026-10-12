@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T03:15:39.865723+00:00",
+  "updated": "2026-10-12T03:39:18.017230+00:00",
   "items": [
     {
       "title": "مقتل شخص وإصابة 11 في هجوم ثانٍ على مطار الرياض، واستهداف مطار الدمام",
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 03:09:11 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
       "link": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 02:11:21 +0000",
@@ -329,12 +335,6 @@
       "title": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 00:00:00 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 23:20:46 +0000",
       "source": "Al Jazeera"
     }
   ]
