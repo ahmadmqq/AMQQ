@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-12T10:47:35.223982+00:00",
+  "updated": "2026-10-12T11:04:05.830584+00:00",
   "items": [
-    {
-      "title": "قصف مناجم الذهب في السودان: اتهامات للجيش المصري على منصات التواصل ومطالب بالتحقيق",
-      "link": "https://www.bbc.com/arabic/articles/cm3wv10147qgo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 12 Oct 2026 10:44:34 GMT",
-      "source": "BBC Arabic"
-    },
     {
       "title": "وزير الطاقة السعودي يتعهد بالرد بشدة على هجمات تتعرض لها المملكة، وطهران تعرض الوساطة بين الرياض وأنصار الله",
       "link": "https://www.bbc.com/arabic/articles/c65yn9zlezlgo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 12 Oct 2026 09:46:45 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "قصف مناجم الذهب في السودان: اتهامات للجيش المصري على منصات التواصل ومطالب بالتحقيق",
+      "link": "https://www.bbc.com/arabic/articles/cm3wv10147qgo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 12 Oct 2026 10:44:34 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -48,12 +48,6 @@
       "link": "https://www.bbc.com/arabic/articles/c8r4y2nvp09ro?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 17:33:32 GMT",
       "source": "BBC Arabic"
-    },
-    {
-      "title": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
-      "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 21:36:40 GMT",
-      "source": "BBC World"
     },
     {
       "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
@@ -98,13 +92,19 @@
       "source": "BBC World"
     },
     {
+      "title": "Pupil arrested after two teachers shot at French school",
+      "link": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 12 Oct 2026 10:33:28 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
       "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 12 Oct 2026 08:50:22 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "How to avoid getting stung if you miss a credit card payment",
+      "title": "How to avoid getting stung if you miss credit card payments",
       "link": "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 12 Oct 2026 09:11:46 GMT",
       "source": "BBC Business"
@@ -176,6 +176,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "Balkan temperatures swing as heavy rain heads for Greece",
+      "link": "https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece",
+      "date": "Mon, 12 Oct 2026 10:48:26 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "Thousands without power in Florida and Alabama as Isaias moves north",
       "link": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages",
       "date": "Sun, 11 Oct 2026 13:45:27 GMT",
@@ -188,15 +194,9 @@
       "source": "Guardian World"
     },
     {
-      "title": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
-      "link": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
-      "date": "Sun, 11 Oct 2026 06:56:08 GMT",
-      "source": "Guardian World"
-    },
-    {
       "title": "Nobel prize for economics awarded to two Americans, Hall and Woodford, for work on New Keynesian models – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates",
-      "date": "Mon, 12 Oct 2026 10:14:40 GMT",
+      "date": "Mon, 12 Oct 2026 10:38:18 GMT",
       "source": "Guardian Business"
     },
     {
@@ -218,7 +218,7 @@
       "source": "Guardian Business"
     },
     {
-      "title": "EU deal with China limits imports of hybrid electric vehicles",
+      "title": "EU to limit Chinese hybrid vehicle imports to 350,0000 a year",
       "link": "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles",
       "date": "Mon, 12 Oct 2026 10:10:13 GMT",
       "source": "Guardian Business"
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Ukraine’s Zelenskyy accuses Russia of violating Trump’s ‘energy ceasefire’",
+      "link": "https://www.aljazeera.com/news/2026/10/12/ukraines-zelenskyy-accuses-russia-of-violating-trumps-energy-ceasefire?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 10:35:51 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "What we learned from ‘guilty’ Man City’s win over Liverpool at Anfield",
+      "link": "https://www.aljazeera.com/sports/2026/10/12/manchester-city-guilty-verdict-financial-charges-liverpool-anfield?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 10:18:58 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Melbourne man linked to flydubai attack suspect rejects ‘false accusations’",
       "link": "https://www.aljazeera.com/news/2026/10/12/melbourne-man-linked-to-flydubai-attack-suspect-rejects-false-accusations?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 10:05:19 +0000",
@@ -323,18 +335,6 @@
       "title": "Russia introduces drone classes in public schools",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/russia-introduces-drone-classes-in-public-schools?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 08:47:43 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Photos: Gaza mothers endure endless lines as famine fears persist",
-      "link": "https://www.aljazeera.com/gallery/2026/10/12/photos-gaza-mothers-endure-endless-lines-as-famine-fears-persist?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 08:46:41 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Steve Smith breaks Test fielding record as Australia dominate South Africa",
-      "link": "https://www.aljazeera.com/sports/2026/10/12/steve-smith-breaks-test-fielding-record-as-australia-dominate-south-africa?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 08:17:50 +0000",
       "source": "Al Jazeera"
     }
   ]
