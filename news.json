@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-12T13:17:54.417818+00:00",
+  "updated": "2026-10-12T13:50:16.472008+00:00",
   "items": [
     {
       "title": "وزير الطاقة السعودي يتعهد بالرد بشدة على هجمات تتعرض لها المملكة، وطهران تعرض الوساطة بين الرياض وأنصار الله",
       "link": "https://www.bbc.com/arabic/articles/c65yn9zlezlgo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 12 Oct 2026 11:59:13 GMT",
+      "date": "Mon, 12 Oct 2026 13:20:24 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -14,9 +14,9 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "قصف مناجم الذهب في السودان: اتهامات للجيش المصري على منصات التواصل ومطالب بالتحقيق",
+      "title": "قصف مناجم الذهب في السودان: مطالب بالتحقيق واتهامات لمصر على منصات التواصل",
       "link": "https://www.bbc.com/arabic/articles/cm3wv10147qgo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 12 Oct 2026 10:44:34 GMT",
+      "date": "Mon, 12 Oct 2026 13:24:11 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -176,6 +176,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "Fugitive businessman taken into US custody in Venezuela bribery case",
+      "link": "https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case",
+      "date": "Mon, 12 Oct 2026 13:14:14 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "Balkan temperatures swing as heavy rain heads for Greece",
       "link": "https://www.theguardian.com/environment/2026/oct/12/balkan-temperatures-montenegro-rain-greece",
       "date": "Mon, 12 Oct 2026 10:48:26 GMT",
@@ -188,15 +194,9 @@
       "source": "Guardian World"
     },
     {
-      "title": "Missing Australian hiker Jordan Yap last seen on remote trail found dead in Peru",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru",
-      "date": "Sun, 11 Oct 2026 07:45:31 GMT",
-      "source": "Guardian World"
-    },
-    {
       "title": "Nobel prize for economics awarded to two Americans, Hall and Woodford, for work on New Keynesian models – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates",
-      "date": "Mon, 12 Oct 2026 12:58:30 GMT",
+      "date": "Mon, 12 Oct 2026 13:26:16 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Azerbaijan’s hijab restrictions spark school protests and arrests",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/10-12-azerbaijan-protest-sv?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 13:26:28 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "At least 20 injured in northern Israel explosion",
+      "link": "https://www.aljazeera.com/news/2026/10/12/explosion-in-northern-israel-students-and-teachers-injured?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 13:15:43 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Confronting the ‘largest energy security threat’",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/12/confronting-the-largest-energy-security?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 13:01:21 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Nobel economics prize awarded to Robert Hall and Michael ⁠Woodford",
       "link": "https://www.aljazeera.com/news/2026/10/12/nobel-economics-prize-awarded-to-robert-hall-and-michael-%e2%81%a0woodford?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 12:35:08 +0000",
@@ -317,24 +335,6 @@
       "title": "Gaza: Still Reporting",
       "link": "https://www.aljazeera.com/video/witness/2026/10/12/gaza-still-reporting?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 12:00:00 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Azerbaijan’s school hijab ban: What’s behind it, and what’s next?",
-      "link": "https://www.aljazeera.com/news/2026/10/12/azerbaijans-school-hijab-ban-whats-behind-it-and-whats-next?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 11:59:24 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "‘Energy ceasefire’: What’s behind Trump’s love-hate ties to Russian oil?",
-      "link": "https://www.aljazeera.com/news/2026/10/12/energy-ceasefire-whats-behind-trumps-love-hate-ties-to-russian-oil?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 11:30:54 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Giants Brigades lead southern Yemen fightback against the Houthis",
-      "link": "https://www.aljazeera.com/news/2026/10/12/giants-brigades-leads-southern-yemen-fightback-against-the-houthis?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 11:30:30 +0000",
       "source": "Al Jazeera"
     }
   ]
