@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T03:39:18.017230+00:00",
+  "updated": "2026-10-12T03:58:35.504350+00:00",
   "items": [
     {
       "title": "مقتل شخص وإصابة 11 في هجوم ثانٍ على مطار الرياض، واستهداف مطار الدمام",
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "North Korea fires multiple ballistic missiles towards the sea",
+      "link": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 03:37:12 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 03:09:11 +0000",
@@ -329,12 +335,6 @@
       "title": "Ceuta or Sebta? Why one city has two names and a disputed status",
       "link": "https://www.aljazeera.com/news/2026/10/12/ceuta-or-sebta-why-one-city-has-two-names-and-a-disputed-status?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 00:14:46 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Iran war live: Riyadh airport hit again; Tehran says US reply ‘inadequate’",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/12/iran-war-live-riyadh-airport-hit-again-tehran-says-us-reply-inadequate?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 00:00:00 +0000",
       "source": "Al Jazeera"
     }
   ]
