@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T17:23:38.033331+00:00",
+  "updated": "2026-10-12T17:41:32.539777+00:00",
   "items": [
     {
       "title": "الحوثيون يتوعدون الولايات المتحدة برد \"سريع وموجع اذا تورطت في العدوان على اليمن\"، والسعودية تتعهد بالرد على هجمات أنصار الله",
@@ -14,7 +14,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "عملاء الهجرة الأمريكيون يقومون بتفتيش منزل النائبة الديمقراطية إلهان عمر",
+      "title": "عملاء الهجرة الأمريكيون يفتّشون منزل النائبة الديمقراطية إلهان عمر",
       "link": "https://www.bbc.com/arabic/articles/c6ly3ryn3ex1o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 12 Oct 2026 17:17:48 GMT",
       "source": "BBC Arabic"
@@ -52,7 +52,7 @@
     {
       "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
       "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 12 Oct 2026 16:53:00 GMT",
+      "date": "Mon, 12 Oct 2026 17:32:13 GMT",
       "source": "BBC World"
     },
     {
@@ -194,6 +194,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "Stellantis and Renault back UK to get EU car industry protection",
+      "link": "https://www.theguardian.com/business/2026/oct/12/stellantis-renault-uk-eu-car-industry-imports-china",
+      "date": "Mon, 12 Oct 2026 17:22:05 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
       "link": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
       "date": "Mon, 12 Oct 2026 14:20:53 GMT",
@@ -206,21 +212,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "UK van drivers face extra £2.5bn in diesel costs this year, figures show",
-      "link": "https://www.theguardian.com/money/2026/oct/12/uk-van-drivers-diesel-costs-fuel-duty",
-      "date": "Mon, 12 Oct 2026 06:00:49 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "Roman Abramovich aides falsified paperwork to disguise assets and dodge tax, records suggest",
       "link": "https://www.theguardian.com/world/2026/oct/12/roman-abramovich-aides-paperwork-tax-records-suggest",
       "date": "Mon, 12 Oct 2026 05:00:46 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "EU to limit Chinese hybrid vehicle imports to 350,000 a year",
-      "link": "https://www.theguardian.com/environment/2026/oct/12/eu-deal-china-limit-imports-hybrid-electric-vehicles",
-      "date": "Mon, 12 Oct 2026 11:23:55 GMT",
+      "title": "UK van drivers face extra £2.5bn in diesel costs this year, figures show",
+      "link": "https://www.theguardian.com/money/2026/oct/12/uk-van-drivers-diesel-costs-fuel-duty",
+      "date": "Mon, 12 Oct 2026 06:00:49 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "‘Totally unfair’: Navi Pillay slams US sanctions against ICC",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 17:07:50 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Blast kills teenager, injures dozens in northern Israel",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/blast-kills-teenager-injures-dozens-in-northern-israel?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 16:44:07 +0000",
@@ -329,12 +335,6 @@
       "title": "Deadly gold mine air strikes highlight Egypt-Sudan border insecurity",
       "link": "https://www.aljazeera.com/news/2026/10/12/deadly-gold-mine-air-strikes-highlight-egypt-sudan-border-insecurity?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 15:30:08 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Oil tanker reportedly attacked in Strait of Hormuz region",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 15:19:23 +0000",
       "source": "Al Jazeera"
     }
   ]
