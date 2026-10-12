@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T19:46:56.471573+00:00",
+  "updated": "2026-10-12T20:00:52.009840+00:00",
   "items": [
     {
       "title": "الحوثيون يعلنون استهداف مطار الرياض وقاعدة خميس مشيط، ويتوعدون الولايات المتحدة \"اذا تورطت في العدوان على اليمن\"",
@@ -26,6 +26,12 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "زيلينسكي: روسيا استهدفت ست منشآت للطاقة منذ إعلان ترامب عن وقف إطلاق النار",
+      "link": "https://www.bbc.com/arabic/articles/ck30eq376pqzo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 12 Oct 2026 19:49:28 GMT",
+      "source": "BBC Arabic"
+    },
+    {
       "title": "\"حرب ترامب في الشرق الأوسط تخرج عن السيطرة الأمريكية\" - الإندبندنت",
       "link": "https://www.bbc.com/arabic/articles/cm0ld15g0d3yo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 12 Oct 2026 12:42:48 GMT",
@@ -41,12 +47,6 @@
       "title": "قصف مناجم الذهب في السودان: مطالب بالتحقيق واتهامات لمصر على منصات التواصل",
       "link": "https://www.bbc.com/arabic/articles/cm3wv10147qgo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 12 Oct 2026 19:25:30 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "تيتانيك: قصة الرجل الأسود الوحيد على متن السفينة",
-      "link": "https://www.bbc.com/arabic/articles/c9zrdn063m0go?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 12 Oct 2026 04:52:14 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -290,18 +290,6 @@
       "source": "NPR World"
     },
     {
-      "title": "US Rep. Ilhan Omar’s home searched by immigration agents",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/us-rep-ilhan-omars-home-searched-by-immigration-agents?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 19:37:11 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "NATO says will do ‘anything and everything’ if alliance is attacked",
-      "link": "https://www.aljazeera.com/news/2026/10/12/nato-says-will-do-anything-and-everything-if-alliance-is-attacked?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 19:27:41 +0000",
-      "source": "Al Jazeera"
-    },
-    {
       "title": "Pope Leo to undergo surgery to remove lung nodule in Rome",
       "link": "https://www.aljazeera.com/news/2026/10/12/pope-leo-to-undergo-surgery-to-remove-lung-nodule-in-rome?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 19:06:44 +0000",
@@ -335,6 +323,18 @@
       "title": "UK PM Andy Burnham met Man City chairman during time as Manchester mayor",
       "link": "https://www.aljazeera.com/sports/2026/10/12/uk-pm-andy-burnham-met-man-city-chairman-during-time-as-manchester-mayor?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 18:15:10 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Stolen Renoir paintings found behind wall in France following arrests",
+      "link": "https://www.aljazeera.com/news/2026/10/12/stolen-renoir-paintings-found-behind-wall-in-france-following-arrests?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 18:10:35 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Ethiopian forces enter strategic Tigray town of Adwa, witnesses say",
+      "link": "https://www.aljazeera.com/news/2026/10/12/ethiopian-troops-capture-adwa-without-a-fight-witnesses-say?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 18:01:41 +0000",
       "source": "Al Jazeera"
     }
   ]
