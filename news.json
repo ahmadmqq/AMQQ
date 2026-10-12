@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-12T10:27:29.168724+00:00",
+  "updated": "2026-10-12T10:47:35.223982+00:00",
   "items": [
+    {
+      "title": "قصف مناجم الذهب في السودان: اتهامات للجيش المصري على منصات التواصل ومطالب بالتحقيق",
+      "link": "https://www.bbc.com/arabic/articles/cm3wv10147qgo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 12 Oct 2026 10:44:34 GMT",
+      "source": "BBC Arabic"
+    },
     {
       "title": "وزير الطاقة السعودي يتعهد بالرد بشدة على هجمات تتعرض لها المملكة، وطهران تعرض الوساطة بين الرياض وأنصار الله",
       "link": "https://www.bbc.com/arabic/articles/c65yn9zlezlgo?at_medium=RSS&at_campaign=rss",
@@ -14,7 +20,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "لماذا لا نصنع المزيد من أسقف المنازل من ألواح شمسية؟",
+      "title": "لماذا لا نرى الأسقف الشمسية تغطي المزيد من المنازل؟",
       "link": "https://www.bbc.com/arabic/articles/c9vgrejyp041o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 12 Oct 2026 06:57:03 GMT",
       "source": "BBC Arabic"
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "ترامب وبوتين هما \"كراب وجويل\" النظام العالمي الجديد - الأوبزرفر",
-      "link": "https://www.bbc.com/arabic/articles/cv5yn00z1j2lo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 12:00:07 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
       "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 21:36:40 GMT",
@@ -68,9 +68,9 @@
       "source": "BBC World"
     },
     {
-      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-      "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 22:45:58 GMT",
+      "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 12 Oct 2026 10:28:47 GMT",
       "source": "BBC World"
     },
     {
@@ -92,9 +92,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
-      "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 21:12:44 GMT",
+      "title": "Indian opposition leaders march to top court to demand election chief resign",
+      "link": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 12 Oct 2026 06:42:35 GMT",
       "source": "BBC World"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "Nobel prize for economics awarded to two Americans, Hall and Woodford, for work on New Keynesian models – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates",
-      "date": "Mon, 12 Oct 2026 10:12:14 GMT",
+      "date": "Mon, 12 Oct 2026 10:14:40 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,12 +290,6 @@
       "source": "NPR World"
     },
     {
-      "title": "What we learned from ‘guilty’ Man City’s win over Liverpool at Anfield",
-      "link": "https://www.aljazeera.com/sports/2026/10/12/manchester-city-guilty-verdict-financial-charges-liverpool-anfield?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 10:18:58 +0000",
-      "source": "Al Jazeera"
-    },
-    {
       "title": "Melbourne man linked to flydubai attack suspect rejects ‘false accusations’",
       "link": "https://www.aljazeera.com/news/2026/10/12/melbourne-man-linked-to-flydubai-attack-suspect-rejects-false-accusations?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 10:05:19 +0000",
@@ -335,6 +329,12 @@
       "title": "Photos: Gaza mothers endure endless lines as famine fears persist",
       "link": "https://www.aljazeera.com/gallery/2026/10/12/photos-gaza-mothers-endure-endless-lines-as-famine-fears-persist?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 08:46:41 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Steve Smith breaks Test fielding record as Australia dominate South Africa",
+      "link": "https://www.aljazeera.com/sports/2026/10/12/steve-smith-breaks-test-fielding-record-as-australia-dominate-south-africa?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 08:17:50 +0000",
       "source": "Al Jazeera"
     }
   ]
