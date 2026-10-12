@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T02:03:05.773558+00:00",
+  "updated": "2026-10-12T02:22:40.556624+00:00",
   "items": [
     {
       "title": "السعودية تعلن استهداف مطار الدمام بعد ساعات من وقوع إصابات بهجوم صاروخي جديد استهدف مطار الرياض",
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
+      "link": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 02:11:21 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Bridge washed away by torrent of water in Nepal",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 01:24:26 +0000",
@@ -329,12 +335,6 @@
       "title": "Pakistani national killed in second Houthi strike on Riyadh airport",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss",
       "date": "Sun, 11 Oct 2026 23:20:46 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
-      "link": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss",
-      "date": "Sun, 11 Oct 2026 23:17:05 +0000",
       "source": "Al Jazeera"
     }
   ]
