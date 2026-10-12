@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-12T04:39:01.736327+00:00",
+  "updated": "2026-10-12T04:57:32.637117+00:00",
   "items": [
     {
       "title": "مقتل شخص وإصابة 11 في هجوم ثانٍ على مطار الرياض، واستهداف مطار الدمام",
       "link": "https://www.bbc.com/arabic/articles/cme3x48ppl22o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 12 Oct 2026 02:50:17 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "تيتانيك: قصة الرجل الأسود الوحيد على متن السفينة",
+      "link": "https://www.bbc.com/arabic/articles/c9zrdn063m0go?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 12 Oct 2026 04:52:14 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "أطفال من بين 139 شخصاً لقوا مصرعهم إثر غرق قارب قبالة سواحل جيبوتي",
       "link": "https://www.bbc.com/arabic/articles/cvp8gl55y7ypo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 15:28:04 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "تصاعد الاحتجاجات في دلهي بعد تعهد قادة \"حركة الصراصير\" المفرج عنهم \"بمواصلة النضال\"",
-      "link": "https://www.bbc.com/arabic/articles/cwzd6n3l6268o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 14:41:42 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
+      "link": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 04:24:18 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Ethiopian troops enter Adigrat in Tigray, near the Eritrean border",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-reported-ethiopia-hamza-mohammad-report-abiy-ahmed-ep?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 04:00:56 +0000",
@@ -329,12 +335,6 @@
       "title": "Iran’s FM urges diplomacy in call with Saudi counterpart",
       "link": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 00:39:08 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Hurricane Isaias leaves trail of destruction across the US Gulf Coast",
-      "link": "https://www.aljazeera.com/gallery/2026/10/12/hurricane-isaias-leaves-trail-of-destruction-across-the-us-gulf-coast?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 00:21:46 +0000",
       "source": "Al Jazeera"
     }
   ]
