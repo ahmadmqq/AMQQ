@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-12T07:27:29.257432+00:00",
+  "updated": "2026-10-12T07:49:41.622564+00:00",
   "items": [
     {
       "title": "مقتل شخص وإصابة 11 في هجوم ثانٍ على مطار الرياض، واستهداف مطار الدمام",
       "link": "https://www.bbc.com/arabic/articles/cme3x48ppl22o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 12 Oct 2026 05:00:19 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "روسيا وأوكرانيا: انقطاع الكهرباء وضربات جديدة بعد إعلان ترامب \"هدنة للطاقة\"",
+      "link": "https://www.bbc.com/arabic/articles/cqm2dnplnjego?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 12 Oct 2026 07:29:54 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "خروج القاتلة الأمريكية كريستا بايك من المستشفى بعد 10 أيام من محاولة إعدام فاشلة",
-      "link": "https://www.bbc.com/arabic/articles/cm20r19nzx3wo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 16:03:03 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Zelensky backs Trump's 'energy ceasefire' but says Russia continues to hit power plants",
       "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 21:36:40 GMT",
@@ -74,15 +74,15 @@
       "source": "BBC World"
     },
     {
-      "title": "Poland detains man suspected of planning assassination of PM Tusk",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 17:27:24 GMT",
+      "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 23:13:51 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
-      "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 21:12:44 GMT",
+      "title": "Poland detains man suspected of planning assassination of PM Tusk",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 17:27:24 GMT",
       "source": "BBC World"
     },
     {
@@ -92,15 +92,15 @@
       "source": "BBC World"
     },
     {
-      "title": "Iconic Australian band Powderfinger announce first tour in 17 years",
-      "link": "https://www.bbc.co.uk/news/articles/c680zyx8gkkjo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 23:33:24 GMT",
+      "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 11 Oct 2026 21:12:44 GMT",
       "source": "BBC World"
     },
     {
       "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
       "link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 12 Oct 2026 07:15:18 GMT",
+      "date": "Mon, 12 Oct 2026 07:42:22 GMT",
       "source": "BBC Business"
     },
     {
@@ -130,7 +130,7 @@
     {
       "title": "AI is less regulated than milk, says Microsoft president",
       "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 23:07:35 GMT",
+      "date": "Mon, 12 Oct 2026 07:47:37 GMT",
       "source": "BBC Business"
     },
     {
@@ -194,9 +194,9 @@
       "source": "Guardian World"
     },
     {
-      "title": "UK inflation pressures hits three-year high; Nobel prize for economics awarded today – business live",
+      "title": "UK inflation pressures hit three-year high; Nobel prize for economics awarded today – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates",
-      "date": "Mon, 12 Oct 2026 06:57:39 GMT",
+      "date": "Mon, 12 Oct 2026 07:34:14 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "If Netanyahu goes, does anything really change for Palestinians?",
+      "link": "https://www.aljazeera.com/news/2026/10/12/if-netanyahu-goes-does-anything-really-change-for-palestinians?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 07:27:14 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "India protest live: Opposition to march to Supreme Court over ‘vote theft’",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/12/india-protest-live-opposition-to-march-to-supreme-court-over-vote-theft?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 06:07:44 +0000",
@@ -329,12 +335,6 @@
       "title": "North Korea fires multiple ballistic missiles towards the sea",
       "link": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 03:37:12 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 03:09:11 +0000",
       "source": "Al Jazeera"
     }
   ]
