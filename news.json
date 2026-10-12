@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T12:03:36.660930+00:00",
+  "updated": "2026-10-12T12:39:23.819327+00:00",
   "items": [
     {
       "title": "وزير الطاقة السعودي يتعهد بالرد بشدة على هجمات تتعرض لها المملكة، وطهران تعرض الوساطة بين الرياض وأنصار الله",
@@ -76,7 +76,13 @@
     {
       "title": "Pupil arrested after two teachers shot at French school",
       "link": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 12 Oct 2026 10:33:28 GMT",
+      "date": "Mon, 12 Oct 2026 12:18:45 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Tom Cruise film Digger could lose $245m at box office",
+      "link": "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 12 Oct 2026 11:29:18 GMT",
       "source": "BBC World"
     },
     {
@@ -89,12 +95,6 @@
       "title": "Watch: Endangered orangutans released back into the wild after Borneo fires",
       "link": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 11 Oct 2026 23:48:25 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Iconic Australian band Powderfinger announce first tour in 17 years",
-      "link": "https://www.bbc.co.uk/news/articles/c680zyx8gkkjo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 23:33:24 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Far right surges as crises threaten Sanchez: Could Vox lead Spain?",
+      "link": "https://www.aljazeera.com/news/2026/10/12/far-right-surges-as-crises-threaten-sanchez-could-vox-lead-spain?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 12:08:19 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Gaza: Still Reporting",
+      "link": "https://www.aljazeera.com/video/witness/2026/10/12/gaza-still-reporting?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 12:00:00 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Azerbaijan’s school hijab ban: What’s behind it, and what’s next?",
+      "link": "https://www.aljazeera.com/news/2026/10/12/azerbaijans-school-hijab-ban-whats-behind-it-and-whats-next?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 11:59:24 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "‘Energy ceasefire’: What’s behind Trump’s love-hate ties to Russian oil?",
       "link": "https://www.aljazeera.com/news/2026/10/12/energy-ceasefire-whats-behind-trumps-love-hate-ties-to-russian-oil?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 11:30:54 +0000",
@@ -317,24 +335,6 @@
       "title": "What we learned from ‘guilty’ Man City’s win over Liverpool at Anfield",
       "link": "https://www.aljazeera.com/sports/2026/10/12/manchester-city-guilty-verdict-financial-charges-liverpool-anfield?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 10:18:58 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Melbourne man ‘strongly rejects’ links to flydubai attack suspect",
-      "link": "https://www.aljazeera.com/news/2026/10/12/melbourne-man-linked-to-flydubai-attack-suspect-rejects-false-accusations?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 10:05:19 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Indian YouTuber Dhruv Rathee alleges abduction ahead of Delhi protests",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/10-12-dhruv-rathee-india-protests-sv?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 09:55:11 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Maps show how Israel’s ‘Yellow Line’ keeps squeezing Palestinians in Gaza",
-      "link": "https://www.aljazeera.com/news/2026/10/12/maps-show-how-israels-yellow-line-keeps-squeezing-palestinians-in-gaza?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 09:27:12 +0000",
       "source": "Al Jazeera"
     }
   ]
