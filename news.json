@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-12T12:39:23.819327+00:00",
+  "updated": "2026-10-12T13:17:54.417818+00:00",
   "items": [
     {
       "title": "وزير الطاقة السعودي يتعهد بالرد بشدة على هجمات تتعرض لها المملكة، وطهران تعرض الوساطة بين الرياض وأنصار الله",
       "link": "https://www.bbc.com/arabic/articles/c65yn9zlezlgo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 12 Oct 2026 11:59:13 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "\"حرب ترامب في الشرق الأوسط تخرج عن السيطرة الأمريكية\" - الإندبندنت",
+      "link": "https://www.bbc.com/arabic/articles/cm0ld15g0d3yo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 12 Oct 2026 12:42:48 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "كيف تناول مستخدمو مواقع التواصل الاجتماعي \"أزمة البيض\" في العراق؟",
-      "link": "https://www.bbc.com/arabic/articles/c8r4y2nvp09ro?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 11 Oct 2026 17:33:32 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Documents falsified to evade tax on Abramovich's wealth, BBC finds",
       "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 12 Oct 2026 05:00:52 GMT",
@@ -80,7 +80,7 @@
       "source": "BBC World"
     },
     {
-      "title": "Tom Cruise film Digger could lose $245m at box office",
+      "title": "Tom Cruise film Digger forecast to lose $245m at box office",
       "link": "https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 12 Oct 2026 11:29:18 GMT",
       "source": "BBC World"
@@ -140,9 +140,9 @@
       "source": "BBC Business"
     },
     {
-      "title": "Why some have no choice but to pay costly oil prices",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm09xvlvjeo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 12 Oct 2026 05:27:55 GMT",
+      "title": "HMV to close Oxford Street store after three years",
+      "link": "https://www.bbc.co.uk/news/articles/cjzxl7ee4e9xo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 12 Oct 2026 10:36:39 GMT",
       "source": "BBC Business"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "Nobel prize for economics awarded to two Americans, Hall and Woodford, for work on New Keynesian models – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/12/uk-growth-inflation-pressures-oil-price-sveriges-riksbank-nobel-prize-economic-sciences-awarded-latest-news-updates",
-      "date": "Mon, 12 Oct 2026 11:28:08 GMT",
+      "date": "Mon, 12 Oct 2026 12:58:30 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Nobel economics prize awarded to Robert Hall and Michael ⁠Woodford",
+      "link": "https://www.aljazeera.com/news/2026/10/12/nobel-economics-prize-awarded-to-robert-hall-and-michael-%e2%81%a0woodford?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 12:35:08 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Trump thinks Ukraine needs a new president. Who could replace Zelenskyy?",
+      "link": "https://www.aljazeera.com/news/2026/10/12/trump-thinks-ukraine-needs-a-new-president-who-could-replace-zelenskyy?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 12:30:09 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Which banners did Liverpool fans display at Anfield against Man City?",
+      "link": "https://www.aljazeera.com/sports/2026/10/12/which-banners-did-liverpool-fans-display-at-anfield-against-man-city?traffic_source=rss",
+      "date": "Mon, 12 Oct 2026 12:21:56 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Far right surges as crises threaten Sanchez: Could Vox lead Spain?",
       "link": "https://www.aljazeera.com/news/2026/10/12/far-right-surges-as-crises-threaten-sanchez-could-vox-lead-spain?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 12:08:19 +0000",
@@ -317,24 +335,6 @@
       "title": "Giants Brigades lead southern Yemen fightback against the Houthis",
       "link": "https://www.aljazeera.com/news/2026/10/12/giants-brigades-leads-southern-yemen-fightback-against-the-houthis?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 11:30:30 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Saudi Arabia vows resilience as Houthi strikes hit Riyadh airport",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 11:17:02 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ukraine’s Zelenskyy accuses Russia of violating Trump’s ‘energy ceasefire’",
-      "link": "https://www.aljazeera.com/news/2026/10/12/ukraines-zelenskyy-accuses-russia-of-violating-trumps-energy-ceasefire?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 10:35:51 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "What we learned from ‘guilty’ Man City’s win over Liverpool at Anfield",
-      "link": "https://www.aljazeera.com/sports/2026/10/12/manchester-city-guilty-verdict-financial-charges-liverpool-anfield?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 10:18:58 +0000",
       "source": "Al Jazeera"
     }
   ]
