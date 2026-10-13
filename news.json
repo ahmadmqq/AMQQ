@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-13T16:27:26.678734+00:00",
+  "updated": "2026-10-13T16:48:27.435931+00:00",
   "items": [
     {
       "title": "السعودية تستهدف شركة نفط غرب صنعاء، وجماعة أنصار الله تهدد باستهداف أرامكو",
       "link": "https://www.bbc.co.uk/arabic/live/cmy4xv0nyy0nt?at_medium=RSS&at_campaign=rss",
       "date": "",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "البابا لاون يخضع لجراحة في الرئة، ماذا نعرف عن حالته الصحية؟",
+      "link": "https://www.bbc.com/arabic/articles/c60rl59wr2qko?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 16:33:50 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "عملاء الهجرة الأمريكيون يفتّشون منزل النائبة الديمقراطية إلهان عمر",
-      "link": "https://www.bbc.com/arabic/articles/c6ly3ryn3ex1o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 12 Oct 2026 17:17:48 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 13 Oct 2026 05:02:34 GMT",
@@ -80,21 +80,21 @@
       "source": "BBC World"
     },
     {
+      "title": "Pope admitted to hospital for surgery to remove lump on his lung",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 16:21:15 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "BBC FM radio transmissions suspended in Afghanistan",
+      "link": "https://www.bbc.co.uk/news/articles/cm8ezp4g7p6po?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 12:13:57 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Hungarian MPs scrap Orbán's anti-LGBTQ measures",
       "link": "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 13 Oct 2026 13:23:45 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Super El Niño sets another record as it strengthens to 'unprecedented levels'",
-      "link": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 11:18:44 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Ex-president named leader of new DR Congo rebel coalition",
-      "link": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 13:40:45 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Drivers queue for hours in Bali amid fuel shortage",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/drivers-queue-for-hours-in-bali-amid-fuel-shortage?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 16:32:11 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Majority in US say Trump prioritises personal wealth over all else: Poll",
       "link": "https://www.aljazeera.com/news/2026/10/13/majority-in-us-say-trump-prioritises-personal-wealth-over-all-else-poll?traffic_source=rss",
       "date": "Tue, 13 Oct 2026 16:07:26 +0000",
@@ -329,12 +335,6 @@
       "title": "Atletico Madrid vs Manchester United LIVE: Champions League",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/10/13/atletico-madrid-vs-manchester-united-live-champions-league?traffic_source=rss",
       "date": "Tue, 13 Oct 2026 15:00:00 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "‘Block, blunt, break’: What’s in NATO’s new Russia war plan?",
-      "link": "https://www.aljazeera.com/news/2026/10/13/block-blunt-break-whats-in-natos-new-russia-war-plan?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 14:52:22 +0000",
       "source": "Al Jazeera"
     }
   ]
