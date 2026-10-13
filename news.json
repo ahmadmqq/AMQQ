@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T18:18:49.615520+00:00",
+  "updated": "2026-10-13T18:48:22.104249+00:00",
   "items": [
     {
       "title": "السعودية تستهدف شركة نفط غرب صنعاء، وجماعة أنصار الله تهدد باستهداف أرامكو",
@@ -50,6 +50,12 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "link": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 15:52:15 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 13 Oct 2026 05:02:34 GMT",
@@ -64,19 +70,7 @@
     {
       "title": "Cornell bans all fraternity parties over gang sex assault allegations",
       "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 17:59:28 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Breaking Bad actor RJ Mitte dies aged 34",
-      "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 08:03:34 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Watch: Emergency calls from botched Christa Pike execution released",
-      "link": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 12:03:51 GMT",
+      "date": "Tue, 13 Oct 2026 18:25:28 GMT",
       "source": "BBC World"
     },
     {
@@ -86,15 +80,21 @@
       "source": "BBC World"
     },
     {
-      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-      "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 14:51:59 GMT",
+      "title": "Watch: Emergency calls from botched Christa Pike execution released",
+      "link": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 12:03:51 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Pope admitted to hospital for surgery to remove lump on his lung",
-      "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 16:21:15 GMT",
+      "title": "Breaking Bad actor RJ Mitte dies aged 34",
+      "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 08:03:34 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 14:51:59 GMT",
       "source": "BBC World"
     },
     {
@@ -176,6 +176,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "California coastal homes battered and bruised after weekend of intense waves and flooding",
+      "link": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+      "date": "Tue, 13 Oct 2026 18:25:06 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests",
       "link": "https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests",
       "date": "Tue, 13 Oct 2026 17:42:03 GMT",
@@ -185,12 +191,6 @@
       "title": "How a scandal engulfing Brazil’s top court could return the Bolsonaros to power",
       "link": "https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula",
       "date": "Tue, 13 Oct 2026 10:00:05 GMT",
-      "source": "Guardian World"
-    },
-    {
-      "title": "Latin American organised crime ‘may operate in 16 European countries’",
-      "link": "https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe",
-      "date": "Tue, 13 Oct 2026 07:00:18 GMT",
       "source": "Guardian World"
     },
     {
@@ -290,6 +290,36 @@
       "source": "NPR World"
     },
     {
+      "title": "US Supreme Court agrees to hear watchdog case on Elon Musk’s DOGE records",
+      "link": "https://www.aljazeera.com/news/2026/10/13/us-supreme-court-agrees-to-hear-watchdog-case-on-elon-musks-doge-records?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 18:21:18 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Trump says Putin and Zelenskyy both want to end Russia’s war on Ukraine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/trump-says-putin-and-zelenskyy-both-want-to-end-russias-war-on-ukraine?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 18:16:44 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Presidential hopeful Melenchon joins France school protest march",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/presidential-hopeful-melenchon-joins-france-school-protest-march?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 18:16:44 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Man City charges: Any political interference and I’ll quit, says regulator",
+      "link": "https://www.aljazeera.com/sports/2026/10/13/man-city-charges-any-political-interference-and-ill-quit-says-regulator?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 18:13:31 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Man City charges: Ahead of PSG, Dias defends celebrations at Liverpool",
+      "link": "https://www.aljazeera.com/sports/2026/10/13/man-city-charges-ahead-of-psg-dias-defends-celebrations-at-liverpool?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 18:13:24 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Why Trump’s ‘energy ceasefire’ upset Europe",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/why-trumps-energy-ceasefire-upset-europe?traffic_source=rss",
       "date": "Tue, 13 Oct 2026 18:07:05 +0000",
@@ -305,36 +335,6 @@
       "title": "China sentences three people to death for running Myanmar scam centres",
       "link": "https://www.aljazeera.com/news/2026/10/13/china-sentences-three-people-to-death-for-running-myanmar-scam-centres?traffic_source=rss",
       "date": "Tue, 13 Oct 2026 17:41:16 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Cholera cases surge in Yemen as conflict intensifies, WHO says",
-      "link": "https://www.aljazeera.com/news/2026/10/13/cholera-cases-surge-in-yemen-as-conflict-intensifies-who-says?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 17:18:45 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "New White House press secretary Katie Zacharia holds first briefing",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/new-white-house-press-secretary-katie-zacharia-holds-first-briefing?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 17:09:38 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Floods submerge cars, homes and hospitals in Libya’s Tripoli",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/floods-submerge-cars-homes-and-hospitals-in-libyas-tripoli?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 16:49:54 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Jerusalem Daily: Israeli forces raid NGOs in Ramallah",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/jerusalem-daily-israeli-forces-raid-ngos-in-ramallah?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 16:38:45 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Drivers queue for hours in Bali amid fuel shortage",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/drivers-queue-for-hours-in-bali-amid-fuel-shortage?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 16:32:11 +0000",
       "source": "Al Jazeera"
     }
   ]
