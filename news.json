@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T10:00:02.701298+00:00",
+  "updated": "2026-10-13T10:20:05.124549+00:00",
   "items": [
     {
       "title": "استمرار إغلاق مطار الرياض وسط هجمات جماعة أنصار الله وتهديدها بالرد على أي تدخل أمريكي",
@@ -176,6 +176,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "How a scandal engulfing Brazil’s top court could return the Bolsonaros to power",
+      "link": "https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula",
+      "date": "Tue, 13 Oct 2026 10:00:05 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "Latin American organised crime ‘may operate in 16 European countries’",
       "link": "https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe",
       "date": "Tue, 13 Oct 2026 07:00:18 GMT",
@@ -188,15 +194,9 @@
       "source": "Guardian World"
     },
     {
-      "title": "Argentina temporarily closes Iguazu Falls after El Niño-fuelled surge in water levels",
-      "link": "https://www.theguardian.com/world/2026/oct/13/argentina-iguazu-falls-temporarily-closed-el-nino-water-levels",
-      "date": "Tue, 13 Oct 2026 03:03:48 GMT",
-      "source": "Guardian World"
-    },
-    {
       "title": "IMF raises UK growth forecast in boost for chancellor - business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/13/imf-uk-economy-growth-boost-chancellor-john-healey-oil-prices-inflation-business-live-news",
-      "date": "Tue, 13 Oct 2026 09:42:37 GMT",
+      "date": "Tue, 13 Oct 2026 10:02:41 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,30 @@
       "source": "NPR World"
     },
     {
+      "title": "Activist Greta Thunberg joins French student protests",
+      "link": "https://www.aljazeera.com/news/2026/10/13/activist-greta-thunberg-joins-french-student-protests?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 09:58:11 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "One killed, several injured in Georgia roller coaster ‘incident’",
+      "link": "https://www.aljazeera.com/news/2026/10/13/one-dead-after-roller-coaster-incident-in-george-us?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 09:56:59 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Israeli forces raid Palestinian NGOs and hospital in occupied West Bank",
+      "link": "https://www.aljazeera.com/news/2026/10/13/israeli-forces-raid-palestinian-ngos-and-hospital-in-occupied-west-bank?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 09:47:05 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "The monetisation of mental health",
+      "link": "https://www.aljazeera.com/video/money-works/2026/10/13/the-monetisation-of-mental-health?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 09:44:47 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Air France says it will follow Israeli rule barring crew from some nations",
       "link": "https://www.aljazeera.com/features/2026/10/13/air-france-risks-breaking-the-law-by-adopting-israels-nationality-policy?traffic_source=rss",
       "date": "Tue, 13 Oct 2026 09:21:29 +0000",
@@ -311,30 +335,6 @@
       "title": "Former DR Congo president Kabila joins M23 rebels in a new coalition",
       "link": "https://www.aljazeera.com/news/2026/10/13/former-dr-congo-president-kabila-joins-m23-rebels-in-a-new-coalition?traffic_source=rss",
       "date": "Tue, 13 Oct 2026 08:50:49 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "The escalation in Yemen is a turning point",
-      "link": "https://www.aljazeera.com/opinions/2026/10/13/the-escalation-in-yemen-is-a-turning-point?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 08:42:55 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Police detain leaders of India’s ‘cockroach’ movement at New Delhi protest",
-      "link": "https://www.aljazeera.com/news/2026/10/13/police-detain-leaders-of-indias-cockroach-movement-at-new-delhi-protest?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 08:36:27 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ronaldo scores, waves Saudi scarf in Al-Nassr’s win after security delay",
-      "link": "https://www.aljazeera.com/sports/2026/10/13/ronaldo-scores-waves-saudi-scarf-in-al-nassrs-win-after-security-delay?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 08:27:37 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Mapping Africa’s energy wealth and 560 million who remain without power",
-      "link": "https://www.aljazeera.com/news/2026/10/13/mapping-africas-energy-wealth-and-560-million-who-remain-without-power?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 08:25:54 +0000",
       "source": "Al Jazeera"
     }
   ]
