@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-13T06:00:42.690316+00:00",
+  "updated": "2026-10-13T06:26:58.416619+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله الحوثية تواصل استهداف مطار الرياض، وترامب يقول إن تصرف الحوثيين \"سيئ\"",
       "link": "https://www.bbc.com/arabic/articles/c65yn9zlezlgo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 13 Oct 2026 04:24:45 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "تقرير خاص - تهديدات بالقتل والتشهير تلاحق ناشطات عراقيات يتحدثن عن العنف الجنسي ضد المرأة",
+      "link": "https://www.bbc.com/arabic/articles/cmr4y24pvllxo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 06:07:58 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "لماذا لا نرى الأسقف الشمسية تغطي المزيد من المنازل؟",
-      "link": "https://www.bbc.com/arabic/articles/c9vgrejyp041o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 12 Oct 2026 06:57:03 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 13 Oct 2026 05:02:34 GMT",
@@ -64,7 +64,7 @@
     {
       "title": "Breaking Bad actor RJ Mitte dies aged 34",
       "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 03:44:40 GMT",
+      "date": "Tue, 13 Oct 2026 06:26:05 GMT",
       "source": "BBC World"
     },
     {
@@ -98,7 +98,7 @@
       "source": "BBC World"
     },
     {
-      "title": "UK growth upgraded but energy prices and rates to bite in 2027",
+      "title": "UK growth forecast upgraded but energy prices and rates to bite in 2027",
       "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 13 Oct 2026 05:55:12 GMT",
       "source": "BBC Business"
@@ -194,9 +194,9 @@
       "source": "Guardian World"
     },
     {
-      "title": "IMF warns global economy ‘could soon test the limits of resilience’",
-      "link": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
-      "date": "Tue, 13 Oct 2026 02:00:11 GMT",
+      "title": "IMF raises UK growth forecast in boost for chancellor - business live",
+      "link": "https://www.theguardian.com/business/live/2026/oct/13/imf-uk-economy-growth-boost-chancellor-john-healey-oil-prices-inflation-business-live-news",
+      "date": "Tue, 13 Oct 2026 06:20:03 GMT",
       "source": "Guardian Business"
     },
     {
@@ -206,15 +206,21 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
-      "link": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
-      "date": "Mon, 12 Oct 2026 14:20:53 GMT",
+      "title": "Hackers force French supermarket fridges to heat up to 50C in ‘unprecedented’ cyber-attack",
+      "link": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u",
+      "date": "Mon, 12 Oct 2026 16:38:36 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Roman Abramovich aides falsified paperwork to disguise assets and dodge tax, records suggest",
-      "link": "https://www.theguardian.com/world/2026/oct/12/roman-abramovich-aides-paperwork-tax-records-suggest",
-      "date": "Mon, 12 Oct 2026 05:00:46 GMT",
+      "title": "Lobbying, lawyers and a media blitz: the fight to kill the Church of England’s £100m slavery compensation fund",
+      "link": "https://www.theguardian.com/world/2026/oct/13/church-of-england-slavery-compensation-fund",
+      "date": "Tue, 13 Oct 2026 05:00:15 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
+      "link": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
+      "date": "Mon, 12 Oct 2026 14:20:53 GMT",
       "source": "Guardian Business"
     },
     {
@@ -224,21 +230,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Hackers force French supermarket fridges to heat up to 50C in ‘unprecedented’ cyber-attack",
-      "link": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u",
-      "date": "Mon, 12 Oct 2026 16:38:36 GMT",
+      "title": "Roman Abramovich aides falsified paperwork to disguise assets and dodge tax, records suggest",
+      "link": "https://www.theguardian.com/world/2026/oct/12/roman-abramovich-aides-paperwork-tax-records-suggest",
+      "date": "Mon, 12 Oct 2026 05:00:46 GMT",
       "source": "Guardian Business"
     },
     {
       "title": "UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts",
       "link": "https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety",
       "date": "Sun, 11 Oct 2026 23:01:39 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "UK van drivers face extra £2.5bn in diesel costs this year, figures show",
-      "link": "https://www.theguardian.com/money/2026/oct/12/uk-van-drivers-diesel-costs-fuel-duty",
-      "date": "Mon, 12 Oct 2026 06:00:49 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says",
+      "link": "https://www.aljazeera.com/economy/2026/10/13/middle-east-and-central-asias-economy-to-shrink-in-2026-amid-war-imf-says?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 05:59:48 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Michael Jordan’s ‘Last Dance’ NBA Finals jersey sells for record $14m",
+      "link": "https://www.aljazeera.com/sports/2026/10/13/michael-jordans-last-dance-nba-finals-jersey-sells-for-record-14m?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 05:55:19 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Despite long history with Netanyahu, Trump hedges as Israel vote nears",
       "link": "https://www.aljazeera.com/news/2026/10/13/despite-long-history-with-netanyahu-trump-hedges-as-israel-vote-nears?traffic_source=rss",
       "date": "Tue, 13 Oct 2026 05:40:10 +0000",
@@ -323,18 +335,6 @@
       "title": "Trump insists energy ceasefire holds as Ukraine reports new Russian strikes",
       "link": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss",
       "date": "Tue, 13 Oct 2026 03:30:23 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Russia and Ukraine trade strikes amid doubt over ‘energy ceasefire’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 03:11:19 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Cyberattack on French supermarkets causes fires, millions in losses",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/12-10-sv-france-supermarket-fridges-targeted?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 03:01:53 +0000",
       "source": "Al Jazeera"
     }
   ]
