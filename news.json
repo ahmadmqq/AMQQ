@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T18:48:22.104249+00:00",
+  "updated": "2026-10-13T19:14:55.795652+00:00",
   "items": [
     {
       "title": "السعودية تستهدف شركة نفط غرب صنعاء، وجماعة أنصار الله تهدد باستهداف أرامكو",
@@ -56,9 +56,15 @@
       "source": "BBC World"
     },
     {
-      "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 05:02:34 GMT",
+      "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+      "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 18:54:17 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Saudi coalition strikes fuel depot near Yemen's capital",
+      "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 18:55:50 GMT",
       "source": "BBC World"
     },
     {
@@ -74,27 +80,21 @@
       "source": "BBC World"
     },
     {
-      "title": "Argentina lodges legal claim against UK's Falklands oil exploration",
+      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 19:13:58 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 05:02:34 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
       "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 13 Oct 2026 17:36:43 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Watch: Emergency calls from botched Christa Pike execution released",
-      "link": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 12:03:51 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Breaking Bad actor RJ Mitte dies aged 34",
-      "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 08:03:34 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-      "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 14:51:59 GMT",
       "source": "BBC World"
     },
     {
@@ -242,6 +242,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Zelenskyy tells NPR Ukraine wants peace but will hit Russia until it follows ceasefire",
+      "link": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war",
+      "date": "Tue, 13 Oct 2026 14:51:55 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
       "link": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
       "date": "Tue, 13 Oct 2026 07:08:14 -0400",
@@ -284,21 +290,33 @@
       "source": "NPR World"
     },
     {
-      "title": "Both Russia and Ukraine are using AI-powered drones on the battlefield",
-      "link": "https://www.npr.org/2026/10/12/nx-s1-5984940/both-russia-and-ukraine-are-using-ai-powered-drones-on-the-battlefield",
-      "date": "Mon, 12 Oct 2026 16:42:49 -0400",
-      "source": "NPR World"
+      "title": "Russia arrests Japanese reporter for alleged espionage",
+      "link": "https://www.aljazeera.com/news/2026/10/13/russia-arrests-japanese-reporter-for-alleged?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 18:49:26 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Cornell suspends fraternity parties after alleged campus gang rape case",
+      "link": "https://www.aljazeera.com/news/2026/10/13/cornell-suspends-fraternity-parties-after-alleged-campus-gang-rape-case?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 18:45:51 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Who killed Tupac?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/who-killed-tupac?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 18:44:11 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Israel’s Yellow Line in Gaza advances, leaving displaced with nowhere to go",
+      "link": "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 18:42:52 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "US Supreme Court agrees to hear watchdog case on Elon Musk’s DOGE records",
       "link": "https://www.aljazeera.com/news/2026/10/13/us-supreme-court-agrees-to-hear-watchdog-case-on-elon-musks-doge-records?traffic_source=rss",
       "date": "Tue, 13 Oct 2026 18:21:18 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Trump says Putin and Zelenskyy both want to end Russia’s war on Ukraine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/trump-says-putin-and-zelenskyy-both-want-to-end-russias-war-on-ukraine?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 18:16:44 +0000",
       "source": "Al Jazeera"
     },
     {
@@ -308,33 +326,15 @@
       "source": "Al Jazeera"
     },
     {
+      "title": "Trump says Putin and Zelenskyy both want to end Russia’s war on Ukraine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/trump-says-putin-and-zelenskyy-both-want-to-end-russias-war-on-ukraine?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 18:16:44 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Man City charges: Any political interference and I’ll quit, says regulator",
       "link": "https://www.aljazeera.com/sports/2026/10/13/man-city-charges-any-political-interference-and-ill-quit-says-regulator?traffic_source=rss",
       "date": "Tue, 13 Oct 2026 18:13:31 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Man City charges: Ahead of PSG, Dias defends celebrations at Liverpool",
-      "link": "https://www.aljazeera.com/sports/2026/10/13/man-city-charges-ahead-of-psg-dias-defends-celebrations-at-liverpool?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 18:13:24 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Why Trump’s ‘energy ceasefire’ upset Europe",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/why-trumps-energy-ceasefire-upset-europe?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 18:07:05 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Photos: French protests over school conditions swell",
-      "link": "https://www.aljazeera.com/gallery/2026/10/13/photos-french-students-continue-to-protest-over-run-down-schools?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 17:58:01 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "China sentences three people to death for running Myanmar scam centres",
-      "link": "https://www.aljazeera.com/news/2026/10/13/china-sentences-three-people-to-death-for-running-myanmar-scam-centres?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 17:41:16 +0000",
       "source": "Al Jazeera"
     }
   ]
