@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-13T10:20:05.124549+00:00",
+  "updated": "2026-10-13T10:41:33.174366+00:00",
   "items": [
     {
       "title": "استمرار إغلاق مطار الرياض وسط هجمات جماعة أنصار الله وتهديدها بالرد على أي تدخل أمريكي",
       "link": "https://www.bbc.com/arabic/articles/cm20wxqqg9ddo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 13 Oct 2026 09:42:48 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "بعد الإعلان عن الأغلبية الحكومية، ماذا ينتظر المنصوري لتشكيل أول حكومة ترأسها امرأة في المغرب؟",
+      "link": "https://www.bbc.com/arabic/articles/crq8n0z72wvko?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 10:24:28 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "\"حرب ترامب في الشرق الأوسط تخرج عن السيطرة الأمريكية\" - الإندبندنت",
-      "link": "https://www.bbc.com/arabic/articles/cm0ld15g0d3yo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 12 Oct 2026 12:42:48 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 13 Oct 2026 05:02:34 GMT",
@@ -64,7 +64,7 @@
     {
       "title": "One dead and several hurt after rollercoaster incident at Six Flags",
       "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 02:26:21 GMT",
+      "date": "Tue, 13 Oct 2026 10:28:07 GMT",
       "source": "BBC World"
     },
     {
@@ -80,6 +80,12 @@
       "source": "BBC World"
     },
     {
+      "title": "Ex-president named leader of new DR Congo rebel coalition",
+      "link": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 08:21:16 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
       "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 12 Oct 2026 21:20:51 GMT",
@@ -89,12 +95,6 @@
       "title": "India 'cockroach' leaders detained after entering barricaded protest site",
       "link": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 13 Oct 2026 07:31:10 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Watch: US man eyes pumpkin world record after fifth contest win",
-      "link": "https://www.bbc.co.uk/news/videos/c80405zkgyqvo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 04:04:57 GMT",
       "source": "BBC World"
     },
     {
@@ -196,7 +196,13 @@
     {
       "title": "IMF raises UK growth forecast in boost for chancellor - business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/13/imf-uk-economy-growth-boost-chancellor-john-healey-oil-prices-inflation-business-live-news",
-      "date": "Tue, 13 Oct 2026 10:02:41 GMT",
+      "date": "Tue, 13 Oct 2026 10:16:35 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Hobbs and Whistles owner investigates hack that may have exposed customer data",
+      "link": "https://www.theguardian.com/business/2026/oct/13/hobbs-whistles-hack-cyber-attack-asos",
+      "date": "Tue, 13 Oct 2026 10:11:46 GMT",
       "source": "Guardian Business"
     },
     {
@@ -206,27 +212,21 @@
       "source": "Guardian Business"
     },
     {
-      "title": "UK shoppers seek deals as grocery price inflation rises again",
-      "link": "https://www.theguardian.com/business/2026/oct/13/uk-shoppers-deals-grocery-price-inflation-supermarkets-prices-halloween",
-      "date": "Tue, 13 Oct 2026 08:21:13 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "Lobbying, lawyers and a media blitz: the fight to kill the Church of England’s £100m slavery compensation fund",
       "link": "https://www.theguardian.com/world/2026/oct/13/church-of-england-slavery-compensation-fund",
       "date": "Tue, 13 Oct 2026 05:00:15 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Chip stocks slide after Broadcom boss likens AI investing to ‘casino’",
-      "link": "https://www.theguardian.com/business/2026/oct/13/chip-stocks-broadcom-ai-samsung-shares-cxmt",
-      "date": "Tue, 13 Oct 2026 09:48:01 GMT",
+      "title": "UK shoppers seek deals as grocery price inflation rises again",
+      "link": "https://www.theguardian.com/business/2026/oct/13/uk-shoppers-deals-grocery-price-inflation-supermarkets-prices-halloween",
+      "date": "Tue, 13 Oct 2026 08:21:13 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Hackers force French supermarket fridges to heat up to 50C in ‘unprecedented’ cyber-attack",
-      "link": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u",
-      "date": "Mon, 12 Oct 2026 16:38:36 GMT",
+      "title": "Chip stocks slide after Broadcom boss likens AI investing to ‘casino’",
+      "link": "https://www.theguardian.com/business/2026/oct/13/chip-stocks-broadcom-ai-samsung-shares-cxmt",
+      "date": "Tue, 13 Oct 2026 09:48:01 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,19 +290,25 @@
       "source": "NPR World"
     },
     {
+      "title": "Trump Protester punched at Trump rally as they’re mocked by the president",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/trump-protester-punched-at-trump-rally-as-theyre-mocked-by-the-president?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 10:02:30 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Activist Greta Thunberg joins French student protests",
       "link": "https://www.aljazeera.com/news/2026/10/13/activist-greta-thunberg-joins-french-student-protests?traffic_source=rss",
       "date": "Tue, 13 Oct 2026 09:58:11 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "One killed, several injured in Georgia roller coaster ‘incident’",
+      "title": "One killed, several injured in Georgia rollercoaster ‘incident’",
       "link": "https://www.aljazeera.com/news/2026/10/13/one-dead-after-roller-coaster-incident-in-george-us?traffic_source=rss",
       "date": "Tue, 13 Oct 2026 09:56:59 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Israeli forces raid Palestinian NGOs and hospital in occupied West Bank",
+      "title": "Israeli forces raid Palestinian NGOs in occupied West Bank",
       "link": "https://www.aljazeera.com/news/2026/10/13/israeli-forces-raid-palestinian-ngos-and-hospital-in-occupied-west-bank?traffic_source=rss",
       "date": "Tue, 13 Oct 2026 09:47:05 +0000",
       "source": "Al Jazeera"
@@ -329,12 +335,6 @@
       "title": "Qatar’s emir says Palestinian cause remains ‘highest priority’",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/qatars-emir-says-palestinian-cause-remains-highest?traffic_source=rss",
       "date": "Tue, 13 Oct 2026 09:04:47 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Former DR Congo president Kabila joins M23 rebels in a new coalition",
-      "link": "https://www.aljazeera.com/news/2026/10/13/former-dr-congo-president-kabila-joins-m23-rebels-in-a-new-coalition?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 08:50:49 +0000",
       "source": "Al Jazeera"
     }
   ]
