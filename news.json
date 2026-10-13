@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T17:57:45.454911+00:00",
+  "updated": "2026-10-13T18:18:49.615520+00:00",
   "items": [
     {
       "title": "السعودية تستهدف شركة نفط غرب صنعاء، وجماعة أنصار الله تهدد باستهداف أرامكو",
@@ -16,7 +16,7 @@
     {
       "title": "البابا لاون يخضع لجراحة في الرئة، ماذا نعرف عن حالته الصحية؟",
       "link": "https://www.bbc.com/arabic/articles/c60rl59wr2qko?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 16:33:50 GMT",
+      "date": "Tue, 13 Oct 2026 18:05:01 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -62,6 +62,12 @@
       "source": "BBC World"
     },
     {
+      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 17:59:28 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Breaking Bad actor RJ Mitte dies aged 34",
       "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 13 Oct 2026 08:03:34 GMT",
@@ -74,6 +80,12 @@
       "source": "BBC World"
     },
     {
+      "title": "Argentina lodges legal claim against UK's Falklands oil exploration",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 17:36:43 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
       "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 13 Oct 2026 14:51:59 GMT",
@@ -83,18 +95,6 @@
       "title": "Pope admitted to hospital for surgery to remove lump on his lung",
       "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 13 Oct 2026 16:21:15 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "BBC FM radio transmissions suspended in Afghanistan",
-      "link": "https://www.bbc.co.uk/news/articles/cm8ezp4g7p6po?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 12:13:57 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Hungarian MPs scrap Orbán's anti-LGBTQ measures",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 13:23:45 GMT",
       "source": "BBC World"
     },
     {
@@ -178,7 +178,7 @@
     {
       "title": "UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests",
       "link": "https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests",
-      "date": "Tue, 13 Oct 2026 11:00:55 GMT",
+      "date": "Tue, 13 Oct 2026 17:42:03 GMT",
       "source": "Guardian World"
     },
     {
@@ -194,6 +194,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "UK high street bosses urge chancellor to cut cost of employing young people",
+      "link": "https://www.theguardian.com/business/2026/oct/13/uk-high-street-bosses-urge-chancellor-to-cut-cost-of-employing-young-people",
+      "date": "Tue, 13 Oct 2026 17:43:19 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Chip stocks slide after Broadcom boss likens AI investing to ‘casino’",
       "link": "https://www.theguardian.com/business/2026/oct/13/chip-stocks-broadcom-ai-samsung-shares-cxmt",
       "date": "Tue, 13 Oct 2026 15:51:54 GMT",
@@ -206,15 +212,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Burnham’s Your First Home scheme ‘could boost Bellway’s house output by 10%’",
-      "link": "https://www.theguardian.com/business/2026/oct/13/burnham-your-first-home-scheme-bellway-help-to-buy-first-time-buyers",
-      "date": "Tue, 13 Oct 2026 11:59:57 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "IMF raises UK growth forecast as economist says Healey should ‘stay the course’",
       "link": "https://www.theguardian.com/business/2026/oct/13/john-healey-uk-finances-imf-gdp-growth-forecast-2026",
       "date": "Tue, 13 Oct 2026 07:58:56 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Burnham’s Your First Home scheme ‘could boost Bellway’s house output by 10%’",
+      "link": "https://www.theguardian.com/business/2026/oct/13/burnham-your-first-home-scheme-bellway-help-to-buy-first-time-buyers",
+      "date": "Tue, 13 Oct 2026 11:59:57 GMT",
       "source": "Guardian Business"
     },
     {
@@ -224,21 +230,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "UK shoppers seek deals as grocery price inflation rises again",
-      "link": "https://www.theguardian.com/business/2026/oct/13/uk-shoppers-deals-grocery-price-inflation-supermarkets-prices-halloween",
-      "date": "Tue, 13 Oct 2026 10:37:00 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "Fewer Britons plan to ringfence money for holidays abroad next year, says travel industry",
       "link": "https://www.theguardian.com/business/2026/oct/13/uk-holiday-demand-travel-industry-spain-deals-abta",
       "date": "Tue, 13 Oct 2026 13:44:38 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Apple unveils new smart home devices that showcase upgraded Siri AI",
-      "link": "https://www.theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai",
-      "date": "Tue, 13 Oct 2026 16:25:22 GMT",
+      "title": "UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests",
+      "date": "Tue, 13 Oct 2026 17:42:03 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Why Trump’s ‘energy ceasefire’ upset Europe",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/why-trumps-energy-ceasefire-upset-europe?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 18:07:05 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Photos: French protests over school conditions swell",
+      "link": "https://www.aljazeera.com/gallery/2026/10/13/photos-french-students-continue-to-protest-over-run-down-schools?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 17:58:01 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "China sentences three people to death for running Myanmar scam centres",
       "link": "https://www.aljazeera.com/news/2026/10/13/china-sentences-three-people-to-death-for-running-myanmar-scam-centres?traffic_source=rss",
       "date": "Tue, 13 Oct 2026 17:41:16 +0000",
@@ -323,18 +335,6 @@
       "title": "Drivers queue for hours in Bali amid fuel shortage",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/drivers-queue-for-hours-in-bali-amid-fuel-shortage?traffic_source=rss",
       "date": "Tue, 13 Oct 2026 16:32:11 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Majority in US say Trump prioritises personal wealth over all else: Poll",
-      "link": "https://www.aljazeera.com/news/2026/10/13/majority-in-us-say-trump-prioritises-personal-wealth-over-all-else-poll?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 16:07:26 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "UK spy chief says Iran is stepping up targeting of military bases",
-      "link": "https://www.aljazeera.com/news/2026/10/13/uk-spy-chief-says-iran-is-stepping-up-targeting-of-military-bases?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 16:06:56 +0000",
       "source": "Al Jazeera"
     }
   ]
