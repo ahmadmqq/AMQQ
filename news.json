@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T01:59:14.590312+00:00",
+  "updated": "2026-10-13T02:16:50.442257+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله الحوثية تواصل استهداف مطار الرياض، وترامب يقول إن تصرف الحوثيين \"سيئ\"",
@@ -86,7 +86,7 @@
       "source": "BBC World"
     },
     {
-      "title": "Immigration agents search Congresswoman Ilhan Omar's home",
+      "title": "Immigration agents search congresswoman Ilhan Omar's home",
       "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 12 Oct 2026 22:05:31 GMT",
       "source": "BBC World"
@@ -96,6 +96,12 @@
       "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 12 Oct 2026 18:31:32 GMT",
       "source": "BBC World"
+    },
+    {
+      "title": "UK growth upgraded but energy prices and rates to bite in 2027",
+      "link": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 02:00:35 GMT",
+      "source": "BBC Business"
     },
     {
       "title": "I earn £120,000 a year making social media videos go viral",
@@ -137,12 +143,6 @@
       "title": "Fridges in French supermarkets hit by cyber attack",
       "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 12 Oct 2026 18:31:32 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "AI minister warns 'likely' UK's cyber defences will be breached",
-      "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 12 Oct 2026 15:03:42 GMT",
       "source": "BBC Business"
     },
     {
@@ -194,6 +194,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "IMF warns global economy ‘could soon test the limits of resilience’",
+      "link": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
+      "date": "Tue, 13 Oct 2026 02:00:11 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Stellantis and Renault back UK to get EU car industry protection",
       "link": "https://www.theguardian.com/business/2026/oct/12/stellantis-renault-uk-eu-car-industry-imports-china",
       "date": "Mon, 12 Oct 2026 17:22:05 GMT",
@@ -233,12 +239,6 @@
       "title": "UK van drivers face extra £2.5bn in diesel costs this year, figures show",
       "link": "https://www.theguardian.com/money/2026/oct/12/uk-van-drivers-diesel-costs-fuel-duty",
       "date": "Mon, 12 Oct 2026 06:00:49 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Revealed: Nigel Farage adviser had unpublicised role at polling firm",
-      "link": "https://www.theguardian.com/politics/2026/oct/12/nigel-farage-adviser-influential-role-polling-firm-chris-bruni-lowe",
-      "date": "Mon, 12 Oct 2026 13:42:27 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?",
+      "link": "https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand?traffic_source=rss",
+      "date": "Tue, 13 Oct 2026 01:46:25 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
       "date": "Tue, 13 Oct 2026 00:00:00 +0000",
@@ -329,12 +335,6 @@
       "title": "Canada’s Carney calls for unity as Alberta prepares for secession vote",
       "link": "https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss",
       "date": "Mon, 12 Oct 2026 21:33:13 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Conflict, drought increasing risk of famine in Sudan: Monitor",
-      "link": "https://www.aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor?traffic_source=rss",
-      "date": "Mon, 12 Oct 2026 21:27:42 +0000",
       "source": "Al Jazeera"
     }
   ]
