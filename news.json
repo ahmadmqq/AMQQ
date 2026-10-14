@@ -1,16 +1,22 @@
 {
-  "updated": "2026-10-14T07:22:26.481408+00:00",
+  "updated": "2026-10-14T07:58:04.373279+00:00",
   "items": [
     {
-      "title": "سماع انفجارات في الرياض، وإعلان إصابة أربعة أشخاص وحريق بمبنى لأرامكو",
+      "title": "انفجارات في الرياض، وغارات على منشآت نفطية في اليمن مع تصاعد القتال في المنطقة",
       "link": "https://www.bbc.com/arabic/articles/cqm24e4kzj72o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 07:06:30 GMT",
+      "date": "Wed, 14 Oct 2026 07:30:07 GMT",
       "source": "BBC Arabic"
     },
     {
       "title": "اتهام سعودي بزرع جهاز تسجيل \"متطور\" في مكتب تابع لشركة \"أوبن إيه آي\"",
       "link": "https://www.bbc.com/arabic/articles/c3gr8g7200rgo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 14 Oct 2026 04:49:21 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "الخرف: لماذا تتحمّل النساء عبئاً أكبر مع توقّع تضاعف عدد الإصابات بحلول 2050؟",
+      "link": "https://www.bbc.com/arabic/articles/cq0ld078x1l5o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 14 Oct 2026 07:54:59 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,15 +50,9 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "وفاة نجم مسلسل \"بريكنغ باد\" آر جي ميتي عن 34 عاماً",
-      "link": "https://www.bbc.com/arabic/articles/cwq6n7g0l76eo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 02:18:57 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
       "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 00:17:00 GMT",
+      "date": "Wed, 14 Oct 2026 07:23:46 GMT",
       "source": "BBC World"
     },
     {
@@ -196,7 +196,13 @@
     {
       "title": "IMF sounds alarm on rising government borrowing costs and cyber-attack risks – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/14/imf-rising-government-borrowing-costs-inflation-oil-stock-markets-latest-news-updates",
-      "date": "Wed, 14 Oct 2026 07:06:23 GMT",
+      "date": "Wed, 14 Oct 2026 07:35:32 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "John Healey ‘targets tax crackdown on online marketplaces’ in first budget",
+      "link": "https://www.theguardian.com/business/2026/oct/14/john-healey-tax-crackdown-online-marketplaces-amazon-ebay-budget",
+      "date": "Wed, 14 Oct 2026 07:42:48 GMT",
       "source": "Guardian Business"
     },
     {
@@ -206,21 +212,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Cryptocurrency exchange founded by Reform donor Ben Delo sued for £20m",
-      "link": "https://www.theguardian.com/politics/2026/oct/14/cryptocurrency-exchange-founded-by-reform-donor-ben-delo-sued-for-20m",
-      "date": "Tue, 13 Oct 2026 23:01:38 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices",
       "link": "https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning",
       "date": "Tue, 13 Oct 2026 20:55:04 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "UK high street bosses urge chancellor to cut cost of employing young people",
-      "link": "https://www.theguardian.com/business/2026/oct/13/uk-high-street-bosses-urge-chancellor-to-cut-cost-of-employing-young-people",
-      "date": "Tue, 13 Oct 2026 17:43:19 GMT",
+      "title": "Cryptocurrency exchange founded by Reform donor Ben Delo sued for £20m",
+      "link": "https://www.theguardian.com/politics/2026/oct/14/cryptocurrency-exchange-founded-by-reform-donor-ben-delo-sued-for-20m",
+      "date": "Tue, 13 Oct 2026 23:01:38 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,30 @@
       "source": "NPR World"
     },
     {
+      "title": "Ex-DRC President Joseph Kabila joins hands with M23 rebels: Why it matters",
+      "link": "https://www.aljazeera.com/news/2026/10/14/ex-drc-president-joseph-kabila-joins-hands-with-m23-rebels-why-it-matters?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 07:32:24 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Why Sri Lanka’s Rajapaksas are being investigated for corruption and crimes",
+      "link": "https://www.aljazeera.com/news/2026/10/14/why-sri-lankas-rajapaksas-are-being-investigated-for-corruption-and-crimes?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 07:31:34 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "‘Massive’ Russian attack on Ukraine kills at least six, cuts power in Kyiv",
+      "link": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 07:08:32 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "‘Like we don’t exist’: Palestinians in West Bank denied say in Israel vote",
+      "link": "https://www.aljazeera.com/features/2026/10/14/like-we-dont-exist-palestinians-in-west-bank-denied-say-in-israel-vote?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 07:05:31 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Photos: Student protest in Albania prompts violent clashes with police",
       "link": "https://www.aljazeera.com/gallery/2026/10/14/photos-student-protest-in-albania-spark-violent-clashes-with-police-forces?traffic_source=rss",
       "date": "Wed, 14 Oct 2026 06:46:31 +0000",
@@ -311,30 +335,6 @@
       "title": "Man City deserve to keep trophies despite charges, says PSG’s Luis Enrique",
       "link": "https://www.aljazeera.com/sports/2026/10/14/man-city-deserve-to-keep-trophies-despite-charges-says-psgs-luis-enrique?traffic_source=rss",
       "date": "Wed, 14 Oct 2026 05:39:48 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ukrainian drones strike more than 100km into Russian territory",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ukrainian-drones-strike-more-than-100km-into-russian-territory?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 05:07:55 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "China and North Korea to open New Yalu River Bridge, state media reports",
-      "link": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 04:27:18 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Singapore’s economy grows more than 5 percent amid AI boom",
-      "link": "https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 04:25:02 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Saudi-born engineer for OpenAI arrested for planting listening bug",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 04:16:13 +0000",
       "source": "Al Jazeera"
     }
   ]
