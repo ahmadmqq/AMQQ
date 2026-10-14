@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-14T19:18:28.660499+00:00",
+  "updated": "2026-10-14T19:50:55.839762+00:00",
   "items": [
     {
       "title": "الحوثيون يعلنون استهداف مطار الرياض بـ\"صاروخ باليستي\"، والسعودية تعلن إصابة شخص من جنسية عربية",
       "link": "https://www.bbc.com/arabic/articles/cqm24e4kzj72o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 18:02:48 GMT",
+      "date": "Wed, 14 Oct 2026 19:48:54 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -242,6 +242,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
+      "link": "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar",
+      "date": "Wed, 14 Oct 2026 15:42:03 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
       "link": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech",
       "date": "Wed, 14 Oct 2026 07:38:51 -0400",
@@ -284,10 +290,16 @@
       "source": "NPR World"
     },
     {
-      "title": "Pakistan imposes emergency rule in former prime minister's stronghold",
-      "link": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold",
-      "date": "Tue, 13 Oct 2026 06:51:33 -0400",
-      "source": "NPR World"
+      "title": "Sally Rooney’s books pulled from UK over Palestine Action support",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/sally-rooneys-books-pulled-from-uk-over-palestine-action-support?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 19:23:27 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "World’s oldest known shipwreck found in Turkiye",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/worlds-oldest-known-shipwreck-found-in-turkiye?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 19:17:48 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Bangladesh arrests two for luring locals to fight for Russia in Ukraine",
@@ -323,18 +335,6 @@
       "title": "Saudi tennis ‘slam’ with Alcaraz, Djokovic postponed amid Houthi attacks",
       "link": "https://www.aljazeera.com/sports/2026/10/14/saudi-tennis-slam-with-alcaraz-djokovic-postponed-amid-houthi-attacks?traffic_source=rss",
       "date": "Wed, 14 Oct 2026 17:11:57 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Palestinian collective uses art to connect Gaza and the West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinian-collective-uses-art-to-connect-gaza-and-the-west-bank?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 17:11:20 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Settlers attack Palestinian mosque near occupied East Jerusalem",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/settlers-attack-palestinian-mosque-near-occupied-east-jerusalem?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 17:05:01 +0000",
       "source": "Al Jazeera"
     }
   ]
