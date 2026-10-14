@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T18:09:03.402098+00:00",
+  "updated": "2026-10-14T18:45:23.727855+00:00",
   "items": [
     {
       "title": "الحوثيون يعلنون استهداف مطار الرياض بـ\"صاروخ باليستي\"، والسعودية تعلن إصابة شخص من جنسية عربية",
@@ -80,7 +80,7 @@
       "source": "BBC World"
     },
     {
-      "title": "Netflix to lay off 1,000 staff in steepest cuts since 2022",
+      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
       "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 14 Oct 2026 16:47:32 GMT",
       "source": "BBC World"
@@ -98,13 +98,13 @@
       "source": "BBC World"
     },
     {
-      "title": "Airport drop-off charges to be reviewed after sharp increase",
+      "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
       "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 14 Oct 2026 17:46:30 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Netflix to lay off 1,000 staff in steepest cuts since 2022",
+      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
       "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 14 Oct 2026 16:47:32 GMT",
       "source": "BBC Business"
@@ -236,9 +236,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Uber begins self-driving robotaxi trial in Manchester",
-      "link": "https://www.theguardian.com/technology/2026/oct/14/uber-self-driving-robotaxi-trial-manchester",
-      "date": "Wed, 14 Oct 2026 13:11:35 GMT",
+      "title": "Nvidia, worth $5.5tn, donates $250m to UK for AI safety research",
+      "link": "https://www.theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research",
+      "date": "Wed, 14 Oct 2026 10:10:37 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Israel’s former security chief sues Netanyahu for October 7 defamation",
+      "link": "https://www.aljazeera.com/news/2026/10/14/israels-former-security-chief-sues-netanyahu-for-october-7-defamation?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 18:39:03 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Real Madrid’s Vinicius banned for Clasico after hair-pull red card",
+      "link": "https://www.aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 18:03:46 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "How six Ukrainian divers could have blown up Russia’s $20bn pipelines",
+      "link": "https://www.aljazeera.com/video/2026/10/14/aje-onl-pp-nord-stream-141125?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 18:00:44 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Ex-UK army chef jailed for ‘terror’-related offence",
       "link": "https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss",
       "date": "Wed, 14 Oct 2026 17:32:09 +0000",
@@ -314,27 +332,9 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "Kenya’s health ministry confirms second Ebola case",
+      "title": "Kenya’s Health Ministry confirms second Ebola case",
       "link": "https://www.aljazeera.com/news/2026/10/14/kenyas-health-ministry-confirms-second-ebola-case?traffic_source=rss",
       "date": "Wed, 14 Oct 2026 17:03:19 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ukraine accuses Elon Musk’s SpaceX of throttling Starlink terminals",
-      "link": "https://www.aljazeera.com/news/2026/10/14/ukraine-accuses-elon-musks-spacex-of-throttling-starlink-terminals?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 17:02:31 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Suspected Israeli online operations cause alarm in Iran and Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/10/14/suspected-israeli-online-operations-cause-alarm-in-iran-and-lebanon?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 16:51:12 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "AI in politics: Is Albania the EU’s testing ground?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ai-in-politics-is-albania-the-eus-testing-ground?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 16:46:41 +0000",
       "source": "Al Jazeera"
     }
   ]
