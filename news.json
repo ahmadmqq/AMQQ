@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T10:06:41.503745+00:00",
+  "updated": "2026-10-14T10:37:24.838299+00:00",
   "items": [
     {
       "title": "أنصار الله تعلن استهداف أرامكو ومطار الرياض، والسعودية تعلن اعتراض صاروخ باليستي",
@@ -76,7 +76,7 @@
     {
       "title": "Turkish police raid opposition TV station, halting live broadcasts",
       "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 09:08:47 GMT",
+      "date": "Wed, 14 Oct 2026 10:07:02 GMT",
       "source": "BBC World"
     },
     {
@@ -100,7 +100,7 @@
     {
       "title": "Wayfair among firms fined millions for misleading sales tactics",
       "link": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 09:42:04 GMT",
+      "date": "Wed, 14 Oct 2026 10:28:53 GMT",
       "source": "BBC Business"
     },
     {
@@ -196,11 +196,11 @@
     {
       "title": "Diesel squeeze expected to continue into 2027 despite Trump’s deal with Russia – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/14/imf-rising-government-borrowing-costs-inflation-oil-stock-markets-latest-news-updates",
-      "date": "Wed, 14 Oct 2026 09:52:58 GMT",
+      "date": "Wed, 14 Oct 2026 10:21:12 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Bank of England and IMF bosses issue stark warning on cyber threat to trust",
+      "title": "Bank of England and IMF bosses warn of cyber threat to trust in financial system",
       "link": "https://www.theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust",
       "date": "Wed, 14 Oct 2026 09:07:59 GMT",
       "source": "Guardian Business"
@@ -212,15 +212,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "UK resists EU pressure to hit China with tariffs",
-      "link": "https://www.theguardian.com/politics/2026/oct/14/uk-will-not-put-tariffs-on-chinese-vehicles-says-jonathan-reynolds",
-      "date": "Wed, 14 Oct 2026 05:00:45 GMT",
+      "title": "Nvidia, worth $5.5tn, donates $250m to UK for AI safety research",
+      "link": "https://www.theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research",
+      "date": "Wed, 14 Oct 2026 10:10:37 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices",
-      "link": "https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning",
-      "date": "Tue, 13 Oct 2026 20:55:04 GMT",
+      "title": "English and Welsh water firms could be forced to return £107m via lower bills",
+      "link": "https://www.theguardian.com/business/2026/oct/14/water-firms-england-wales-cuts-bills-thames-yorkshire-ofwat",
+      "date": "Wed, 14 Oct 2026 10:21:05 GMT",
       "source": "Guardian Business"
     },
     {
@@ -230,9 +230,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Businesses could be barred from non-essential water use amid supply threat",
-      "link": "https://www.theguardian.com/environment/2026/oct/14/businesses-barred-water-use-drought-england-supply-threat",
-      "date": "Wed, 14 Oct 2026 06:00:48 GMT",
+      "title": "UK resists EU pressure to hit China with tariffs",
+      "link": "https://www.theguardian.com/politics/2026/oct/14/uk-will-not-put-tariffs-on-chinese-vehicles-says-jonathan-reynolds",
+      "date": "Wed, 14 Oct 2026 05:00:45 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Albanian students clash with police as they protest over education and jobs",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/albanian-students-clash-with-police-as-they-protest-over-education-and-jobs?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 10:14:17 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Israeli air strike kills Palestinian woman in Gaza City",
+      "link": "https://www.aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 10:08:49 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "How a radio glitch triggered a false hijack alert in Germany",
+      "link": "https://www.aljazeera.com/news/2026/10/14/how-a-radio-glitch-triggered-a-false-hijack-alert-in-germany?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 09:53:54 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Girl rescued from flaming apartment after Israeli attack on Gaza",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/girl-rescued-from-flaming-apartment-after-israeli-attack-on-gaza?traffic_source=rss",
       "date": "Wed, 14 Oct 2026 09:40:20 +0000",
@@ -317,24 +335,6 @@
       "title": "How do Iranians move money abroad to avoid US sanctions?",
       "link": "https://www.aljazeera.com/news/2026/10/14/how-do-iranians-move-money-abroad-to-avoid-us-sanctions?traffic_source=rss",
       "date": "Wed, 14 Oct 2026 08:24:02 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Trump says oil, gas and mineral exploration to begin in Greenland",
-      "link": "https://www.aljazeera.com/news/2026/10/14/trump-says-oil-gas-and-mineral-exploration-to-begin-in-greenland?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 08:08:42 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Tensions with teachers, pupils and Turkiye: Inside Azerbaijan’s hijab row",
-      "link": "https://www.aljazeera.com/news/2026/10/14/tensions-with-teachers-pupils-and-turkiye-inside-azerbaijans-hijab-row?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 07:57:45 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Palestinians say Israel’s democracy ‘is a joke’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinians-say-israels-democracy-is-a?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 07:41:20 +0000",
       "source": "Al Jazeera"
     }
   ]
