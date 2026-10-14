@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-14T17:38:01.991680+00:00",
+  "updated": "2026-10-14T18:09:03.402098+00:00",
   "items": [
     {
-      "title": "إصابة شخص بشظايا صاروخ باليستي في الرياض، والحوثيون يستمرون في قصف المطارات والمنشآت النفطية السعودية",
+      "title": "الحوثيون يعلنون استهداف مطار الرياض بـ\"صاروخ باليستي\"، والسعودية تعلن إصابة شخص من جنسية عربية",
       "link": "https://www.bbc.com/arabic/articles/cqm24e4kzj72o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 15:43:04 GMT",
+      "date": "Wed, 14 Oct 2026 18:02:48 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "التضخم في الولايات المتحدة يتجاوز التوقعات: لماذا ترتفع الأسعار؟",
+      "link": "https://www.bbc.com/arabic/articles/cqj6jrk7xr4xo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 14 Oct 2026 18:01:14 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "الخرف: لماذا تتحمّل النساء عبئاً أكبر مع توقّع تضاعف عدد الإصابات بحلول 2050؟",
       "link": "https://www.bbc.com/arabic/articles/cq0ld078x1l5o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 14 Oct 2026 07:54:59 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "اتهام سعودي بزرع جهاز تسجيل \"متطور\" في مكتب تابع لشركة \"أوبن إيه آي\"",
-      "link": "https://www.bbc.com/arabic/articles/c3gr8g7200rgo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 04:49:21 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -98,6 +98,12 @@
       "source": "BBC World"
     },
     {
+      "title": "Airport drop-off charges to be reviewed after sharp increase",
+      "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 14 Oct 2026 17:46:30 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "Netflix to lay off 1,000 staff in steepest cuts since 2022",
       "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 14 Oct 2026 16:47:32 GMT",
@@ -122,27 +128,21 @@
       "source": "BBC Business"
     },
     {
-      "title": "US inflation rises more than expected - here's what is happening with prices",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 15:26:14 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "How long will humans be needed for translation?",
       "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 13 Oct 2026 23:05:29 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
-      "link": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 11:57:22 GMT",
+      "title": "US inflation rises more than expected - here's what is happening with prices",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 14 Oct 2026 15:26:14 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Wayfair among firms fined millions for misleading sales tactics",
-      "link": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 12:09:45 GMT",
+      "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 14 Oct 2026 11:57:22 GMT",
       "source": "BBC Business"
     },
     {
@@ -224,6 +224,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "John Healey ‘targets tax crackdown on online marketplaces’ in first budget",
+      "link": "https://www.theguardian.com/business/2026/oct/14/john-healey-tax-crackdown-online-marketplaces-amazon-ebay-budget",
+      "date": "Wed, 14 Oct 2026 07:42:48 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns",
       "link": "https://www.theguardian.com/world/2026/oct/14/uk-made-in-europe-law-hurt-carmaking-eu-mercedes-benz-boss-ola-kallenius",
       "date": "Wed, 14 Oct 2026 13:57:03 GMT",
@@ -233,12 +239,6 @@
       "title": "Uber begins self-driving robotaxi trial in Manchester",
       "link": "https://www.theguardian.com/technology/2026/oct/14/uber-self-driving-robotaxi-trial-manchester",
       "date": "Wed, 14 Oct 2026 13:11:35 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Nvidia, worth $5.5tn, donates $250m to UK for AI safety research",
-      "link": "https://www.theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research",
-      "date": "Wed, 14 Oct 2026 10:10:37 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Ex-UK army chef jailed for ‘terror’-related offence",
+      "link": "https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 17:32:09 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Saudi tennis ‘slam’ with Alcaraz, Djokovic postponed amid Houthi attacks",
       "link": "https://www.aljazeera.com/sports/2026/10/14/saudi-tennis-slam-with-alcaraz-djokovic-postponed-amid-houthi-attacks?traffic_source=rss",
       "date": "Wed, 14 Oct 2026 17:11:57 +0000",
@@ -329,12 +335,6 @@
       "title": "AI in politics: Is Albania the EU’s testing ground?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ai-in-politics-is-albania-the-eus-testing-ground?traffic_source=rss",
       "date": "Wed, 14 Oct 2026 16:46:41 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Tehran municipality accused of ‘overstep’ after launching welfare projects",
-      "link": "https://www.aljazeera.com/economy/2026/10/14/tehran-municipality-accused-of-overstep-after-launching-welfare-projects?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 16:41:42 +0000",
       "source": "Al Jazeera"
     }
   ]
