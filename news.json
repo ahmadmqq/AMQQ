@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T14:20:39.473534+00:00",
+  "updated": "2026-10-14T14:55:22.282552+00:00",
   "items": [
     {
       "title": "إصابة شخص بشظايا صاروخ باليستي في الرياض، والحوثيون يستمرون في قصف المطارات والمنشآت النفطية السعودية",
@@ -56,7 +56,7 @@
       "source": "BBC World"
     },
     {
-      "title": "US inflation rises more than expected ahead of midterm elections",
+      "title": "US inflation rises more than expected - here's what is happening with prices",
       "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 14 Oct 2026 13:40:36 GMT",
       "source": "BBC World"
@@ -74,15 +74,15 @@
       "source": "BBC World"
     },
     {
-      "title": "Saudi employee charged with planting recording device in OpenAI office",
-      "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 21:42:49 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Turkish police raid opposition TV station, halting live broadcasts",
       "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 14 Oct 2026 10:50:11 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
+      "link": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 14 Oct 2026 14:18:18 GMT",
       "source": "BBC World"
     },
     {
@@ -92,9 +92,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Mauritius reels from worst riots in decades after woman shot by police",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 11:24:25 GMT",
+      "title": "Saudi employee charged with planting recording device in OpenAI office",
+      "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 13 Oct 2026 21:42:49 GMT",
       "source": "BBC World"
     },
     {
@@ -110,7 +110,7 @@
       "source": "BBC Business"
     },
     {
-      "title": "US inflation rises more than expected ahead of midterm elections",
+      "title": "US inflation rises more than expected - here's what is happening with prices",
       "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 14 Oct 2026 13:40:36 GMT",
       "source": "BBC Business"
@@ -194,9 +194,9 @@
       "source": "Guardian World"
     },
     {
-      "title": "‘Ugly’ jump in US inflation, driven by gasoline prices, in blow to Trump before midterm elections – business live",
-      "link": "https://www.theguardian.com/business/live/2026/oct/14/imf-rising-government-borrowing-costs-inflation-oil-stock-markets-latest-news-updates",
-      "date": "Wed, 14 Oct 2026 13:57:59 GMT",
+      "title": "US inflation rose to 3.7% in September in blow to Republicans before midterms",
+      "link": "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september",
+      "date": "Wed, 14 Oct 2026 14:29:42 GMT",
       "source": "Guardian Business"
     },
     {
@@ -218,6 +218,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "‘From liabilities to goldmines’: refineries eye record profits from diesel shortage",
+      "link": "https://www.theguardian.com/business/2026/oct/14/refineries-record-profits-diesel-shortage-fuel-crude-oil",
+      "date": "Wed, 14 Oct 2026 12:26:27 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Uber begins self-driving robotaxi trial in Manchester",
       "link": "https://www.theguardian.com/technology/2026/oct/14/uber-self-driving-robotaxi-trial-manchester",
       "date": "Wed, 14 Oct 2026 13:11:35 GMT",
@@ -232,13 +238,7 @@
     {
       "title": "English and Welsh water firms could be forced to return £107m via lower bills",
       "link": "https://www.theguardian.com/business/2026/oct/14/water-firms-england-wales-cuts-bills-thames-yorkshire-ofwat",
-      "date": "Wed, 14 Oct 2026 13:21:54 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Bank of England and IMF bosses warn of cyber threat to trust in financial system",
-      "link": "https://www.theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust",
-      "date": "Wed, 14 Oct 2026 09:07:59 GMT",
+      "date": "Wed, 14 Oct 2026 14:18:01 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Saudi national charged with planting a listening device at OpenAI offices",
+      "link": "https://www.aljazeera.com/news/2026/10/14/saudi-national-charged-with-planting-a-listening-device-at-openai-offices?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 14:39:29 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Law of the Sea comes to life in the hunt for sanctioned Russian oil",
+      "link": "https://www.aljazeera.com/news/2026/10/14/law-of-the-sea-comes-to-life-in-the-hunt-for-sanctioned-russian-oil?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 14:38:09 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "What is potash, and why is the US importing it from Belarus?",
+      "link": "https://www.aljazeera.com/news/2026/10/14/what-is-potash-and-why-is-the-us-importing-it-from-belarus?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 14:36:48 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Colombia inaugurates embassy to Israel in Jerusalem",
       "link": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem?traffic_source=rss",
       "date": "Wed, 14 Oct 2026 14:08:45 +0000",
@@ -317,24 +335,6 @@
       "title": "Russia arrests Japanese journalist on suspicion of ‘espionage’",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/russia-arrests-japanese-journalist-on-suspicion-of?traffic_source=rss",
       "date": "Wed, 14 Oct 2026 13:22:46 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "What we know about OpenAI engineer arrested over office spying",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/what-we-know-about-openai-engineer-arrested-over-office-spying?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 13:18:02 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Iran targets Starlink as ‘tool of war’ with hints of more internet curbs",
-      "link": "https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 13:17:34 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Man City’s appeal over 114 charges to be heard by January, regulator says",
-      "link": "https://www.aljazeera.com/sports/2026/10/14/manchester-city-appeal-over-charges-to-be-heard-by-january-says-regulator?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 12:52:06 +0000",
       "source": "Al Jazeera"
     }
   ]
