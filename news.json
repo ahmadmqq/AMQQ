@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-14T23:01:25.521917+00:00",
+  "updated": "2026-10-14T23:27:04.708786+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله الحوثية تعلن \"إصابة\" مقاتلة سعودية في أجواء محافظة صعدة",
       "link": "https://www.bbc.com/arabic/articles/cqm24e4kzj72o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 21:54:24 GMT",
+      "date": "Wed, 14 Oct 2026 23:26:27 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -56,7 +56,7 @@
       "source": "BBC World"
     },
     {
-      "title": "Student protesters attack government buildings in Tirana",
+      "title": "Student protesters attack government buildings in Albania",
       "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 14 Oct 2026 20:29:05 GMT",
       "source": "BBC World"
@@ -110,6 +110,12 @@
       "source": "BBC Business"
     },
     {
+      "title": "How backlash against data centres could shape the US midterm elections",
+      "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 14 Oct 2026 23:02:57 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
       "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 14 Oct 2026 15:54:04 GMT",
@@ -122,27 +128,21 @@
       "source": "BBC Business"
     },
     {
+      "title": "How a Chinese-made toy gets to a US retailer",
+      "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 14 Oct 2026 23:01:28 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "Driving test waits fall to two-year low - but still average 20 weeks",
       "link": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 14 Oct 2026 13:45:34 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "How long will humans be needed for translation?",
-      "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 13 Oct 2026 23:05:29 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "US inflation rises more than expected - here's what is happening with prices",
       "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 14 Oct 2026 15:26:14 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
-      "link": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 11:57:22 GMT",
       "source": "BBC Business"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
+      "link": "https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 23:03:10 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "ICE pushes back on report suggesting body cameras that automatically record",
+      "link": "https://www.aljazeera.com/news/2026/10/14/ice-pushes-back-on-report-suggesting-body-cameras-that-automatically-record?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 22:57:13 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Real Madrid come from 3-1 down to beat Roma on Champions League travels",
       "link": "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss",
       "date": "Wed, 14 Oct 2026 21:50:01 +0000",
@@ -323,18 +335,6 @@
       "title": "Families of Trinidadian men killed in US boat strike demand accountability",
       "link": "https://www.aljazeera.com/news/2026/10/14/families-of-trinidadian-men-killed-in-us-boat-strike-demand-accountability?traffic_source=rss",
       "date": "Wed, 14 Oct 2026 20:42:59 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Sky turns orange as wildfires rage across Indonesia",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/sky-turns-orange-as-wildfires-rage-across-indonesia?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 20:39:59 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "World’s oldest shipwreck found off coast of Turkiye",
-      "link": "https://www.aljazeera.com/news/2026/10/14/worlds-oldest-shipwreck-found-off-coast-of-turkiye?traffic_source=rss",
-      "date": "Wed, 14 Oct 2026 20:33:20 +0000",
       "source": "Al Jazeera"
     }
   ]
