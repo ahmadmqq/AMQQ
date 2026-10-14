@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T02:10:20.813478+00:00",
+  "updated": "2026-10-14T02:39:14.850642+00:00",
   "items": [
     {
       "title": "4 إصابات وتضرر 15 منزلاً في الرياض إثر ضربات صاروخية",
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Violence in Pakistan over emergency rule in Imran Khan stronghold",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/pakistan-khyber-pakhtunkhwa-protests-emergency-rule?traffic_source=rss",
+      "date": "Wed, 14 Oct 2026 01:56:23 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Jamaica accepts first flight of third-country deportations from US",
       "link": "https://www.aljazeera.com/news/2026/10/14/jamaica-accepts-first-flight-of-third-country-deportations-from-us?traffic_source=rss",
       "date": "Wed, 14 Oct 2026 01:44:09 +0000",
@@ -329,12 +335,6 @@
       "title": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss",
       "date": "Wed, 14 Oct 2026 00:00:00 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "OpenAI engineer charged after listening device found in meeting room",
-      "link": "https://www.aljazeera.com/news/2026/10/13/openai-engineer-charged-after-listening-device-found-in-meeting-room?traffic_source=rss",
-      "date": "Tue, 13 Oct 2026 23:55:33 +0000",
       "source": "Al Jazeera"
     }
   ]
