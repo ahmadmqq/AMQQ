@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T21:12:44.602843+00:00",
+  "updated": "2026-10-15T21:43:19.607641+00:00",
   "items": [
     {
       "title": "قتلى وجرحى  في هجوم أنصار الله على قصر معاشيق في عدن، والرياض تقول إن الحوثي \"رفض اجتماعاً لخفض التصعيد\"",
@@ -50,6 +50,12 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "Bus hits train stopped on French side of  Channel Tunnel, with 19 injured",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 15 Oct 2026 21:12:14 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
       "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 15 Oct 2026 17:47:22 GMT",
@@ -89,12 +95,6 @@
       "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
       "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 15 Oct 2026 14:51:30 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "White House defends new press secretary over her legal credentials",
-      "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 08:41:04 GMT",
       "source": "BBC World"
     },
     {
@@ -242,12 +242,6 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Three years on, Israel still bars foreign journalists from entering Gaza",
-      "link": "https://www.npr.org/2026/10/15/nx-s1-6000378/three-years-on-israel-still-bars-foreign-journalists-from-entering-gaza",
-      "date": "Thu, 15 Oct 2026 17:01:50 -0400",
-      "source": "NPR World"
-    },
-    {
       "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
       "link": "https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia",
       "date": "Thu, 15 Oct 2026 07:31:25 -0400",
@@ -290,6 +284,36 @@
       "source": "NPR World"
     },
     {
+      "title": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
+      "link": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech",
+      "date": "Wed, 14 Oct 2026 07:38:51 -0400",
+      "source": "NPR World"
+    },
+    {
+      "title": "Several people dead or missing after Istanbul floods",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 21:15:46 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/israeli-ad-firm-helped-infect-spyware-into-al-jazeera-devices?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 21:05:01 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "ICE tactics spark debate before pivotal US midterm elections",
+      "link": "https://www.aljazeera.com/news/2026/10/15/ice-tactics-spark-debate-before-pivotal-us-midterm-elections?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 21:02:31 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Robots dance the ‘Macarena’ at Japan tech expo",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/robots-dance-the-macarena-at-japan-tech-expo?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 21:00:01 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "At least 7 crew members missing after drone attacks on ships in Black Sea",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/at-least-7-crew-members-missing-after-drone-attacks-on-ships-in-black-sea?traffic_source=rss",
       "date": "Thu, 15 Oct 2026 20:29:52 +0000",
@@ -311,30 +335,6 @@
       "title": "Poll shows Bolsonaro with slight lead over Lula ahead of Brazilian run-off",
       "link": "https://www.aljazeera.com/news/2026/10/15/poll-shows-bolsonaro-with-slight-lead-over-lula-ahead-of-brazilian-run-off?traffic_source=rss",
       "date": "Thu, 15 Oct 2026 20:07:58 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Somalia says it will hold elections in 2027",
-      "link": "https://www.aljazeera.com/news/2026/10/15/somalia-says-it-will-hold-elections-in-2027?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 20:04:02 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Will Israeli voters punish Benjamin Netanyahu?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/15/will-israeli-voters-punish-benjamin-netanyahu?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 19:44:27 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Dying in ICE custody: Inside one family’s story of heartbreak",
-      "link": "https://www.aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 18:57:08 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ethiopian forces expand control in Tigray as militia claims Eritrean losses",
-      "link": "https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 18:41:41 +0000",
       "source": "Al Jazeera"
     }
   ]
