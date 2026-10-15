@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T08:34:05.829909+00:00",
+  "updated": "2026-10-15T09:07:20.992005+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله الحوثية تعلن \"إصابة\" مقاتلة سعودية في أجواء محافظة صعدة",
@@ -8,9 +8,15 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "بريطانيا تهدد بحظر دخول الإريتريين بسبب موقف أسمرة من إعادة المهاجرين",
+      "link": "https://www.bbc.com/arabic/articles/cmlylq4592xzo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 15 Oct 2026 08:47:09 GMT",
+      "source": "BBC Arabic"
+    },
+    {
       "title": "لماذا تحجب منظمة قرى الأطفال الدولية تقريراً عن دورها في قضية الأطفال \"المخفيين\" في سوريا؟",
       "link": "https://www.bbc.com/arabic/articles/c680zkl8jk8ko?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 06:06:10 GMT",
+      "date": "Thu, 15 Oct 2026 09:03:00 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "الاستخبارات البريطانية تحذر من تحوّل المواقف اليمينية المناهضة للمهاجرين إلى الإرهاب - الغارديان",
-      "link": "https://www.bbc.com/arabic/articles/c6wyr0ynnmv8o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 12:02:24 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
       "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 15 Oct 2026 04:30:08 GMT",
@@ -70,7 +70,7 @@
     {
       "title": "White House defends new press secretary amid questions about her legal credentials",
       "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 03:03:16 GMT",
+      "date": "Thu, 15 Oct 2026 08:41:04 GMT",
       "source": "BBC World"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "AI share sell-off drags South Korea’s stock market down to six-month low; UK growth beats forecasts in August – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates",
-      "date": "Thu, 15 Oct 2026 08:07:34 GMT",
+      "date": "Thu, 15 Oct 2026 08:42:34 GMT",
       "source": "Guardian Business"
     },
     {
@@ -212,7 +212,7 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Poland looks to economic heights in a country transformed since Soviet days",
+      "title": "Poland’s ascent from communist state to top 20 economy reverses the brain drain",
       "link": "https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub",
       "date": "Thu, 15 Oct 2026 05:56:12 GMT",
       "source": "Guardian Business"
@@ -240,6 +240,18 @@
       "link": "https://www.theguardian.com/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander",
       "date": "Wed, 14 Oct 2026 13:58:39 GMT",
       "source": "Guardian Business"
+    },
+    {
+      "title": "Ukraine says its Starshield access has been greatly restricted",
+      "link": "https://www.npr.org/2026/10/15/nx-s1-6002949/ukraine-says-its-starshield-access-has-been-greatly-restricted",
+      "date": "Thu, 15 Oct 2026 04:46:09 -0400",
+      "source": "NPR World"
+    },
+    {
+      "title": "Rep. Mike Quigley, D-Ill., on reports Ukraine's Starshield access was restricted",
+      "link": "https://www.npr.org/2026/10/15/nx-s1-6001653/rep-mike-quigley-d-ill-on-reports-ukraines-starshield-access-was-restricted",
+      "date": "Thu, 15 Oct 2026 04:46:05 -0400",
+      "source": "NPR World"
     },
     {
       "title": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
@@ -278,16 +290,34 @@
       "source": "NPR World"
     },
     {
-      "title": "How will a diesel deal with Russia impact the U.S. market?",
-      "link": "https://www.npr.org/2026/10/13/nx-s1-6000118/how-will-a-diesel-deal-with-russia-impact-the-u-s-market",
-      "date": "Tue, 13 Oct 2026 16:03:37 -0400",
-      "source": "NPR World"
+      "title": "Iraq devalues dinar to ease cash crunch, leaving traders in limbo",
+      "link": "https://www.aljazeera.com/economy/2026/10/15/iraq-devalues-dinar-to-ease-cash-crunch-leaving-traders-in-limbo?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 08:44:58 +0000",
+      "source": "Al Jazeera"
     },
     {
-      "title": "The Trump administration warns Ukraine it could cut off intel, Zelenskyy tells NPR",
-      "link": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war",
-      "date": "Tue, 13 Oct 2026 14:51:55 -0400",
-      "source": "NPR World"
+      "title": "‘Our works are next to each other’: Art bridges Gaza and West Bank",
+      "link": "https://www.aljazeera.com/features/2026/10/15/our-works-are-next-to-each-other-art-bridges-gaza-and-west-bank?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 08:37:41 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "School roof collapses in northwestern Pakistan, killing at least 29 people",
+      "link": "https://www.aljazeera.com/news/2026/10/15/school-roof-collapses-in-northwestern-pakistan-killing-at-least-29-people?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 08:30:41 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Man United’s Martinez takes to social media to defend his criticism of club",
+      "link": "https://www.aljazeera.com/sports/2026/10/15/man-uniteds-martinez-takes-to-social-media-to-defend-his-criticism-of-club?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 08:27:32 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Messi’s Inter Miami beat New York City to reach third straight MLS playoff",
+      "link": "https://www.aljazeera.com/sports/2026/10/15/messi-and-inter-miami-beat-new-york-city-to-reach-third-straight-playoff?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 08:24:35 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Containers and debris captured floating around the Strait of Hormuz",
@@ -305,36 +335,6 @@
       "title": "Russian nuclear-powered submarine fires missiles during Pacific drills",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-clip-russia-nuclear-submarines?traffic_source=rss",
       "date": "Thu, 15 Oct 2026 07:44:35 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Backlash in Kashmir over proposal for uniform Friday sermons across mosques",
-      "link": "https://www.aljazeera.com/news/2026/10/15/backlash-in-kashmir-over-proposal-for-uniform-friday-sermons-across-mosques?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 07:21:36 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Clock ticking for leap second: Why timekeeping could change forever",
-      "link": "https://www.aljazeera.com/news/2026/10/15/clock-ticking-for-leap-second-why-timekeeping-could-change-forever?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 07:16:50 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "From Morocco to South Africa, Israel election watched closely across Africa",
-      "link": "https://www.aljazeera.com/news/2026/10/15/from-morocco-to-south-africa-israel-election-watched-closely-across-africa?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 06:46:52 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "G20 finance ministers, central bankers gather amid fallout from Iran war",
-      "link": "https://www.aljazeera.com/economy/2026/10/15/g20-finance-ministers-central-bankers-gather-amid-fallout-from-iran-war?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 06:16:46 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Is Lamine Yamal’s Barcelona record better than Messi’s as a teenager?",
-      "link": "https://www.aljazeera.com/sports/2026/10/15/is-lamine-yamals-barcelona-record-better-than-messis-as-a-teenager?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 05:48:00 +0000",
       "source": "Al Jazeera"
     }
   ]
