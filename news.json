@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-15T09:38:40.047967+00:00",
+  "updated": "2026-10-15T10:10:07.477426+00:00",
   "items": [
     {
-      "title": "جماعة أنصار الله الحوثية تعلن \"إصابة\" مقاتلة سعودية في أجواء محافظة صعدة",
-      "link": "https://www.bbc.com/arabic/articles/cqm24e4kzj72o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 04:01:30 GMT",
+      "title": "التحالف يعلن اعتراض صاروخ في المدينة المنورة، وجماعة أنصار الله الحوثية تنفي",
+      "link": "https://www.bbc.com/arabic/articles/cmz6538705gwo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 15 Oct 2026 09:43:36 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "أنباء عن أن الولايات المتحدة تدرس استخدام \"أم القنابل\" ضد إيران في حال استئناف القتال",
+      "link": "https://www.bbc.com/arabic/articles/c6ly0gdxd5jlo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 15 Oct 2026 09:47:01 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -32,7 +38,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "العلاقات المصرية السودانية: لماذا يثير التنقيب عن الذهب توترا بين القاهرة والخرطوم؟",
+      "title": "العلاقات المصرية السودانية: لماذا يثير التنقيب عن الذهب توتراً بين القاهرة والخرطوم؟",
       "link": "https://www.bbc.com/arabic/articles/cwe8r2eljyydo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 14 Oct 2026 19:01:03 GMT",
       "source": "BBC Arabic"
@@ -41,12 +47,6 @@
       "title": "التضخم في الولايات المتحدة يتجاوز التوقعات: لماذا ترتفع الأسعار؟",
       "link": "https://www.bbc.com/arabic/articles/cqj6jrk7xr4xo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 14 Oct 2026 18:01:14 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "\"حظر الحجاب\" يفجر أزمة في أذربيجان، وتحذيرات لتركيا من التدخل، فما الذي جاء في القرار الرسمي؟",
-      "link": "https://www.bbc.com/arabic/articles/c98rzexm10zdo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 13:01:59 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -194,9 +194,9 @@
       "source": "Guardian World"
     },
     {
-      "title": "Chancellor John Healey pledges to protect ‘resilience’ of UK economy after growth beats forecasts in August – business live",
+      "title": "Chancellor John Healey says banks are part of ‘jewel in the crown’ of UK economy, amid budget tax speculation – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates",
-      "date": "Thu, 15 Oct 2026 09:34:53 GMT",
+      "date": "Thu, 15 Oct 2026 09:48:20 GMT",
       "source": "Guardian Business"
     },
     {
@@ -242,6 +242,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
+      "link": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
+      "date": "Thu, 15 Oct 2026 06:00:00 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "Ukraine says its Starshield access is back",
       "link": "https://www.npr.org/2026/10/15/nx-s1-6002949/ukraine-says-its-starshield-access-is-back",
       "date": "Thu, 15 Oct 2026 04:46:09 -0400",
@@ -284,10 +290,10 @@
       "source": "NPR World"
     },
     {
-      "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
-      "link": "https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation",
-      "date": "Wed, 14 Oct 2026 05:09:39 -0400",
-      "source": "NPR World"
+      "title": "Long-delayed China-North Korea bridge officially opens",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/long-delayed-china-north-korea-bridge-officially-opens?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 10:00:58 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "‘Each country goes its own way’: How Balkan politics shape ties with Israel",
@@ -329,12 +335,6 @@
       "title": "Man United’s Martinez takes to social media to defend his criticism of club",
       "link": "https://www.aljazeera.com/sports/2026/10/15/man-uniteds-martinez-takes-to-social-media-to-defend-his-criticism-of-club?traffic_source=rss",
       "date": "Thu, 15 Oct 2026 08:27:32 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Messi’s Inter Miami beat New York City to reach third straight MLS playoff",
-      "link": "https://www.aljazeera.com/sports/2026/10/15/messi-and-inter-miami-beat-new-york-city-to-reach-third-straight-playoff?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 08:24:35 +0000",
       "source": "Al Jazeera"
     }
   ]
