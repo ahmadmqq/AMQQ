@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-15T12:49:12.018913+00:00",
+  "updated": "2026-10-15T13:26:53.239472+00:00",
   "items": [
     {
-      "title": "التحالف يعلن اعتراض صاروخ في المدينة المنورة، وجماعة أنصار الله تنفي",
+      "title": "التحالف يعلن اعتراض صاروخ في المدينة المنورة، وجماعة أنصار الله الحوثية تنفي",
       "link": "https://www.bbc.com/arabic/articles/cmz6538705gwo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 10:32:29 GMT",
+      "date": "Thu, 15 Oct 2026 13:07:40 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -14,9 +14,9 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "أنباء عن أن الولايات المتحدة تدرس استخدام \"أم القنابل\" ضد إيران في حال استئناف القتال",
+      "title": "أنباء عن أن الولايات المتحدة تدرس استخدام \"أم القنابل\" ضد إيران في حال استئناف القتال، وترامب \"يدينها\"",
       "link": "https://www.bbc.com/arabic/articles/c6ly0gdxd5jlo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 09:47:01 GMT",
+      "date": "Thu, 15 Oct 2026 13:08:45 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -74,7 +74,7 @@
       "source": "BBC World"
     },
     {
-      "title": "White House defends new press secretary amid questions about her legal credentials",
+      "title": "White House defends new press secretary over her legal credentials",
       "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 15 Oct 2026 08:41:04 GMT",
       "source": "BBC World"
@@ -92,15 +92,21 @@
       "source": "BBC World"
     },
     {
-      "title": "At the Brooklyn novelty shop in 'surreal' row with Kelly Clarkson over mechanical bird",
+      "title": "At the Brooklyn shop in 'surreal' row with Kelly Clarkson over mechanical bird",
       "link": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 14 Oct 2026 22:19:13 GMT",
       "source": "BBC World"
     },
     {
+      "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+      "link": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 15 Oct 2026 13:16:13 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
       "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 09:29:54 GMT",
+      "date": "Thu, 15 Oct 2026 13:25:17 GMT",
       "source": "BBC Business"
     },
     {
@@ -122,12 +128,6 @@
       "source": "BBC Business"
     },
     {
-      "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
-      "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 17:46:30 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "How a Chinese-made toy gets to a US retailer",
       "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 14 Oct 2026 23:01:28 GMT",
@@ -140,9 +140,9 @@
       "source": "BBC Business"
     },
     {
-      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 16:47:32 GMT",
+      "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
+      "link": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 14 Oct 2026 17:46:30 GMT",
       "source": "BBC Business"
     },
     {
@@ -194,9 +194,9 @@
       "source": "Guardian World"
     },
     {
-      "title": "Chancellor John Healey says banks are part of ‘jewel in the crown’ of UK economy, amid budget tax speculation – business live",
+      "title": "US producer inflation soars amid gasoline surge; John Healey says UK banks are part of ‘jewel in the crown’ – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates",
-      "date": "Thu, 15 Oct 2026 12:24:17 GMT",
+      "date": "Thu, 15 Oct 2026 13:01:45 GMT",
       "source": "Guardian Business"
     },
     {
@@ -224,6 +224,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
+      "link": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
+      "date": "Thu, 15 Oct 2026 02:45:42 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "‘I introduce myself to anyone who looks a bit jumpy’: a security guard’s take on anti-shoplifting fixes",
       "link": "https://www.theguardian.com/business/2026/oct/15/security-guard-take-on-anti-shoplifting-fixes",
       "date": "Thu, 15 Oct 2026 06:00:24 GMT",
@@ -233,12 +239,6 @@
       "title": "Israeli firm’s digital ads enabling installation of ‘zero-click’ spyware, researchers say",
       "link": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
       "date": "Thu, 15 Oct 2026 12:15:22 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Closer EU trade ties greater prize for UK than making separate deals, minister says",
-      "link": "https://www.theguardian.com/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander",
-      "date": "Wed, 14 Oct 2026 13:58:39 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "West Indies’ Hope jokes India series record role a problem as finale looms",
+      "link": "https://www.aljazeera.com/sports/2026/10/15/west-indies-hope-jokes-india-series-record-role-an-problem-as-finale-looms?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 12:33:04 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
       "link": "https://www.aljazeera.com/news/2026/10/15/ukrainians-fear-us-intelligence-cuts-as-russian-strikes-intensify?traffic_source=rss",
       "date": "Thu, 15 Oct 2026 11:45:39 +0000",
@@ -329,12 +335,6 @@
       "title": "Dozens of children killed after roof collapses in Pakistani school",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv?traffic_source=rss",
       "date": "Thu, 15 Oct 2026 10:21:43 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Russia says Ukraine resumes attacks on oil refineries",
-      "link": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 10:02:17 +0000",
       "source": "Al Jazeera"
     }
   ]
