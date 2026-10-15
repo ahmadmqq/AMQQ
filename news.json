@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T19:22:11.312500+00:00",
+  "updated": "2026-10-15T19:50:49.481905+00:00",
   "items": [
     {
       "title": "قتلى وجرحى  في هجوم أنصار الله على قصر معاشيق في عدن، والرياض تقول إن الحوثي \"رفض اجتماعاً لخفض التصعيد\"",
@@ -80,12 +80,6 @@
       "source": "BBC World"
     },
     {
-      "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
-      "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 10:05:29 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
       "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 15 Oct 2026 15:00:05 GMT",
@@ -95,6 +89,12 @@
       "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
       "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 15 Oct 2026 14:51:30 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "White House defends new press secretary over her legal credentials",
+      "link": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 15 Oct 2026 08:41:04 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Dying in ICE custody: Inside one family’s story of heartbreak",
+      "link": "https://www.aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 18:57:08 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Ethiopian forces expand control in Tigray as militia claims Eritrean losses",
       "link": "https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses?traffic_source=rss",
       "date": "Thu, 15 Oct 2026 18:41:41 +0000",
@@ -329,12 +335,6 @@
       "title": "Dying in Detention",
       "link": "https://www.aljazeera.com/video/fault-lines/2026/10/15/dying-in-detention?traffic_source=rss",
       "date": "Thu, 15 Oct 2026 17:00:00 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Houthis target Yemen’s presidential palace in Aden with missiles",
-      "link": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 16:50:42 +0000",
       "source": "Al Jazeera"
     }
   ]
