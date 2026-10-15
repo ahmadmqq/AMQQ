@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T09:07:20.992005+00:00",
+  "updated": "2026-10-15T09:38:40.047967+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله الحوثية تعلن \"إصابة\" مقاتلة سعودية في أجواء محافظة صعدة",
@@ -98,9 +98,9 @@
       "source": "BBC World"
     },
     {
-      "title": "UK economy sees surprise growth in August ahead of Healey's first Budget",
+      "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
       "link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 07:40:27 GMT",
+      "date": "Thu, 15 Oct 2026 09:29:54 GMT",
       "source": "BBC Business"
     },
     {
@@ -194,33 +194,27 @@
       "source": "Guardian World"
     },
     {
-      "title": "AI share sell-off drags South Korea’s stock market down to six-month low; UK growth beats forecasts in August – business live",
+      "title": "Chancellor John Healey pledges to protect ‘resilience’ of UK economy after growth beats forecasts in August – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates",
-      "date": "Thu, 15 Oct 2026 08:42:34 GMT",
+      "date": "Thu, 15 Oct 2026 09:34:53 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "UK households have paid extra £13,961 on bills since 2021 amid soaring inflation, TUC says",
-      "link": "https://www.theguardian.com/business/2026/oct/15/uk-households-extra-bills-inflation-tuc",
-      "date": "Thu, 15 Oct 2026 05:00:23 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "UK hospitality sector to offer up to 100,000 jobs to young people out of work",
-      "link": "https://www.theguardian.com/society/2026/oct/14/uk-hospitality-sector-100000-jobs-young-people-neets",
-      "date": "Wed, 14 Oct 2026 21:30:13 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Poland’s ascent from communist state to top 20 economy reverses the brain drain",
-      "link": "https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub",
-      "date": "Thu, 15 Oct 2026 05:56:12 GMT",
+      "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+      "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+      "date": "Thu, 15 Oct 2026 08:39:54 GMT",
       "source": "Guardian Business"
     },
     {
       "title": "Wallace & Gromit maker Aardman falls short of return to profit",
       "link": "https://www.theguardian.com/film/2026/oct/15/aardman-wallace-gromit-annual-loss",
       "date": "Thu, 15 Oct 2026 07:00:25 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Poland’s ascent from communist state to top 20 economy reverses the brain drain",
+      "link": "https://www.theguardian.com/world/2026/oct/15/poland-economy-heights-transformed-regional-tech-hub",
+      "date": "Thu, 15 Oct 2026 05:56:12 GMT",
       "source": "Guardian Business"
     },
     {
@@ -242,8 +236,14 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Ukraine says its Starshield access has been greatly restricted",
-      "link": "https://www.npr.org/2026/10/15/nx-s1-6002949/ukraine-says-its-starshield-access-has-been-greatly-restricted",
+      "title": "Netflix to lay off about 1,000 employees in biggest cuts since 2022",
+      "link": "https://www.theguardian.com/media/2026/oct/14/netflix-job-layoffs-streaming",
+      "date": "Wed, 14 Oct 2026 15:10:45 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Ukraine says its Starshield access is back",
+      "link": "https://www.npr.org/2026/10/15/nx-s1-6002949/ukraine-says-its-starshield-access-is-back",
       "date": "Thu, 15 Oct 2026 04:46:09 -0400",
       "source": "NPR World"
     },
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "‘Each country goes its own way’: How Balkan politics shape ties with Israel",
+      "link": "https://www.aljazeera.com/news/2026/10/15/each-country-goes-its-own-way-how-balkan-politics-shape-ties-with-israel?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 09:35:01 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Could France trigger another Eurozone debt crisis?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/10/15/could-france-trigger-another-eurozone-debt-crisis?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 09:26:11 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "The irony of OpenAI crying foul over spying",
+      "link": "https://www.aljazeera.com/opinions/2026/10/15/the-irony-of-openai-crying-foul-over-spying?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 09:03:02 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Iraq devalues dinar to ease cash crunch, leaving traders in limbo",
       "link": "https://www.aljazeera.com/economy/2026/10/15/iraq-devalues-dinar-to-ease-cash-crunch-leaving-traders-in-limbo?traffic_source=rss",
       "date": "Thu, 15 Oct 2026 08:44:58 +0000",
@@ -317,24 +335,6 @@
       "title": "Messi’s Inter Miami beat New York City to reach third straight MLS playoff",
       "link": "https://www.aljazeera.com/sports/2026/10/15/messi-and-inter-miami-beat-new-york-city-to-reach-third-straight-playoff?traffic_source=rss",
       "date": "Thu, 15 Oct 2026 08:24:35 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Containers and debris captured floating around the Strait of Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/containers-and-debris-captured-floating-around-the-strait-of-hormuz?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 08:06:06 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Police arrest US teen in alleged Illinois Hindu temple mass shooting plot",
-      "link": "https://www.aljazeera.com/news/2026/10/15/us-police-arrest-illinois-teen-in-alleged-hindu-temple-mass-shooting-plot?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 07:54:50 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Russian nuclear-powered submarine fires missiles during Pacific drills",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-clip-russia-nuclear-submarines?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 07:44:35 +0000",
       "source": "Al Jazeera"
     }
   ]
