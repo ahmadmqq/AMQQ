@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-15T11:40:29.338840+00:00",
+  "updated": "2026-10-15T12:09:15.614919+00:00",
   "items": [
     {
-      "title": "التحالف يعلن اعتراض صاروخ في المدينة المنورة، وجماعة أنصار الله الحوثية تنفي",
+      "title": "التحالف يعلن اعتراض صاروخ في المدينة المنورة، وجماعة أنصار الله تنفي",
       "link": "https://www.bbc.com/arabic/articles/cmz6538705gwo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 15 Oct 2026 10:32:29 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "\"الحوثيون مشكلة أوروبا أيضاً\"- مقال في الديلي تلغراف",
+      "link": "https://www.bbc.com/arabic/articles/c64g175jj0kvo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 15 Oct 2026 11:43:37 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,15 +50,9 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "التضخم في الولايات المتحدة يتجاوز التوقعات: لماذا ترتفع الأسعار؟",
-      "link": "https://www.bbc.com/arabic/articles/cqj6jrk7xr4xo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 18:01:14 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
       "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 10:27:26 GMT",
+      "date": "Thu, 15 Oct 2026 12:03:51 GMT",
       "source": "BBC World"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "Chancellor John Healey says banks are part of ‘jewel in the crown’ of UK economy, amid budget tax speculation – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates",
-      "date": "Thu, 15 Oct 2026 11:09:23 GMT",
+      "date": "Thu, 15 Oct 2026 11:35:22 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
+      "link": "https://www.aljazeera.com/news/2026/10/15/ukrainians-fear-us-intelligence-cuts-as-russian-strikes-intensify?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 11:45:39 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "US-Iran stalemate: What are Trump’s next military options?",
+      "link": "https://www.aljazeera.com/news/2026/10/15/us-iran-stalemate-what-are-trumps-next-military-options?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 11:41:05 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Syrian authorities arrest main suspect in 2013 Baniyas mass killings",
       "link": "https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss",
       "date": "Thu, 15 Oct 2026 11:12:00 +0000",
@@ -323,18 +335,6 @@
       "title": "Russia says Ukraine resumes attacks on oil refineries",
       "link": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss",
       "date": "Thu, 15 Oct 2026 10:02:17 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Long-delayed China-North Korea bridge officially opens",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/long-delayed-china-north-korea-bridge-officially-opens?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 10:00:58 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "‘Each country goes its own way’: How Balkan politics shape ties with Israel",
-      "link": "https://www.aljazeera.com/news/2026/10/15/each-country-goes-its-own-way-how-balkan-politics-shape-ties-with-israel?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 09:35:01 +0000",
       "source": "Al Jazeera"
     }
   ]
