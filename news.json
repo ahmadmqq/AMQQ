@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-15T03:12:57.119877+00:00",
+  "updated": "2026-10-15T03:44:31.371544+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله الحوثية تعلن \"إصابة\" مقاتلة سعودية في أجواء محافظة صعدة",
       "link": "https://www.bbc.com/arabic/articles/cqm24e4kzj72o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 14 Oct 2026 23:26:27 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "ستارلينك في أوكرانيا: لماذا تُعد شبكة ماسك عصب اتصالات مهماً جداً في ساحة المعركة؟",
+      "link": "https://www.bbc.com/arabic/articles/cm2d655nxzg8o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 15 Oct 2026 03:32:50 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "هالك تي في: الشرطة التركية تداهم مقر قناة المعارضة الرئيسية وتمنع البث وتفرض الوصاية عليها",
       "link": "https://www.bbc.com/arabic/articles/c6lye2y7pmkxo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 14 Oct 2026 09:17:12 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "تقلبات القامة البشرية: ما هي المحطات التاريخية التي أحدثت الفارق الأكبر؟",
-      "link": "https://www.bbc.com/arabic/articles/cm5ynp01w108o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 11:54:08 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -106,7 +106,7 @@
     {
       "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
       "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 01:56:32 GMT",
+      "date": "Thu, 15 Oct 2026 03:33:08 GMT",
       "source": "BBC Business"
     },
     {
@@ -290,6 +290,36 @@
       "source": "NPR World"
     },
     {
+      "title": "OpenAI bugging suspect allegedly booked one-way trip to Saudi Arabia",
+      "link": "https://www.aljazeera.com/economy/2026/10/15/openai-bugging-suspect-allegedly-booked-one-way-trip-to-saudi-arabia?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 03:28:44 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "North Korea tests two submarine-launched missiles, state media reports",
+      "link": "https://www.aljazeera.com/news/2026/10/15/north-korea-tests-two-submarine-launched-missiles-state-media-reports?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 03:23:49 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Teenager dies as heavy rain floods Istanbul",
+      "link": "https://www.aljazeera.com/news/2026/10/15/teenager-dies-as-heavy-rain-floods-istanbul?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 03:12:02 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Trump administration seeks to strip Ilhan Omar of US citizenship: WSJ",
+      "link": "https://www.aljazeera.com/news/2026/10/15/trump-administration-seeks-to-strip-ilhan-omar-of-us-citizenship-wsj?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 03:03:00 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Trump plays Muslim Brotherhood card against Senate candidate El-Sayed",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/14-10-clip-trump-attacks-el-sayed-mb-us?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 02:54:31 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Kenya’s Ebola cases test preparedness beyond Nairobi",
       "link": "https://www.aljazeera.com/news/2026/10/15/kenyas-ebola-cases-test-preparedness-beyond-nairobi?traffic_source=rss",
       "date": "Thu, 15 Oct 2026 02:45:49 +0000",
@@ -305,36 +335,6 @@
       "title": "White House spokesperson Katie Zacharia’s law career faces scrutiny",
       "link": "https://www.aljazeera.com/news/2026/10/15/white-house-spokesperson-katie-zacharias-law-career-faces-scrutiny?traffic_source=rss",
       "date": "Thu, 15 Oct 2026 01:35:40 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Trump suggests those who leak government information should ‘be shot’",
-      "link": "https://www.aljazeera.com/news/2026/10/15/trump-suggests-those-who-leak-government-information-should-be-shot?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 01:34:41 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Istanbul in chaos, shut down by heaviest rainfall since 1985",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/istanbul-flash-floods-torrential-rain?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 01:29:43 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ship catches fire in Romania’s waters amid rising attacks in the Black Sea",
-      "link": "https://www.aljazeera.com/news/2026/10/15/ship-catches-fire-in-romanias-waters-amid-rising-attacks-in-the-black-sea?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 01:20:26 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Costa Rica opens mega-prison as Bukele model embraced across Latin America",
-      "link": "https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 00:24:03 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Mexican court closes case against official over 2023 detention centre fire",
-      "link": "https://www.aljazeera.com/news/2026/10/15/mexican-court-closes-case-against-official-over-2023-detention-centre-fire?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 00:08:58 +0000",
       "source": "Al Jazeera"
     }
   ]
