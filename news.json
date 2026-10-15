@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T23:20:17.225535+00:00",
+  "updated": "2026-10-15T23:45:09.797640+00:00",
   "items": [
     {
       "title": "قتلى وجرحى  في هجوم لأنصار الله الحوثية على قصر معاشيق في عدن، والرياض تتهم طهران بتشجيع الجماعة اليمنية",
@@ -50,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 22:37:21 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
       "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 15 Oct 2026 17:47:22 GMT",
@@ -65,6 +59,12 @@
       "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
       "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 15 Oct 2026 16:50:18 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 15 Oct 2026 22:37:21 GMT",
       "source": "BBC World"
     },
     {
@@ -80,21 +80,21 @@
       "source": "BBC World"
     },
     {
-      "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 17:18:49 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
       "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 15 Oct 2026 15:00:05 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
-      "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 14:51:30 GMT",
+      "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+      "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 15 Oct 2026 23:27:21 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 15 Oct 2026 23:38:46 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
+      "link": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
+      "date": "Thu, 15 Oct 2026 23:35:26 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "At least 4, including 3 children, killed in US elementary school shooting",
       "link": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
       "date": "Thu, 15 Oct 2026 22:51:56 +0000",
@@ -329,12 +335,6 @@
       "title": "ICE tactics spark debate before pivotal US midterm elections",
       "link": "https://www.aljazeera.com/news/2026/10/15/ice-tactics-spark-debate-before-pivotal-us-midterm-elections?traffic_source=rss",
       "date": "Thu, 15 Oct 2026 21:02:31 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Robots dance the ‘Macarena’ at Japan tech expo",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/robots-dance-the-macarena-at-japan-tech-expo?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 21:00:01 +0000",
       "source": "Al Jazeera"
     }
   ]
