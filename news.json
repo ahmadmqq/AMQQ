@@ -1,10 +1,22 @@
 {
-  "updated": "2026-10-16T10:57:50.677896+00:00",
+  "updated": "2026-10-16T11:24:09.538648+00:00",
   "items": [
     {
       "title": "التحالف وجماعة أنصار الله يتبادلون إسقاط المسيرات، وأنباء عن  قصف مدفعي سعودي على صعدة",
       "link": "https://www.bbc.com/arabic/articles/cm369x16882do?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 16 Oct 2026 09:42:57 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "هل تستعد مصر لاستقبال رئيس جديد في 2030؟",
+      "link": "https://www.bbc.com/arabic/articles/c3ewe0xpql72o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 11:06:42 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "الاقتصاد العالمي صامد لكنّ العواصف تلوح في الأفق - مقال في الغارديان",
+      "link": "https://www.bbc.com/arabic/articles/ckdd8z6ygdy0o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 10:57:49 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -17,12 +29,6 @@
       "title": "كيف تصبح بعض عمليات رأب الجفون \"وصفة لكارثة\"؟",
       "link": "https://www.bbc.com/arabic/articles/cmzxl7lz2l7qo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 16 Oct 2026 03:36:10 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "\"الحوثيون مشكلة أوروبا أيضاً\" - مقال في الديلي تلغراف",
-      "link": "https://www.bbc.com/arabic/articles/c64g175jj0kvo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 11:43:37 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "لماذا تحجب منظمة قرى الأطفال الدولية تقريراً عن دورها في قضية الأطفال \"المخفيين\" في سوريا؟",
       "link": "https://www.bbc.com/arabic/articles/c680zkl8jk8ko?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 15 Oct 2026 09:03:00 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "لماذا تحمل أنثى فيل صغيراً نافقاً ليس وليدها؟ قصة الصورة الفائزة بجائزة عالمية",
-      "link": "https://www.bbc.com/arabic/articles/cw8dz1mdpqvjo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 04:02:00 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -194,9 +194,9 @@
       "source": "Guardian World"
     },
     {
-      "title": "Bank shares drop as John Healey prepares to raise taxes on the banking sector in the budget – business live",
+      "title": "IMF suggests UK should cut spending rather than raise taxes on banks, as Healey prepares budget raid – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates",
-      "date": "Fri, 16 Oct 2026 10:20:58 GMT",
+      "date": "Fri, 16 Oct 2026 11:07:24 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Locals in India’s Odisha allege forgery behind land taken for Adani mine",
+      "link": "https://www.aljazeera.com/news/2026/10/16/tribals-in-indias-odisha-allege-forgery-behind-lands-taken-for-adani-mine?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 11:05:45 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Poland scrambles fighter jets as Russia strikes western Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 10:56:20 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "India vs West India: Fifth T20 International – teams, start, lineups, Hope",
+      "link": "https://www.aljazeera.com/sports/2026/10/16/india-vs-west-india-firth-t20-international-teams-prediction-lineups?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 10:37:48 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Palestinian olive trees torched as settler pogroms escalate during harvest",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/palestinian-olive-trees-torched-as-settler-pogroms-escalate-during-harvest?traffic_source=rss",
       "date": "Fri, 16 Oct 2026 10:27:20 +0000",
@@ -317,24 +335,6 @@
       "title": "China-North Korea border bridge may do little to spur trade, experts say",
       "link": "https://www.aljazeera.com/economy/2026/10/16/china-north-korea-border-bridge-may-do-little-to-spur-trade-experts-say?traffic_source=rss",
       "date": "Fri, 16 Oct 2026 09:21:40 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Man Utd veering towards crisis as Man City cloud hangs over Premier League",
-      "link": "https://www.aljazeera.com/sports/2026/10/16/man-utd-veering-towards-crisis-as-man-city-cloud-hangs-over-premier-league?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 09:17:50 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Indian police launch New Delhi clampdown for Cockroach Party rally",
-      "link": "https://www.aljazeera.com/news/2026/10/16/indian-police-launch-new-delhi-clampdown-for-cockroach-party-rally?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 09:17:47 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Asian Cup in Saudi Arabia still on, organisers say, but golf tour postponed",
-      "link": "https://www.aljazeera.com/sports/2026/10/16/asian-cup-in-saudi-arabia-still-on-say-organisers-but-golf-tour-postponed?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 08:36:54 +0000",
       "source": "Al Jazeera"
     }
   ]
