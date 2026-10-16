@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-16T21:23:12.306173+00:00",
+  "updated": "2026-10-16T21:52:19.649065+00:00",
   "items": [
     {
       "title": "طهران تنفي التورط في هجمات أنصار الله على السعودية وتعرض الوساطة، والتحالف يعلن اعتراض مسيرات وصواريخ",
       "link": "https://www.bbc.com/arabic/articles/cm369x16882do?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 16 Oct 2026 18:45:40 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "إصابة فلسطينيين وصحافية أمريكية في هجوم لمستوطنين إسرائيليين خلال قطف الزيتون بالضفة الغربية المحتلة",
+      "link": "https://www.bbc.com/arabic/articles/c6rryq2wr11jo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 21:40:38 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "بي بي سي تكشف عن مئات التحقيقات التي أجراها الجيش الإسرائيلي في عمليات قتل دون الإعلان عن النتائج",
       "link": "https://www.bbc.com/arabic/articles/c63el5pz17qwo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 16 Oct 2026 11:38:22 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "هل تستعد مصر لاستقبال رئيس جديد في 2030؟",
-      "link": "https://www.bbc.com/arabic/articles/c3ewe0xpql72o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 11:06:42 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -296,6 +296,12 @@
       "source": "Al Jazeera"
     },
     {
+      "title": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 21:08:44 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Students in Europe are rising up to call for better education",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss",
       "date": "Fri, 16 Oct 2026 20:38:00 +0000",
@@ -329,12 +335,6 @@
       "title": "Can diplomacy resolve longstanding Ethiopia-Eritrea differences?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss",
       "date": "Fri, 16 Oct 2026 19:18:13 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "White House press secretary Katie Zacharia fired after five days on the job",
-      "link": "https://www.aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 18:58:06 +0000",
       "source": "Al Jazeera"
     }
   ]
