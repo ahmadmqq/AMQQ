@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-16T20:02:36.292970+00:00",
+  "updated": "2026-10-16T20:29:08.585557+00:00",
   "items": [
     {
       "title": "طهران تنفي التورط في هجمات أنصار الله على السعودية وتعرض الوساطة، والتحالف يعلن اعتراض مسيرات وصواريخ",
       "link": "https://www.bbc.com/arabic/articles/cm369x16882do?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 16 Oct 2026 18:45:40 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "المتحدثة باسم البيت الأبيض كيتي زكريا تغادر منصبها بعد أيام فقط من توليه",
+      "link": "https://www.bbc.com/arabic/articles/cr89z7q59332o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 20:05:07 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "هل تستعد مصر لاستقبال رئيس جديد في 2030؟",
       "link": "https://www.bbc.com/arabic/articles/c3ewe0xpql72o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 16 Oct 2026 11:06:42 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "الاقتصاد العالمي صامد لكن العواصف تلوح في الأفق - مقال في الغارديان",
-      "link": "https://www.bbc.com/arabic/articles/ckdd8z6ygdy0o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 10:57:49 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Oregon community mourns victims of school shooting",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 20:08:52 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "AOC transfers $1m to Michigan candidate El-Sayed in progressive push",
+      "link": "https://www.aljazeera.com/news/2026/10/16/aoc-transfers-1m-to-michigan-candidate-el-sayed-in-progressive-push?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 20:07:25 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Trump told new press secretary to ‘reconsider’ role",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 19:41:15 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Can diplomacy resolve longstanding Ethiopia-Eritrea differences?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/10/16/can-diplomacy-resolve-long-standing-ethiopia-eritrea-differences?traffic_source=rss",
       "date": "Fri, 16 Oct 2026 19:18:13 +0000",
@@ -317,24 +335,6 @@
       "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
       "link": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
       "date": "Fri, 16 Oct 2026 18:21:43 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ukraine president targets Trump, Putin at EU summit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 17:59:48 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "US records 4,410 measles cases as outbreak grows",
-      "link": "https://www.aljazeera.com/news/2026/10/16/us-records-4410-measles-cases-as-outbreak-grows?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 17:40:18 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ukraine advances in occupied Donetsk as Trump hands Putin diesel deal",
-      "link": "https://www.aljazeera.com/news/2026/10/16/ukraine-repels-russian-forces-as-us-support-wavers-energy-strikes-escalate?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 17:28:41 +0000",
       "source": "Al Jazeera"
     }
   ]
