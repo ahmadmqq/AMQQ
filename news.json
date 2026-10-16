@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T14:50:39.371579+00:00",
+  "updated": "2026-10-16T15:14:54.509873+00:00",
   "items": [
     {
       "title": "التحالف يعلن اعتراض 4 مسيرات و3 صواريخ وجماعة أنصار الله تقول إنها أسقطت مسيرة سعودية",
@@ -11,6 +11,12 @@
       "title": "بي بي سي تكشف عن مئات التحقيقات التي أجراها الجيش الإسرائيلي في عمليات قتل دون الإعلان عن النتائج",
       "link": "https://www.bbc.com/arabic/articles/c63el5pz17qwo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 16 Oct 2026 11:38:22 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "\"عبّارة السلام\" تعود للواجهة: حكم بتعويضات تتجاوز 60 مليون يورو",
+      "link": "https://www.bbc.com/arabic/articles/cm3wv413wv29o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 15:07:08 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "بريطانيا تهدد بحظر دخول الإريتريين بسبب موقف أسمرة من إعادة المهاجرين",
-      "link": "https://www.bbc.com/arabic/articles/cmlylq4592xzo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 08:47:09 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
       "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 16 Oct 2026 14:44:11 GMT",
@@ -59,12 +59,6 @@
       "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
       "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 16 Oct 2026 14:31:04 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-      "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 05:00:17 GMT",
       "source": "BBC World"
     },
     {
@@ -80,21 +74,27 @@
       "source": "BBC World"
     },
     {
+      "title": "India's 'cockroach' party founder detained ahead of protest",
+      "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 11:44:31 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "US senators call for investigation into Ukraine's Starlink restrictions",
       "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 16 Oct 2026 14:19:50 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Albanian protests turn violent: What we know",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 14:33:32 GMT",
+      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+      "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 05:00:17 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 14:02:24 GMT",
+      "title": "Albanian protests turn violent: What we know",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 14:33:32 GMT",
       "source": "BBC World"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "IMF suggests UK should cut spending rather than raise taxes on banks, as Healey prepares budget raid – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates",
-      "date": "Fri, 16 Oct 2026 14:27:15 GMT",
+      "date": "Fri, 16 Oct 2026 14:53:30 GMT",
       "source": "Guardian Business"
     },
     {
