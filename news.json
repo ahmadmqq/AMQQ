@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T01:40:16.262848+00:00",
+  "updated": "2026-10-16T02:09:07.549426+00:00",
   "items": [
     {
       "title": "قتلى وجرحى  في هجوم لأنصار الله الحوثية على قصر معاشيق في عدن، ومجلس الأمن يدين \"الهجمات التصعيدية\" على السعودية",
@@ -50,6 +50,18 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "Three children and a teacher killed by 16-year-old at Oregon primary school",
+      "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 01:29:24 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+      "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 01:36:45 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
       "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 15 Oct 2026 17:47:22 GMT",
@@ -80,21 +92,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
-      "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 15:00:05 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
       "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 15 Oct 2026 23:27:21 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 23:38:46 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Myanmar’s coup leader-turned-president wins back neighbours despite war",
+      "link": "https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 01:34:47 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Clashes erupt at protest over university funding law in Argentina",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina?traffic_source=rss",
       "date": "Fri, 16 Oct 2026 01:19:25 +0000",
@@ -320,7 +326,7 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "At least 4, including 3 children, killed in US elementary school shooting",
+      "title": "Three children, one teacher killed in Oregon school shooting",
       "link": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
       "date": "Thu, 15 Oct 2026 22:51:56 +0000",
       "source": "Al Jazeera"
@@ -329,12 +335,6 @@
       "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
       "link": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
       "date": "Thu, 15 Oct 2026 21:57:58 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Man United’s Martinez apologises for outburst after talks with Carrick",
-      "link": "https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss",
-      "date": "Thu, 15 Oct 2026 21:54:26 +0000",
       "source": "Al Jazeera"
     }
   ]
