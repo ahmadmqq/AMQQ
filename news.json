@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-16T16:14:57.700706+00:00",
+  "updated": "2026-10-16T16:48:06.892560+00:00",
   "items": [
     {
       "title": "التحالف يعلن اعتراض 4 مسيرات و3 صواريخ وجماعة أنصار الله تقول إنها أسقطت مسيرة سعودية",
       "link": "https://www.bbc.com/arabic/articles/cm369x16882do?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 16 Oct 2026 14:29:23 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "بلاغات استهداف السفن في هرمز عند مستويات قياسية",
+      "link": "https://www.bbc.com/arabic/articles/c574pwzdj88no?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 16:33:45 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -38,19 +44,13 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "كيف تصبح بعض عمليات رأب الجفون \"وصفة لكارثة\"؟",
-      "link": "https://www.bbc.com/arabic/articles/cmzxl7lz2l7qo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 03:36:10 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "تقارير تفيد أن واشنطن تدرس استخدام \"أم القنابل\" ضد إيران إذا عاد القتال، فما حجم قوة هذا السلاح؟",
       "link": "https://www.bbc.com/arabic/articles/c6ly0gdxd5jlo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 15 Oct 2026 18:10:15 GMT",
       "source": "BBC Arabic"
     },
     {
-      "title": "Ukraine pushes Russia back on front line where Starlink has played key role",
+      "title": "Inside Ukrainian offensive pushing Russia back on front line where Starlink plays a key role",
       "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 16 Oct 2026 16:00:30 GMT",
       "source": "BBC World"
@@ -230,9 +230,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Extreme heatwaves in Europe not changing Brits’ holiday plans, say travel bosses",
+      "title": "Extreme heatwaves in Europe not changing Britons’ holiday plans, say travel bosses",
       "link": "https://www.theguardian.com/business/2026/oct/16/extreme-heatwaves-in-europe-not-changing-brits-holiday-plans-say-travel-bosses",
-      "date": "Fri, 16 Oct 2026 15:20:52 GMT",
+      "date": "Fri, 16 Oct 2026 16:16:25 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,51 +290,51 @@
       "source": "NPR World"
     },
     {
+      "title": "Spain to appeal to CAS after FIFA penalty for Islamophobic chants",
+      "link": "https://www.aljazeera.com/sports/2026/10/16/spain-to-appeal-to-cas-after-fifa-penalty-for-islamophobic-chants?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 16:35:32 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off",
+      "link": "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 16:34:26 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "The artisanal miners behind Nigeria’s lithium boom",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/the-artisanal-miners-behind-nigerias-lithium-boom?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 16:23:09 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Indian protest leaders detained ahead of flag march in New Delhi",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/indian-protest-leaders-detained-ahead-of-flag-march-in-new-delhi?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 16:16:13 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Division in Lebanon over Hezbollah’s confiscated explosives",
+      "link": "https://www.aljazeera.com/news/2026/10/16/division-in-lebanon-over-hezbollahs-confiscated-explosives?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 16:09:43 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "EU rallies in support of Ukraine amid Trump standoff",
+      "link": "https://www.aljazeera.com/news/2026/10/16/eu-rallies-in-support-of-ukraine-amid-trump-standoff?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 16:02:13 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Manchester Utd have ‘moved on’ from Martinez outburst, says Carrick",
+      "link": "https://www.aljazeera.com/sports/2026/10/16/manchester-utd-have-moved-on-from-martinez-outburst-says-carrick?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 15:52:18 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
       "link": "https://www.aljazeera.com/news/2026/10/16/gaza-malnutrition-and-starvation-at-catastrophic-levels-health-ministry?traffic_source=rss",
       "date": "Fri, 16 Oct 2026 15:37:25 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Qatar announces ‘massive’ solar plant project in Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/10/16/qatar-announces-massive-solar-plant-project-in-lebanon?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 14:19:36 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
-      "link": "https://www.aljazeera.com/news/2026/10/16/how-israeli-firms-zero-click-malware-attack-poses-global-security-risk?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 14:12:13 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Qatar FM calls for Israeli withdrawal from Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/qatar-fm-calls-for-israeli-withdrawal-from-lebanon?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 14:01:08 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Can Russia help ease tensions between Pakistan and Afghanistan?",
-      "link": "https://www.aljazeera.com/news/2026/10/16/can-russia-help-ease-tensions-between-pakistan-and-afghanistan?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 13:56:43 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ethiopia announces instalment of interim government in Tigray",
-      "link": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 13:54:06 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 13:52:48 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Palestinians, US journalist attacked in West Bank pogrom: What we know",
-      "link": "https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 13:26:47 +0000",
       "source": "Al Jazeera"
     }
   ]
