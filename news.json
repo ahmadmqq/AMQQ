@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T12:20:49.490521+00:00",
+  "updated": "2026-10-16T13:07:38.562080+00:00",
   "items": [
     {
       "title": "التحالف وجماعة أنصار الله يتبادلون إسقاط المسيرات، وأنباء عن  قصف مدفعي سعودي على صعدة",
@@ -82,7 +82,7 @@
     {
       "title": "Dad fined after son, 2, died in Cyprus hotel fall",
       "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 12:14:12 GMT",
+      "date": "Fri, 16 Oct 2026 13:01:06 GMT",
       "source": "BBC World"
     },
     {
@@ -104,6 +104,12 @@
       "source": "BBC Business"
     },
     {
+      "title": "Watch: Did Tesla really just unveil a flying car?",
+      "link": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 16 Oct 2026 12:32:31 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "I find it quite demoralising in store - why I do all my shopping online",
       "link": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 15 Oct 2026 23:16:12 GMT",
@@ -122,27 +128,21 @@
       "source": "BBC Business"
     },
     {
-      "title": "'I paid thousands to a company for jobs that never came'",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 17:19:49 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "Living with a stink? Technology might help",
       "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 15 Oct 2026 23:18:21 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "How backlash against data centres could shape the US midterm elections",
-      "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 14 Oct 2026 23:02:57 GMT",
+      "title": "'I paid thousands to a company for jobs that never came'",
+      "link": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 15 Oct 2026 17:19:49 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 15 Oct 2026 11:34:55 GMT",
+      "title": "How backlash against data centres could shape the US midterm elections",
+      "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 14 Oct 2026 23:02:57 GMT",
       "source": "BBC Business"
     },
     {
@@ -196,7 +196,13 @@
     {
       "title": "IMF suggests UK should cut spending rather than raise taxes on banks, as Healey prepares budget raid – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/16/john-healey-set-to-raise-bank-taxes-shares-profits-stock-markets-imf-latest-news-updates",
-      "date": "Fri, 16 Oct 2026 11:58:02 GMT",
+      "date": "Fri, 16 Oct 2026 12:39:02 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "British food and drink exports to EU collapse by more than a third since Brexit",
+      "link": "https://www.theguardian.com/business/2026/oct/16/british-food-drink-exports-to-eu-collapse-brexit",
+      "date": "Fri, 16 Oct 2026 12:34:37 GMT",
       "source": "Guardian Business"
     },
     {
@@ -206,15 +212,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Ofgem could force energy suppliers to pay rivals if they lure customers with cheaper deals",
-      "link": "https://www.theguardian.com/business/2026/oct/16/ofgem-energy-suppliers-pay-rivals-customers-cheaper-deals",
-      "date": "Fri, 16 Oct 2026 08:14:53 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "‘We should all be worried’: calls grow to limit London rollout of robotaxis",
       "link": "https://www.theguardian.com/uk-news/2026/oct/16/london-driverless-robotaxis-uber-drivers-wayve-tfl-licences",
       "date": "Fri, 16 Oct 2026 11:00:46 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Ofgem could force energy suppliers to pay rivals if they lure customers with cheaper deals",
+      "link": "https://www.theguardian.com/business/2026/oct/16/ofgem-energy-suppliers-pay-rivals-customers-cheaper-deals",
+      "date": "Fri, 16 Oct 2026 08:14:53 GMT",
       "source": "Guardian Business"
     },
     {
@@ -224,21 +230,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
-      "link": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
-      "date": "Fri, 16 Oct 2026 00:34:28 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "Revealed: VW, Ford and Tesla batteries linked to destructive deforestation of indigenous lands",
       "link": "https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands",
       "date": "Fri, 16 Oct 2026 07:00:56 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Number of cloned number plates on UK roads at record high, data shows",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/16/cloned-number-plates-uk-roads-record-high",
-      "date": "Fri, 16 Oct 2026 04:00:52 GMT",
+      "title": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
+      "link": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
+      "date": "Fri, 16 Oct 2026 00:34:28 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Pro-Nazi chants before Ajax match slammed by Croatia leaders",
+      "link": "https://www.aljazeera.com/sports/2026/10/16/pro-nazi-chants-ahead-of-ajax-match-slammed-by-croatia-leaders?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 12:42:30 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Fuel tanker fire engulfs market in southern Nigeria",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/fuel-tanker-fire-engulfs-market-in-southern-nigeria?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 12:23:12 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Pakistan orders school inspections following deadly roof collapse",
+      "link": "https://www.aljazeera.com/news/2026/10/16/pakistan-orders-school-inspections-following-deadly-roof-collapse?traffic_source=rss",
+      "date": "Fri, 16 Oct 2026 12:18:06 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "‘Trying to dominate’: In Cyprus, some fear Israel’s growing influence",
       "link": "https://www.aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state?traffic_source=rss",
       "date": "Fri, 16 Oct 2026 11:54:10 +0000",
@@ -317,24 +335,6 @@
       "title": "‘It was fake’: Indian villagers allege forgery behind Adani mine project",
       "link": "https://www.aljazeera.com/news/2026/10/16/tribals-in-indias-odisha-allege-forgery-behind-lands-taken-for-adani-mine?traffic_source=rss",
       "date": "Fri, 16 Oct 2026 11:05:45 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Poland scrambles fighter jets as Russia strikes western Ukraine",
-      "link": "https://www.aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 10:56:20 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "India vs West India: Fifth T20 International – teams, start, lineups, Hope",
-      "link": "https://www.aljazeera.com/sports/2026/10/16/india-vs-west-india-firth-t20-international-teams-prediction-lineups?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 10:37:48 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Palestinian olive trees torched as settler pogroms escalate during harvest",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/palestinian-olive-trees-torched-as-settler-pogroms-escalate-during-harvest?traffic_source=rss",
-      "date": "Fri, 16 Oct 2026 10:27:20 +0000",
       "source": "Al Jazeera"
     }
   ]
