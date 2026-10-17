@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-17T09:50:08.502641+00:00",
+  "updated": "2026-10-17T10:08:53.969993+00:00",
   "items": [
     {
       "title": "ماذا نعرف عن الأسلحة المستخدمة في المواجهات بين السعودية وجماعة أنصار الله؟",
       "link": "https://www.bbc.com/arabic/articles/cmj6j1535lglo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 06:18:50 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "هل تستعد مصر لاستقبال رئيس جديد في 2030؟",
+      "link": "https://www.bbc.com/arabic/articles/c3ewe0xpql72o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 17 Oct 2026 10:04:26 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "بلاغات استهداف السفن في هرمز عند مستويات قياسية",
-      "link": "https://www.bbc.com/arabic/articles/c574pwzdj88no?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 16:33:45 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 09:42:13 GMT",
@@ -58,7 +58,7 @@
     {
       "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
       "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 17 Oct 2026 06:49:48 GMT",
+      "date": "Sat, 17 Oct 2026 09:58:17 GMT",
       "source": "BBC World"
     },
     {
@@ -212,6 +212,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "‘Countries are defying gravity at all income levels’: how long can global economy resist chaos?",
+      "link": "https://www.theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable",
+      "date": "Sat, 17 Oct 2026 10:00:27 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Palantir patient data tech rejected by many NHS trusts in England",
       "link": "https://www.theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england",
       "date": "Sat, 17 Oct 2026 06:00:24 GMT",
@@ -224,21 +230,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
-      "link": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
-      "date": "Fri, 16 Oct 2026 18:09:34 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "British food and drink exports to EU collapse by more than a third since Brexit",
-      "link": "https://www.theguardian.com/business/2026/oct/16/british-food-drink-exports-to-eu-collapse-brexit",
-      "date": "Fri, 16 Oct 2026 12:34:37 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "Stinky business: south London bike shop hit by ‘unbearable’ stench from Thames Water sewer",
       "link": "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill",
       "date": "Sat, 17 Oct 2026 09:00:26 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
+      "link": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
+      "date": "Fri, 16 Oct 2026 18:09:34 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Sudan’s army claims killing of dozens of RSF fighters in Nyala attack",
+      "link": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss",
+      "date": "Sat, 17 Oct 2026 09:44:47 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "IMF urges support for poorer nations facing high inflation, war spillovers",
+      "link": "https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns?traffic_source=rss",
+      "date": "Sat, 17 Oct 2026 09:31:47 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Houthis strike Yemen’s Aden: What that means",
+      "link": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss",
+      "date": "Sat, 17 Oct 2026 09:16:48 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Murder in Malaysia: Justice for Altantuya Shaariibuu",
       "link": "https://www.aljazeera.com/video/101-east/2026/10/17/murder-in-malaysia-justice-for-altantuya-shaariibuu?traffic_source=rss",
       "date": "Sat, 17 Oct 2026 08:40:47 +0000",
@@ -317,24 +335,6 @@
       "title": "Arrests made for pro-Nazi chants at Hajduk Split-Ajax match in Croatia",
       "link": "https://www.aljazeera.com/sports/2026/10/17/pro-nazi-arrests-made-for-chants-at-hajduk-split-ajax-in-uefa-europa-league?traffic_source=rss",
       "date": "Sat, 17 Oct 2026 07:45:31 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Senegal-sized Antarctic glacier melting faster than thought: Why it matters",
-      "link": "https://www.aljazeera.com/news/2026/10/17/senegal-sized-antarctic-glacier-melting-faster-than-thought-why-it-matters?traffic_source=rss",
-      "date": "Sat, 17 Oct 2026 07:43:19 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "11-year old flying car company mocks Tesla Roadster",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/11-year-old-flying-car-company-mocks-tesla-roadster?traffic_source=rss",
-      "date": "Sat, 17 Oct 2026 07:32:42 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Israeli raids and arrests in southern Syria push population to the brink",
-      "link": "https://www.aljazeera.com/features/2026/10/17/israeli-raids-and-arrests-in-southern-syria-push-population-to-the-brink?traffic_source=rss",
-      "date": "Sat, 17 Oct 2026 07:17:06 +0000",
       "source": "Al Jazeera"
     }
   ]
