@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-17T13:58:30.621568+00:00",
+  "updated": "2026-10-17T14:20:24.706001+00:00",
   "items": [
     {
       "title": "ترامب يعلّق عقوباتٍ على روسيا، وزيلنسكي يتّهمه بـ\"مكأفأة بوتين\"",
       "link": "https://www.bbc.com/arabic/articles/c6z7xlgnw0qro?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 12:28:55 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "تونس: أكبر احتجاجات منذ سنوات للمطالبة بالحريات وتحسين المعيشة",
+      "link": "https://www.bbc.com/arabic/articles/cky83gee57dzo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 17 Oct 2026 13:56:48 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,19 +50,13 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "أوكرانيا تتقدّم في دونباس، فهل تهدّد قيود ستارلينك مكاسبها على الأرض؟",
-      "link": "https://www.bbc.com/arabic/articles/cmz7xl1d283jo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 23:59:02 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 11:56:06 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
       "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 09:58:17 GMT",
       "source": "BBC World"
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Nottingham Forest vs Arsenal: Premier League – preview, teams, prediction",
+      "link": "https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss",
+      "date": "Sat, 17 Oct 2026 14:06:41 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia",
+      "link": "https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss",
+      "date": "Sat, 17 Oct 2026 14:00:24 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
+      "link": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run?traffic_source=rss",
+      "date": "Sat, 17 Oct 2026 13:56:29 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Protesters clash with police during nationwide demonstrations in France",
       "link": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
       "date": "Sat, 17 Oct 2026 13:44:42 +0000",
@@ -317,24 +335,6 @@
       "title": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
       "link": "https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss",
       "date": "Sat, 17 Oct 2026 12:27:49 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "France tackles new wave of nationwide protests",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss",
-      "date": "Sat, 17 Oct 2026 12:18:55 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
-      "link": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
-      "date": "Sat, 17 Oct 2026 12:10:56 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Women protest in New Delhi against police brutality",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/women-protest-in-new-delhi-against-police-brutality?traffic_source=rss",
-      "date": "Sat, 17 Oct 2026 12:07:15 +0000",
       "source": "Al Jazeera"
     }
   ]
