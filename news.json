@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T07:17:25.446190+00:00",
+  "updated": "2026-10-17T07:47:00.087133+00:00",
   "items": [
     {
       "title": "ماذا نعرف عن الأسلحة المستخدمة في المواجهات بين السعودية وجماعة أنصار الله؟",
@@ -58,7 +58,7 @@
     {
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 17 Oct 2026 06:39:40 GMT",
+      "date": "Sat, 17 Oct 2026 07:41:01 GMT",
       "source": "BBC World"
     },
     {
@@ -194,6 +194,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "Plan to make firms pay more to train older workers than youth apprentices in England",
+      "link": "https://www.theguardian.com/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england",
+      "date": "Sat, 17 Oct 2026 07:00:24 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Healey backs pro-growth case for Heathrow third runway after Burnham ducks issue",
       "link": "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham",
       "date": "Fri, 16 Oct 2026 21:30:12 GMT",
@@ -233,12 +239,6 @@
       "title": "Elon Musk reveals ‘world’s first flying car’ at Tesla event",
       "link": "https://www.theguardian.com/technology/2026/oct/16/elon-musk-reveals-worlds-first-flying-car-spacex",
       "date": "Fri, 16 Oct 2026 11:53:04 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "‘We should all be worried’: calls grow to limit London rollout of robotaxis",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/16/london-driverless-robotaxis-uber-drivers-wayve-tfl-licences",
-      "date": "Fri, 16 Oct 2026 11:00:46 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "11-year old flying car company mocks Tesla Roadster",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/11-year-old-flying-car-company-mocks-tesla-roadster?traffic_source=rss",
+      "date": "Sat, 17 Oct 2026 07:32:42 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Israeli raids and arrests in southern Syria push population to the brink",
+      "link": "https://www.aljazeera.com/features/2026/10/17/israeli-raids-and-arrests-in-southern-syria-push-population-to-the-brink?traffic_source=rss",
+      "date": "Sat, 17 Oct 2026 07:17:06 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Can Yemen’s government forces sustain their offensive against the Houthis?",
       "link": "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss",
       "date": "Sat, 17 Oct 2026 06:41:34 +0000",
@@ -323,18 +335,6 @@
       "title": "Three Mexicans jailed for 158 years each for killing Australian, US surfers",
       "link": "https://www.aljazeera.com/news/2026/10/17/three-mexicans-jailed-for-158-years-each-for-killing-australian-us-surfers?traffic_source=rss",
       "date": "Sat, 17 Oct 2026 05:01:14 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "The Israeli politicians seeking to replace Netanyahu",
-      "link": "https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu?traffic_source=rss",
-      "date": "Sat, 17 Oct 2026 05:00:58 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Trump waives Russia sanctions as rift with Zelenskyy widens",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens?traffic_source=rss",
-      "date": "Sat, 17 Oct 2026 04:58:32 +0000",
       "source": "Al Jazeera"
     }
   ]
