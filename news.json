@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-17T23:13:37.532631+00:00",
+  "updated": "2026-10-17T23:34:36.612253+00:00",
   "items": [
     {
       "title": "دبلوماسيون أوروبيون يتعرضون لهجوم من مستوطنين إسرائيليين في الضفة الغربية المحتلة",
       "link": "https://www.bbc.com/arabic/articles/cmly0d9gleeeo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 22:52:38 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "الشوارع الفرنسية تشتعل ومواجهات مع الشرطة في مدن عدة",
+      "link": "https://www.bbc.com/arabic/articles/cm5ynpzvnzgvo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 17 Oct 2026 23:32:45 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "تونس: أكبر احتجاجات منذ سنوات للمطالبة بالحريات وتحسين المعيشة",
       "link": "https://www.bbc.com/arabic/articles/cky83gee57dzo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 13:56:48 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "الشوارع الفرنسية تشتعل ومواجهات مع الشرطة في مدن عدة",
-      "link": "https://www.bbc.com/arabic/articles/cm5ynpzvnzgvo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 17 Oct 2026 19:48:05 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -200,21 +200,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Plan to make firms pay more to train older workers than youth apprentices in England",
-      "link": "https://www.theguardian.com/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england",
-      "date": "Sat, 17 Oct 2026 07:00:24 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’",
       "link": "https://www.theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism",
       "date": "Sat, 17 Oct 2026 11:33:20 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "From 3,000 feathers to pet portraits, Rolls-Royce rides high on custom craze",
-      "link": "https://www.theguardian.com/business/2026/oct/17/rolls-royce-customised-cars",
-      "date": "Sat, 17 Oct 2026 12:00:29 GMT",
       "source": "Guardian Business"
     },
     {
@@ -224,9 +212,21 @@
       "source": "Guardian Business"
     },
     {
+      "title": "From 3,000 feathers to pet portraits, Rolls-Royce rides high on custom craze",
+      "link": "https://www.theguardian.com/business/2026/oct/17/rolls-royce-customised-cars",
+      "date": "Sat, 17 Oct 2026 12:00:29 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Squash down: smaller pumpkins expected this Halloween after drought in England",
       "link": "https://www.theguardian.com/lifeandstyle/2026/oct/17/smaller-pumpkins-halloween-drought-england",
       "date": "Sat, 17 Oct 2026 09:00:26 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
+      "link": "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
+      "date": "Sat, 17 Oct 2026 14:42:11 GMT",
       "source": "Guardian Business"
     },
     {
