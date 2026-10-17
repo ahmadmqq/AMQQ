@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-17T19:21:02.237193+00:00",
+  "updated": "2026-10-17T19:42:58.108198+00:00",
   "items": [
     {
       "title": "ترامب يعلّق عقوباتٍ على روسيا، وزيلنسكي يتّهمه بـ \"مكافأة بوتين\"",
       "link": "https://www.bbc.com/arabic/articles/c6z7xlgnw0qro?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 15:55:46 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "تحليل: روسيا تسير على حبل مشدود في اليمن مع تغير موازين القوى والانقسامات",
+      "link": "https://www.bbc.com/arabic/articles/c85ynpv4zxwyo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 17 Oct 2026 19:37:53 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "ما هي الأسلحة المستخدمة في المواجهات بين السعودية وأنصار الله؟",
       "link": "https://www.bbc.com/arabic/articles/cmj6j1535lglo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 06:18:50 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "ما مستقبل بابوية لاون الرابع عشر بعد تشخيصه بالسرطان؟",
-      "link": "https://www.bbc.com/arabic/articles/cvde8zj614p8o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 17 Oct 2026 11:32:15 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Albanian police fire rubber bullets as protests against Rama escalate",
+      "link": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss",
+      "date": "Sat, 17 Oct 2026 19:26:13 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
       "date": "Sat, 17 Oct 2026 19:04:00 +0000",
@@ -329,12 +335,6 @@
       "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
       "link": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
       "date": "Sat, 17 Oct 2026 17:24:07 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss",
-      "date": "Sat, 17 Oct 2026 17:18:50 +0000",
       "source": "Al Jazeera"
     }
   ]
