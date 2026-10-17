@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-17T18:05:29.481259+00:00",
+  "updated": "2026-10-17T18:33:02.085226+00:00",
   "items": [
     {
       "title": "ترامب يعلّق عقوباتٍ على روسيا، وزيلنسكي يتّهمه بـ \"مكافأة بوتين\"",
       "link": "https://www.bbc.com/arabic/articles/c6z7xlgnw0qro?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 15:55:46 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "زوج يطالب رئيس الوزراء البريطاني بالتدخل بعد احتجاز زوجته في مصر",
+      "link": "https://www.bbc.com/arabic/articles/cwly3z35v84no?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 17 Oct 2026 18:12:32 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "ما مستقبل بابوية لاون الرابع عشر بعد تشخيصه بالسرطان؟",
       "link": "https://www.bbc.com/arabic/articles/cvde8zj614p8o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 11:32:15 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "هل تستعد مصر لاستقبال رئيس جديد في 2030؟",
-      "link": "https://www.bbc.com/arabic/articles/c3ewe0xpql72o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 17 Oct 2026 10:04:26 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+      "link": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
+      "date": "Sat, 17 Oct 2026 18:26:59 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "India and West Indies denied a thrilling finale as rain hits final T20",
       "link": "https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss",
       "date": "Sat, 17 Oct 2026 17:42:01 +0000",
@@ -314,7 +320,7 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "Al Jazeera reports from Paris as protests turns violent",
+      "title": "Al Jazeera reports from Paris as protests turn violent",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss",
       "date": "Sat, 17 Oct 2026 16:56:40 +0000",
       "source": "Al Jazeera"
@@ -329,12 +335,6 @@
       "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
       "date": "Sat, 17 Oct 2026 16:49:07 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Kenya confirms four more Ebola cases, bringing total to seven",
-      "link": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss",
-      "date": "Sat, 17 Oct 2026 16:48:46 +0000",
       "source": "Al Jazeera"
     }
   ]
