@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-17T13:07:19.084630+00:00",
+  "updated": "2026-10-17T13:33:34.236512+00:00",
   "items": [
-    {
-      "title": "ماذا نعرف عن الأسلحة المستخدمة في المواجهات بين السعودية وجماعة أنصار الله؟",
-      "link": "https://www.bbc.com/arabic/articles/cmj6j1535lglo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 17 Oct 2026 06:18:50 GMT",
-      "source": "BBC Arabic"
-    },
     {
       "title": "ترامب يعلّق عقوباتٍ على روسيا وزيلنسكي يتّهمه بـ\"مكأفأة بوتين\"",
       "link": "https://www.bbc.com/arabic/articles/c6z7xlgnw0qro?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 12:28:55 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "الشوارع الفرنسية تشتعل ومواجهات مع الشرطة في مدن عدة",
+      "link": "https://www.bbc.com/arabic/articles/cm5ynpzvnzgvo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 17 Oct 2026 13:11:37 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -26,6 +26,12 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "ماذا نعرف عن الأسلحة المستخدمة في المواجهات بين السعودية و\"أنصار الله\"؟",
+      "link": "https://www.bbc.com/arabic/articles/cmj6j1535lglo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 17 Oct 2026 06:18:50 GMT",
+      "source": "BBC Arabic"
+    },
+    {
       "title": "هل يمكن لبريطانيا أن تطوي صفحة البريكست؟ - مقال في الغارديان",
       "link": "https://www.bbc.com/arabic/articles/cm2ke129p3qdo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 10:41:54 GMT",
@@ -35,12 +41,6 @@
       "title": "هجوم مدرسة أوريغون: معلّمة اشتبكت مع المسلّح وأب أرداه قتيلاً",
       "link": "https://www.bbc.com/arabic/articles/cwrky6e7088go?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 09:37:24 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "احتجاجات \"الفلامنغو\" تهزّ ألبانيا: ما أسباب التصعيد؟",
-      "link": "https://www.bbc.com/arabic/articles/c9vgr6mndkxdo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 17 Oct 2026 04:24:54 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -194,9 +194,9 @@
       "source": "Guardian World"
     },
     {
-      "title": "Trump pauses new Russia sanctions passed by Congress amid deepening row with Ukraine",
-      "link": "https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine",
-      "date": "Sat, 17 Oct 2026 02:53:38 GMT",
+      "title": "Bank of England governor walks out of IMF summit in protest against Russia",
+      "link": "https://www.theguardian.com/business/2026/oct/17/bank-of-england-governor-andrew-bailey-walks-out-imf-summit-protest-russia",
+      "date": "Sat, 17 Oct 2026 12:15:37 GMT",
       "source": "Guardian Business"
     },
     {
@@ -212,21 +212,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "‘Countries are defying gravity’: how much longer can global economy resist chaos?",
-      "link": "https://www.theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable",
-      "date": "Sat, 17 Oct 2026 10:00:27 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Squash down: smaller pumpkins expected this Halloween after drought in England",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/oct/17/smaller-pumpkins-halloween-drought-england",
-      "date": "Sat, 17 Oct 2026 09:00:26 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Palantir patient data tech rejected by many NHS trusts in England",
-      "link": "https://www.theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england",
-      "date": "Sat, 17 Oct 2026 06:00:24 GMT",
+      "title": "From 3,000 feathers to pet portraits, Rolls-Royce rides high on custom craze",
+      "link": "https://www.theguardian.com/business/2026/oct/17/rolls-royce-customised-cars",
+      "date": "Sat, 17 Oct 2026 12:00:29 GMT",
       "source": "Guardian Business"
     },
     {
@@ -236,9 +224,21 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Not cool: who hacked France’s supermarket fridges?",
-      "link": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
-      "date": "Sat, 17 Oct 2026 04:00:20 GMT",
+      "title": "Squash down: smaller pumpkins expected this Halloween after drought in England",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/oct/17/smaller-pumpkins-halloween-drought-england",
+      "date": "Sat, 17 Oct 2026 09:00:26 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "‘Countries are defying gravity’: how much longer can global economy resist chaos?",
+      "link": "https://www.theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable",
+      "date": "Sat, 17 Oct 2026 10:00:27 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Palantir patient data tech rejected by many NHS trusts in England",
+      "link": "https://www.theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england",
+      "date": "Sat, 17 Oct 2026 06:00:24 GMT",
       "source": "Guardian Business"
     },
     {
