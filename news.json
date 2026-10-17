@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-17T12:34:08.815533+00:00",
+  "updated": "2026-10-17T13:07:19.084630+00:00",
   "items": [
     {
       "title": "ماذا نعرف عن الأسلحة المستخدمة في المواجهات بين السعودية وجماعة أنصار الله؟",
       "link": "https://www.bbc.com/arabic/articles/cmj6j1535lglo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 06:18:50 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "ترامب يعلّق عقوباتٍ على روسيا وزيلنسكي يتّهمه بـ\"مكأفأة بوتين\"",
+      "link": "https://www.bbc.com/arabic/articles/c6z7xlgnw0qro?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 17 Oct 2026 12:28:55 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -14,21 +20,15 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "هل يمكن لبريطانيا أن تطوي صفحة البريكست؟ - مقال في الغارديان",
-      "link": "https://www.bbc.com/arabic/articles/cm2ke129p3qdo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 17 Oct 2026 10:41:54 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "هل تستعد مصر لاستقبال رئيس جديد في 2030؟",
       "link": "https://www.bbc.com/arabic/articles/c3ewe0xpql72o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 10:04:26 GMT",
       "source": "BBC Arabic"
     },
     {
-      "title": "ترامب يعلّق عقوباتٍ على روسيا وزيلنسكي يتّهمه بـ\"مكأفأة بوتين\"",
-      "link": "https://www.bbc.com/arabic/articles/c6z7xlgnw0qro?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 17 Oct 2026 12:28:55 GMT",
+      "title": "هل يمكن لبريطانيا أن تطوي صفحة البريكست؟ - مقال في الغارديان",
+      "link": "https://www.bbc.com/arabic/articles/cm2ke129p3qdo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 17 Oct 2026 10:41:54 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -86,15 +86,15 @@
       "source": "BBC World"
     },
     {
-      "title": "Katie Zacharia leaving White House role less than five days into job",
-      "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 17 Oct 2026 09:14:10 GMT",
+      "title": "Pope to be discharged days after lung cancer surgery",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 17 Oct 2026 12:37:26 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
-      "link": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 17 Oct 2026 01:55:45 GMT",
+      "title": "Katie Zacharia leaving White House role less than five days into job",
+      "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 17 Oct 2026 09:14:10 GMT",
       "source": "BBC World"
     },
     {
@@ -290,8 +290,32 @@
       "source": "NPR World"
     },
     {
+      "title": "Child, four women among Palestinians injured in West Bank pogroms",
+      "link": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
+      "date": "Sat, 17 Oct 2026 12:48:03 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Davidovich Fokina stuns top seed Zverev to reach Shanghai Masters final",
+      "link": "https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss",
+      "date": "Sat, 17 Oct 2026 12:46:48 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
+      "link": "https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss",
+      "date": "Sat, 17 Oct 2026 12:27:49 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "France tackles new wave of nationwide protests",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss",
+      "date": "Sat, 17 Oct 2026 12:18:55 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
-      "link": "https://www.aljazeera.com/news-analysis/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
+      "link": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
       "date": "Sat, 17 Oct 2026 12:10:56 +0000",
       "source": "Al Jazeera"
     },
@@ -311,30 +335,6 @@
       "title": "Protests spread across France as ‘yellow vests’ set to join",
       "link": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss",
       "date": "Sat, 17 Oct 2026 11:21:32 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
-      "link": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss",
-      "date": "Sat, 17 Oct 2026 11:10:22 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Sally Rooney’s books pulled from UK over Palestine Action support",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/sally-rooneys-books-pulled-from-uk-over-palestine-action-support-2?traffic_source=rss",
-      "date": "Sat, 17 Oct 2026 10:50:39 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
-      "link": "https://www.aljazeera.com/news/2026/10/17/solar-power-booms-in-philippines-as-war-on-iran-spikes-energy-costs?traffic_source=rss",
-      "date": "Sat, 17 Oct 2026 10:12:01 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "LIVE: India vs West Indies – fifth T20 International",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/17/live-india-vs-west-indies-fifth-t20-international?traffic_source=rss",
-      "date": "Sat, 17 Oct 2026 09:54:49 +0000",
       "source": "Al Jazeera"
     }
   ]
