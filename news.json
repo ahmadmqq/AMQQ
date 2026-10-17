@@ -1,26 +1,32 @@
 {
-  "updated": "2026-10-17T06:08:30.132810+00:00",
+  "updated": "2026-10-17T06:41:23.585389+00:00",
   "items": [
     {
-      "title": "طهران تنفي التورط في هجمات أنصار الله على السعودية وتعرض الوساطة، والتحالف يعلن اعتراض مسيرات وصواريخ",
-      "link": "https://www.bbc.com/arabic/articles/cm369x16882do?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 18:45:40 GMT",
+      "title": "ماذا نعرف عن الأسلحة المستخدمة في المواجهات بين السعودية وجماعة أنصار الله؟",
+      "link": "https://www.bbc.com/arabic/articles/cmj6j1535lglo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 17 Oct 2026 06:18:50 GMT",
       "source": "BBC Arabic"
     },
     {
-      "title": "الاحتجاجات في ألبانيا تتحول إلى أعمال عنف: ما الذي نعرفه؟",
+      "title": "ترامب يعلّق عقوبات جديدة على روسيا قبل دخولها حيّز التنفيذ",
+      "link": "https://www.bbc.com/arabic/articles/c6z7xlgnw0qro?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 17 Oct 2026 06:22:39 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "احتجاجات \"الفلامنغو\" تهزّ ألبانيا: ما أسباب التصعيد؟",
       "link": "https://www.bbc.com/arabic/articles/c9vgr6mndkxdo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 04:24:54 GMT",
       "source": "BBC Arabic"
     },
     {
-      "title": "من داخل الهجوم الأوكراني الذي يدفع روسيا إلى التراجع - مع دور رئيسي لستارلينك",
+      "title": "أوكرانيا تتقدّم في دونباس، فهل تهدّد قيود ستارلينك مكاسبها على الأرض؟",
       "link": "https://www.bbc.com/arabic/articles/cmz7xl1d283jo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 16 Oct 2026 23:59:02 GMT",
       "source": "BBC Arabic"
     },
     {
-      "title": "إصابة فلسطينيين وصحافية أمريكية في هجوم لمستوطنين إسرائيليين خلال قطف الزيتون بالضفة الغربية المحتلة",
+      "title": "إصابة فلسطينيين وصحافية أمريكية بهجوم لمستوطنين في الضفة الغربية المحتلة",
       "link": "https://www.bbc.com/arabic/articles/c6rryq2wr11jo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 16 Oct 2026 21:40:38 GMT",
       "source": "BBC Arabic"
@@ -44,21 +50,15 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "\"عبّارة السلام\" تعود للواجهة: حكم بتعويضات تتجاوز 60 مليون يورو",
-      "link": "https://www.bbc.com/arabic/articles/cm3wv413wv29o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 15:07:08 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Brazil sees record fall in Amazon deforestation as key election looms",
       "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 02:33:09 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Trump waives several Russia sanctions as new US law takes effect",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 17 Oct 2026 05:02:50 GMT",
+      "date": "Sat, 17 Oct 2026 06:39:40 GMT",
       "source": "BBC World"
     },
     {
@@ -206,6 +206,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Not cool: who hacked France’s supermarket fridges?",
+      "link": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
+      "date": "Sat, 17 Oct 2026 04:00:20 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
       "link": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
       "date": "Fri, 16 Oct 2026 18:09:34 GMT",
@@ -233,12 +239,6 @@
       "title": "UK risks losing key role in European space industry over satellite contract, says Airbus boss",
       "link": "https://www.theguardian.com/business/2026/oct/16/uk-risk-role-european-space-industry-satellite-contract-airbus-boss",
       "date": "Fri, 16 Oct 2026 14:47:16 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Extreme heatwaves in Europe not changing Britons’ holiday plans, say travel bosses",
-      "link": "https://www.theguardian.com/business/2026/oct/16/extreme-heatwaves-in-europe-not-changing-brits-holiday-plans-say-travel-bosses",
-      "date": "Fri, 16 Oct 2026 16:16:25 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "AI fears are being weaponised",
+      "link": "https://www.aljazeera.com/opinions/2026/10/17/ai-fears-are-being-weaponised?traffic_source=rss",
+      "date": "Sat, 17 Oct 2026 06:21:39 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "The chatbot murder guide: AI’s struggle between privacy, reporting violence",
       "link": "https://www.aljazeera.com/news/2026/10/17/the-chatbot-murder-guide-ais-struggle-between-privacy-reporting-violence?traffic_source=rss",
       "date": "Sat, 17 Oct 2026 05:50:37 +0000",
@@ -329,12 +335,6 @@
       "title": "Albania’s PM blames ‘foreign hands’ for protests",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests?traffic_source=rss",
       "date": "Sat, 17 Oct 2026 04:21:18 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Southern California wildfire engulfs homes, prompts evacuation orders",
-      "link": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss",
-      "date": "Sat, 17 Oct 2026 03:30:36 +0000",
       "source": "Al Jazeera"
     }
   ]
