@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T07:47:00.087133+00:00",
+  "updated": "2026-10-17T08:07:07.808889+00:00",
   "items": [
     {
       "title": "ماذا نعرف عن الأسلحة المستخدمة في المواجهات بين السعودية وجماعة أنصار الله؟",
@@ -50,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 17 Oct 2026 02:33:09 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 07:41:01 GMT",
@@ -80,6 +74,12 @@
       "source": "BBC World"
     },
     {
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 17 Oct 2026 02:33:09 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
       "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 16 Oct 2026 14:31:04 GMT",
@@ -92,9 +92,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 23:54:35 GMT",
+      "title": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
+      "link": "https://www.bbc.co.uk/news/articles/c6kg53zrexdeo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 17 Oct 2026 05:01:40 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Arrests made for pro-Nazi chants at Hajduk Split-Ajax match in Croatia",
+      "link": "https://www.aljazeera.com/sports/2026/10/17/pro-nazi-arrests-made-for-chants-at-hajduk-split-ajax-in-uefa-europa-league?traffic_source=rss",
+      "date": "Sat, 17 Oct 2026 07:45:31 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Senegal-sized Antarctic glacier melting faster than thought: Why it matters",
+      "link": "https://www.aljazeera.com/news/2026/10/17/senegal-sized-antarctic-glacier-melting-faster-than-thought-why-it-matters?traffic_source=rss",
+      "date": "Sat, 17 Oct 2026 07:43:19 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "11-year old flying car company mocks Tesla Roadster",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/11-year-old-flying-car-company-mocks-tesla-roadster?traffic_source=rss",
       "date": "Sat, 17 Oct 2026 07:32:42 +0000",
@@ -323,18 +335,6 @@
       "title": "The chatbot murder guide: AI’s struggle between privacy, reporting violence",
       "link": "https://www.aljazeera.com/news/2026/10/17/the-chatbot-murder-guide-ais-struggle-between-privacy-reporting-violence?traffic_source=rss",
       "date": "Sat, 17 Oct 2026 05:50:37 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
-      "link": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss",
-      "date": "Sat, 17 Oct 2026 05:19:19 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Three Mexicans jailed for 158 years each for killing Australian, US surfers",
-      "link": "https://www.aljazeera.com/news/2026/10/17/three-mexicans-jailed-for-158-years-each-for-killing-australian-us-surfers?traffic_source=rss",
-      "date": "Sat, 17 Oct 2026 05:01:14 +0000",
       "source": "Al Jazeera"
     }
   ]
