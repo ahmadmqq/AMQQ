@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-18T23:00:58.754580+00:00",
+  "updated": "2026-10-18T23:22:43.276847+00:00",
   "items": [
     {
       "title": "مقتل طيارَيْن سعودييْن في تحطم مروحية، والأزهر يدعو إلى وساطة عربية وإسلامية عاجلة لإنهاء صراعات المنطقة",
       "link": "https://www.bbc.com/arabic/articles/cm5ynl9qnqk2o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 18 Oct 2026 19:15:47 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "قتلى وجرحى إثر حريق نجم عن \"حادث خطير\" في قاعدة عسكرية غربي كندا",
+      "link": "https://www.bbc.com/arabic/articles/cr20w1jpvzn1o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 18 Oct 2026 23:05:42 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "اضطرابات فرنسا تتصدر النقاش على وسائل التواصل الاجتماعي",
-      "link": "https://www.bbc.com/arabic/articles/cq78pmml55ezo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 18 Oct 2026 16:34:48 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Macron calls for 'calm and order' after riots across France",
       "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 18 Oct 2026 20:33:21 GMT",
@@ -64,7 +64,7 @@
     {
       "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
       "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 18 Oct 2026 22:10:45 GMT",
+      "date": "Sun, 18 Oct 2026 23:20:15 GMT",
       "source": "BBC World"
     },
     {
@@ -98,6 +98,12 @@
       "source": "BBC World"
     },
     {
+      "title": "Microsoft pulls out of UK's largest AI data centre",
+      "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 18 Oct 2026 16:46:42 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "There's a crackdown on sports piracy - but is it already out of control?",
       "link": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 18 Oct 2026 00:11:09 GMT",
@@ -122,27 +128,21 @@
       "source": "BBC Business"
     },
     {
-      "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
-      "link": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 18 Oct 2026 08:12:24 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "Living with a stink? Technology might help",
       "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 15 Oct 2026 23:18:21 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "'I took a chance on the whisky industry and I haven't looked back'",
-      "link": "https://www.bbc.co.uk/news/articles/c6y8ln9831v3o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 18 Oct 2026 08:12:17 GMT",
+      "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
+      "link": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 18 Oct 2026 08:12:24 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Banks expect to be hit with higher taxes in Budget",
-      "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 16 Oct 2026 10:16:27 GMT",
+      "title": "'I took a chance on the whisky industry and I haven't looked back'",
+      "link": "https://www.bbc.co.uk/news/articles/c6y8ln9831v3o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 18 Oct 2026 08:12:17 GMT",
       "source": "BBC Business"
     },
     {
@@ -194,6 +194,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "Electricity costs put UK steelmakers in worst position in three years against EU rivals",
+      "link": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals",
+      "date": "Sun, 18 Oct 2026 23:01:12 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
       "link": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
       "date": "Sun, 18 Oct 2026 13:05:14 GMT",
@@ -206,15 +212,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "World Bank says ‘small AI’ could transform developing countries",
-      "link": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
-      "date": "Sun, 18 Oct 2026 10:00:56 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "Condé Nast’s UK profits drop by more than a third as sale of Vogue publisher ruled out",
       "link": "https://www.theguardian.com/media/2026/oct/18/conde-nast-uk-profits-drop-vogue-publisher-magazine-group",
       "date": "Sun, 18 Oct 2026 07:00:53 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "World Bank says ‘small AI’ could transform developing countries",
+      "link": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
+      "date": "Sun, 18 Oct 2026 10:00:56 GMT",
       "source": "Guardian Business"
     },
     {
@@ -224,21 +230,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them?",
-      "link": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
-      "date": "Sun, 18 Oct 2026 13:30:00 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "US workers facing deadly heat borrow from tomato pickers to win key protections",
       "link": "https://www.theguardian.com/environment/2026/oct/18/workers-heat-protections",
       "date": "Sun, 18 Oct 2026 12:00:02 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "£3,500 and no work done: the offer to help that’s really a roofing scam",
-      "link": "https://www.theguardian.com/money/2026/oct/18/suspected-roofing-frauds-top-citizens-advice-scam-list",
-      "date": "Sun, 18 Oct 2026 06:00:51 GMT",
+      "title": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them?",
+      "link": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
+      "date": "Sun, 18 Oct 2026 13:30:00 GMT",
       "source": "Guardian Business"
     },
     {
