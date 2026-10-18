@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-18T10:35:26.471686+00:00",
+  "updated": "2026-10-18T10:58:37.401139+00:00",
   "items": [
     {
       "title": "مقتل طيارين سعوديين بتحطم مروحية استطلاع قرب اليمن، وجماعة أنصار الله تعلن إسقاط مسيّرة سعودية",
       "link": "https://www.bbc.com/arabic/articles/cm5ynl9qnqk2o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 18 Oct 2026 09:20:33 GMT",
+      "date": "Sun, 18 Oct 2026 10:49:39 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -17,6 +17,12 @@
       "title": "نتنياهو يدين اعتداءات المستوطنين على صحفية ووفد دبلوماسي أوروبي في الضفة الغربية المحتلة",
       "link": "https://www.bbc.com/arabic/articles/cmly0d9gleeeo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 18 Oct 2026 08:42:56 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "البابا لاون يعلن استئناف مهامه تدريجياً بعد جراحة سرطان الرئة",
+      "link": "https://www.bbc.com/arabic/articles/cvde8zj614p8o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 18 Oct 2026 10:45:02 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,15 +50,9 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "ترامب يعلّق عقوباتٍ على روسيا، وزيلنسكي يتّهمه بـ \"مكافأة بوتين\"",
-      "link": "https://www.bbc.com/arabic/articles/c6z7xlgnw0qro?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 17 Oct 2026 15:55:46 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
       "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 18 Oct 2026 09:56:45 GMT",
+      "date": "Sun, 18 Oct 2026 10:53:54 GMT",
       "source": "BBC World"
     },
     {
@@ -260,7 +260,7 @@
       "source": "NPR World"
     },
     {
-      "title": "Scuffles and fires break out as protesters rally across France, joining students",
+      "title": "Paris police report 855 arrests after violent clashes and looting during protests",
       "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
       "date": "Sat, 17 Oct 2026 11:57:40 -0400",
       "source": "NPR World"
@@ -290,6 +290,30 @@
       "source": "NPR World"
     },
     {
+      "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
+      "link": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
+      "date": "Sun, 18 Oct 2026 10:34:09 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Russia’s war in Ukraine puts Europe on edge",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/18/russias-war-in-ukraine-puts-europe-on-edge?traffic_source=rss",
+      "date": "Sun, 18 Oct 2026 10:33:36 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
+      "link": "https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss",
+      "date": "Sun, 18 Oct 2026 10:30:00 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks",
+      "link": "https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss",
+      "date": "Sun, 18 Oct 2026 10:23:38 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Indian YouTuber Dhruv Rathee leads anti-BJP protest in London",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss",
       "date": "Sun, 18 Oct 2026 10:18:03 +0000",
@@ -311,30 +335,6 @@
       "title": "Food or medicine? The impossible choices facing Sudan’s chronically ill",
       "link": "https://www.aljazeera.com/features/2026/10/18/food-or-medicine-the-impossible-choices-facing-sudans-chronically-ill?traffic_source=rss",
       "date": "Sun, 18 Oct 2026 09:22:44 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
-      "link": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss",
-      "date": "Sun, 18 Oct 2026 09:16:54 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "LIVE: Leeds United vs Manchester United – Premier League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/18/live-leeds-united-vs-manchester-united-premier-league?traffic_source=rss",
-      "date": "Sun, 18 Oct 2026 09:16:06 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Haaland’s record scoring spree helps Man City to seventh Premier League win",
-      "link": "https://www.aljazeera.com/sports/2026/10/18/haalands-record-scoring-spree-helps-man-city-to-seventh-premier-league-win?traffic_source=rss",
-      "date": "Sun, 18 Oct 2026 08:56:41 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Chelsea’s injury-hit Emi Martinez will return to action ‘in a few weeks’",
-      "link": "https://www.aljazeera.com/sports/2026/10/18/chelseas-injury-hit-emi-martinez-will-return-to-action-in-a-few-weeks?traffic_source=rss",
-      "date": "Sun, 18 Oct 2026 08:40:49 +0000",
       "source": "Al Jazeera"
     }
   ]
