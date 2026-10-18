@@ -1,10 +1,22 @@
 {
-  "updated": "2026-10-18T06:08:59.321673+00:00",
+  "updated": "2026-10-18T06:41:36.434986+00:00",
   "items": [
     {
       "title": "دبلوماسيون أوروبيون يتعرضون لهجوم من مستوطنين إسرائيليين في الضفة الغربية المحتلة",
       "link": "https://www.bbc.com/arabic/articles/cmly0d9gleeeo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 22:52:38 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "الألم المزمن في منتصف العمر: ماذا تواجه المرأة بعد انقطاع الطمث؟",
+      "link": "https://www.bbc.com/arabic/articles/cmp3gkvqrgx5o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 18 Oct 2026 06:18:53 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "ماذا لو امتلك الذكاء الاصطناعي مشاعر كالبشر؟ هل ستتأثر حياتنا وسلامتنا الشخصية؟",
+      "link": "https://www.bbc.com/arabic/articles/c317kwrr0v0wo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 18 Oct 2026 06:15:15 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -26,7 +38,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "تحليل: روسيا تسير على حبل مشدود في اليمن مع تغير موازين القوى والانقسامات",
+      "title": "تحليل: هل من دور لروسيا في اليمن؟",
       "link": "https://www.bbc.com/arabic/articles/c85ynpv4zxwyo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 19:37:53 GMT",
       "source": "BBC Arabic"
@@ -38,21 +50,15 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "سيارة تسلا الطائرة \"رودستر\" تثير نقاشاً واسعاً عبر وسائل التواصل الاجتماعي",
-      "link": "https://www.bbc.com/arabic/articles/crn8w6e707y2o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 17 Oct 2026 16:46:20 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "كيف كان يمكن منع هطول الأمطار \"القياسي\" في إسطنبول من التحوّل إلى فيضانات؟",
-      "link": "https://www.bbc.com/arabic/articles/cqy7ln2v50p6o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 17 Oct 2026 15:56:16 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests",
       "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 18 Oct 2026 05:56:20 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 17 Oct 2026 22:09:50 GMT",
       "source": "BBC World"
     },
     {
@@ -83,12 +89,6 @@
       "title": "Anti-government protesters battle with police in Albania",
       "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 20:53:00 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 17 Oct 2026 22:09:50 GMT",
       "source": "BBC World"
     },
     {
@@ -194,6 +194,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "Heat pumps and insulation would cut UK living costs more than new oilfields, study suggests",
+      "link": "https://www.theguardian.com/environment/2026/oct/18/heat-pumps-insulation-warm-homes-plan-beat-new-oilfields-cutting-uk-cost-of-living-study",
+      "date": "Sun, 18 Oct 2026 06:00:52 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Bank of England governor walks out of IMF summit in protest against Russia",
       "link": "https://www.theguardian.com/business/2026/oct/17/bank-of-england-governor-andrew-bailey-walks-out-imf-summit-protest-russia",
       "date": "Sat, 17 Oct 2026 12:15:37 GMT",
@@ -203,6 +209,12 @@
       "title": "The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’",
       "link": "https://www.theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism",
       "date": "Sat, 17 Oct 2026 11:33:20 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "£3,500 and no work done: the offer to help that’s really a roofing scam",
+      "link": "https://www.theguardian.com/money/2026/oct/18/suspected-roofing-frauds-top-citizens-advice-scam-list",
+      "date": "Sun, 18 Oct 2026 06:00:51 GMT",
       "source": "Guardian Business"
     },
     {
@@ -227,18 +239,6 @@
       "title": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
       "link": "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
       "date": "Sat, 17 Oct 2026 14:42:11 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "‘Countries are defying gravity’: how much longer can global economy resist chaos?",
-      "link": "https://www.theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable",
-      "date": "Sat, 17 Oct 2026 10:00:27 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Not cool: who hacked France’s supermarket fridges?",
-      "link": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
-      "date": "Sat, 17 Oct 2026 04:00:20 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Daniel Dubois defeats Fabio Wardley to retain WBO heavyweight boxing title",
+      "link": "https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss",
+      "date": "Sun, 18 Oct 2026 06:34:02 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Guatemalan former prosecutor shot dead at sports centre",
       "link": "https://www.aljazeera.com/news/2026/10/18/guatemalan-former-prosecutor-shot-dead-at-sports-centre?traffic_source=rss",
       "date": "Sun, 18 Oct 2026 05:53:33 +0000",
@@ -329,12 +335,6 @@
       "title": "At least 19 dead in stampede at Kolkata Hindu festival",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss",
       "date": "Sun, 18 Oct 2026 04:21:46 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Tunisia’s economic crisis deepens as the promise of a better life fades",
-      "link": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss",
-      "date": "Sun, 18 Oct 2026 04:14:42 +0000",
       "source": "Al Jazeera"
     }
   ]
