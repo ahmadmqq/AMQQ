@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T13:58:17.502755+00:00",
+  "updated": "2026-10-18T14:19:52.973641+00:00",
   "items": [
     {
       "title": "مقتل طيارَين سعوديَين في تحطم مروحية استطلاع قرب اليمن، وجماعة أنصار الله تعلن إسقاط مسيّرة سعودية",
@@ -8,15 +8,21 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "\"البيت الأبيض في عهد دونالد ترامب يتداعى أخيراً\" - الإندبندنت",
-      "link": "https://www.bbc.com/arabic/articles/ckpdgjewg0nzo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 18 Oct 2026 09:15:09 GMT",
+      "title": "بعد دعوة السيسي لتفويض برلماني، ما حدود الدور العسكري المصري المحتمل دعماً للسعودية؟",
+      "link": "https://www.bbc.com/arabic/articles/cq74pdnx33nxo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 18 Oct 2026 14:18:53 GMT",
       "source": "BBC Arabic"
     },
     {
-      "title": "الاتحاد الأوروبي يدين اعتداء مستوطنين على دبلوماسيين في الضفة الغربية، ونتنياهو يصفه بـ\"غير المقبول\"",
+      "title": "الصحفية الأمريكية هايدي ليفين تروي لبي بي سي تفاصيل اعتداء مستوطنين عليها في الضفة الغربية",
       "link": "https://www.bbc.com/arabic/articles/cmly0d9gleeeo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 18 Oct 2026 12:31:00 GMT",
+      "date": "Sun, 18 Oct 2026 14:08:11 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "\"البيت الأبيض في عهد دونالد ترامب يتداعى أخيراً\" - الإندبندنت",
+      "link": "https://www.bbc.com/arabic/articles/ckpdgjewg0nzo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 18 Oct 2026 09:15:09 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "البابا لاون يعلن استئناف مهامه تدريجياً بعد جراحة سرطان الرئة",
       "link": "https://www.bbc.com/arabic/articles/cvde8zj614p8o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 18 Oct 2026 10:45:02 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "ماذا لو امتلك الذكاء الاصطناعي مشاعر كالبشر؟ هل ستتأثر حياتنا وسلامتنا الشخصية؟",
-      "link": "https://www.bbc.com/arabic/articles/c317kwrr0v0wo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 18 Oct 2026 06:15:15 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -76,7 +76,7 @@
     {
       "title": "Several dead or injured in major fire at Canada military base",
       "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 18 Oct 2026 12:41:59 GMT",
+      "date": "Sun, 18 Oct 2026 14:07:20 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Why have France’s school protests become a wider political crisis?",
+      "link": "https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss",
+      "date": "Sun, 18 Oct 2026 13:48:04 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Sudan army accused of drone strike on livestock market",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
+      "date": "Sun, 18 Oct 2026 13:37:03 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Was ancient India the world’s forgotten superpower?",
       "link": "https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss",
       "date": "Sun, 18 Oct 2026 13:17:31 +0000",
@@ -323,18 +335,6 @@
       "title": "Why have settler pogroms surged during olive harvest season in West Bank?",
       "link": "https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss",
       "date": "Sun, 18 Oct 2026 12:35:56 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Nottingham Forest vs Arsenal LIVE: Premier League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/18/nottingham-forest-vs-arsenal-live-premier-league?traffic_source=rss",
-      "date": "Sun, 18 Oct 2026 12:30:00 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "There’s a ‘New Middle East’, but not the one Israel planned",
-      "link": "https://www.aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east?traffic_source=rss",
-      "date": "Sun, 18 Oct 2026 12:07:34 +0000",
       "source": "Al Jazeera"
     }
   ]
