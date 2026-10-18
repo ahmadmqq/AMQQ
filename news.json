@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T03:33:20.762323+00:00",
+  "updated": "2026-10-18T04:03:03.271067+00:00",
   "items": [
     {
       "title": "دبلوماسيون أوروبيون يتعرضون لهجوم من مستوطنين إسرائيليين في الضفة الغربية المحتلة",
@@ -11,6 +11,12 @@
       "title": "الشوارع الفرنسية تشتعل ومواجهات مع الشرطة في مدن عدة",
       "link": "https://www.bbc.com/arabic/articles/cm5ynpzvnzgvo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 23:32:45 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "ألماسة وردية نادرة تُعرض في فرنسا بعد 100 عام من سرقتها",
+      "link": "https://www.bbc.com/arabic/articles/c64g1z54lx9ro?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 18 Oct 2026 03:34:10 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "تونس: أكبر احتجاجات منذ سنوات للمطالبة بالحريات وتحسين المعيشة",
-      "link": "https://www.bbc.com/arabic/articles/cky83gee57dzo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 17 Oct 2026 13:56:48 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
       "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 17 Oct 2026 20:52:17 GMT",
@@ -64,7 +64,7 @@
     {
       "title": "Deadly fire breaks out at Canada military base",
       "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 18 Oct 2026 03:23:08 GMT",
+      "date": "Sun, 18 Oct 2026 04:00:50 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss",
+      "date": "Sun, 18 Oct 2026 03:44:25 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Search continues for 11 missing after boat sank off Mexico’s Baja coast",
       "link": "https://www.aljazeera.com/news/2026/10/18/search-continues-for-11-missing-after-boat-sank-off-mexicos-baja-coast?traffic_source=rss",
       "date": "Sun, 18 Oct 2026 02:33:14 +0000",
@@ -329,12 +335,6 @@
       "title": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
       "date": "Sun, 18 Oct 2026 00:00:11 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "US ambassador urges Israel to prosecute attackers of American journalist",
-      "link": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
-      "date": "Sat, 17 Oct 2026 23:40:59 +0000",
       "source": "Al Jazeera"
     }
   ]
