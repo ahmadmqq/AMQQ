@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T20:25:06.741571+00:00",
+  "updated": "2026-10-18T20:49:50.077748+00:00",
   "items": [
     {
       "title": "مقتل طيارَيْن سعودييْن في تحطم مروحية، والأزهر يدعو إلى وساطة عربية وإسلامية عاجلة لإنهاء صراعات المنطقة",
@@ -14,15 +14,15 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "توغلات إسرائيلية جديدة جنوبي سوريا وسكان يروون لبي بي سي تفاصيل تجريف مئات الدونمات الزراعية",
-      "link": "https://www.bbc.com/arabic/articles/ckdd83r7d2eno?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 18 Oct 2026 17:31:42 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "بعد دعوة السيسي لتفويض برلماني، ما حدود الدور العسكري المصري المحتمل دعماً للسعودية؟",
       "link": "https://www.bbc.com/arabic/articles/cq74pdnx33nxo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 18 Oct 2026 14:18:53 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "توغلات إسرائيلية جديدة جنوبي سوريا وسكان يروون لبي بي سي تفاصيل تجريف مئات الدونمات الزراعية",
+      "link": "https://www.bbc.com/arabic/articles/ckdd83r7d2eno?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 18 Oct 2026 17:31:42 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -56,9 +56,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Macron calls for calm in France and warns rioting must not escalate",
+      "title": "Macron calls for 'calm and order' after riots across France",
       "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 18 Oct 2026 20:06:20 GMT",
+      "date": "Sun, 18 Oct 2026 20:33:21 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
+      "date": "Sun, 18 Oct 2026 20:26:03 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
+      "link": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss",
+      "date": "Sun, 18 Oct 2026 20:19:22 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "What’s behind Europe’s youth protests?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/whats-behind-europes-youth-protests?traffic_source=rss",
+      "date": "Sun, 18 Oct 2026 20:05:07 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "India’s crackdown on cockroaches, critics and cameras",
       "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
       "date": "Sun, 18 Oct 2026 19:31:45 +0000",
@@ -317,24 +335,6 @@
       "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
       "link": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
       "date": "Sun, 18 Oct 2026 18:44:30 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Gaza bodybuilders find solace in strongman competition among the ruins",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss",
-      "date": "Sun, 18 Oct 2026 18:36:02 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Why the US is holding secret talks with Myanmar’s military ruler",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss",
-      "date": "Sun, 18 Oct 2026 18:22:11 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/tiger-shroff-mumbai-shooting-salman-khan?traffic_source=rss",
-      "date": "Sun, 18 Oct 2026 17:58:49 +0000",
       "source": "Al Jazeera"
     }
   ]
