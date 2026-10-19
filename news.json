@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T21:53:49.211449+00:00",
+  "updated": "2026-10-19T22:16:58.978713+00:00",
   "items": [
     {
       "title": "القوات الحكومية تقصف تمركزات أنصار الله، وتقول إنها \"انتزعت زمام المبادرة\"",
@@ -50,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "Australian MP critically injured after being hit by car in apparent attack",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 14:09:54 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 19 Oct 2026 20:49:00 GMT",
@@ -95,6 +89,12 @@
       "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
       "link": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 19 Oct 2026 14:13:18 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+      "link": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 19 Oct 2026 16:16:51 GMT",
       "source": "BBC World"
     },
     {
@@ -290,7 +290,13 @@
       "source": "NPR World"
     },
     {
-      "title": "160 reported killed in escalating drone attacks across Sudan",
+      "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
+      "link": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss",
+      "date": "Mon, 19 Oct 2026 21:46:00 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "160 people reported killed in escalating drone attacks across Sudan",
       "link": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
       "date": "Mon, 19 Oct 2026 21:38:46 +0000",
       "source": "Al Jazeera"
@@ -329,12 +335,6 @@
       "title": "Trump signs order launching women’s health division at NIH, White House",
       "link": "https://www.aljazeera.com/news/2026/10/19/trump-signs-order-launching-womens-health-division-at-nih-white-house?traffic_source=rss",
       "date": "Mon, 19 Oct 2026 20:29:46 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Finland seeking one million land mines as it eyes Russian threat",
-      "link": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
-      "date": "Mon, 19 Oct 2026 19:57:10 +0000",
       "source": "Al Jazeera"
     }
   ]
