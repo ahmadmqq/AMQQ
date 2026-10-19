@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-19T03:43:43.616766+00:00",
+  "updated": "2026-10-19T04:16:52.974171+00:00",
   "items": [
+    {
+      "title": "ماكرون \"غاضب\" ويتوعد بـ\"المحاسبة\" بعد اضطرابات واحتجاجات وفوضى شهدتها فرنسا",
+      "link": "https://www.bbc.com/arabic/articles/cm5ynpzvnzgvo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 19 Oct 2026 04:10:01 GMT",
+      "source": "BBC Arabic"
+    },
     {
       "title": "قتلى وجرحى إثر حريق نجم عن \"حادث خطير\" في قاعدة عسكرية غربي كندا",
       "link": "https://www.bbc.com/arabic/articles/cr20w1jpvzn1o?at_medium=RSS&at_campaign=rss",
@@ -35,12 +41,6 @@
       "title": "توغلات إسرائيلية جديدة جنوبي سوريا وسكان يروون لبي بي سي تفاصيل تجريف مئات الدونمات الزراعية",
       "link": "https://www.bbc.com/arabic/articles/ckdd83r7d2eno?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 18 Oct 2026 17:31:42 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "تجدُّد الاشتباكات بين الشرطة الفرنسية ومتظاهرين في باريس، وترامب يقول: \"فرنسا تحترق\"",
-      "link": "https://www.bbc.com/arabic/articles/cm5ynpzvnzgvo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 18 Oct 2026 17:51:27 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -86,9 +86,9 @@
       "source": "BBC World"
     },
     {
-      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-      "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 18 Oct 2026 23:28:45 GMT",
+      "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+      "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 19 Oct 2026 03:44:02 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "‘It broke my heart’: Limoges residents reel after town hall fire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/it-broke-my-heart-limoges-residents-reel-after-town-hall-fire?traffic_source=rss",
+      "date": "Mon, 19 Oct 2026 03:40:52 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Anthropic says it will commit 5% of shares to ‘public benefit’ fund",
       "link": "https://www.aljazeera.com/economy/2026/10/19/anthropic-says-it-will-commit-5-of-shares-to-public-benefit-fund?traffic_source=rss",
       "date": "Mon, 19 Oct 2026 03:23:54 +0000",
@@ -329,12 +335,6 @@
       "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
       "date": "Sun, 18 Oct 2026 23:59:34 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
-      "link": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss",
-      "date": "Sun, 18 Oct 2026 23:58:05 +0000",
       "source": "Al Jazeera"
     }
   ]
