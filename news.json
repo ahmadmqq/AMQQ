@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T21:23:41.698171+00:00",
+  "updated": "2026-10-19T21:53:49.211449+00:00",
   "items": [
     {
       "title": "القوات الحكومية تقصف تمركزات أنصار الله، وتقول إنها \"انتزعت زمام المبادرة\"",
@@ -98,6 +98,12 @@
       "source": "BBC World"
     },
     {
+      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+      "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 19 Oct 2026 21:30:06 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "US bans DeepSeek AI from government use as tech tension with China continues",
       "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 19 Oct 2026 18:21:54 GMT",
@@ -137,12 +143,6 @@
       "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
       "link": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 19 Oct 2026 12:16:32 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "China's growth accelerates as AI boom helps boost exports",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 06:08:02 GMT",
       "source": "BBC Business"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "160 reported killed in escalating drone attacks across Sudan",
+      "link": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
+      "date": "Mon, 19 Oct 2026 21:38:46 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Could your halal pension be funding Israel’s military?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss",
+      "date": "Mon, 19 Oct 2026 21:28:02 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Israeli police say they arrested 10 in connection with settler attacks",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/israeli-police-say-they-arrested-10-in-connection-with-settler-attacks?traffic_source=rss",
       "date": "Mon, 19 Oct 2026 21:00:03 +0000",
@@ -323,18 +335,6 @@
       "title": "Finland seeking one million land mines as it eyes Russian threat",
       "link": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
       "date": "Mon, 19 Oct 2026 19:57:10 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "One killed in US shooting near mosque in Columbus, Ohio",
-      "link": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
-      "date": "Mon, 19 Oct 2026 19:50:20 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Florida issues arrest warrant for Cuban leader Raul Castro",
-      "link": "https://www.aljazeera.com/news/2026/10/19/florida-issues-arrest-warrant-for-cuban-leader-raul-castro?traffic_source=rss",
-      "date": "Mon, 19 Oct 2026 19:48:53 +0000",
       "source": "Al Jazeera"
     }
   ]
