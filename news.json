@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-19T19:24:22.635494+00:00",
+  "updated": "2026-10-19T19:58:11.173614+00:00",
   "items": [
     {
       "title": "القوات الحكومية تقصف تمركزات أنصار الله، وتقول إنها \"انتزعت زمام المبادرة\"",
       "link": "https://www.bbc.com/arabic/articles/cq80zd0m0v2go?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 19 Oct 2026 16:34:42 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "كيف تتحول احتجاجات جيل زد إلى \"كرة ثلج\" تهز الحكومات؟",
+      "link": "https://www.bbc.com/arabic/articles/c3kgq2wz4nj5o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 19 Oct 2026 19:30:49 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "\"أكتوبر لم يعد وردياً\": نساء سودانيات يتحدثن عن المرض والحرب",
       "link": "https://www.bbc.com/arabic/articles/cm93z99587w8o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 19 Oct 2026 05:58:59 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "ماذا نعرف عن الحريق في قاعدة عسكرية كندية؟",
-      "link": "https://www.bbc.com/arabic/articles/cr20w1jpvzn1o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 07:30:45 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -194,6 +194,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "Burnham urges officials to come up with more radical options for Thames Water",
+      "link": "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control",
+      "date": "Mon, 19 Oct 2026 18:37:14 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "France hit by debt sell-off as violent protests unnerve investors",
       "link": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors",
       "date": "Mon, 19 Oct 2026 15:23:54 GMT",
@@ -206,15 +212,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "‘Concerning issues’ found at GB power grid by inquiry into cover-up claims",
-      "link": "https://www.theguardian.com/business/2026/oct/19/concerning-issues-found-at-gb-power-grid-by-inquiry-into-cover-up-claims",
-      "date": "Mon, 19 Oct 2026 16:14:47 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "Masts removed from bomb-laden WWII ship in Thames in bid to avoid explosion",
       "link": "https://www.theguardian.com/uk-news/2026/oct/19/us-wwii-ship-richard-montgomery-thames-bombs-prevent-explosion",
       "date": "Mon, 19 Oct 2026 16:21:06 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "‘Concerning issues’ found at GB power grid by inquiry into cover-up claims",
+      "link": "https://www.theguardian.com/business/2026/oct/19/concerning-issues-found-at-gb-power-grid-by-inquiry-into-cover-up-claims",
+      "date": "Mon, 19 Oct 2026 16:14:47 GMT",
       "source": "Guardian Business"
     },
     {
@@ -233,12 +239,6 @@
       "title": "More than half of UK first-time buyers paying more for mortgage than they did for rent",
       "link": "https://www.theguardian.com/money/2026/oct/19/uk-first-time-buyers-paying-more-mortgage-rent",
       "date": "Mon, 19 Oct 2026 09:10:41 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "AI firm Anthropic to commit 5% of shares to fund for ‘public good’",
-      "link": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good",
-      "date": "Mon, 19 Oct 2026 12:51:04 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Residents hoisted from rooftops amid Spain’s deadly flooding",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/residents-hoisted-from-rooftops-amid-spains-deadly-flooding?traffic_source=rss",
+      "date": "Mon, 19 Oct 2026 19:38:40 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Indian court extends detention of ‘Cockroach’ leaders",
       "link": "https://www.aljazeera.com/news/2026/10/19/indian-court-extends-detention-of-cockroach-leaders?traffic_source=rss",
       "date": "Mon, 19 Oct 2026 19:09:22 +0000",
@@ -329,12 +335,6 @@
       "title": "Ronaldo banned for 30 days, fined $285 by Portugal over spat with Jesus",
       "link": "https://www.aljazeera.com/sports/2026/10/19/ronaldo-banned-for-30-days-fined-285-by-portugal-over-spat-with-jesus?traffic_source=rss",
       "date": "Mon, 19 Oct 2026 17:52:10 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Chuck Schumer urges FCC to block AI robocalls before elections",
-      "link": "https://www.aljazeera.com/economy/2026/10/19/chuck-schumer-urges-fcc-to-block-ai-robocalls-before-elections?traffic_source=rss",
-      "date": "Mon, 19 Oct 2026 17:40:56 +0000",
       "source": "Al Jazeera"
     }
   ]
