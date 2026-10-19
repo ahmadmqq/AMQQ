@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-19T13:22:39.248726+00:00",
+  "updated": "2026-10-19T14:05:12.693694+00:00",
   "items": [
+    {
+      "title": "مقتل أكثر من 50 شخصاً في هجوم أنصار الله على معسكر أمني، وتأجيل تصويت مصري بشأن دعم السعودية",
+      "link": "https://www.bbc.com/arabic/articles/cq80zd0m0v2go?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 19 Oct 2026 13:43:44 GMT",
+      "source": "BBC Arabic"
+    },
     {
       "title": "اعتقال عشرة إسرائيليين على خلفية اعتداءات المستوطنين بالضفة وسط خلافات بين الأجهزة الأمنية",
       "link": "https://www.bbc.com/arabic/articles/ck3r54ezwylpo?at_medium=RSS&at_campaign=rss",
@@ -38,12 +44,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "هل يملك مانشستر سيتي فرصة لكسب استئنافه والإفلات من عقوبات محتملة؟",
-      "link": "https://www.bbc.com/arabic/articles/c6pvg08v4kmjo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 03:30:05 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "هل تصمد اقتصادات الخليج أمام الحرب وتحديات الجغرافيا؟",
       "link": "https://www.bbc.com/arabic/articles/ckx2q90ve8d9o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 18 Oct 2026 15:59:56 GMT",
@@ -52,7 +52,7 @@
     {
       "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
       "link": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 09:24:33 GMT",
+      "date": "Mon, 19 Oct 2026 13:44:57 GMT",
       "source": "BBC World"
     },
     {
@@ -80,7 +80,7 @@
       "source": "BBC World"
     },
     {
-      "title": "Italian PM Meloni to hold emergency meeting after weekend of violent clashes",
+      "title": "Meloni calls emergency meeting after weekend of violent clashes",
       "link": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 19 Oct 2026 11:23:36 GMT",
       "source": "BBC World"
@@ -92,9 +92,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
-      "link": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 09:11:42 GMT",
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 19 Oct 2026 09:40:44 GMT",
       "source": "BBC World"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "Violent street protests in France and Italy trigger stock and bond sell-off and send euro lower – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/19/exports-lift-china-economic-growth-french-protests-pressure-euro-bonds-latest-business-live-updates",
-      "date": "Mon, 19 Oct 2026 13:13:37 GMT",
+      "date": "Mon, 19 Oct 2026 13:45:46 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,42 @@
       "source": "NPR World"
     },
     {
+      "title": "Australian Member of Parliament critically injured after being hit by a car",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/australian-member-of-parliament-critically-injured-after-being-hit-by-a-car?traffic_source=rss",
+      "date": "Mon, 19 Oct 2026 13:49:32 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "French protest violence: A ‘Christmas present’ for Le Pen’s far right?",
+      "link": "https://www.aljazeera.com/news/2026/10/19/french-protest-violence-a-christmas-present-for-le-pens-far-right?traffic_source=rss",
+      "date": "Mon, 19 Oct 2026 13:41:23 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Doctors describe hospitals shattered by Israel’s genocide in Gaza",
+      "link": "https://www.aljazeera.com/video/2026/10/19/doctors-describe-hospitals-shattered-by-israels-genocide-in-gaza?traffic_source=rss",
+      "date": "Mon, 19 Oct 2026 13:36:09 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Dozens killed after Houthi strike on military camp in Shabwa",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/dozens-killed-after-houthi-strike-on-military-camp-in-shabwa?traffic_source=rss",
+      "date": "Mon, 19 Oct 2026 13:26:01 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
+      "link": "https://www.aljazeera.com/news/2026/10/19/russias-lavrov-to-discuss-us-war-and-regional-security-during-tehran-visit?traffic_source=rss",
+      "date": "Mon, 19 Oct 2026 13:22:58 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "‘Weight of responsibility’: Promise and perils of covering Ethiopia’s war",
+      "link": "https://www.aljazeera.com/news/2026/10/19/weight-of-responsibility-promise-and-perils-of-covering-ethiopias-war?traffic_source=rss",
+      "date": "Mon, 19 Oct 2026 13:21:37 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "At least 18 killed in Houthi attack on military camp in Yemen’s Shabwa",
       "link": "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss",
       "date": "Mon, 19 Oct 2026 12:51:46 +0000",
@@ -299,42 +335,6 @@
       "title": "The night watch: Palestinians protecting their homes from settler pogroms",
       "link": "https://www.aljazeera.com/features/2026/10/19/the-night-watch-palestinians-protecting-their-homes-from-settler-pogroms?traffic_source=rss",
       "date": "Mon, 19 Oct 2026 12:30:22 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Al Jazeera investigation challenges Israeli account of Heidi Levine attack",
-      "link": "https://www.aljazeera.com/features/2026/10/19/al-jazeera-investigation-challenges-israeli-account-of-heidi-levine-attack?traffic_source=rss",
-      "date": "Mon, 19 Oct 2026 12:28:27 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Qatar to unveil regional defence partnership",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-unveil-regional-defence-partnership?traffic_source=rss",
-      "date": "Mon, 19 Oct 2026 11:51:01 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "On Iran, Israel’s opposition is even more hawkish than Netanyahu",
-      "link": "https://www.aljazeera.com/news/2026/10/19/on-iran-israels-opposition-is-even-more-hawkish-than-netanyahu?traffic_source=rss",
-      "date": "Mon, 19 Oct 2026 11:35:52 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Indonesia battles worst forest fires and toxic haze in 11 years",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/indonesia-battles-worst-forest-fires-and-toxic-haze-in-11-years?traffic_source=rss",
-      "date": "Mon, 19 Oct 2026 11:05:57 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Museum protesters in Colombia accuse gov’t of erasing history",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/museum-protesters-in-colombia-accuse-govt-of-erasing-history?traffic_source=rss",
-      "date": "Mon, 19 Oct 2026 10:55:23 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit",
-      "link": "https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit?traffic_source=rss",
-      "date": "Mon, 19 Oct 2026 10:49:23 +0000",
       "source": "Al Jazeera"
     }
   ]
