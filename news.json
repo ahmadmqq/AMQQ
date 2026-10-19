@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T05:21:30.570029+00:00",
+  "updated": "2026-10-19T05:54:17.268270+00:00",
   "items": [
     {
       "title": "ماكرون \"غاضب\" ويتوعد بـ\"المحاسبة\" بعد اضطرابات واحتجاجات وفوضى شهدتها فرنسا",
@@ -98,33 +98,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Microsoft pulls out of UK's largest AI data centre",
-      "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 18 Oct 2026 16:46:42 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "Home sellers cut asking prices on 3,000 properties a day",
       "link": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 18 Oct 2026 23:00:45 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 05:17:35 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 04:30:59 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "People playing loud music on buses could face £100 fine",
-      "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 00:22:20 GMT",
       "source": "BBC Business"
     },
     {
@@ -134,9 +110,33 @@
       "source": "BBC Business"
     },
     {
+      "title": "Microsoft pulls out of UK's largest AI data centre",
+      "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 18 Oct 2026 16:46:42 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 19 Oct 2026 05:17:35 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "People playing loud music on buses could face £100 fine",
+      "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 19 Oct 2026 00:22:20 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
       "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 18 Oct 2026 23:28:45 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 19 Oct 2026 04:30:59 GMT",
       "source": "BBC Business"
     },
     {
@@ -194,15 +194,33 @@
       "source": "Guardian World"
     },
     {
+      "title": "Revealed: African island fights offshore gambling network linked to UK family",
+      "link": "https://www.theguardian.com/society/2026/oct/19/revealed-britons-using-an-african-islands-name-to-aid-underground-gambling",
+      "date": "Mon, 19 Oct 2026 05:00:20 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Profit warnings from UK-listed firms at highest level in two years as Iran war drives up costs",
+      "link": "https://www.theguardian.com/business/2026/oct/19/profit-warnings-from-uk-listed-firms-at-highest-level-in-two-years-as-iran-war-drives-up-costs",
+      "date": "Mon, 19 Oct 2026 05:00:19 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Cut benefits to fund work support for young people, says Neet review author Alan Milburn",
+      "link": "https://www.theguardian.com/society/2026/oct/18/cut-benefits-fund-employment-support-young-people-neet-review-author-alan-milburn",
+      "date": "Sun, 18 Oct 2026 18:30:19 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Electricity costs put UK steelmakers in worst position in three years against EU rivals",
       "link": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals",
       "date": "Sun, 18 Oct 2026 23:01:12 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
-      "date": "Sun, 18 Oct 2026 13:05:14 GMT",
+      "title": "Andy Burnham launches campaign against ‘headphone dodgers’ on public transport",
+      "link": "https://www.theguardian.com/politics/2026/oct/19/andy-burnham-launches-campaign-against-headphone-dodgers-on-public-transport",
+      "date": "Sun, 18 Oct 2026 23:01:12 GMT",
       "source": "Guardian Business"
     },
     {
@@ -212,34 +230,22 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Condé Nast’s UK profits drop by more than a third as sale of Vogue publisher ruled out",
-      "link": "https://www.theguardian.com/media/2026/oct/18/conde-nast-uk-profits-drop-vogue-publisher-magazine-group",
-      "date": "Sun, 18 Oct 2026 07:00:53 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "World Bank says ‘small AI’ could transform developing countries",
-      "link": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
-      "date": "Sun, 18 Oct 2026 10:00:56 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Heat pumps and insulation would cut UK living costs more than new oilfields, study suggests",
-      "link": "https://www.theguardian.com/environment/2026/oct/18/heat-pumps-insulation-warm-homes-plan-beat-new-oilfields-cutting-uk-cost-of-living-study",
-      "date": "Sun, 18 Oct 2026 06:00:52 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "US workers facing deadly heat borrow from tomato pickers to win key protections",
-      "link": "https://www.theguardian.com/environment/2026/oct/18/workers-heat-protections",
-      "date": "Sun, 18 Oct 2026 12:00:02 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them?",
       "link": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
       "date": "Sun, 18 Oct 2026 13:30:00 GMT",
       "source": "Guardian Business"
+    },
+    {
+      "title": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
+      "date": "Sun, 18 Oct 2026 13:05:14 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+      "link": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
+      "date": "Mon, 19 Oct 2026 01:35:39 -0400",
+      "source": "NPR World"
     },
     {
       "title": "Political rivals implicated under Pakistan's anti-terror law",
@@ -284,12 +290,6 @@
       "source": "NPR World"
     },
     {
-      "title": "France's Macron vows to hold accountable those who 'sought to bring down the Republic'",
-      "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
-      "date": "Sat, 17 Oct 2026 11:57:40 -0400",
-      "source": "NPR World"
-    },
-    {
       "title": "US President Donald Trump endorses Netanyahu for Israeli election",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/us-president-donald-trump-endorses-netanyahu-for-israeli-election?traffic_source=rss",
       "date": "Mon, 19 Oct 2026 05:10:37 +0000",
@@ -314,7 +314,7 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "AI firm Anthropic says it will commit 5% of shares to ‘public benefit’ fund",
+      "title": "AI giant Anthropic commits 5% of shares to ‘public benefit’ fund",
       "link": "https://www.aljazeera.com/economy/2026/10/19/anthropic-says-it-will-commit-5-of-shares-to-public-benefit-fund?traffic_source=rss",
       "date": "Mon, 19 Oct 2026 03:23:54 +0000",
       "source": "Al Jazeera"
