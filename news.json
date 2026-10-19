@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T20:58:07.135587+00:00",
+  "updated": "2026-10-19T21:23:41.698171+00:00",
   "items": [
     {
       "title": "القوات الحكومية تقصف تمركزات أنصار الله، وتقول إنها \"انتزعت زمام المبادرة\"",
@@ -68,9 +68,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
       "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 16:22:12 GMT",
+      "date": "Mon, 19 Oct 2026 21:12:30 GMT",
       "source": "BBC World"
     },
     {
@@ -96,6 +96,18 @@
       "link": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 19 Oct 2026 14:13:18 GMT",
       "source": "BBC World"
+    },
+    {
+      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+      "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 19 Oct 2026 18:21:54 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 19 Oct 2026 21:12:30 GMT",
+      "source": "BBC Business"
     },
     {
       "title": "Vinted blocks French looters listing stolen goods for sale",
@@ -128,21 +140,9 @@
       "source": "BBC Business"
     },
     {
-      "title": "Don't fall for this - how to protect yourself from AI scams",
-      "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 18 Oct 2026 23:24:59 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "China's growth accelerates as AI boom helps boost exports",
       "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 19 Oct 2026 06:08:02 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "People playing loud music on buses could face £100 fine",
-      "link": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 09:49:58 GMT",
       "source": "BBC Business"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Israeli police say they arrested 10 in connection with settler attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/israeli-police-say-they-arrested-10-in-connection-with-settler-attacks?traffic_source=rss",
+      "date": "Mon, 19 Oct 2026 21:00:03 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Trump approval hits record-low 31 percent, polls show Republican struggles",
+      "link": "https://www.aljazeera.com/news/2026/10/19/trump-approval-hits-record-low-31-percent-polls-show-republican-struggles?traffic_source=rss",
+      "date": "Mon, 19 Oct 2026 20:59:05 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
       "date": "Mon, 19 Oct 2026 20:49:39 +0000",
@@ -323,18 +335,6 @@
       "title": "Florida issues arrest warrant for Cuban leader Raul Castro",
       "link": "https://www.aljazeera.com/news/2026/10/19/florida-issues-arrest-warrant-for-cuban-leader-raul-castro?traffic_source=rss",
       "date": "Mon, 19 Oct 2026 19:48:53 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Residents hoisted from rooftops amid Spain’s deadly flooding",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/residents-hoisted-from-rooftops-amid-spains-deadly-flooding?traffic_source=rss",
-      "date": "Mon, 19 Oct 2026 19:38:40 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Indian court extends detention of ‘Cockroach’ leaders",
-      "link": "https://www.aljazeera.com/news/2026/10/19/indian-court-extends-detention-of-cockroach-leaders?traffic_source=rss",
-      "date": "Mon, 19 Oct 2026 19:09:22 +0000",
       "source": "Al Jazeera"
     }
   ]
