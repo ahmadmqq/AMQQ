@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T21:31:56.676140+00:00",
+  "updated": "2026-10-20T22:02:34.392621+00:00",
   "items": [
     {
       "title": "بريطانيا تعلن نشر طائرات قتالية في \"مهام دفاعية\" دعماً للسعودية",
@@ -104,6 +104,12 @@
       "source": "BBC Business"
     },
     {
+      "title": "Elon Musk says Tesla-SpaceX merger would be a 'good idea'",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 21:50:41 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "UK government to make Jackdaw gas field announcement",
       "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 17:33:42 GMT",
@@ -137,12 +143,6 @@
       "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
       "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 10:06:34 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
-      "link": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 19:42:32 GMT",
       "source": "BBC Business"
     },
     {
@@ -200,7 +200,7 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Jackdaw North Sea gasfield to get go-ahead in blow to climate campaigners",
+      "title": "Andy Burnham faces climate revolt after approval of North Sea gas drilling",
       "link": "https://www.theguardian.com/environment/2026/oct/20/jackdaw-north-sea-gas-field-to-get-go-ahead-in-blow-to-climate-campaigners",
       "date": "Tue, 20 Oct 2026 18:24:46 GMT",
       "source": "Guardian Business"
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
+      "link": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 21:27:38 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
+      "link": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 21:24:06 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
       "link": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
       "date": "Tue, 20 Oct 2026 21:19:12 +0000",
@@ -323,18 +335,6 @@
       "title": "UK police re-arrest two men on suspicion of assisting Iran’s intelligence",
       "link": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
       "date": "Tue, 20 Oct 2026 20:17:53 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "France riots leave thousands of businesses damaged",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 20:16:01 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "EU revises Arctic strategy as pressure from Russia, US grows",
-      "link": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 20:05:39 +0000",
       "source": "Al Jazeera"
     }
   ]
