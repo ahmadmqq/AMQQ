@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T09:48:54.291634+00:00",
+  "updated": "2026-10-20T10:13:36.781181+00:00",
   "items": [
     {
       "title": "تحالف دعم الشرعية في اليمن يحذر الحوثيين من استغلال \"الوسائط البحرية التقليدية\" لتهريب معدات عسكرية",
@@ -8,7 +8,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "جنوب السودان يعلن مقتل العشرات وإصابة آخرين في هجوم بمسيرات على سوق بمنطقة أبيي المتنازع عليها",
+      "title": "جنوب السودان: مقتل 73 شخصاً في هجوم بمسيّرات على سوق في أبيي",
       "link": "https://www.bbc.com/arabic/articles/ck5yn5ej0vyqo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 09:11:46 GMT",
       "source": "BBC Arabic"
@@ -106,7 +106,7 @@
     {
       "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
       "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 08:44:56 GMT",
+      "date": "Tue, 20 Oct 2026 10:06:34 GMT",
       "source": "BBC Business"
     },
     {
@@ -116,15 +116,15 @@
       "source": "BBC Business"
     },
     {
-      "title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 08:46:00 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
       "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 19 Oct 2026 23:00:21 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 08:46:00 GMT",
       "source": "BBC Business"
     },
     {
@@ -134,15 +134,15 @@
       "source": "BBC Business"
     },
     {
-      "title": "Vinted blocks French looters listing stolen goods for sale",
-      "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 16:46:35 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "What is the Budget and what could be in it?",
       "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 08:31:36 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Vinted blocks French looters listing stolen goods for sale",
+      "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 19 Oct 2026 16:46:35 GMT",
       "source": "BBC Business"
     },
     {
@@ -194,15 +194,21 @@
       "source": "Guardian World"
     },
     {
-      "title": "Revolut hit by service disruption as Google Cloud services suffer technical problems in London – business live",
+      "title": "Google Cloud outage: Revolut suffers service disruption as bank customers report problems – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
-      "date": "Tue, 20 Oct 2026 09:34:27 GMT",
+      "date": "Tue, 20 Oct 2026 10:03:47 GMT",
       "source": "Guardian Business"
     },
     {
       "title": "Surprise drop in UK unemployment to 4.7% as John Healey’s first budget looms",
       "link": "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
       "date": "Tue, 20 Oct 2026 08:39:27 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Billionaire Mukesh Ambani launches India’s biggest-ever IPO",
+      "link": "https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market",
+      "date": "Tue, 20 Oct 2026 09:53:27 GMT",
       "source": "Guardian Business"
     },
     {
@@ -233,12 +239,6 @@
       "title": "‘Concerning issues’ found at GB power grid by inquiry into cover-up claims",
       "link": "https://www.theguardian.com/business/2026/oct/19/concerning-issues-found-at-gb-power-grid-by-inquiry-into-cover-up-claims",
       "date": "Mon, 19 Oct 2026 16:14:47 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Bank of England said to be reviewing Barclays’ handling of private credit loans",
-      "link": "https://www.theguardian.com/business/2026/oct/19/bank-of-england-said-to-be-reviewing-barclays-handling-of-private-credit-loans",
-      "date": "Mon, 19 Oct 2026 15:16:37 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Albertans reject referendum on independence from Canada",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 09:42:04 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "South Korea to pull more embassy staff from Ukraine after POW row",
       "link": "https://www.aljazeera.com/news/2026/10/20/south-korea-to-pull-more-embassy-staff-from-ukraine-after-pow-row?traffic_source=rss",
       "date": "Tue, 20 Oct 2026 09:26:02 +0000",
@@ -329,12 +335,6 @@
       "title": "Alberta voters reject separation from Canada, early results show",
       "link": "https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show?traffic_source=rss",
       "date": "Tue, 20 Oct 2026 06:37:32 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms",
-      "link": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 06:23:44 +0000",
       "source": "Al Jazeera"
     }
   ]
