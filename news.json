@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-20T05:47:47.729573+00:00",
+  "updated": "2026-10-20T06:13:53.096745+00:00",
   "items": [
     {
       "title": "القوات الحكومية اليمنية وجماعة أنصار الله تتبادلان الهجمات، وأنباء عن سقوط عشرات الضحايا",
       "link": "https://www.bbc.com/arabic/articles/cq80zd0m0v2go?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 00:36:31 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "\"على دراجتي وجدت نفسي\": شابة تقود التغيير من شوارع جدة",
+      "link": "https://www.bbc.com/arabic/articles/c3y0zxj8p571o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 05:48:29 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "اعتقال عشرة إسرائيليين على خلفية اعتداءات المستوطنين بالضفة وسط خلافات بين الأجهزة الأمنية",
       "link": "https://www.bbc.com/arabic/articles/ck3r54ezwylpo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 19 Oct 2026 09:20:04 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "الإندبندنت: فرنسا تحترق وماكرون يبدو فاقداً السيطرة",
-      "link": "https://www.bbc.com/arabic/articles/c6n9r2r9yp32o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 11:30:39 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -98,9 +98,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget, sources say",
       "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 01:31:09 GMT",
+      "date": "Tue, 20 Oct 2026 06:13:16 GMT",
       "source": "BBC Business"
     },
     {
@@ -176,6 +176,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "Alberta voters reject plan for referendum to leave Canada, CBC projects",
+      "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "date": "Tue, 20 Oct 2026 05:50:03 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
       "link": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
       "date": "Mon, 19 Oct 2026 10:07:09 GMT",
@@ -185,12 +191,6 @@
       "title": "‘This is not poker’: Alberta goes to polls in referendum that has exposed divisions, not least among separatists",
       "link": "https://www.theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada",
       "date": "Mon, 19 Oct 2026 05:00:22 GMT",
-      "source": "Guardian World"
-    },
-    {
-      "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-      "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-      "date": "Sun, 18 Oct 2026 23:53:13 GMT",
       "source": "Guardian World"
     },
     {
@@ -212,9 +212,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Masts removed from bomb-laden WWII ship in Thames in bid to avoid explosion",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/19/us-wwii-ship-richard-montgomery-thames-bombs-prevent-explosion",
-      "date": "Mon, 19 Oct 2026 16:21:06 GMT",
+      "title": "New Bradford railway station will ‘transform travel across the north’",
+      "link": "https://www.theguardian.com/business/2026/oct/20/bradford-railway-station-transform-travel-north",
+      "date": "Tue, 20 Oct 2026 05:00:16 GMT",
       "source": "Guardian Business"
     },
     {
@@ -230,16 +230,22 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Masts removed from bomb-laden WWII ship in Thames in bid to avoid explosion",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/19/us-wwii-ship-richard-montgomery-thames-bombs-prevent-explosion",
+      "date": "Mon, 19 Oct 2026 16:21:06 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Ofcom investigates Huw Edwards complaint over Channel 5 drama",
       "link": "https://www.theguardian.com/media/2026/oct/19/ofcom-investigates-huw-edwards-complaint-over-channel-5-drama",
       "date": "Mon, 19 Oct 2026 16:31:00 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "More than half of UK first-time buyers paying more for mortgage than they did for rent",
-      "link": "https://www.theguardian.com/money/2026/oct/19/uk-first-time-buyers-paying-more-mortgage-rent",
-      "date": "Mon, 19 Oct 2026 09:10:41 GMT",
-      "source": "Guardian Business"
+      "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
+      "link": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
+      "date": "Tue, 20 Oct 2026 02:02:40 -0400",
+      "source": "NPR World"
     },
     {
       "title": "Alberta voters decide whether to take a step toward separating from Canada",
@@ -281,12 +287,6 @@
       "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
       "link": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
       "date": "Mon, 19 Oct 2026 01:35:39 -0400",
-      "source": "NPR World"
-    },
-    {
-      "title": "Political rivals implicated under Pakistan's anti-terror law",
-      "link": "https://www.npr.org/2026/10/18/nx-s1-6004833/political-rivals-implicated-under-pakistans-anti-terror-law",
-      "date": "Sun, 18 Oct 2026 17:00:11 -0400",
       "source": "NPR World"
     },
     {
