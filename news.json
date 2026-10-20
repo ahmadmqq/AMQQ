@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-20T07:34:40.069239+00:00",
+  "updated": "2026-10-20T08:11:08.870102+00:00",
   "items": [
     {
-      "title": "القوات الحكومية اليمنية وجماعة أنصار الله تتبادلان الهجمات، وأنباء عن سقوط عشرات الضحايا",
-      "link": "https://www.bbc.com/arabic/articles/cq80zd0m0v2go?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 00:36:31 GMT",
+      "title": "تحالف دعم الشرعية في اليمن يحذر الحوثيين من استغلال \"الوسائط البحرية التقليدية\" لتهريب معدات عسكرية",
+      "link": "https://www.bbc.com/arabic/articles/cvwy78e2d5n0o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 08:07:20 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "جنوب السودان يعلن مقتل العشرات وإصابة آخرين في هجوم بمسيرات على سوق بمنطقة أبيي المتنازع عليها",
+      "link": "https://www.bbc.com/arabic/articles/ck5yn5ej0vyqo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 07:43:48 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -20,7 +26,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "الاتحاد البرتغالي يعاقب رونالدو بـ \"الإيقاف والغرامة المالية\" على خلفية مغادرته معسكر المنتخب",
+      "title": "الاتحاد البرتغالي يعاقب رونالدو بـ\"الإيقاف والغرامة المالية\" على خلفية مغادرته معسكر المنتخب",
       "link": "https://www.bbc.com/arabic/articles/cqd097j781mpo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 02:35:37 GMT",
       "source": "BBC Arabic"
@@ -41,12 +47,6 @@
       "title": "مهرداد أخلاقي وزيراً للدفاع في إيران، فمن هو المسؤول الذي خرج من الظل؟",
       "link": "https://www.bbc.com/arabic/articles/c3vgxpglv91ro?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 19 Oct 2026 14:42:56 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "اعتقال عشرة إسرائيليين على خلفية اعتداءات المستوطنين بالضفة وسط خلافات بين الأجهزة الأمنية",
-      "link": "https://www.bbc.com/arabic/articles/ck3r54ezwylpo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 09:20:04 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -100,19 +100,19 @@
     {
       "title": "Job vacancies fall as small firms cut back on recruitment",
       "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 07:24:39 GMT",
+      "date": "Tue, 20 Oct 2026 07:44:14 GMT",
       "source": "BBC Business"
     },
     {
       "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
       "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 06:50:52 GMT",
+      "date": "Tue, 20 Oct 2026 08:06:17 GMT",
       "source": "BBC Business"
     },
     {
       "title": "Burnham vows end to 'rip-off parking charges' under new rules",
       "link": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 07:04:02 GMT",
+      "date": "Tue, 20 Oct 2026 07:44:52 GMT",
       "source": "BBC Business"
     },
     {
@@ -196,19 +196,13 @@
     {
       "title": "Pound jumps after surprise fall in UK unemployment rate, but vacancies dry up amid ‘jobs drought’ – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
-      "date": "Tue, 20 Oct 2026 07:16:21 GMT",
+      "date": "Tue, 20 Oct 2026 07:40:13 GMT",
       "source": "Guardian Business"
     },
     {
       "title": "Burnham urges officials to come up with more radical options for Thames Water",
       "link": "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control",
       "date": "Mon, 19 Oct 2026 18:37:14 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "North Sea strikes could severely disrupt UK fuel supplies, union warns",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/19/north-sea-strikes-could-severely-disrupt-uk-fuel-supplies-union-warns",
-      "date": "Mon, 19 Oct 2026 17:39:13 GMT",
       "source": "Guardian Business"
     },
     {
@@ -221,6 +215,12 @@
       "title": "France hit by debt sell-off as violent protests unnerve investors",
       "link": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors",
       "date": "Mon, 19 Oct 2026 15:23:54 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "North Sea strikes could severely disrupt UK fuel supplies, union warns",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/19/north-sea-strikes-could-severely-disrupt-uk-fuel-supplies-union-warns",
+      "date": "Mon, 19 Oct 2026 17:39:13 GMT",
       "source": "Guardian Business"
     },
     {
