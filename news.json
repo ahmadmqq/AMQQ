@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-20T17:23:30.587957+00:00",
+  "updated": "2026-10-20T17:53:29.230092+00:00",
   "items": [
     {
       "title": "بريطانيا تعلن نشر طائرات قتالية في \"مهام دفاعية\" دعماً للسعودية",
       "link": "https://www.bbc.com/arabic/articles/cvwy78e2d5n0o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 16:37:18 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "مارسيليا تتهيأ لمزيد من الاضطرابات بعد تحوّل الاحتجاجات إلى فوضى \"كارثية\"",
+      "link": "https://www.bbc.com/arabic/articles/c370p8rlenj0o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 17:47:30 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,18 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "ثلاث رسائل مهمة وراء تبرعات إيلون ماسك السياسية قبل انتخابات التجديد النصفي الأمريكية، فما هي؟",
-      "link": "https://www.bbc.com/arabic/articles/cmx287rp2jgjo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 03:19:26 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-      "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 16:11:56 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
       "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 12:08:06 GMT",
@@ -70,7 +64,7 @@
     {
       "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
       "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 16:09:54 GMT",
+      "date": "Tue, 20 Oct 2026 17:30:15 GMT",
       "source": "BBC World"
     },
     {
@@ -95,6 +89,12 @@
       "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
       "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 15:58:57 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Kenya cult leader's children still being starved weeks before trial, son says",
+      "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 13:23:32 GMT",
       "source": "BBC World"
     },
     {
@@ -200,7 +200,7 @@
       "source": "Guardian Business"
     },
     {
-      "title": "NatWest orders 13,000 staff back to their desks two days a week",
+      "title": "NatWest cracks down on 13,000 staff attending office two days a month",
       "link": "https://www.theguardian.com/business/2026/oct/20/natwest-staff-back-two-days-a-week-policy",
       "date": "Tue, 20 Oct 2026 16:45:24 GMT",
       "source": "Guardian Business"
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Kenya confirms ninth Ebola case amid concerns about regional spread",
+      "link": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 17:31:26 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "As Macron visits Gulf, can France forge its own energy-for-security future?",
+      "link": "https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 17:22:05 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "How does language affect how we think?",
+      "link": "https://www.aljazeera.com/video/doha-debates/2026/10/20/how-does-language-affect-how-we-think?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 17:09:48 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "JERUSALEM DAILY: Half a million Palestinians lose food aid",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/jerusalem-daily-half-a-million-palestinians-lose-food-aid?traffic_source=rss",
       "date": "Tue, 20 Oct 2026 16:59:55 +0000",
@@ -317,24 +335,6 @@
       "title": "Is Cyprus becoming Israel’s backyard?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_is-cyprus-becoming-israels-backyard-201026?traffic_source=rss",
       "date": "Tue, 20 Oct 2026 16:23:12 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Qatar says only negotiations can resolve regional tensions",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/qatar-says-only-negotiations-can-resolve-regional-tensions?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 16:21:01 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ferry catches fire near Indonesian port, all passengers rescued",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ferry-catches-fire-near-indonesian-port-all-passengers-rescued?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 16:13:16 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Trump official claims record-breaking 300,000 visas were revoked",
-      "link": "https://www.aljazeera.com/news/2026/10/20/trump-official-claims-record-breaking-300000-visas-were-revoked?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 16:02:47 +0000",
       "source": "Al Jazeera"
     }
   ]
