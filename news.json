@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-20T02:14:38.462544+00:00",
+  "updated": "2026-10-20T02:48:21.217224+00:00",
   "items": [
     {
       "title": "القوات الحكومية اليمنية وجماعة أنصار الله تتبادلان الهجمات، وأنباء عن سقوط عشرات الضحايا",
       "link": "https://www.bbc.com/arabic/articles/cq80zd0m0v2go?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 00:36:31 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "الاتحاد البرتغالي يعاقب رونالدو بـ \"الإيقاف والغرامة المالية\" على خلفية مغادرته معسكر المنتخب",
+      "link": "https://www.bbc.com/arabic/articles/cqd097j781mpo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 02:35:37 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "\"كيف سنُطعم أطفالنا؟\": مخاوف في غزة بعد تقليص المساعدات الغذائية",
       "link": "https://www.bbc.com/arabic/articles/c623dpx0p5myo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 19 Oct 2026 07:47:56 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "\"أكتوبر لم يعد وردياً\": نساء سودانيات يتحدثن عن المرض والحرب",
-      "link": "https://www.bbc.com/arabic/articles/cm93z99587w8o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 05:58:59 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -290,6 +290,36 @@
       "source": "NPR World"
     },
     {
+      "title": "Man claims arm broken in violent ICE arrest",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/man-claims-arm-broken-in-violent-ice-arrest?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 02:41:05 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Four dead as torrential rain batters eastern Spain",
+      "link": "https://www.aljazeera.com/news/2026/10/20/four-dead-as-torrential-rain-batters-eastern-spain?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 02:36:34 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "The human cost of surging US air strikes in Somalia",
+      "link": "https://www.aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 01:52:32 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Zelenskyy seeks answers to why SpaceX Starshield defence is failing",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/zelenskyy-seeks-answers-to-why-spacex-starshield-defence-is-failing?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 01:50:15 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Beyond money: Why young Tunisians are considering emigration",
+      "link": "https://www.aljazeera.com/news/2026/10/20/beyond-money-why-young-tunisians-are-considering-emigration?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 01:47:42 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
       "link": "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss",
       "date": "Tue, 20 Oct 2026 01:05:31 +0000",
@@ -305,36 +335,6 @@
       "title": "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death",
       "link": "https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss",
       "date": "Tue, 20 Oct 2026 00:18:20 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Hegseth meets Netanyahu in unannounced Israel visit",
-      "link": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 00:08:01 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Exiled critic of Rwandan president found beheaded in Uganda",
-      "link": "https://www.aljazeera.com/news/2026/10/20/exiled-critic-of-rwandan-president-found-beheaded-in-uganda?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 00:06:00 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 00:00:00 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Mahmoud Khalil takes deportation fight to the US Supreme Court",
-      "link": "https://www.aljazeera.com/news/2026/10/19/mahmoud-khalil-takes-deportation-fight-to-the-us-supreme-court?traffic_source=rss",
-      "date": "Mon, 19 Oct 2026 23:56:32 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Colombia illegal gold mine collapse kills 14 people",
-      "link": "https://www.aljazeera.com/news/2026/10/19/colombia-illegal-gold-mine-collapse-kills-14-people?traffic_source=rss",
-      "date": "Mon, 19 Oct 2026 23:56:17 +0000",
       "source": "Al Jazeera"
     }
   ]
