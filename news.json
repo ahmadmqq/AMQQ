@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-20T19:01:31.164718+00:00",
+  "updated": "2026-10-20T19:33:43.701861+00:00",
   "items": [
     {
       "title": "بريطانيا تعلن نشر طائرات قتالية في \"مهام دفاعية\" دعماً للسعودية",
       "link": "https://www.bbc.com/arabic/articles/cvwy78e2d5n0o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 17:55:21 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "هل الاقتصاد الأمريكي قوي إلى درجة تستحق إشادة ترامب المتكررة؟",
+      "link": "https://www.bbc.com/arabic/articles/cq4g1k2plenko?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 19:29:06 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "\"السعودية في أزمة اقتصادية واستثمارية بعد هجمات الحوثيين\" - مقال في الإندبندنت",
       "link": "https://www.bbc.com/arabic/articles/cmn9r55ww1ggo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 11:29:49 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "جنوب السودان: مقتل 73 شخصاً في هجوم بمسيّرات على سوق في أبيي",
-      "link": "https://www.bbc.com/arabic/articles/ck5yn5ej0vyqo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 09:11:46 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -146,6 +146,12 @@
       "source": "BBC Business"
     },
     {
+      "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
+      "link": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
+      "date": "Tue, 20 Oct 2026 19:18:03 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
       "link": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
       "date": "Mon, 19 Oct 2026 22:34:43 GMT",
@@ -167,12 +173,6 @@
       "title": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services",
       "link": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
       "date": "Mon, 19 Oct 2026 14:11:08 GMT",
-      "source": "Guardian World"
-    },
-    {
-      "title": "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
-      "link": "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
-      "date": "Sun, 18 Oct 2026 09:00:55 GMT",
       "source": "Guardian World"
     },
     {
@@ -290,6 +290,36 @@
       "source": "NPR World"
     },
     {
+      "title": "The political ads that don’t look like ads",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/the-political-ads-that-dont-look-like-ads?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 19:05:53 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "UK to deploy fighter jets to defend Saudi Arabia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 18:55:52 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Oxfam analysis finds Peru’s richest captured 42 percent of all new wealth",
+      "link": "https://www.aljazeera.com/news/2026/10/20/oxfam-analysis-finds-perus-richest-captured-42-percent-of-all-new-wealth?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 18:53:51 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Can a humanitarian crisis in Gaza be averted?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/20/can-a-humanitarian-crisis-in-gaza-be-averted?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 18:45:23 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Lula challenges Bolsonaro to release personal records before election",
+      "link": "https://www.aljazeera.com/news/2026/10/20/lula-challenges-bolsonaro-to-release-personal-records-before-election?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 18:43:41 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "CDC reports third measles death in the United States this year",
       "link": "https://www.aljazeera.com/news/2026/10/20/cdc-reports-third-measles-death-in-the-united-states-this-year?traffic_source=rss",
       "date": "Tue, 20 Oct 2026 17:58:09 +0000",
@@ -305,36 +335,6 @@
       "title": "As Macron visits Gulf, can France forge its own energy-for-security future?",
       "link": "https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future?traffic_source=rss",
       "date": "Tue, 20 Oct 2026 17:22:05 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "How does language affect how we think?",
-      "link": "https://www.aljazeera.com/video/doha-debates/2026/10/20/how-does-language-affect-how-we-think?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 17:09:48 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "JERUSALEM DAILY: Half a million Palestinians lose food aid",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/jerusalem-daily-half-a-million-palestinians-lose-food-aid?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 16:59:55 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ben-Gvir mocks Gaza destruction in AI-generated video",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ben-gvir-mocks-gaza-destruction-in-ai-generated-video?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 16:51:02 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Turkiye moves to ratify Mecca defence pact with Pakistan, Saudi Arabia",
-      "link": "https://www.aljazeera.com/news/2026/10/20/turkiye-moves-to-ratify-mecca-joint-defence-agreement?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 16:34:20 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Macron lines up more Gulf diesel as France battles soaring fuel prices",
-      "link": "https://www.aljazeera.com/economy/2026/10/20/macron-lines-up-more-gulf-diesel-as-france-battles-soaring-fuel?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 16:33:43 +0000",
       "source": "Al Jazeera"
     }
   ]
