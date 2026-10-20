@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T20:31:39.333379+00:00",
+  "updated": "2026-10-20T21:02:42.947230+00:00",
   "items": [
     {
       "title": "بريطانيا تعلن نشر طائرات قتالية في \"مهام دفاعية\" دعماً للسعودية",
@@ -62,7 +62,7 @@
       "source": "BBC World"
     },
     {
-      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "title": "Man charged with attack on Australia MP to face court",
       "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 11:25:35 GMT",
       "source": "BBC World"
@@ -116,6 +116,12 @@
       "source": "BBC Business"
     },
     {
+      "title": "Audit regulator looking into Manchester City accounting",
+      "link": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 20:56:53 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
       "link": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 15:53:13 GMT",
@@ -128,21 +134,15 @@
       "source": "BBC Business"
     },
     {
-      "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
-      "link": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 19:42:32 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
       "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 10:06:34 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Jobless rate falls but small firms cut back hiring",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 11:26:48 GMT",
+      "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+      "link": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 19:42:32 GMT",
       "source": "BBC Business"
     },
     {
@@ -242,6 +242,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Current U.S. support for Ukraine looks very different than it did",
+      "link": "https://www.npr.org/2026/10/20/nx-s1-6009227/current-u-s-support-for-ukraine-looks-very-different-than-it-did",
+      "date": "Tue, 20 Oct 2026 16:27:23 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
       "link": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
       "date": "Tue, 20 Oct 2026 16:19:16 -0400",
@@ -284,10 +290,34 @@
       "source": "NPR World"
     },
     {
-      "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
-      "link": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
-      "date": "Mon, 19 Oct 2026 07:15:43 -0400",
-      "source": "NPR World"
+      "title": "PSG and Barcelona fans divided over politics in football amid Paris riots",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/psg-and-barcelona-fans-divided-over-politics-in-football-amid-paris-riots?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 20:49:00 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Trump: Ilhan Omar could be deported, slams Somalia as a ‘s—house’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/trump-ilhan-omar-could-be-deported-slams-somalia-as-a-s?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 20:32:29 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Why the war on Iran could backfire on US regime-change goals",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_war-on-iran-could-strengthen-nationalism-201026?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 20:23:52 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "UK police re-arrest two men on suspicion of assisting Iran’s intelligence",
+      "link": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 20:17:53 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "France riots leave thousands of businesses damaged",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 20:16:01 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "EU revises Arctic strategy as pressure from Russia, US grows",
@@ -305,36 +335,6 @@
       "title": "PSG fans divided over protests in France as Barcelona game goes ahead",
       "link": "https://www.aljazeera.com/sports/2026/10/20/psg-fans-divided-over-protests-in-france-as-barcelona-game-goes-ahead?traffic_source=rss",
       "date": "Tue, 20 Oct 2026 19:55:37 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Netanyahu says he discussed ‘eliminating’ Iran’s regime with Trump",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/netanyahu-says-he-discussed-eliminating-irans-regime-with-trump?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 19:51:09 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Photos: Qatar holds biennial Milipol homeland security exhibition",
-      "link": "https://www.aljazeera.com/gallery/2026/10/20/photos-qatar-holds-biennial-milipol-homeland-security-exhibition?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 19:29:39 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "The political ads that don’t look like ads",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/the-political-ads-that-dont-look-like-ads?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 19:05:53 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "UK to deploy fighter jets to defend Saudi Arabia",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 18:55:52 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Oxfam analysis finds Peru’s richest captured 42 percent of all new wealth",
-      "link": "https://www.aljazeera.com/news/2026/10/20/oxfam-analysis-finds-perus-richest-captured-42-percent-of-all-new-wealth?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 18:53:51 +0000",
       "source": "Al Jazeera"
     }
   ]
