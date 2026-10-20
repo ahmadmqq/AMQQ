@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-20T14:42:44.111400+00:00",
+  "updated": "2026-10-20T15:16:25.762427+00:00",
   "items": [
     {
       "title": "بريطانيا تعلن نشر طائرات قتالية في \"مهام دفاعية\" دعماً للسعودية",
       "link": "https://www.bbc.com/arabic/articles/cvwy78e2d5n0o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 13:02:17 GMT",
+      "date": "Tue, 20 Oct 2026 14:47:22 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -17,6 +17,12 @@
       "title": "اليمين المتطرف في إسرائيل يجد أرضاً خصبة بين الناخبين الجدد",
       "link": "https://www.bbc.com/arabic/articles/cqvgrn84rpz7o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 13:23:25 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "هل يمكن لصورة بسيطة لوجهك أن تكشف شدّة مرضك؟",
+      "link": "https://www.bbc.com/arabic/articles/cwp8gj4lxy1no?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 14:50:42 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,13 +50,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "كيف تتحول احتجاجات جيل زد إلى \"كرة ثلج\" تهز الحكومات؟",
-      "link": "https://www.bbc.com/arabic/articles/c3kgq2wz4nj5o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 19:30:49 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence",
+      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
       "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 13:51:40 GMT",
       "source": "BBC World"
@@ -68,15 +68,15 @@
       "source": "BBC World"
     },
     {
-      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 11:45:49 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Sudan army drones hit mourners and fuel market killing more than 200 people, sources say",
       "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 14:24:19 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 11:45:49 GMT",
       "source": "BBC World"
     },
     {
@@ -100,7 +100,13 @@
     {
       "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
       "link": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 14:23:02 GMT",
+      "date": "Tue, 20 Oct 2026 14:53:02 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Union attacks NatWest plans to reduce working from home",
+      "link": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 14:50:19 GMT",
       "source": "BBC Business"
     },
     {
@@ -128,21 +134,15 @@
       "source": "BBC Business"
     },
     {
-      "title": "How is the US economy really doing under President Trump?",
-      "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 05:00:45 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "What is the Budget and what could be in it?",
       "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 08:31:36 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Vinted blocks French looters listing stolen goods for sale",
-      "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 16:46:35 GMT",
+      "title": "How is the US economy really doing under President Trump?",
+      "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 05:00:45 GMT",
       "source": "BBC Business"
     },
     {
@@ -194,15 +194,27 @@
       "source": "Guardian World"
     },
     {
-      "title": "Google Cloud outage: problems fixed for ‘most‘ customers, as regulators push for details – latest updates",
-      "link": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
-      "date": "Tue, 20 Oct 2026 14:20:46 GMT",
+      "title": "Google cloud failure hits millions as UK courts and banks knocked offline",
+      "link": "https://www.theguardian.com/business/2026/oct/20/revolut-down-app-cards-service-disruption",
+      "date": "Tue, 20 Oct 2026 09:45:39 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "European air fares could rise by as much as 20% in 2027, Ryanair boss predicts",
+      "link": "https://www.theguardian.com/business/2026/oct/20/european-air-fares-rise-2027-ryanair-fuel-costs",
+      "date": "Tue, 20 Oct 2026 14:28:56 GMT",
       "source": "Guardian Business"
     },
     {
       "title": "Surprise drop in UK unemployment to 4.7% as John Healey’s first budget looms",
       "link": "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
       "date": "Tue, 20 Oct 2026 08:39:27 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Paddy Power owner blames tax rises for plan to shed up to 1,400 jobs",
+      "link": "https://www.theguardian.com/society/2026/oct/20/paddy-power-owner-flutter-tax-rises-jobs-cuts-gambling",
+      "date": "Tue, 20 Oct 2026 14:24:36 GMT",
       "source": "Guardian Business"
     },
     {
@@ -227,18 +239,6 @@
       "title": "Bank of England said to be reviewing Barclays’ handling of private credit loans",
       "link": "https://www.theguardian.com/business/2026/oct/19/bank-of-england-said-to-be-reviewing-barclays-handling-of-private-credit-loans",
       "date": "Mon, 19 Oct 2026 15:16:37 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "North Sea strikes could severely disrupt UK fuel supplies, union warns",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/19/north-sea-strikes-could-severely-disrupt-uk-fuel-supplies-union-warns",
-      "date": "Mon, 19 Oct 2026 17:39:13 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Masts removed from bomb-laden WWII ship in Thames in bid to avoid explosion",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/19/us-wwii-ship-richard-montgomery-thames-bombs-prevent-explosion",
-      "date": "Mon, 19 Oct 2026 16:21:06 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,36 @@
       "source": "NPR World"
     },
     {
+      "title": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
+      "link": "https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 15:02:34 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Alberta rejects separation referendum: What’s next for Canadian province?",
+      "link": "https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 14:42:47 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+      "link": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 14:39:50 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Satirical AI video of Paris protests mirrors real-life tourist experiences",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/satirical-ai-video-of-paris-protests-mirrors-real-life-tourist-experiences?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 14:24:41 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Celebrating Fela Kuti’s legacy and the global rise of Afrobeats",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/celebrating-fela-kutis-legacy-and-the-global-rise-of-afrobeats?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 14:13:12 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Three months of PM Andy Burnham: Can he sustain the ‘hope vibe’?",
       "link": "https://www.aljazeera.com/news/2026/10/20/three-months-of-pm-andy-burnham-can-he-sustain-the-hope-vibe?traffic_source=rss",
       "date": "Tue, 20 Oct 2026 14:00:49 +0000",
@@ -305,36 +335,6 @@
       "title": "US envoy Barrack defends decision to join Israel in war on Iran",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss",
       "date": "Tue, 20 Oct 2026 13:20:33 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "More than 250,000 displaced in Yemen since fighting escalated: UNHCR",
-      "link": "https://www.aljazeera.com/news/2026/10/20/more-than-250000-displaced-in-yemen-since-fighting-escalated-unhcr?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 13:00:21 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Israeli attacks kill at least four Palestinians in Gaza",
-      "link": "https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 12:59:58 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "‘Every day could cost lives’: UK government blocks Gaza families’ reunion",
-      "link": "https://www.aljazeera.com/news/2026/10/20/every-day-could-cost-lives-uk-government-blocks-gaza-families-reunion?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 12:58:49 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "‘Horizontal revolt’: Why Albania’s young protesters want PM Rama to go",
-      "link": "https://www.aljazeera.com/news/2026/10/20/horizontal-revolt-why-albanias-young-protesters-want-pm-rama-to-go?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 12:54:56 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest",
-      "link": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 12:37:06 +0000",
       "source": "Al Jazeera"
     }
   ]
