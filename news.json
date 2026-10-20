@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-20T10:13:36.781181+00:00",
+  "updated": "2026-10-20T10:45:00.706496+00:00",
   "items": [
     {
-      "title": "تحالف دعم الشرعية في اليمن يحذر الحوثيين من استغلال \"الوسائط البحرية التقليدية\" لتهريب معدات عسكرية",
+      "title": "التحالف العسكري بقيادة السعودية يعلن اعتراض صاروخ بالستي أطلقه الحوثيون باتجاه الرياض",
       "link": "https://www.bbc.com/arabic/articles/cvwy78e2d5n0o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 08:07:20 GMT",
+      "date": "Tue, 20 Oct 2026 10:21:19 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -56,12 +56,6 @@
       "source": "BBC World"
     },
     {
-      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 20:49:00 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Seventh day of violent clashes between Albanian protesters and police",
       "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 02:45:05 GMT",
@@ -71,6 +65,18 @@
       "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
       "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 03:10:39 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Why Israeli Gen Z voters are drawn to the far right",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 08:53:06 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 19 Oct 2026 20:49:00 GMT",
       "source": "BBC World"
     },
     {
@@ -92,12 +98,6 @@
       "source": "BBC World"
     },
     {
-      "title": "Vinted blocks French looters listing stolen goods for sale",
-      "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 16:46:35 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Jobless rate falls but small firms cut back hiring",
       "link": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 09:31:29 GMT",
@@ -116,15 +116,9 @@
       "source": "BBC Business"
     },
     {
-      "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
+      "title": "'I'm fed up of swiping': The singles choosing dating events over apps",
       "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 23:00:21 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 08:46:00 GMT",
+      "date": "Tue, 20 Oct 2026 10:28:36 GMT",
       "source": "BBC Business"
     },
     {
@@ -134,15 +128,21 @@
       "source": "BBC Business"
     },
     {
+      "title": "Vinted blocks French looters listing stolen goods for sale",
+      "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 19 Oct 2026 16:46:35 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "What is the Budget and what could be in it?",
       "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 08:31:36 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Vinted blocks French looters listing stolen goods for sale",
-      "link": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 16:46:35 GMT",
+      "title": "US bans China's DeepSeek from government in race for AI dominance",
+      "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 19 Oct 2026 18:21:54 GMT",
       "source": "BBC Business"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "Google Cloud outage: Revolut suffers service disruption as bank customers report problems – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
-      "date": "Tue, 20 Oct 2026 10:03:47 GMT",
+      "date": "Tue, 20 Oct 2026 10:32:15 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
+      "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 10:24:28 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Trump’s approval ratings plummet: what that means for the US midterms",
+      "link": "https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 10:13:19 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Albertans reject referendum on independence from Canada",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss",
       "date": "Tue, 20 Oct 2026 09:42:04 +0000",
@@ -323,18 +335,6 @@
       "title": "France protests are ‘outburst of resentment’ against Macron",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-protests-social-discontent-student-perspective?traffic_source=rss",
       "date": "Tue, 20 Oct 2026 08:11:30 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Morocco’s not-so-new government faces new challenges",
-      "link": "https://www.aljazeera.com/opinions/2026/10/20/moroccos-not-so-new-government-faces-new-challenges?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 06:58:03 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Alberta voters reject separation from Canada, early results show",
-      "link": "https://www.aljazeera.com/news/2026/10/20/alberta-voters-reject-separation-from-canada-early-results-show?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 06:37:32 +0000",
       "source": "Al Jazeera"
     }
   ]
