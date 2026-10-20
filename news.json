@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T11:44:29.449511+00:00",
+  "updated": "2026-10-20T12:11:52.096287+00:00",
   "items": [
     {
       "title": "التحالف العسكري بقيادة السعودية يعلن اعتراض صاروخ باليستي أطلقه الحوثيون باتجاه الرياض",
@@ -52,7 +52,7 @@
     {
       "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
       "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 11:30:59 GMT",
+      "date": "Tue, 20 Oct 2026 12:08:41 GMT",
       "source": "BBC World"
     },
     {
@@ -62,9 +62,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Suspect arrested after historic town hall set alight during disorder - French media",
+      "title": "Suspect arrested after historic town hall set alight - French media",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 08:58:26 GMT",
+      "date": "Tue, 20 Oct 2026 11:47:39 GMT",
       "source": "BBC World"
     },
     {
@@ -74,7 +74,7 @@
       "source": "BBC World"
     },
     {
-      "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+      "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
       "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 03:10:39 GMT",
       "source": "BBC World"
@@ -96,6 +96,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 19 Oct 2026 19:45:46 GMT",
       "source": "BBC World"
+    },
+    {
+      "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+      "link": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 11:59:50 GMT",
+      "source": "BBC Business"
     },
     {
       "title": "Jobless rate falls but small firms cut back hiring",
@@ -140,12 +146,6 @@
       "source": "BBC Business"
     },
     {
-      "title": "US bans China's DeepSeek from government in race for AI dominance",
-      "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 19 Oct 2026 18:21:54 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
       "link": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
       "date": "Mon, 19 Oct 2026 22:34:43 GMT",
@@ -176,6 +176,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
+      "link": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study",
+      "date": "Tue, 20 Oct 2026 12:00:36 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "Alberta voters reject plan for referendum to leave Canada",
       "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
       "date": "Tue, 20 Oct 2026 09:02:43 GMT",
@@ -188,15 +194,9 @@
       "source": "Guardian World"
     },
     {
-      "title": "‘This is not poker’: Alberta goes to polls in referendum that has exposed divisions, not least among separatists",
-      "link": "https://www.theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada",
-      "date": "Mon, 19 Oct 2026 05:00:22 GMT",
-      "source": "Guardian World"
-    },
-    {
-      "title": "Google Cloud outage: Problems reported at banks, Revolut, Rightmove and court video cameras – business live",
+      "title": "Google Cloud outage caused by ‘power event’ as problems reported at banks, Revolut, and court video cameras – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
-      "date": "Tue, 20 Oct 2026 11:36:07 GMT",
+      "date": "Tue, 20 Oct 2026 11:56:37 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Yemen’s critically ill are trapped as war closes the country’s airports",
+      "link": "https://www.aljazeera.com/features/2026/10/20/yemens-critically-ill-are-trapped-as-war-closes-the-countrys-airports?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 11:52:11 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "UK to deploy Typhoon jets to help defend Saudi Arabia from Houthi attacks",
+      "link": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 11:37:43 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Australian MP Helen Haines remains in critical condition after car attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/australian-mp-helen-haines-remains-in-critical-condition-after-car-attack-2?traffic_source=rss",
+      "date": "Tue, 20 Oct 2026 11:29:35 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Myanmar’s detained ex-leader Suu Kyi receives package from King Charles III",
       "link": "https://www.aljazeera.com/news/2026/10/20/myanmars-detained-ex-leader-suu-kyi-receives-package-from-king-charles-iii?traffic_source=rss",
       "date": "Tue, 20 Oct 2026 11:07:55 +0000",
@@ -317,24 +335,6 @@
       "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
       "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
       "date": "Tue, 20 Oct 2026 10:24:28 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Trump’s approval ratings plummet: what that means for the US midterms",
-      "link": "https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 10:13:19 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Albertans reject referendum on independence from Canada",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 09:42:04 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "South Korea to pull more embassy staff from Ukraine after POW row",
-      "link": "https://www.aljazeera.com/news/2026/10/20/south-korea-to-pull-more-embassy-staff-from-ukraine-after-pow-row?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 09:26:02 +0000",
       "source": "Al Jazeera"
     }
   ]
