@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T13:45:00.734432+00:00",
+  "updated": "2026-10-21T14:19:14.680432+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله تعلن استهداف موقع سعودي في عدن وتنفي إطلاق مسيّرات نحو المملكة",
@@ -8,7 +8,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "مقتل 153 شخصاً في هجوم بمسيّرات على سوق في أبيي في جنوب السودان",
+      "title": "ارتفاع حصيلة الضحايا في هجوم بمسيّرات على سوق في أبيي في جنوب السودان إلى 153 شخصاً",
       "link": "https://www.bbc.com/arabic/articles/ck5yn5ej0vyqo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 13:43:15 GMT",
       "source": "BBC Arabic"
@@ -52,7 +52,7 @@
     {
       "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
       "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 12:32:01 GMT",
+      "date": "Wed, 21 Oct 2026 13:49:50 GMT",
       "source": "BBC World"
     },
     {
@@ -112,19 +112,7 @@
     {
       "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
       "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 12:17:12 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 08:42:49 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "The tech helping crack decades-old cold cases",
-      "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 23:13:24 GMT",
+      "date": "Wed, 21 Oct 2026 14:04:52 GMT",
       "source": "BBC Business"
     },
     {
@@ -134,16 +122,34 @@
       "source": "BBC Business"
     },
     {
+      "title": "The tech helping crack decades-old cold cases",
+      "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 23:13:24 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "What is the Budget and what could be in it?",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 08:31:36 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 08:42:49 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
       "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 06:36:39 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Google resolves cloud outage affecting UK banks and websites",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 18:03:19 GMT",
-      "source": "BBC Business"
+      "title": "Severely ill ICE detainees targeted for imminent deportation in Florida, advocates say",
+      "link": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
+      "date": "Wed, 21 Oct 2026 13:40:08 GMT",
+      "source": "Guardian World"
     },
     {
       "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
@@ -170,12 +176,6 @@
       "source": "Guardian World"
     },
     {
-      "title": "Drone attack near market kills 80 in Sudan",
-      "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
-      "date": "Mon, 19 Oct 2026 14:45:53 GMT",
-      "source": "Guardian World"
-    },
-    {
       "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
       "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
       "date": "Tue, 20 Oct 2026 16:24:05 GMT",
@@ -196,7 +196,7 @@
     {
       "title": "Total UK government debt hits £3tn for first time while inflation jumps to highest in nearly a year – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/21/uk-inflation-jump-rising-motor-fuels-cost-jackdaw-gas-field-latest-news-updates",
-      "date": "Wed, 21 Oct 2026 13:24:23 GMT",
+      "date": "Wed, 21 Oct 2026 13:58:18 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,30 @@
       "source": "NPR World"
     },
     {
+      "title": "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
+      "link": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 13:58:17 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "How Israel’s war on Lebanon has cost young people with autism and ADHD",
+      "link": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 13:32:57 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Are the UK, France being pulled into the Saudi-Houthi conflict?",
+      "link": "https://www.aljazeera.com/news/2026/10/21/are-the-uk-france-being-pulled-into-the-saudi-houthi-conflict?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 13:25:50 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "From one house to villages: Israeli settlers have Palestinians surrounded",
+      "link": "https://www.aljazeera.com/features/2026/10/21/from-one-house-to-whole-villages-settlers-have-palestinians-surrounded?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 13:20:27 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Pakistani authorities arrest man accused in $126m US postage fraud",
       "link": "https://www.aljazeera.com/news/2026/10/21/pakistani-authorities-arrest-man-accused-in-126m-us-postage-fraud?traffic_source=rss",
       "date": "Wed, 21 Oct 2026 13:06:53 +0000",
@@ -311,30 +335,6 @@
       "title": "‘They try to break us’: Pro-Palestine activists in Czech custody",
       "link": "https://www.aljazeera.com/news/2026/10/21/they-try-to-break-us-pro-palestine-activists-in-czech-custody?traffic_source=rss",
       "date": "Wed, 21 Oct 2026 12:24:23 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Macron says Trump spread rumours about protests",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macron-says-trump-spread-rumours-about-protests?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 12:18:37 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Iran’s enriched uranium re-emerges as point of contention in US talks",
-      "link": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 12:18:10 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Cost of living protests aren’t just happening in Europe",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/cost-of-living-protests-arent-just-happening-in-europe?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 10:49:44 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Kvaratskhelia, Dembele and Marquinhos out injured after PSG’s win",
-      "link": "https://www.aljazeera.com/sports/2026/10/21/kvaratskhelia-dembele-and-marquinhos-out-injured-after-psgs-win?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 10:45:01 +0000",
       "source": "Al Jazeera"
     }
   ]
