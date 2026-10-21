@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-21T10:49:20.808965+00:00",
+  "updated": "2026-10-21T11:17:01.470819+00:00",
   "items": [
     {
       "title": "التحالف يعلن اعتراض مسيّرات فوق السعودية، وتحذيرات أممية من تدهور الأوضاع في تعز",
       "link": "https://www.bbc.com/arabic/articles/cr78p48yy7qeo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 08:11:29 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "\"بريطانيا تواجه مخاطر في حال تجدد الحرب مع إيران\" - عرض الصحف",
+      "link": "https://www.bbc.com/arabic/articles/cwly39n8mzn7o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 11:02:44 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -26,21 +32,9 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "هل الاقتصاد الأمريكي قوي إلى درجة تستحق إشادة ترامب المتكررة؟",
-      "link": "https://www.bbc.com/arabic/articles/cq4g1k2plenko?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 19:29:06 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "لم يُدعَ طفلك إلى حفلة ميلاد صديقه؟ إليك كيف تساعده على تجاوز خيبة الأمل",
       "link": "https://www.bbc.com/arabic/articles/cxj0l749m653o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 02:17:45 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "\"منتدى مصر\": ظهور مفاجئ لباسم يوسف وسط حديث عن عودة قريبة",
-      "link": "https://www.bbc.com/arabic/articles/c84g1ql03ll7o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 18:34:16 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -50,9 +44,15 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "Russia frees US citizen Stephen Hubbard, state media reports",
+      "title": "\"منتدى مصر\": ظهور مفاجئ لباسم يوسف وسط حديث عن عودة قريبة",
+      "link": "https://www.bbc.com/arabic/articles/c84g1ql03ll7o?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 20 Oct 2026 18:34:16 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
       "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 09:22:23 GMT",
+      "date": "Wed, 21 Oct 2026 10:52:00 GMT",
       "source": "BBC World"
     },
     {
@@ -200,9 +200,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "UK approves Jackdaw gasfield in North Sea",
-      "link": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved",
-      "date": "Wed, 21 Oct 2026 08:26:09 GMT",
+      "title": "Stratford International finally to have international trains in budget boost",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/21/stratford-internationalinternational-trains-budget-boost",
+      "date": "Wed, 21 Oct 2026 10:59:12 GMT",
       "source": "Guardian Business"
     },
     {
@@ -212,15 +212,21 @@
       "source": "Guardian Business"
     },
     {
-      "title": "How might Andy Burnham tackle Thames Water debacle?",
-      "link": "https://www.theguardian.com/business/2026/oct/21/three-ideas-for-how-to-deal-with-thames-water",
-      "date": "Wed, 21 Oct 2026 06:00:04 GMT",
+      "title": "UK approves Jackdaw gasfield in North Sea",
+      "link": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved",
+      "date": "Wed, 21 Oct 2026 08:26:09 GMT",
       "source": "Guardian Business"
     },
     {
       "title": "Giant tunnel proposed to tackle Windermere sewage discharges",
       "link": "https://www.theguardian.com/environment/2026/oct/21/giant-tunnel-proposed-to-tackle-widermere-sewage-discharges",
       "date": "Wed, 21 Oct 2026 10:32:12 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "How might Andy Burnham tackle Thames Water debacle?",
+      "link": "https://www.theguardian.com/business/2026/oct/21/three-ideas-for-how-to-deal-with-thames-water",
+      "date": "Wed, 21 Oct 2026 06:00:04 GMT",
       "source": "Guardian Business"
     },
     {
@@ -236,10 +242,10 @@
       "source": "Guardian Business"
     },
     {
-      "title": "‘I can charge my car for £6’: could new rules cut costs for EV drivers?",
-      "link": "https://www.theguardian.com/money/2026/oct/21/charge-car-new-rules-ev-drivers-cross-pavement-gully",
-      "date": "Wed, 21 Oct 2026 06:00:03 GMT",
-      "source": "Guardian Business"
+      "title": "Former U.S. Ambassador to Ukraine on Trump's turn toward Russia",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-6009376/former-u-s-ambassador-to-ukraine-on-trumps-turn-toward-russia",
+      "date": "Wed, 21 Oct 2026 06:56:00 -0400",
+      "source": "NPR World"
     },
     {
       "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
@@ -284,10 +290,22 @@
       "source": "NPR World"
     },
     {
-      "title": "Former U.S. ambassador on Trump's recent moves to embrace Russia",
-      "link": "https://www.npr.org/2026/10/20/nx-s1-6007865/former-u-s-ambassador-on-trumps-recent-moves-to-embrace-russia",
-      "date": "Tue, 20 Oct 2026 07:03:48 -0400",
-      "source": "NPR World"
+      "title": "Cost of living protests aren’t just happening in Europe",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/cost-of-living-protests-arent-just-happening-in-europe?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 10:49:44 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Kvaratskhelia, Dembele and Marquinhos out injured after PSG’s win",
+      "link": "https://www.aljazeera.com/sports/2026/10/21/kvaratskhelia-dembele-and-marquinhos-out-injured-after-psgs-win?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 10:45:01 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Why are French protesters chanting ‘Bismillah, c’est les ténèbres’?",
+      "link": "https://www.aljazeera.com/news/2026/10/21/why-are-french-protesters-chanting-bismillah-cest-les?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 10:35:34 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "UK approves development of Jackdaw gasfield in North Sea",
@@ -317,24 +335,6 @@
       "title": "Attack on Australian MP Haines: How threats against legislators have soared",
       "link": "https://www.aljazeera.com/news/2026/10/21/attack-on-australian-mp-haines-how-threats-against-legislators-have-soared?traffic_source=rss",
       "date": "Wed, 21 Oct 2026 09:24:47 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
-      "link": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 09:02:18 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Australian MP loses both legs in vehicle attack as suspect appears in court",
-      "link": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 08:34:37 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "LeBron James’s 76ers beat NY Knicks on NBA’s opening night at MSG",
-      "link": "https://www.aljazeera.com/sports/2026/10/21/lebron-jamess-76ers-beat-ny-knicks-on-nbas-opening-night-at-msg?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 08:30:55 +0000",
       "source": "Al Jazeera"
     }
   ]
