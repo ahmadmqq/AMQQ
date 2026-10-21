@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T00:07:16.773242+00:00",
+  "updated": "2026-10-21T00:46:02.081838+00:00",
   "items": [
     {
       "title": "بريطانيا تعلن نشر طائرات قتالية في \"مهام دفاعية\" دعماً للسعودية",
@@ -146,6 +146,12 @@
       "source": "BBC Business"
     },
     {
+      "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+      "link": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+      "date": "Wed, 21 Oct 2026 00:14:55 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
       "link": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
       "date": "Tue, 20 Oct 2026 19:18:03 GMT",
@@ -167,12 +173,6 @@
       "title": "Drone attack near market kills 80 in Sudan",
       "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
       "date": "Mon, 19 Oct 2026 14:45:53 GMT",
-      "source": "Guardian World"
-    },
-    {
-      "title": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services",
-      "link": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
-      "date": "Mon, 19 Oct 2026 14:11:08 GMT",
       "source": "Guardian World"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Why former FDLR fighters are returning to Rwanda",
+      "link": "https://www.aljazeera.com/news/2026/10/21/why-former-fdlr-fighters-are-returning-to-rwanda?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 00:25:43 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "One year on: Has Kenya’s opposition lost its way without Raila Odinga?",
+      "link": "https://www.aljazeera.com/news/2026/10/21/one-year-on-has-kenyas-opposition-lost-its-way-without-raila-odinga?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 00:22:19 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "King Charles welcomes Omani sultan, hails peace efforts in UK state visit",
+      "link": "https://www.aljazeera.com/news/2026/10/21/king-charles-welcomes-omani-sultan-hails-peace-efforts-in-uk-state-visit?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 00:08:25 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Iran war live: US warns peace deal with Tehran is extremely difficult",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
       "date": "Wed, 21 Oct 2026 00:00:00 +0000",
@@ -317,24 +335,6 @@
       "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
       "link": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
       "date": "Tue, 20 Oct 2026 22:20:13 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
-      "link": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 21:27:38 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
-      "link": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 21:24:06 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
-      "link": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
-      "date": "Tue, 20 Oct 2026 21:19:12 +0000",
       "source": "Al Jazeera"
     }
   ]
