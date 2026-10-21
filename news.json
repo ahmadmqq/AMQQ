@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-21T22:41:37.790239+00:00",
+  "updated": "2026-10-21T23:07:09.773470+00:00",
   "items": [
     {
-      "title": "وفاة شخص وإصابة آخرين إثر هجوم على مطار الملك فهد بالدمام، والسفارة الأمريكية تطلب من موظفيها مغادرة السعودية",
+      "title": "وفاة وإصابات إثر هجوم على مطار الملك فهد بالدمام، والسفارة الأمريكية تطلب من موظفيها مغادرة السعودية",
       "link": "https://www.bbc.com/arabic/articles/cr78p48yy7qeo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 22:23:06 GMT",
+      "date": "Wed, 21 Oct 2026 22:44:43 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "سماع دوي انفجارات في إيران، ونتيناهو يتمسك بـ \"إسقاط النظام\"",
+      "link": "https://www.bbc.com/arabic/articles/cm74p0zel718o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 22:58:42 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "ماذا نأكل للحفاظ على بشرة أكثر شباباً؟",
       "link": "https://www.bbc.com/arabic/articles/cx1l3q4v7r80o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 12:16:19 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "احتجاجات فرنسا: انقسام حول المسؤولية عن أعمال الشغب والدروس التي يجب استخلاصها",
-      "link": "https://www.bbc.com/arabic/articles/ckg5j18pqyg1o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 10:11:04 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -110,15 +110,15 @@
       "source": "BBC Business"
     },
     {
-      "title": "Meta fined $25bn for 'lies' over user data privacy",
-      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 21:49:07 GMT",
+      "title": "Websites taken down worldwide as critical cyber-security update issued",
+      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 19:54:57 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Burnham proposes plan to cut standing charges from gas bills",
-      "link": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 17:06:16 GMT",
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 21:49:07 GMT",
       "source": "BBC Business"
     },
     {
@@ -128,21 +128,21 @@
       "source": "BBC Business"
     },
     {
-      "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
-      "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 15:58:05 GMT",
+      "title": "Burnham proposes plan to cut standing charges from gas bills",
+      "link": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 17:06:16 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "What is happening to UK prices?",
-      "link": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 08:35:47 GMT",
+      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 23:04:03 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "What is the Budget and what could be in it?",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 08:31:36 GMT",
+      "title": "Just Eat apologises for AI food mistakes after social media ridicule",
+      "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 17:04:13 GMT",
       "source": "BBC Business"
     },
     {
@@ -220,7 +220,7 @@
     {
       "title": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
       "link": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
-      "date": "Wed, 21 Oct 2026 21:21:57 GMT",
+      "date": "Wed, 21 Oct 2026 23:03:16 GMT",
       "source": "Guardian Business"
     },
     {
@@ -240,6 +240,12 @@
       "link": "https://www.theguardian.com/environment/2026/oct/21/giant-tunnel-proposed-to-tackle-widermere-sewage-discharges",
       "date": "Wed, 21 Oct 2026 10:32:12 GMT",
       "source": "Guardian Business"
+    },
+    {
+      "title": "Putin releases American Stephen Hubbard from Russian prison",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-6010608/putin-releases-american-stephen-hubbard-from-russian-prison",
+      "date": "Wed, 21 Oct 2026 18:39:19 -0400",
+      "source": "NPR World"
     },
     {
       "title": "Meet the people moving north to escape increasingly hot summers",
@@ -284,10 +290,10 @@
       "source": "NPR World"
     },
     {
-      "title": "Zelenskyy says early warning system for Russian missile attacks resumes",
-      "link": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
-      "date": "Wed, 21 Oct 2026 01:43:24 -0400",
-      "source": "NPR World"
+      "title": "Canadian publisher drops writer Thelyson Orelien over AI use in novel",
+      "link": "https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 22:16:50 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Video shows Israeli settler assaulting Palestinian child",
@@ -329,12 +335,6 @@
       "title": "Trump heads to South Carolina to boost Senator Darline Graham in race",
       "link": "https://www.aljazeera.com/news/2026/10/21/trump-heads-to-south-carolina-to-boost-senator-darline-graham-in-race?traffic_source=rss",
       "date": "Wed, 21 Oct 2026 21:07:43 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Judge orders Meta to pay $25bn in fines for Facebook privacy violations",
-      "link": "https://www.aljazeera.com/news/2026/10/21/judge-orders-meta-to-pay-25bn-in-fines-for-facebook-privacy-violations?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 21:01:32 +0000",
       "source": "Al Jazeera"
     }
   ]
