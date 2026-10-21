@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-21T19:46:22.711837+00:00",
+  "updated": "2026-10-21T20:11:17.192411+00:00",
   "items": [
     {
-      "title": "السفارة الأمريكية في السعودية تطلب من موظفيها وعائلاتهم مغادرة المملكة، وماكرون يغادر الرياض",
+      "title": "السفارة الأمريكية في السعودية تطلب من موظفيها وعائلاتهم مغادرة المملكة، ومقتل شخصين عقب اعتراض مسيّرة",
       "link": "https://www.bbc.com/arabic/articles/cr78p48yy7qeo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 19:20:25 GMT",
+      "date": "Wed, 21 Oct 2026 20:03:43 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "روسيا: \"جاهزة من حيث المبدأ\" لاستئناف المحادثات لإنهاء الحرب",
+      "link": "https://www.bbc.com/arabic/articles/c8r4y3ny35kro?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 19:59:51 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "أول رئيسة وزراء في المغرب: بين الملك ورجال الدين والحركة النسوية",
-      "link": "https://www.bbc.com/arabic/articles/cxp8gjdqzy8jo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 03:23:41 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
       "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 17:42:34 GMT",
@@ -82,7 +82,7 @@
     {
       "title": "Meta fined $25bn for 'lies' over user data privacy",
       "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 19:30:30 GMT",
+      "date": "Wed, 21 Oct 2026 19:54:16 GMT",
       "source": "BBC World"
     },
     {
@@ -112,7 +112,7 @@
     {
       "title": "Meta fined $25bn for 'lies' over user data privacy",
       "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 19:30:30 GMT",
+      "date": "Wed, 21 Oct 2026 19:54:16 GMT",
       "source": "BBC Business"
     },
     {
@@ -242,6 +242,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Meet the people moving north to escape increasingly hot summers",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-5977837/climate-uk-usa-housing",
+      "date": "Wed, 21 Oct 2026 16:00:00 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "Israel detains dozens of Americans, including a congressional candidate, in West Bank",
       "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
       "date": "Wed, 21 Oct 2026 09:28:04 -0400",
@@ -284,10 +290,16 @@
       "source": "NPR World"
     },
     {
-      "title": "France announces nightly curfews 'for as long as necessary' in Paris and other cities",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-6010344/france-nightly-curfews",
-      "date": "Wed, 21 Oct 2026 01:37:28 -0400",
-      "source": "NPR World"
+      "title": "What happened to Australian politician Helen Haines?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/what-happened-to-australian-politician-helen-haines?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 19:38:02 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Conservative Party suspends ex-candidate filmed in Al Jazeera investigation",
+      "link": "https://www.aljazeera.com/news/2026/10/21/conservative-party-suspends-ex-candidate-filmed-in-al-jazeera-investigation?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 19:36:54 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "India’s ‘Cockroach’ leaders free after a week in jail",
@@ -323,18 +335,6 @@
       "title": "Farmers blocked from olive harvest in occ. West Bank, volunteers detained",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/farmers-blocked-from-olive-harvest-in-occ-west-bank-volunteers-detained?traffic_source=rss",
       "date": "Wed, 21 Oct 2026 18:51:07 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Thousands march for school funding in Greece",
-      "link": "https://www.aljazeera.com/news/2026/10/21/thousands-march-for-school-funding-in-greece?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 18:45:46 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Qatar, Turkiye, Pakistan and Indonesia sign ‘Badr’ defence pact",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/qatar-turkiye-pakistan-and-indonesia-sign-badr-defence-pact?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 18:35:42 +0000",
       "source": "Al Jazeera"
     }
   ]
