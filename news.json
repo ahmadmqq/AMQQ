@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-21T18:35:21.357750+00:00",
+  "updated": "2026-10-21T19:14:19.551434+00:00",
   "items": [
     {
       "title": "ماكرون يلتقي ولي العهد السعودي في الرياض، والسيسي يقول إن الاقتراح حول السعودية لا يشمل مهاجمة اليمن",
       "link": "https://www.bbc.com/arabic/articles/cr78p48yy7qeo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 18:02:11 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "كيم جونغ أون: لماذا تتكرر شائعات وفاته؟",
+      "link": "https://www.bbc.com/arabic/articles/cwx297gj5y12o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 18:35:17 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "كيف تجنّب الأخوان كينيدي أزمة الصواريخ الكوبية عام 1962؟",
-      "link": "https://www.bbc.com/arabic/articles/c6lyl08y95y0o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 07:27:37 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
       "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 17:42:34 GMT",
@@ -74,6 +74,18 @@
       "source": "BBC World"
     },
     {
+      "title": "Family of prison officer killed by IRA receives state apology",
+      "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 16:58:16 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 19:11:53 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
       "link": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 05:46:33 GMT",
@@ -83,18 +95,6 @@
       "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
       "link": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 18:22:28 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Family of prison officer killed by IRA receives state apology",
-      "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 16:58:16 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 08:42:49 GMT",
       "source": "BBC World"
     },
     {
@@ -112,7 +112,7 @@
     {
       "title": "Meta fined $25bn for 'lies' over user data privacy",
       "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 18:01:11 GMT",
+      "date": "Wed, 21 Oct 2026 19:11:53 GMT",
       "source": "BBC Business"
     },
     {
@@ -200,15 +200,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Stratford International on track to get cross-Channel trains in budget boost",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/21/stratford-internationalinternational-trains-budget-boost",
-      "date": "Wed, 21 Oct 2026 10:59:12 GMT",
+      "title": "Flaw in PHP computer language leads to shutdown of websites around world",
+      "link": "https://www.theguardian.com/technology/2026/oct/21/flaw-in-php-computer-language-leads-to-shutdown-of-websites-around-world",
+      "date": "Wed, 21 Oct 2026 18:20:30 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Bereaved civil service families could face ‘unjust’ tax bills due to pension scheme delays",
-      "link": "https://www.theguardian.com/politics/2026/oct/21/bereaved-civil-service-families-tax-bills-pension-scheme-delays-capita-death-in-benefit-claims",
-      "date": "Wed, 21 Oct 2026 11:12:49 GMT",
+      "title": "Stratford International on track to get cross-Channel trains in budget boost",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/21/stratford-internationalinternational-trains-budget-boost",
+      "date": "Wed, 21 Oct 2026 10:59:12 GMT",
       "source": "Guardian Business"
     },
     {
@@ -224,15 +224,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "French borrowing costs hit 24-year high as civil unrest and budget fears spook markets",
-      "link": "https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests",
-      "date": "Wed, 21 Oct 2026 13:17:32 GMT",
+      "title": "Bereaved civil service families could face ‘unjust’ tax bills due to pension scheme delays",
+      "link": "https://www.theguardian.com/politics/2026/oct/21/bereaved-civil-service-families-tax-bills-pension-scheme-delays-capita-death-in-benefit-claims",
+      "date": "Wed, 21 Oct 2026 11:12:49 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Tesla and SpaceX explore merger as Elon Musk gives backing",
-      "link": "https://www.theguardian.com/science/2026/oct/20/spacex-revenue-earnings-report",
-      "date": "Wed, 21 Oct 2026 01:10:07 GMT",
+      "title": "French borrowing costs hit 24-year high as civil unrest and budget fears spook markets",
+      "link": "https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests",
+      "date": "Wed, 21 Oct 2026 13:17:32 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,51 +290,51 @@
       "source": "NPR World"
     },
     {
-      "title": "Why social media has become an election issue in Brazil’s presidential race",
-      "link": "https://www.aljazeera.com/features/2026/10/21/why-social-media-has-become-an-election-issue-in-brazils-presidential-race?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 18:14:02 +0000",
+      "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 19:01:05 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "What’s behind protests in Portugal?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/whats-behind-protests-in-portugal-2?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 17:48:57 +0000",
+      "title": "Steelers and Saints set for historic NFL clash in riot-hit Paris",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/steelers-and-saints-set-for-historic-nfl-clash-in-riot-hit-paris?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 18:59:37 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Macron makes surprise Saudi visit as France secures extra diesel supplies",
-      "link": "https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 16:58:39 +0000",
+      "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
+      "link": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 18:58:29 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Paris shopkeepers fear more destruction after riots destroy livelihoods",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 16:57:15 +0000",
+      "title": "Farmers blocked from olive harvest in occ. West Bank, volunteers detained",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/farmers-blocked-from-olive-harvest-in-occ-west-bank-volunteers-detained?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 18:51:07 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Macron’s surprise ‘solidarity’ visit to Saudi Arabia",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 16:34:27 +0000",
+      "title": "Thousands march for school funding in Greece",
+      "link": "https://www.aljazeera.com/news/2026/10/21/thousands-march-for-school-funding-in-greece?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 18:45:46 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Real Madrid vs RB Leipzig LIVE: Champions League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 16:01:56 +0000",
+      "title": "Qatar, Turkiye, Pakistan and Indonesia sign ‘Badr’ defence pact",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/qatar-turkiye-pakistan-and-indonesia-sign-badr-defence-pact?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 18:35:42 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Bayern Munich vs Arsenal LIVE: Champions League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/21/bayern-munich-vs-arsenal-live-champions-league?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 16:00:00 +0000",
+      "title": "Actors, writers condemn UK anti-terror law targeting Sally Rooney",
+      "link": "https://www.aljazeera.com/news/2026/10/21/actors-writers-condemn-uk-anti-terror-law-targeting-sally-rooney?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 18:35:03 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Canada wants to expand its LNG business. Critics raise red flags",
-      "link": "https://www.aljazeera.com/economy/longform/2026/10/21/canada-wants-to-expand-its-lng-business-critics-raise-red-flags-2?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 15:52:46 +0000",
+      "title": "Yemen holds mass funeral for 75 recruits killed in Houthi strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_funeral-in-yemen-for-recruits-killed-by-houthis-211026?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 18:29:38 +0000",
       "source": "Al Jazeera"
     }
   ]
