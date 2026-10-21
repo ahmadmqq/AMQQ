@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-21T09:42:10.525209+00:00",
+  "updated": "2026-10-21T10:15:08.599068+00:00",
   "items": [
     {
       "title": "التحالف يعلن اعتراض مسيّرات فوق السعودية، وتحذيرات أممية من تدهور الأوضاع في تعز",
       "link": "https://www.bbc.com/arabic/articles/cr78p48yy7qeo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 08:11:29 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "احتجاجات فرنسا: انقسام حول المسؤولية عن أعمال الشغب والدروس التي يجب استخلاصها",
+      "link": "https://www.bbc.com/arabic/articles/ckg5j18pqyg1o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 10:11:04 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -29,12 +35,6 @@
       "title": "لم يُدعَ طفلك إلى حفلة ميلاد صديقه؟ إليك كيف تساعده على تجاوز خيبة الأمل",
       "link": "https://www.bbc.com/arabic/articles/cxj0l749m653o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 02:17:45 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "مارسيليا تتهيأ لمزيد من الاضطرابات بعد تحوّل الاحتجاجات إلى فوضى \"كارثية\"",
-      "link": "https://www.bbc.com/arabic/articles/c370p8rlenj0o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 17:47:30 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -98,6 +98,18 @@
       "source": "BBC World"
     },
     {
+      "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 10:03:41 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+      "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 09:45:31 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "What is happening to UK prices?",
       "link": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 08:35:47 GMT",
@@ -107,12 +119,6 @@
       "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
       "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 08:42:49 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget",
-      "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 08:07:09 GMT",
       "source": "BBC Business"
     },
     {
@@ -137,12 +143,6 @@
       "title": "Trump sued over Canadian tariffs in latest legal challenge",
       "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 19:30:05 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Audit regulator looking into Manchester City accounting",
-      "link": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 20:56:53 GMT",
       "source": "BBC Business"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "Total UK government debt hits £3tn for first time while inflation jumps to highest in nearly a year – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/21/uk-inflation-jump-rising-motor-fuels-cost-jackdaw-gas-field-latest-news-updates",
-      "date": "Wed, 21 Oct 2026 09:28:14 GMT",
+      "date": "Wed, 21 Oct 2026 09:49:13 GMT",
       "source": "Guardian Business"
     },
     {
@@ -230,9 +230,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "‘Too big to not fail’: Google outage exposes UK reliance on a handful of cloud providers",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/20/power-outage-google-datacentre-london-widespread-disruption",
-      "date": "Tue, 20 Oct 2026 16:50:31 GMT",
+      "title": "What an eyesore! My day at Norfolk’s frightful fridge mountain",
+      "link": "https://www.theguardian.com/environment/2026/oct/21/norfolk-frightful-fridge-mountain-recycling",
+      "date": "Wed, 21 Oct 2026 09:00:03 GMT",
       "source": "Guardian Business"
     },
     {
