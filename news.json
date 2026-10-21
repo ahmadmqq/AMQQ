@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T17:03:27.181561+00:00",
+  "updated": "2026-10-21T17:32:23.337079+00:00",
   "items": [
     {
       "title": "ماكرون يلتقي ولي العهد السعودي في الرياض، والسيسي يقول إن الاقتراح حول السعودية لا يشمل مهاجمة اليمن",
@@ -110,21 +110,27 @@
       "source": "BBC Business"
     },
     {
+      "title": "Burnham proposes plan to cut standing charges from gas bills",
+      "link": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 17:06:16 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
       "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 15:58:05 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "What is happening to UK prices?",
-      "link": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 08:35:47 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "The tech helping crack decades-old cold cases",
       "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 23:13:24 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "What is happening to UK prices?",
+      "link": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 08:35:47 GMT",
       "source": "BBC Business"
     },
     {
@@ -140,10 +146,10 @@
       "source": "BBC Business"
     },
     {
-      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 06:36:39 GMT",
-      "source": "BBC Business"
+      "title": "Controversial US-backed vaccine trial in African newborns halted",
+      "link": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
+      "date": "Wed, 21 Oct 2026 17:18:56 GMT",
+      "source": "Guardian World"
     },
     {
       "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
@@ -167,12 +173,6 @@
       "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
       "link": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
       "date": "Mon, 19 Oct 2026 22:34:43 GMT",
-      "source": "Guardian World"
-    },
-    {
-      "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
-      "link": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
-      "date": "Mon, 19 Oct 2026 16:08:14 GMT",
       "source": "Guardian World"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Macron makes surprise Saudi visit as France secures extra diesel supplies",
+      "link": "https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 16:58:39 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Paris shopkeepers fear more destruction after riots destroy livelihoods",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 16:57:15 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Macron’s surprise ‘solidarity’ visit to Saudi Arabia",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss",
       "date": "Wed, 21 Oct 2026 16:34:27 +0000",
@@ -323,18 +335,6 @@
       "title": "Catalonia’s new far right: How anti-Muslim sentiment is reshaping politics",
       "link": "https://www.aljazeera.com/news/2026/10/21/catalonias-new-far-right-how-anti-muslim-sentiment-is-reshaping-politics?traffic_source=rss",
       "date": "Wed, 21 Oct 2026 15:36:42 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "What are Italy’s new measures against violent protests?",
-      "link": "https://www.aljazeera.com/news/2026/10/21/what-are-italys-new-measures-against-violent-protests?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 15:35:54 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Trump says AI data centres should pay ‘dividends’ in pre-midterm shift",
-      "link": "https://www.aljazeera.com/news/2026/10/21/trump-says-ai-data-centres-should-pay-dividends-in-pre-midterm-shift?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 15:09:33 +0000",
       "source": "Al Jazeera"
     }
   ]
