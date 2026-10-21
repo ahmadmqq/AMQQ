@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-21T13:07:17.946153+00:00",
+  "updated": "2026-10-21T13:45:00.734432+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله تعلن استهداف موقع سعودي في عدن وتنفي إطلاق مسيّرات نحو المملكة",
       "link": "https://www.bbc.com/arabic/articles/cr78p48yy7qeo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 11:43:00 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "مقتل 153 شخصاً في هجوم بمسيّرات على سوق في أبيي في جنوب السودان",
+      "link": "https://www.bbc.com/arabic/articles/ck5yn5ej0vyqo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 13:43:15 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,33 +50,21 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "كيف تفاعل رواد منصات التواصل الاجتماعي مع التهديد الإيراني باستهداف كابلات الإنترنت في هرمز؟",
-      "link": "https://www.bbc.com/arabic/articles/c30rl09xzyn5o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 17:11:02 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
       "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 12:32:01 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Trump and Zelensky at loggerheads despite new optimism",
-      "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 20:00:57 GMT",
+      "title": "Australian MP loses both legs after alleged car attack, husband says",
+      "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 07:56:30 GMT",
       "source": "BBC World"
     },
     {
       "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
       "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 06:50:40 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Australian MP loses both legs after alleged car attack, husband says",
-      "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 07:56:30 GMT",
       "source": "BBC World"
     },
     {
@@ -92,9 +86,15 @@
       "source": "BBC World"
     },
     {
-      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 17:30:15 GMT",
+      "title": "Family of prison officer killed by IRA receives state apology",
+      "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 13:35:27 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Nigeria confirms Ebola case linked to East Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 12:39:34 GMT",
       "source": "BBC World"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "Total UK government debt hits £3tn for first time while inflation jumps to highest in nearly a year – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/21/uk-inflation-jump-rising-motor-fuels-cost-jackdaw-gas-field-latest-news-updates",
-      "date": "Wed, 21 Oct 2026 12:32:07 GMT",
+      "date": "Wed, 21 Oct 2026 13:24:23 GMT",
       "source": "Guardian Business"
     },
     {
@@ -218,6 +218,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "French borrowing costs hit 24-year high as civil unrest and budget fears spook markets",
+      "link": "https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests",
+      "date": "Wed, 21 Oct 2026 13:17:32 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Tesla and SpaceX explore merger as Elon Musk gives backing",
       "link": "https://www.theguardian.com/science/2026/oct/20/spacex-revenue-earnings-report",
       "date": "Wed, 21 Oct 2026 01:10:07 GMT",
@@ -230,16 +236,16 @@
       "source": "Guardian Business"
     },
     {
-      "title": "What an eyesore! My day at Norfolk’s frightful fridge mountain",
-      "link": "https://www.theguardian.com/environment/2026/oct/21/norfolk-frightful-fridge-mountain-recycling",
-      "date": "Wed, 21 Oct 2026 09:00:03 GMT",
+      "title": "‘I can charge my car for £6’: could new rules cut costs for EV drivers?",
+      "link": "https://www.theguardian.com/money/2026/oct/21/charge-car-new-rules-ev-drivers-cross-pavement-gully",
+      "date": "Wed, 21 Oct 2026 06:00:03 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld",
-      "link": "https://www.theguardian.com/football/2026/oct/21/manchester-city-david-kogan-independent-football-regulator",
-      "date": "Tue, 20 Oct 2026 23:34:37 GMT",
-      "source": "Guardian Business"
+      "title": "80 Israelis and Americans, including NY Democrat Brad Lander, detained in West Bank",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
+      "date": "Wed, 21 Oct 2026 09:28:04 -0400",
+      "source": "NPR World"
     },
     {
       "title": "DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
@@ -284,10 +290,10 @@
       "source": "NPR World"
     },
     {
-      "title": "Current U.S. support for Ukraine looks very different than it did",
-      "link": "https://www.npr.org/2026/10/20/nx-s1-6009227/current-u-s-support-for-ukraine-looks-very-different-than-it-did",
-      "date": "Tue, 20 Oct 2026 16:27:23 -0400",
-      "source": "NPR World"
+      "title": "Pakistani authorities arrest man accused in $126m US postage fraud",
+      "link": "https://www.aljazeera.com/news/2026/10/21/pakistani-authorities-arrest-man-accused-in-126m-us-postage-fraud?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 13:06:53 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "France’s Macron says protesters won’t be allowed to ‘cause chaos’",
@@ -329,12 +335,6 @@
       "title": "Kvaratskhelia, Dembele and Marquinhos out injured after PSG’s win",
       "link": "https://www.aljazeera.com/sports/2026/10/21/kvaratskhelia-dembele-and-marquinhos-out-injured-after-psgs-win?traffic_source=rss",
       "date": "Wed, 21 Oct 2026 10:45:01 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Why are French protesters chanting ‘Bismillah, c’est les ténèbres’?",
-      "link": "https://www.aljazeera.com/news/2026/10/21/why-are-french-protesters-chanting-bismillah-cest-les?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 10:35:34 +0000",
       "source": "Al Jazeera"
     }
   ]
