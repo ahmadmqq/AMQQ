@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-21T15:21:14.841031+00:00",
+  "updated": "2026-10-21T15:58:44.339031+00:00",
   "items": [
     {
       "title": "ماكرون يلتقي ولي العهد السعودي في الرياض مع استهداف الحوثيين مصالح سعودية في اليمن",
       "link": "https://www.bbc.com/arabic/articles/cr78p48yy7qeo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 14:29:14 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "لافتة جماهير باريس سان جيرمان تثير غضب برشلونة، ما القصة؟",
+      "link": "https://www.bbc.com/arabic/articles/c63elp3w7njgo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 15:41:40 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,15 +50,9 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "لم يُدعَ طفلك إلى حفلة ميلاد صديقه؟ إليك كيف تساعده على تجاوز خيبة الأمل",
-      "link": "https://www.bbc.com/arabic/articles/cxj0l749m653o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 02:17:45 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
       "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 13:49:50 GMT",
+      "date": "Wed, 21 Oct 2026 15:53:32 GMT",
       "source": "BBC World"
     },
     {
@@ -88,7 +88,7 @@
     {
       "title": "Family of prison officer killed by IRA receives state apology",
       "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 13:35:27 GMT",
+      "date": "Wed, 21 Oct 2026 15:50:21 GMT",
       "source": "BBC World"
     },
     {
@@ -112,7 +112,7 @@
     {
       "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
       "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 14:04:52 GMT",
+      "date": "Wed, 21 Oct 2026 15:58:05 GMT",
       "source": "BBC Business"
     },
     {
@@ -242,7 +242,7 @@
       "source": "Guardian Business"
     },
     {
-      "title": "80 Israelis and Americans, including NY Democrat Brad Lander, detained in West Bank",
+      "title": "Israel detains dozens of Americans, including a congressional candidate, in West Bank",
       "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
       "date": "Wed, 21 Oct 2026 09:28:04 -0400",
       "source": "NPR World"
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Trump says AI data centres should pay ‘dividends’ in pre-midterm shift",
+      "link": "https://www.aljazeera.com/news/2026/10/21/trump-says-ai-data-centres-should-pay-dividends-in-pre-midterm-shift?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 15:09:33 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Russia to send first diesel tanker to the US amid Trump deal",
       "link": "https://www.aljazeera.com/economy/2026/10/21/russia-to-send-first-diesel-tanker-to-the-us-amid-trump-deal?traffic_source=rss",
       "date": "Wed, 21 Oct 2026 14:54:55 +0000",
@@ -329,12 +335,6 @@
       "title": "How war in Lebanon has cost young people with autism and ADHD",
       "link": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss",
       "date": "Wed, 21 Oct 2026 13:32:57 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Are the UK, France being pulled into the Saudi-Houthi conflict?",
-      "link": "https://www.aljazeera.com/news/2026/10/21/are-the-uk-france-being-pulled-into-the-saudi-houthi-conflict?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 13:25:50 +0000",
       "source": "Al Jazeera"
     }
   ]
