@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T12:17:31.125980+00:00",
+  "updated": "2026-10-21T13:07:17.946153+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله تعلن استهداف موقع سعودي في عدن وتنفي إطلاق مسيّرات نحو المملكة",
@@ -14,21 +14,27 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "ماذا نأكل للحفاظ على بشرة أكثر شباباً؟",
+      "link": "https://www.bbc.com/arabic/articles/cx1l3q4v7r80o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 12:16:19 GMT",
+      "source": "BBC Arabic"
+    },
+    {
       "title": "احتجاجات فرنسا: انقسام حول المسؤولية عن أعمال الشغب والدروس التي يجب استخلاصها",
       "link": "https://www.bbc.com/arabic/articles/ckg5j18pqyg1o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 10:11:04 GMT",
       "source": "BBC Arabic"
     },
     {
-      "title": "كيف تجنّب الأخوان كينيدي أزمة الصواريخ الكوبية عام 1962؟",
-      "link": "https://www.bbc.com/arabic/articles/c6lyl08y95y0o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 07:27:37 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "أول رئيسة وزراء في المغرب: بين الملك ورجال الدين والحركة النسوية",
       "link": "https://www.bbc.com/arabic/articles/cxp8gjdqzy8jo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 03:23:41 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "كيف تجنّب الأخوان كينيدي أزمة الصواريخ الكوبية عام 1962؟",
+      "link": "https://www.bbc.com/arabic/articles/c6lyl08y95y0o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 07:27:37 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,19 +50,13 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "\"منتدى مصر\": ظهور مفاجئ لباسم يوسف وسط حديث عن عودة قريبة",
-      "link": "https://www.bbc.com/arabic/articles/c84g1ql03ll7o?at_medium=RSS&at_campaign=rss",
-      "date": "Tue, 20 Oct 2026 18:34:16 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
       "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 12:00:33 GMT",
+      "date": "Wed, 21 Oct 2026 12:32:01 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Trump and Zelensky appear at loggerheads despite new optimism",
+      "title": "Trump and Zelensky at loggerheads despite new optimism",
       "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
       "date": "Tue, 20 Oct 2026 20:00:57 GMT",
       "source": "BBC World"
@@ -110,7 +110,7 @@
       "source": "BBC Business"
     },
     {
-      "title": "Civil servant denies 'criminal intent' after juggling five government jobs",
+      "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
       "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 12:17:12 GMT",
       "source": "BBC Business"
@@ -196,7 +196,7 @@
     {
       "title": "Total UK government debt hits £3tn for first time while inflation jumps to highest in nearly a year – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/21/uk-inflation-jump-rising-motor-fuels-cost-jackdaw-gas-field-latest-news-updates",
-      "date": "Wed, 21 Oct 2026 11:47:55 GMT",
+      "date": "Wed, 21 Oct 2026 12:32:07 GMT",
       "source": "Guardian Business"
     },
     {
@@ -212,9 +212,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "UK approves Jackdaw gasfield in North Sea",
-      "link": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved",
-      "date": "Wed, 21 Oct 2026 08:26:09 GMT",
+      "title": "Energy secretary leaning towards rejecting Rosebank oilfield",
+      "link": "https://www.theguardian.com/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
+      "date": "Wed, 21 Oct 2026 12:31:05 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,36 @@
       "source": "NPR World"
     },
     {
+      "title": "France’s Macron says protesters won’t be allowed to ‘cause chaos’",
+      "link": "https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 12:54:43 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Protests as UK approves new gas drilling in North Sea",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/protests-as-uk-approves-new-gas-drilling-in-north-sea?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 12:49:52 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "‘They try to break us’: Pro-Palestine activists in Czech custody",
+      "link": "https://www.aljazeera.com/news/2026/10/21/they-try-to-break-us-pro-palestine-activists-in-czech-custody?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 12:24:23 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Macron says Trump spread rumours about protests",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macron-says-trump-spread-rumours-about-protests?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 12:18:37 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Iran’s enriched uranium re-emerges as point of contention in US talks",
+      "link": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks?traffic_source=rss",
+      "date": "Wed, 21 Oct 2026 12:18:10 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Cost of living protests aren’t just happening in Europe",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/cost-of-living-protests-arent-just-happening-in-europe?traffic_source=rss",
       "date": "Wed, 21 Oct 2026 10:49:44 +0000",
@@ -305,36 +335,6 @@
       "title": "Why are French protesters chanting ‘Bismillah, c’est les ténèbres’?",
       "link": "https://www.aljazeera.com/news/2026/10/21/why-are-french-protesters-chanting-bismillah-cest-les?traffic_source=rss",
       "date": "Wed, 21 Oct 2026 10:35:34 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "UK approves development of Jackdaw gasfield in North Sea",
-      "link": "https://www.aljazeera.com/news/2026/10/21/uk-approves-development-of-jackdaw-gasfield-in-north-sea?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 10:28:18 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "WW1 to Houthis: British jets for Saudi Arabia build on long military bond",
-      "link": "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 10:22:35 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Paramilitary hitman linked to British right-wing group Turning Point UK",
-      "link": "https://www.aljazeera.com/news/2026/10/21/paramilitary-hitman-linked-to-british-right-wing-group-turning-point-uk?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 10:20:41 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "UK king welcomes Oman’s sultan in speech quoting Prophet Muhammad",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/uk-king-welcomes-omans-sultan-in-speech-quoting-prophet-muhammad?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 10:17:41 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Attack on Australian MP Haines: How threats against legislators have soared",
-      "link": "https://www.aljazeera.com/news/2026/10/21/attack-on-australian-mp-haines-how-threats-against-legislators-have-soared?traffic_source=rss",
-      "date": "Wed, 21 Oct 2026 09:24:47 +0000",
       "source": "Al Jazeera"
     }
   ]
