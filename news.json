@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-22T09:39:16.113875+00:00",
+  "updated": "2026-10-22T10:15:02.596539+00:00",
   "items": [
     {
-      "title": "مقتل ثلاثة أشخاص وإصابة عشرة في هجمات على حقل شيبة النفطي ومطار الدمام بالسعودية",
+      "title": "مقتل أربعة أشخاص وإصابة 18 في هجمات على مطار الدمام وحقل شيبة النفطي بالسعودية",
       "link": "https://www.bbc.com/arabic/articles/cr78p48yy7qeo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 09:06:57 GMT",
+      "date": "Thu, 22 Oct 2026 10:04:29 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "\"افرضوا الضرائب على الأثرياء، أو ستندمون\" - مقال في ميرور",
+      "link": "https://www.bbc.com/arabic/articles/cqpvg1821r2lo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 09:57:00 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,33 +50,15 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "لافتة جماهير باريس سان جيرمان تثير غضب برشلونة، ما القصة؟",
-      "link": "https://www.bbc.com/arabic/articles/c63elp3w7njgo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 15:41:40 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "What is PHP and why did it spark a global cyber-security scramble?",
-      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 06:24:59 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "How Arab parties could hold critical balance of power in Israeli election",
       "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 05:30:22 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 21:27:41 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
       "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 08:15:48 GMT",
+      "date": "Thu, 22 Oct 2026 09:56:36 GMT",
       "source": "BBC World"
     },
     {
@@ -80,9 +68,21 @@
       "source": "BBC World"
     },
     {
+      "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
+      "link": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 09:47:54 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Two European women held captive for more than a year in Niger freed in Libya",
       "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 08:21:13 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 21:27:41 GMT",
       "source": "BBC World"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "Barclays cuts 5,000 jobs as profits jump ahead of looming bank tax; French bond yields hit fresh 24-year high – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates",
-      "date": "Thu, 22 Oct 2026 09:21:32 GMT",
+      "date": "Thu, 22 Oct 2026 09:57:02 GMT",
       "source": "Guardian Business"
     },
     {
@@ -242,9 +242,21 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Former U.S. Ambassador to Ukraine William Taylor on Trump's embrace of Russia",
+      "link": "https://www.npr.org/2026/10/22/nx-s1-6010509/former-u-s-ambassador-to-ukraine-william-taylor-on-trumps-embrace-of-russia",
+      "date": "Thu, 22 Oct 2026 05:59:02 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "See how Big Tech is transforming Spain's landscape",
       "link": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
       "date": "Thu, 22 Oct 2026 05:00:00 -0400",
+      "source": "NPR World"
+    },
+    {
+      "title": "U.S. and Israel are planning for a possible attack on Iran, source tells NPR",
+      "link": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war",
+      "date": "Thu, 22 Oct 2026 04:56:58 -0400",
       "source": "NPR World"
     },
     {
@@ -278,16 +290,10 @@
       "source": "NPR World"
     },
     {
-      "title": "Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
-      "date": "Wed, 21 Oct 2026 09:28:04 -0400",
-      "source": "NPR World"
-    },
-    {
-      "title": "DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
-      "link": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia",
-      "date": "Wed, 21 Oct 2026 07:46:59 -0400",
-      "source": "NPR World"
+      "title": "Brazil’s president appeals to undecided voters ahead of run-off",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/brazils-president-appeals-to-undecided-voters-ahead-of-run-off?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 09:42:42 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "‘Facebook’s wrongdoing’: Why has Meta been fined $25bn in New Mexico?",
@@ -329,12 +335,6 @@
       "title": "Angel Reese shines again as Dream down Valkyries to lead WNBA Finals",
       "link": "https://www.aljazeera.com/sports/2026/10/22/angel-reese-shines-again-as-dream-down-valkyries-to-lead-wnba-finals?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 07:53:55 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Meta faces Australian lawsuit over alleged social media harm to children",
-      "link": "https://www.aljazeera.com/news/2026/10/22/meta-faces-australian-lawsuit-over-alleged-social-media-harm-to-children?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 07:23:12 +0000",
       "source": "Al Jazeera"
     }
   ]
