@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T18:04:30.539077+00:00",
+  "updated": "2026-10-22T18:37:35.874186+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله الحوثية تقول إنها استهدفت وزارة الدفاع السعودية في الرياض",
@@ -230,15 +230,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "UK must prepare for infrastructure attacks by hostile states, says Streeting",
-      "link": "https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
-      "date": "Thu, 22 Oct 2026 13:38:22 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
       "link": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
       "date": "Thu, 22 Oct 2026 15:40:03 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Oil prices jump to five-month high as attacks threaten global supply",
+      "link": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
+      "date": "Thu, 22 Oct 2026 11:28:11 GMT",
       "source": "Guardian Business"
     },
     {
@@ -272,6 +272,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Kara Swisher on Elon Musk: 'He's unelected, unaccountable, enormously wealthy'",
+      "link": "https://www.npr.org/2026/10/22/nx-s1-6010616/kara-swisher-elon-musk-tesla-spacex-political-influence",
+      "date": "Thu, 22 Oct 2026 04:56:33 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti",
       "link": "https://www.npr.org/2026/10/22/nx-s1-6012029/bukele-military-operation-haiti",
       "date": "Thu, 22 Oct 2026 04:39:19 -0400",
@@ -284,10 +290,22 @@
       "source": "NPR World"
     },
     {
-      "title": "AIPAC halts endorsements and direct contributions to candidates",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
-      "date": "Wed, 21 Oct 2026 20:22:48 -0400",
-      "source": "NPR World"
+      "title": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
+      "link": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 18:17:29 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Trump says NBA star LeBron James disrespected US national anthem",
+      "link": "https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 18:05:52 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
+      "link": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 17:58:04 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "US-sanctioned ICC wins top EU human rights award",
@@ -317,24 +335,6 @@
       "title": "Jerusalem Daily: Israeli soldier abusing cat goes viral",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/jerusalem-daily-israeli-soldier-abusing-cat-goes-viral?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 17:25:29 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Albanian lawmakers scuffle in parliament as street protests continue",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_albanian-lawmakers-scuffle-in-parliament-221026?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 16:35:12 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "FIFA announces USA to host first Women’s Club World Cup in 2028",
-      "link": "https://www.aljazeera.com/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 16:34:38 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Two Syrian security officers killed in raid on ISIL cell near Damascus",
-      "link": "https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 16:24:43 +0000",
       "source": "Al Jazeera"
     }
   ]
