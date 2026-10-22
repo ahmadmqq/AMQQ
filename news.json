@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-22T12:18:50.435392+00:00",
+  "updated": "2026-10-22T13:08:55.012218+00:00",
   "items": [
     {
-      "title": "مقتل أربعة أشخاص وإصابة 18 في هجمات على مطار الدمام وحقل شيبة النفطي بالسعودية",
-      "link": "https://www.bbc.com/arabic/articles/cr78p48yy7qeo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 10:04:29 GMT",
+      "title": "أرامكو تخلي مقرها بالظهران وأربعة قتلى في هجومين بالسعودية، واجتماع غداً في إسطنبول لبحث التصعيد",
+      "link": "https://www.bbc.com/arabic/articles/c9203p26rj8do?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 12:57:31 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -100,7 +100,13 @@
     {
       "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 09:37:58 GMT",
+      "date": "Thu, 22 Oct 2026 12:54:36 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Tank barrel production returns to UK after 20 years",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 12:14:19 GMT",
       "source": "BBC Business"
     },
     {
@@ -122,27 +128,21 @@
       "source": "BBC Business"
     },
     {
-      "title": "What is PHP and why did it spark a global cyber-security scramble?",
-      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 11:15:58 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "No order, no seat: Starbucks China rolls out new store policy",
       "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 04:02:29 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "The grads ditching the UK for a fresh start abroad",
-      "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 23:12:06 GMT",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 11:15:58 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Meta fined $25bn for 'lies' over user data privacy",
-      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 21:49:07 GMT",
+      "title": "The grads ditching the UK for a fresh start abroad",
+      "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 23:12:06 GMT",
       "source": "BBC Business"
     },
     {
@@ -202,7 +202,7 @@
     {
       "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
       "link": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw",
-      "date": "Thu, 22 Oct 2026 11:36:38 GMT",
+      "date": "Thu, 22 Oct 2026 12:40:10 GMT",
       "source": "Guardian Business"
     },
     {
@@ -212,7 +212,7 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Save high street by taxing online sales at higher rate, Burnham urged",
+      "title": "Tax online sales more heavily to save high streets, Burnham urged",
       "link": "https://www.theguardian.com/uk-news/2026/oct/22/save-high-street-tax-online-sales-burnham-urged",
       "date": "Thu, 22 Oct 2026 11:32:45 GMT",
       "source": "Guardian Business"
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "What’s the PHP coding flaw that could pull down 70 percent of the internet?",
+      "link": "https://www.aljazeera.com/news/2026/10/22/whats-the-php-coding-flaw-that-could-pull-down-70-percent-of-the-internet?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 12:37:34 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
+      "link": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 12:12:32 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "What is the Turkiye-Libya maritime deal, and why are the EU, Egypt opposed?",
       "link": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 11:36:02 +0000",
@@ -323,18 +335,6 @@
       "title": "Is Neha Bora, India’s new red star, Modi’s real Gen Z threat?",
       "link": "https://www.aljazeera.com/features/2026/10/22/is-neha-bora-indias-new-red-star-modis-real-gen-z-threat?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 10:45:01 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Michigan Senate debate: Key takeaways from El-Sayed, Rogers clash",
-      "link": "https://www.aljazeera.com/news/2026/10/22/michigan-senate-debate-key-takeaways-from-el-sayed-rogers-clash?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 10:06:58 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Israeli forces kill disabled man in southern Syria raid, state media says",
-      "link": "https://www.aljazeera.com/news/2026/10/22/israeli-forces-kill-disabled-man-in-southern-syria-raid-state-media-says?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 10:01:55 +0000",
       "source": "Al Jazeera"
     }
   ]
