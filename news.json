@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T06:20:54.478210+00:00",
+  "updated": "2026-10-22T07:13:24.190396+00:00",
   "items": [
     {
       "title": "ترامب يقول إنه تم تدمير قدرة إيران على التخصيب النووي، ونتنياهو يتمسك بـ\"إسقاط النظام\"",
@@ -11,6 +11,12 @@
       "title": "روسيا تبدي استعدادها لاستئناف محادثات السلام مع أوكرانيا الشهر المقبل",
       "link": "https://www.bbc.com/arabic/articles/c8r4y3ny35kro?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 05:09:48 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "إعدام بنغاليَيْن في السعودية يثير تساؤلات بشأن ملابسات القضية",
+      "link": "https://www.bbc.com/arabic/articles/cq78pz079vkmo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 06:39:46 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,21 +50,15 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "\"بريطانيا تواجه مخاطر في حال تجدد الحرب مع إيران\" - عرض الصحف",
-      "link": "https://www.bbc.com/arabic/articles/cwly39n8mzn7o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 11:02:44 GMT",
-      "source": "BBC Arabic"
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 06:24:59 GMT",
+      "source": "BBC World"
     },
     {
       "title": "How Arab parties could hold critical balance of power in Israeli election",
       "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 05:30:22 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "What is PHP and why did it spark a global cyber-security scramble?",
-      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 03:48:50 GMT",
       "source": "BBC World"
     },
     {
@@ -68,21 +68,21 @@
       "source": "BBC World"
     },
     {
-      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+      "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
       "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 19:58:06 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 21:49:07 GMT",
       "source": "BBC World"
     },
     {
       "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
       "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 01:07:34 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-      "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 22:54:58 GMT",
       "source": "BBC World"
     },
     {
@@ -104,6 +104,12 @@
       "source": "BBC Business"
     },
     {
+      "title": "Is an 'AI war' complicating your job search?",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 05:01:31 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "Websites taken down worldwide as critical cyber-security update issued",
       "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 19:54:57 GMT",
@@ -112,7 +118,7 @@
     {
       "title": "What is PHP and why did it spark a global cyber-security scramble?",
       "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 03:48:50 GMT",
+      "date": "Thu, 22 Oct 2026 06:24:59 GMT",
       "source": "BBC Business"
     },
     {
@@ -122,27 +128,21 @@
       "source": "BBC Business"
     },
     {
-      "title": "Meta fined $25bn for 'lies' over user data privacy",
-      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 21:49:07 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "The grads ditching the UK for a fresh start abroad",
       "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 23:12:06 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-      "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 22:54:58 GMT",
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 21:49:07 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 23:04:03 GMT",
+      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+      "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 22:54:58 GMT",
       "source": "BBC Business"
     },
     {
@@ -194,15 +194,15 @@
       "source": "Guardian World"
     },
     {
-      "title": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
-      "date": "Thu, 22 Oct 2026 05:00:08 GMT",
+      "title": "Barclays profits jump ahead of looming bank tax; French bond yields hit fresh 24-year high – business live",
+      "link": "https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates",
+      "date": "Thu, 22 Oct 2026 07:04:05 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Flaw in PHP computer language leads to shutdown of websites around world",
-      "link": "https://www.theguardian.com/technology/2026/oct/21/flaw-in-php-computer-language-leads-to-shutdown-of-websites-around-world",
-      "date": "Thu, 22 Oct 2026 00:39:15 GMT",
+      "title": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
+      "date": "Thu, 22 Oct 2026 05:00:08 GMT",
       "source": "Guardian Business"
     },
     {
@@ -218,15 +218,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
-      "link": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
-      "date": "Wed, 21 Oct 2026 23:03:16 GMT",
+      "title": "Flaw in PHP computer language leads to shutdown of websites around world",
+      "link": "https://www.theguardian.com/technology/2026/oct/21/flaw-in-php-computer-language-leads-to-shutdown-of-websites-around-world",
+      "date": "Thu, 22 Oct 2026 00:39:15 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Booking.com under investigation by EU regulators over fake listings and scams",
-      "link": "https://www.theguardian.com/world/2026/oct/21/bookingcom-under-investigation-eu-regulators-fake-listings-scams",
-      "date": "Wed, 21 Oct 2026 15:01:24 GMT",
+      "title": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
+      "link": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
+      "date": "Wed, 21 Oct 2026 23:03:16 GMT",
       "source": "Guardian Business"
     },
     {
@@ -236,10 +236,16 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Energy secretary leaning towards rejecting Rosebank oilfield",
-      "link": "https://www.theguardian.com/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
-      "date": "Wed, 21 Oct 2026 17:15:23 GMT",
+      "title": "Booking.com under investigation by EU regulators over fake listings and scams",
+      "link": "https://www.theguardian.com/world/2026/oct/21/bookingcom-under-investigation-eu-regulators-fake-listings-scams",
+      "date": "Wed, 21 Oct 2026 15:01:24 GMT",
       "source": "Guardian Business"
+    },
+    {
+      "title": "North Korea says it will resume propaganda broadcasts across border into South Korea",
+      "link": "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts",
+      "date": "Thu, 22 Oct 2026 02:36:07 -0400",
+      "source": "NPR World"
     },
     {
       "title": "AIPAC halts endorsements and direct contributions to candidates",
@@ -284,10 +290,34 @@
       "source": "NPR World"
     },
     {
-      "title": "Millions are struck off India's voter rolls in largest disenfranchisement in history",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-5997960/india-voter-rolls",
-      "date": "Wed, 21 Oct 2026 04:42:10 -0400",
-      "source": "NPR World"
+      "title": "In Israel election, Palestinian citizens weigh fear against disillusionment",
+      "link": "https://www.aljazeera.com/news/2026/10/22/in-israel-election-palestinian-citizens-weigh-fear-against-disillusionment?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 07:02:10 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "US universities are failing to protect victims of sexual assault",
+      "link": "https://www.aljazeera.com/opinions/2026/10/22/us-universities-are-failing-to-protect-victims-of-sexual-assault?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 06:47:24 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "China edge USA to women’s team gold at Gymnastics World Championships",
+      "link": "https://www.aljazeera.com/sports/2026/10/22/china-edge-usa-to-womens-team-gold-at-gymnastics-world-championships?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 06:23:30 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Cookies and weapons: Women in Yemen’s Taiz find ways to help the city’s defence",
+      "link": "https://www.aljazeera.com/features/2026/10/22/cookies-and-weapons-women-in-yemens-taiz-find-ways-to-help-the-citys-defence?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 06:06:28 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Man United’s Carrick not worried about his job despite ‘unacceptable’ loss",
+      "link": "https://www.aljazeera.com/sports/2026/10/22/man-uniteds-carrick-not-worried-about-his-job-despite-unacceptable-loss?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 06:01:48 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "The world is $365 trillion in debt, and the interest bill is climbing",
@@ -305,36 +335,6 @@
       "title": "Ukraine’s access to Starlink a decision for Elon Musk, Rubio says",
       "link": "https://www.aljazeera.com/news/2026/10/22/ukraines-access-to-starlink-a-decision-for-elon-musk-rubio-says?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 05:54:12 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "El Salvador’s Bukele threatens Haitian gangs over abducted soldiers",
-      "link": "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 05:36:33 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "El-Sayed in face-off against rival Rogers for Michigan Senate seat",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/el-sayed-in-face-off-against-rival-rogers-for-michigan-senate-seat?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 05:00:56 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "North Korea to resume propaganda broadcasts, South Korea urges dialogue",
-      "link": "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 04:45:41 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Brazil’s Bolsonaro challenges Lula to expand release of personal records",
-      "link": "https://www.aljazeera.com/news/2026/10/22/brazils-bolsonaro-challenges-lula-to-expand-release-of-personal-records?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 04:36:04 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Australian TV reporter rescues man from sinking car",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 04:19:33 +0000",
       "source": "Al Jazeera"
     }
   ]
