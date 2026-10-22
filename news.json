@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-22T10:15:02.596539+00:00",
+  "updated": "2026-10-22T10:48:40.919523+00:00",
   "items": [
     {
       "title": "مقتل أربعة أشخاص وإصابة 18 في هجمات على مطار الدمام وحقل شيبة النفطي بالسعودية",
       "link": "https://www.bbc.com/arabic/articles/cr78p48yy7qeo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 10:04:29 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "بي إتش بي: ثغرة تهدّد 30 مليون موقع إلكتروني وتستدعي استنفاراً عالمياً، فما هي وكيف تؤثر علينا؟",
+      "link": "https://www.bbc.com/arabic/articles/cm15jpx771lyo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 10:22:14 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -14,21 +20,21 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "ترامب يقول إنه تم تدمير قدرة إيران على التخصيب النووي، ونتنياهو يتمسك بـ\"إسقاط النظام\"",
-      "link": "https://www.bbc.com/arabic/articles/cm74p0zel718o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 05:05:41 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "إعدام بنغاليَيْن في السعودية يثير تساؤلات بشأن ملابسات القضية",
       "link": "https://www.bbc.com/arabic/articles/cq78pz079vkmo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 06:39:46 GMT",
       "source": "BBC Arabic"
     },
     {
-      "title": "من بينها أبو ظبي: 5 مدن سياحية رائعة تستحق الاستكشاف",
+      "title": "من بينها أبو ظبي: خمس مدن سياحية رائعة تستحق الاستكشاف",
       "link": "https://www.bbc.com/arabic/articles/ckwyqnp3p10eo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 08:30:50 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "ترامب يقول إنه تم تدمير قدرة إيران على التخصيب النووي، ونتنياهو يتمسك بـ\"إسقاط النظام\"",
+      "link": "https://www.bbc.com/arabic/articles/cm74p0zel718o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 05:05:41 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "كيم جونغ أون: لماذا تتكرر شائعات وفاته؟",
-      "link": "https://www.bbc.com/arabic/articles/cwx297gj5y12o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 18:35:17 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "How Arab parties could hold critical balance of power in Israeli election",
       "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 05:30:22 GMT",
@@ -58,7 +58,7 @@
     {
       "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
       "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 09:56:36 GMT",
+      "date": "Thu, 22 Oct 2026 10:16:35 GMT",
       "source": "BBC World"
     },
     {
@@ -74,9 +74,15 @@
       "source": "BBC World"
     },
     {
+      "title": "El Salvador's president threatens Haitian gangs over military hostages",
+      "link": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 10:17:48 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Two European women held captive for more than a year in Niger freed in Libya",
       "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 08:21:13 GMT",
+      "date": "Thu, 22 Oct 2026 10:26:06 GMT",
       "source": "BBC World"
     },
     {
@@ -89,12 +95,6 @@
       "title": "How do Israel's elections work and who are the main contenders?",
       "link": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 09:27:10 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Macron accuses foreign leaders of exploiting French riots",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 14:04:28 GMT",
       "source": "BBC World"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "Barclays cuts 5,000 jobs as profits jump ahead of looming bank tax; French bond yields hit fresh 24-year high – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates",
-      "date": "Thu, 22 Oct 2026 09:57:02 GMT",
+      "date": "Thu, 22 Oct 2026 10:16:24 GMT",
       "source": "Guardian Business"
     },
     {
@@ -206,9 +206,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Waitrose opens first new supermarket in eight years in north London",
-      "link": "https://www.theguardian.com/business/2026/oct/22/waitrose-new-supermarket-london-cricklewood-hale-barns-greater-manchester",
-      "date": "Thu, 22 Oct 2026 04:00:06 GMT",
+      "title": "Meta strikes deal with Zuckerberg to protect him from California wealth tax",
+      "link": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
+      "date": "Thu, 22 Oct 2026 10:10:03 GMT",
       "source": "Guardian Business"
     },
     {
@@ -218,15 +218,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Flaw in PHP computer language leads to shutdown of websites around world",
-      "link": "https://www.theguardian.com/technology/2026/oct/21/flaw-in-php-computer-language-leads-to-shutdown-of-websites-around-world",
-      "date": "Thu, 22 Oct 2026 00:39:15 GMT",
+      "title": "Sainsbury’s expects challenging run-up to Christmas as households feel squeeze",
+      "link": "https://www.theguardian.com/business/2026/oct/22/sainsburys-challenging-run-up-to-christmas-households-feel-squeeze",
+      "date": "Thu, 22 Oct 2026 10:33:58 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
-      "link": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
-      "date": "Wed, 21 Oct 2026 23:03:16 GMT",
+      "title": "Waitrose opens first new supermarket in eight years in north London",
+      "link": "https://www.theguardian.com/business/2026/oct/22/waitrose-new-supermarket-london-cricklewood-hale-barns-greater-manchester",
+      "date": "Thu, 22 Oct 2026 04:00:06 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,30 @@
       "source": "NPR World"
     },
     {
+      "title": "Michigan Senate debate: Key takeaways from El-Sayed, Rogers clash",
+      "link": "https://www.aljazeera.com/news/2026/10/22/michigan-senate-debate-key-takeaways-from-el-sayed-rogers-clash?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 10:06:58 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Israeli forces kill disabled man in southern Syria raid, state media says",
+      "link": "https://www.aljazeera.com/news/2026/10/22/israeli-forces-kill-disabled-man-in-southern-syria-raid-state-media-says?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 10:01:55 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Can European leaders fix the cost-of-living crisis?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/10/22/can-european-leaders-fix-the-cost-of-living-crisis?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 09:58:21 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Russia and Ukraine trade attacks despite pledging to resume peace talks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 09:57:47 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Brazil’s president appeals to undecided voters ahead of run-off",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/brazils-president-appeals-to-undecided-voters-ahead-of-run-off?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 09:42:42 +0000",
@@ -302,7 +326,7 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 now displaced",
+      "title": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 displaced",
       "link": "https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 09:00:05 +0000",
       "source": "Al Jazeera"
@@ -311,30 +335,6 @@
       "title": "Israeli elections: Is it just right wing versus right?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/israeli-elections-is-it-just-right-wing-versus-right?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 08:55:18 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Bill Clinton quotes Quran and condemns anti-Muslim rhetoric",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/bill-clinton-quotes-quran-and-condemns-anti-muslim-rhetoric?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 08:33:01 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
-      "link": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 08:18:39 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Can Russia broker a new US-Iran deal?",
-      "link": "https://www.aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 08:00:48 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Angel Reese shines again as Dream down Valkyries to lead WNBA Finals",
-      "link": "https://www.aljazeera.com/sports/2026/10/22/angel-reese-shines-again-as-dream-down-valkyries-to-lead-wnba-finals?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 07:53:55 +0000",
       "source": "Al Jazeera"
     }
   ]
