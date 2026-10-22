@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T08:27:01.745890+00:00",
+  "updated": "2026-10-22T09:06:57.540305+00:00",
   "items": [
     {
       "title": "مقتل شخص وإصابة ثمانية في هجوم على مطار الدمام بالسعودية وواشنطن تأمر موظفيها بالمغادرة",
@@ -14,15 +14,21 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "روسيا تبدي استعدادها لاستئناف محادثات السلام مع أوكرانيا الشهر المقبل",
-      "link": "https://www.bbc.com/arabic/articles/c8r4y3ny35kro?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 05:09:48 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "إعدام بنغاليَيْن في السعودية يثير تساؤلات بشأن ملابسات القضية",
       "link": "https://www.bbc.com/arabic/articles/cq78pz079vkmo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 06:39:46 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "من بينها أبو ظبي: 5 مدن سياحية رائعة تستحق الاستكشاف",
+      "link": "https://www.bbc.com/arabic/articles/ckwyqnp3p10eo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 08:30:50 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "روسيا تبدي استعدادها لاستئناف محادثات السلام مع أوكرانيا الشهر المقبل",
+      "link": "https://www.bbc.com/arabic/articles/c8r4y3ny35kro?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 05:09:48 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "لافتة جماهير باريس سان جيرمان تثير غضب برشلونة، ما القصة؟",
       "link": "https://www.bbc.com/arabic/articles/c63elp3w7njgo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 15:41:40 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "ارتفاع حصيلة الضحايا في هجوم بمسيّرات على سوق في أبيي في جنوب السودان إلى 153 شخصاً",
-      "link": "https://www.bbc.com/arabic/articles/ck5yn5ej0vyqo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 13:43:15 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -100,7 +100,7 @@
     {
       "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 08:19:47 GMT",
+      "date": "Thu, 22 Oct 2026 08:58:08 GMT",
       "source": "BBC Business"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "Barclays cuts 5,000 jobs as profits jump ahead of looming bank tax; French bond yields hit fresh 24-year high – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates",
-      "date": "Thu, 22 Oct 2026 08:19:55 GMT",
+      "date": "Thu, 22 Oct 2026 08:49:20 GMT",
       "source": "Guardian Business"
     },
     {
@@ -212,9 +212,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Everyone hates Oxford Street. Will pedestrianisation save it?",
-      "link": "https://www.theguardian.com/news/2026/oct/22/everyone-hates-oxford-street-will-pedestrianisation-save-it",
-      "date": "Thu, 22 Oct 2026 04:00:07 GMT",
+      "title": "You be the chancellor: play our budget game to see if you can balance the books",
+      "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/22/uk-budget-game-2026-john-healey-labour-andy-burnham",
+      "date": "Thu, 22 Oct 2026 08:04:59 GMT",
       "source": "Guardian Business"
     },
     {
@@ -230,16 +230,28 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Everyone hates Oxford Street. Will pedestrianisation save it?",
+      "link": "https://www.theguardian.com/news/2026/oct/22/everyone-hates-oxford-street-will-pedestrianisation-save-it",
+      "date": "Thu, 22 Oct 2026 04:00:07 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Airbnb guests freed from chores involving ‘significant effort’ under new global rules",
       "link": "https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules",
       "date": "Thu, 22 Oct 2026 05:17:11 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Booking.com under investigation by EU regulators over fake listings and scams",
-      "link": "https://www.theguardian.com/world/2026/oct/21/bookingcom-under-investigation-eu-regulators-fake-listings-scams",
-      "date": "Wed, 21 Oct 2026 15:01:24 GMT",
-      "source": "Guardian Business"
+      "title": "See how Big Tech is transforming Spain's landscape",
+      "link": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
+      "date": "Thu, 22 Oct 2026 05:00:00 -0400",
+      "source": "NPR World"
+    },
+    {
+      "title": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti",
+      "link": "https://www.npr.org/2026/10/22/nx-s1-6012029/bukele-military-operation-haiti",
+      "date": "Thu, 22 Oct 2026 04:39:19 -0400",
+      "source": "NPR World"
     },
     {
       "title": "North Korea says it will resume propaganda broadcasts across border into South Korea",
@@ -278,16 +290,10 @@
       "source": "NPR World"
     },
     {
-      "title": "Former U.S. Ambassador to Ukraine on Trump's turn toward Russia",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-6009376/former-u-s-ambassador-to-ukraine-on-trumps-turn-toward-russia",
-      "date": "Wed, 21 Oct 2026 06:56:00 -0400",
-      "source": "NPR World"
-    },
-    {
-      "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
-      "date": "Wed, 21 Oct 2026 06:20:50 -0400",
-      "source": "NPR World"
+      "title": "Bill Clinton quotes Quran and condemns anti-Muslim rhetoric",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/bill-clinton-quotes-quran-and-condemns-anti-muslim-rhetoric?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 08:33:01 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
@@ -329,12 +335,6 @@
       "title": "US universities are failing to protect victims of sexual assault",
       "link": "https://www.aljazeera.com/opinions/2026/10/22/us-universities-are-failing-to-protect-victims-of-sexual-assault?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 06:47:24 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "China edge USA to women’s team gold at Gymnastics World Championships",
-      "link": "https://www.aljazeera.com/sports/2026/10/22/china-edge-usa-to-womens-team-gold-at-gymnastics-world-championships?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 06:23:30 +0000",
       "source": "Al Jazeera"
     }
   ]
