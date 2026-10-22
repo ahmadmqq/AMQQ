@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T04:19:23.660068+00:00",
+  "updated": "2026-10-22T04:54:51.766625+00:00",
   "items": [
     {
       "title": "مقتل شخص وإصابات إثر هجوم على مطار الملك فهد بالدمام، والسفارة الأمريكية تطلب من موظفيها مغادرة السعودية",
@@ -116,6 +116,12 @@
       "source": "BBC Business"
     },
     {
+      "title": "No purchase, no seats: Starbucks China rolls out new policy",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 04:02:29 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "Meta fined $25bn for 'lies' over user data privacy",
       "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 21:49:07 GMT",
@@ -137,12 +143,6 @@
       "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
       "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 23:04:03 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 10:20:15 GMT",
       "source": "BBC Business"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "North Korea to resume propaganda broadcasts, South Korea urges dialogue",
+      "link": "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 04:45:41 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Brazil’s Bolsonaro challenges Lula to expand release of personal records",
+      "link": "https://www.aljazeera.com/news/2026/10/22/brazils-bolsonaro-challenges-lula-to-expand-release-of-personal-records?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 04:36:04 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Australian TV reporter rescues man from sinking car",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 04:19:33 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Trump administration seeks Supreme Court approval to build Big Bend wall",
       "link": "https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 03:19:38 +0000",
@@ -317,24 +335,6 @@
       "title": "What is the FDLR, and why does its anti-Tutsi ideology endure?",
       "link": "https://www.aljazeera.com/news/2026/10/22/what-is-the-fdlr-and-why-does-its-anti-tutsi-ideology-endure?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 02:02:55 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
-      "link": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 01:45:48 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Colombian president purges National Museum of works promoting ‘communism’",
-      "link": "https://www.aljazeera.com/news/2026/10/22/colombian-president-purges-national-museum-of-works-promoting-communism?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 01:09:40 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "George W Bush’s brother backs Democrat James Talarico in Texas Senate race",
-      "link": "https://www.aljazeera.com/news/2026/10/22/brother-of-george-bush-endorses-democratic-senate-candidate-in-texas?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 01:01:52 +0000",
       "source": "Al Jazeera"
     }
   ]
