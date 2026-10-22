@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-22T21:16:07.544483+00:00",
+  "updated": "2026-10-22T21:48:28.471002+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله الحوثية تقول إنها استهدفت وزارة الدفاع السعودية في الرياض",
       "link": "https://www.bbc.com/arabic/articles/c9203p26rj8do?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 19:30:33 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "زلزال بقوة 7 درجات يضرب التبت ويودي بحياة 16 شخصاً",
+      "link": "https://www.bbc.com/arabic/articles/cwq6nze2e8z9o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 21:29:04 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "من بينها أبو ظبي: خمس مدن سياحية رائعة تستحق الاستكشاف",
-      "link": "https://www.bbc.com/arabic/articles/ckwyqnp3p10eo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 08:30:50 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
       "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 15:56:36 GMT",
@@ -65,6 +65,12 @@
       "title": "Trump ordered to answer questions under oath in BBC lawsuit",
       "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 17:14:04 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Trump says Musk has restored Ukraine's internet access",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 21:42:39 GMT",
       "source": "BBC World"
     },
     {
@@ -89,12 +95,6 @@
       "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
       "link": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 17:01:47 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
-      "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 19:25:26 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,36 @@
       "source": "NPR World"
     },
     {
+      "title": "Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports",
+      "link": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 21:23:01 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Trump ordered to sit for deposition in BBC defamation lawsuit",
+      "link": "https://www.aljazeera.com/news/2026/10/22/trump-ordered-to-sit-for-deposition-in-bbc-defamation-lawsuit?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 21:20:32 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Can Pakistan save the last two of its four captive African elephants?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/10-22-karachi-captive-elephants-sv?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 21:19:47 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Ballon d’Or 2026: Can Bayern’s Harry Kane end England’s 25 years of hurt?",
+      "link": "https://www.aljazeera.com/sports/2026/10/22/ballon-dor-2026-can-bayerns-harry-kane-end-englands-25-years-of-hurt?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 21:03:48 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Why measles outbreak in Pennsylvania poses risks beyond US borders",
+      "link": "https://www.aljazeera.com/news/2026/10/22/why-measles-outbreak-in-pennsylvania-poses-risks-beyond-us-borders?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 21:02:30 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "IEA chief warns energy is becoming a geopolitical weapon",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_iea-warns-energy-becoming-a-geopolitical-weapon-221026?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 20:51:26 +0000",
@@ -305,36 +335,6 @@
       "title": "Why has the Libya-Turkiye maritime deal stirred controversy?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/10/22/why-has-the-libya-turkiye-maritime-deal-stirred-controversy?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 20:13:21 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Epstein, Iran and ‘drain the swamp’: Have Republicans shifted before vote?",
-      "link": "https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 20:05:22 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "How the Turkiye-Libya deal is reshaping the Mediterranean",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/how-the-turkiye-libya-deal-is-reshaping-the-mediterranean?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 19:35:18 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "White evangelical support for Trump slips but still strong as midterms near",
-      "link": "https://www.aljazeera.com/news/2026/10/22/white-evangelical-support-for-trump-slips-but-still-strong-as-midterms-near?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 19:31:47 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
-      "link": "https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 19:31:27 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Time just changed forever",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/time-just-changed-forever?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 19:00:07 +0000",
       "source": "Al Jazeera"
     }
   ]
