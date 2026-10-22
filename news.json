@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T11:17:07.614589+00:00",
+  "updated": "2026-10-22T11:51:40.287913+00:00",
   "items": [
     {
       "title": "مقتل أربعة أشخاص وإصابة 18 في هجمات على مطار الدمام وحقل شيبة النفطي بالسعودية",
@@ -50,27 +50,15 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "How Arab parties could hold critical balance of power in Israeli election",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 05:30:22 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
-      "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 10:16:35 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
-      "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 09:14:48 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
       "link": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 09:47:54 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "At least four dead after storm brings flooding to southern France",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 11:23:16 GMT",
       "source": "BBC World"
     },
     {
@@ -83,6 +71,18 @@
       "title": "Two European women held captive for more than a year in Niger freed in Libya",
       "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 11:13:12 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 10:16:35 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
+      "link": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 09:14:48 GMT",
       "source": "BBC World"
     },
     {
@@ -196,19 +196,25 @@
     {
       "title": "Barclays cuts 5,000 jobs as profits jump ahead of looming bank tax; French bond yields hit fresh 24-year high – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates",
-      "date": "Thu, 22 Oct 2026 10:42:07 GMT",
+      "date": "Thu, 22 Oct 2026 11:39:04 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
-      "date": "Thu, 22 Oct 2026 05:00:08 GMT",
+      "title": "Oil prices jump to five-month high as attacks threaten global supply",
+      "link": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
+      "date": "Thu, 22 Oct 2026 11:28:11 GMT",
       "source": "Guardian Business"
     },
     {
       "title": "Meta strikes deal with Zuckerberg to protect him from California wealth tax",
       "link": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
       "date": "Thu, 22 Oct 2026 10:10:03 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Save high street by taxing online sales at higher rate, Burnham urged",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/22/save-high-street-tax-online-sales-burnham-urged",
+      "date": "Thu, 22 Oct 2026 11:32:45 GMT",
       "source": "Guardian Business"
     },
     {
@@ -224,22 +230,22 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Waitrose opens first new supermarket in eight years in north London",
-      "link": "https://www.theguardian.com/business/2026/oct/22/waitrose-new-supermarket-london-cricklewood-hale-barns-greater-manchester",
-      "date": "Thu, 22 Oct 2026 04:00:06 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "Everyone hates Oxford Street. Will pedestrianisation save it?",
       "link": "https://www.theguardian.com/news/2026/oct/22/everyone-hates-oxford-street-will-pedestrianisation-save-it",
       "date": "Thu, 22 Oct 2026 04:00:07 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Airbnb guests freed from chores involving ‘significant effort’ under new global rules",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules",
-      "date": "Thu, 22 Oct 2026 05:17:11 GMT",
+      "title": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
+      "date": "Thu, 22 Oct 2026 05:00:08 GMT",
       "source": "Guardian Business"
+    },
+    {
+      "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+      "link": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
+      "date": "Thu, 22 Oct 2026 07:28:24 -0400",
+      "source": "NPR World"
     },
     {
       "title": "Former U.S. Ambassador to Ukraine William Taylor on Trump's embrace of Russia",
@@ -284,10 +290,22 @@
       "source": "NPR World"
     },
     {
-      "title": "Meet the people moving north to escape increasingly hot summers",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-5977837/climate-uk-usa-housing",
-      "date": "Wed, 21 Oct 2026 16:00:00 -0400",
-      "source": "NPR World"
+      "title": "What is the Turkiye-Libya maritime deal, and why are the EU, Egypt opposed?",
+      "link": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 11:36:02 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "France reports first human Shamonda virus case, says no health risk",
+      "link": "https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 11:28:05 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Southeast Asia’s toxic haze spurs calls for legal action against polluters",
+      "link": "https://www.aljazeera.com/economy/2026/10/22/southeast-asias-toxic-haze-spurs-calls-for-legal-action-against-polluters?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 11:19:38 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Trump praises man who punched protester at rally in South Carolina",
@@ -317,24 +335,6 @@
       "title": "Israeli forces kill disabled man in southern Syria raid, state media says",
       "link": "https://www.aljazeera.com/news/2026/10/22/israeli-forces-kill-disabled-man-in-southern-syria-raid-state-media-says?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 10:01:55 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Can European leaders fix the cost-of-living crisis?",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/10/22/can-european-leaders-fix-the-cost-of-living-crisis?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 09:58:21 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Russia and Ukraine trade attacks despite pledging to resume peace talks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 09:57:47 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Brazil’s president appeals to undecided voters ahead of run-off",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/brazils-president-appeals-to-undecided-voters-ahead-of-run-off?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 09:42:42 +0000",
       "source": "Al Jazeera"
     }
   ]
