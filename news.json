@@ -1,10 +1,22 @@
 {
-  "updated": "2026-10-22T14:21:36.179571+00:00",
+  "updated": "2026-10-22T14:57:15.012526+00:00",
   "items": [
     {
-      "title": "أرامكو تخلي مقرها بالظهران وأربعة قتلى في هجومين بالسعودية، واجتماع غداً في إسطنبول لبحث التصعيد",
+      "title": "جماعة أنصار الله الحوثية تقول إنها استهدفت وزارة الدفاع السعودية في الرياض",
       "link": "https://www.bbc.com/arabic/articles/c9203p26rj8do?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 12:57:31 GMT",
+      "date": "Thu, 22 Oct 2026 14:31:38 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "قصة امرأة تعرضت لاعتداء جنسي في العصور الوسطى وأسرار معركتها القانونية طلباً للعدالة",
+      "link": "https://www.bbc.com/arabic/articles/c64g1w9l1xrqo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 14:36:18 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "ماذا تكشف أشهر تجربة عن الطاعة العمياء؟",
+      "link": "https://www.bbc.com/arabic/articles/c69qznl4vwjno?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 11:57:23 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -17,12 +29,6 @@
       "title": "\"افرضوا الضرائب على الأثرياء، أو ستندمون\" - مقال في ميرور",
       "link": "https://www.bbc.com/arabic/articles/cqpvg1821r2lo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 09:57:00 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "ماذا تكشف أشهر تجربة عن الطاعة العمياء؟",
-      "link": "https://www.bbc.com/arabic/articles/c69qznl4vwjno?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 11:57:23 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "ترامب يقول إنه تم تدمير قدرة إيران على التخصيب النووي، ونتنياهو يتمسك بـ\"إسقاط النظام\"",
       "link": "https://www.bbc.com/arabic/articles/cm74p0zel718o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 05:05:41 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "روسيا تبدي استعدادها لاستئناف محادثات السلام مع أوكرانيا الشهر المقبل",
-      "link": "https://www.bbc.com/arabic/articles/c8r4y3ny35kro?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 05:09:48 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -86,21 +86,21 @@
       "source": "BBC World"
     },
     {
+      "title": "YouTuber arrested after popular Indian finance influencer's suicide",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 14:08:10 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
       "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 10:16:35 GMT",
       "source": "BBC World"
     },
     {
-      "title": "El Salvador's president threatens Haitian gangs over military hostages",
-      "link": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 10:17:48 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 14:05:23 GMT",
+      "date": "Thu, 22 Oct 2026 14:28:59 GMT",
       "source": "BBC Business"
     },
     {
@@ -194,9 +194,9 @@
       "source": "Guardian World"
     },
     {
-      "title": "Barclays cuts 5,000 jobs as profits jump ahead of looming bank tax; French bond yields hit fresh 24-year high – business live",
-      "link": "https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates",
-      "date": "Thu, 22 Oct 2026 14:07:46 GMT",
+      "title": "Tax online sales more heavily to save high streets, Burnham urged",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/22/save-high-street-tax-online-sales-burnham-urged",
+      "date": "Thu, 22 Oct 2026 11:32:45 GMT",
       "source": "Guardian Business"
     },
     {
@@ -212,9 +212,21 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Tax online sales more heavily to save high streets, Burnham urged",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/22/save-high-street-tax-online-sales-burnham-urged",
-      "date": "Thu, 22 Oct 2026 11:32:45 GMT",
+      "title": "You be the chancellor: play our budget game to see if you can balance the books",
+      "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/22/uk-budget-game-2026-john-healey-labour-andy-burnham",
+      "date": "Thu, 22 Oct 2026 08:04:59 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
+      "link": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
+      "date": "Thu, 22 Oct 2026 14:39:29 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "French borrowing costs overtake US amid budget turmoil",
+      "link": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil",
+      "date": "Thu, 22 Oct 2026 08:40:36 GMT",
       "source": "Guardian Business"
     },
     {
@@ -227,18 +239,6 @@
       "title": "Meta strikes deal with Zuckerberg to help him foot billionaire tax bill",
       "link": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
       "date": "Thu, 22 Oct 2026 10:10:03 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "You be the chancellor: play our budget game to see if you can balance the books",
-      "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/22/uk-budget-game-2026-john-healey-labour-andy-burnham",
-      "date": "Thu, 22 Oct 2026 08:04:59 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Sainsbury’s expects challenging run-up to Christmas as households feel squeeze",
-      "link": "https://www.theguardian.com/business/2026/oct/22/sainsburys-challenging-run-up-to-christmas-households-feel-squeeze",
-      "date": "Thu, 22 Oct 2026 10:33:58 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "India resist New Zealand fightback to win record-setting T20 cricket opener",
+      "link": "https://www.aljazeera.com/sports/2026/10/22/india-resist-new-zealand-fightback-to-win-record-setting-t20-cricket-opener?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 14:09:56 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Yemenis face severe shortages in Taiz amid Houthi blockade",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/yemenis-face-severe-shortages-in-taiz-amid-houthi-blockade?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 13:42:26 +0000",
@@ -329,12 +335,6 @@
       "title": "What’s the PHP coding flaw that could pull down 70 percent of the internet?",
       "link": "https://www.aljazeera.com/news/2026/10/22/whats-the-php-coding-flaw-that-could-pull-down-70-percent-of-the-internet?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 12:37:34 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
-      "link": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 12:12:32 +0000",
       "source": "Al Jazeera"
     }
   ]
