@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-22T07:54:31.294493+00:00",
+  "updated": "2026-10-22T08:27:01.745890+00:00",
   "items": [
+    {
+      "title": "مقتل شخص وإصابة ثمانية في هجوم على مطار الدمام بالسعودية وواشنطن تأمر موظفيها بالمغادرة",
+      "link": "https://www.bbc.com/arabic/articles/cr78p48yy7qeo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 08:17:49 GMT",
+      "source": "BBC Arabic"
+    },
     {
       "title": "ترامب يقول إنه تم تدمير قدرة إيران على التخصيب النووي، ونتنياهو يتمسك بـ\"إسقاط النظام\"",
       "link": "https://www.bbc.com/arabic/articles/cm74p0zel718o?at_medium=RSS&at_campaign=rss",
@@ -17,12 +23,6 @@
       "title": "إعدام بنغاليَيْن في السعودية يثير تساؤلات بشأن ملابسات القضية",
       "link": "https://www.bbc.com/arabic/articles/cq78pz079vkmo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 06:39:46 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "مقتل شخص وإصابات إثر هجوم على مطار الملك فهد بالدمام، والسفارة الأمريكية تطلب من موظفيها مغادرة السعودية",
-      "link": "https://www.bbc.com/arabic/articles/cr78p48yy7qeo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 22:44:43 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -68,15 +68,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
-      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 19:58:06 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Meta fined $25bn for 'lies' over user data privacy",
-      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 21:49:07 GMT",
+      "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 08:15:48 GMT",
       "source": "BBC World"
     },
     {
@@ -86,16 +80,28 @@
       "source": "BBC World"
     },
     {
+      "title": "Two European women held captive for more than a year in Niger freed in Libya",
+      "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 08:21:13 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Macron accuses foreign leaders of exploiting French riots",
       "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 14:04:28 GMT",
       "source": "BBC World"
     },
     {
-      "title": "No order, no seat: Starbucks China rolls out new store policy",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 04:02:29 GMT",
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 21:49:07 GMT",
       "source": "BBC World"
+    },
+    {
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 08:19:47 GMT",
+      "source": "BBC Business"
     },
     {
       "title": "The 'trillion pound' oil fund the government believes Britain could have built",
@@ -137,12 +143,6 @@
       "title": "Meta fined $25bn for 'lies' over user data privacy",
       "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 21:49:07 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-      "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 22:54:58 GMT",
       "source": "BBC Business"
     },
     {
@@ -194,9 +194,9 @@
       "source": "Guardian World"
     },
     {
-      "title": "Barclays profits jump ahead of looming bank tax; French bond yields hit fresh 24-year high – business live",
+      "title": "Barclays cuts 5,000 jobs as profits jump ahead of looming bank tax; French bond yields hit fresh 24-year high – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates",
-      "date": "Thu, 22 Oct 2026 07:30:52 GMT",
+      "date": "Thu, 22 Oct 2026 08:19:55 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
+      "link": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 08:18:39 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Can Russia broker a new US-Iran deal?",
+      "link": "https://www.aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 08:00:48 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Angel Reese shines again as Dream down Valkyries to lead WNBA Finals",
+      "link": "https://www.aljazeera.com/sports/2026/10/22/angel-reese-shines-again-as-dream-down-valkyries-to-lead-wnba-finals?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 07:53:55 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Meta faces Australian lawsuit over alleged social media harm to children",
       "link": "https://www.aljazeera.com/news/2026/10/22/meta-faces-australian-lawsuit-over-alleged-social-media-harm-to-children?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 07:23:12 +0000",
@@ -317,24 +335,6 @@
       "title": "China edge USA to women’s team gold at Gymnastics World Championships",
       "link": "https://www.aljazeera.com/sports/2026/10/22/china-edge-usa-to-womens-team-gold-at-gymnastics-world-championships?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 06:23:30 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Cookies and weapons: Women in Yemen’s Taiz find ways to help the city’s defence",
-      "link": "https://www.aljazeera.com/features/2026/10/22/cookies-and-weapons-women-in-yemens-taiz-find-ways-to-help-the-citys-defence?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 06:06:28 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Man United’s Carrick not worried about his job despite ‘unacceptable’ loss",
-      "link": "https://www.aljazeera.com/sports/2026/10/22/man-uniteds-carrick-not-worried-about-his-job-despite-unacceptable-loss?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 06:01:48 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "The world is $365 trillion in debt, and the interest bill is climbing",
-      "link": "https://www.aljazeera.com/news/2026/10/22/the-world-is-365-trillion-in-debt-and-the-interest-bill-is-climbing?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 05:59:52 +0000",
       "source": "Al Jazeera"
     }
   ]
