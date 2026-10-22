@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T04:54:51.766625+00:00",
+  "updated": "2026-10-22T05:21:27.965074+00:00",
   "items": [
     {
       "title": "مقتل شخص وإصابات إثر هجوم على مطار الملك فهد بالدمام، والسفارة الأمريكية تطلب من موظفيها مغادرة السعودية",
@@ -10,13 +10,19 @@
     {
       "title": "ترامب يقول إنه تم تدمير قدرة إيران على التخصيب النووي، ونتنياهو يتمسك بـ \"إسقاط النظام\"",
       "link": "https://www.bbc.com/arabic/articles/cm74p0zel718o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 01:22:23 GMT",
+      "date": "Thu, 22 Oct 2026 05:05:41 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "اختبار لياقة بدنية بسيط يمكنه أن يتنبأ بخطر وفاتك، فما هو؟",
+      "link": "https://www.bbc.com/arabic/articles/c6x2wngkq24yo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 04:58:15 GMT",
       "source": "BBC Arabic"
     },
     {
       "title": "روسيا: \"جاهزة من حيث المبدأ\" لاستئناف المحادثات لإنهاء الحرب",
       "link": "https://www.bbc.com/arabic/articles/c8r4y3ny35kro?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 19:59:51 GMT",
+      "date": "Thu, 22 Oct 2026 05:09:48 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "\"بريطانيا تواجه مخاطر في حال تجدد الحرب مع إيران\" - عرض الصحف",
       "link": "https://www.bbc.com/arabic/articles/cwly39n8mzn7o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 11:02:44 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "ماذا نأكل للحفاظ على بشرة أكثر شباباً؟",
-      "link": "https://www.bbc.com/arabic/articles/cx1l3q4v7r80o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 12:16:19 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -92,7 +92,7 @@
       "source": "BBC World"
     },
     {
-      "title": "No purchase, no seats: Starbucks China rolls out new policy",
+      "title": "No order, no seat: Starbucks China rolls out new store policy",
       "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 04:02:29 GMT",
       "source": "BBC World"
@@ -116,7 +116,7 @@
       "source": "BBC Business"
     },
     {
-      "title": "No purchase, no seats: Starbucks China rolls out new policy",
+      "title": "No order, no seat: Starbucks China rolls out new store policy",
       "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 04:02:29 GMT",
       "source": "BBC Business"
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "El-Sayed in face-off against rival Rogers for Michigan Senate seat",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/el-sayed-in-face-off-against-rival-rogers-for-michigan-senate-seat?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 05:00:56 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "North Korea to resume propaganda broadcasts, South Korea urges dialogue",
       "link": "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 04:45:41 +0000",
@@ -329,12 +335,6 @@
       "title": "Tigray resumes daily life amid fears of wider war",
       "link": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 02:08:05 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "What is the FDLR, and why does its anti-Tutsi ideology endure?",
-      "link": "https://www.aljazeera.com/news/2026/10/22/what-is-the-fdlr-and-why-does-its-anti-tutsi-ideology-endure?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 02:02:55 +0000",
       "source": "Al Jazeera"
     }
   ]
