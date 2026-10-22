@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T05:53:36.792228+00:00",
+  "updated": "2026-10-22T06:20:54.478210+00:00",
   "items": [
     {
       "title": "ترامب يقول إنه تم تدمير قدرة إيران على التخصيب النووي، ونتنياهو يتمسك بـ\"إسقاط النظام\"",
@@ -8,7 +8,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "روسيا: \"جاهزة من حيث المبدأ\" لاستئناف المحادثات لإنهاء الحرب",
+      "title": "روسيا تبدي استعدادها لاستئناف محادثات السلام مع أوكرانيا الشهر المقبل",
       "link": "https://www.bbc.com/arabic/articles/c8r4y3ny35kro?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 05:09:48 GMT",
       "source": "BBC Arabic"
@@ -56,12 +56,6 @@
       "source": "BBC World"
     },
     {
-      "title": "Governments working to identify exposure after global cyber-security warning",
-      "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 05:37:53 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "What is PHP and why did it spark a global cyber-security scramble?",
       "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 03:48:50 GMT",
@@ -98,6 +92,12 @@
       "source": "BBC World"
     },
     {
+      "title": "No order, no seat: Starbucks China rolls out new store policy",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 04:02:29 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "The 'trillion pound' oil fund the government believes Britain could have built",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 23:27:05 GMT",
@@ -128,15 +128,15 @@
       "source": "BBC Business"
     },
     {
-      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-      "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 21 Oct 2026 22:54:58 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "The grads ditching the UK for a fresh start abroad",
       "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 23:12:06 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+      "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+      "date": "Wed, 21 Oct 2026 22:54:58 GMT",
       "source": "BBC Business"
     },
     {
@@ -230,15 +230,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Energy secretary leaning towards rejecting Rosebank oilfield",
-      "link": "https://www.theguardian.com/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
-      "date": "Wed, 21 Oct 2026 17:15:23 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "Airbnb guests freed from chores involving ‘significant effort’ under new global rules",
       "link": "https://www.theguardian.com/australia-news/2026/oct/22/airbnb-guests-freed-from-chores-involving-significant-effort-under-new-global-rules",
       "date": "Thu, 22 Oct 2026 05:17:11 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Energy secretary leaning towards rejecting Rosebank oilfield",
+      "link": "https://www.theguardian.com/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
+      "date": "Wed, 21 Oct 2026 17:15:23 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "The world is $365 trillion in debt, and the interest bill is climbing",
+      "link": "https://www.aljazeera.com/news/2026/10/22/the-world-is-365-trillion-in-debt-and-the-interest-bill-is-climbing?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 05:59:52 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "‘Stupid talk’: France rejects Trump’s attempt to blame unrest on migration",
+      "link": "https://www.aljazeera.com/news/2026/10/22/stupid-talk-france-rejects-trumps-attempt-to-blame-unrest-on-migration?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 05:58:52 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Ukraine’s access to Starlink a decision for Elon Musk, Rubio says",
+      "link": "https://www.aljazeera.com/news/2026/10/22/ukraines-access-to-starlink-a-decision-for-elon-musk-rubio-says?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 05:54:12 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "El Salvador’s Bukele threatens Haitian gangs over abducted soldiers",
       "link": "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 05:36:33 +0000",
@@ -317,24 +335,6 @@
       "title": "Australian TV reporter rescues man from sinking car",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 04:19:33 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Trump administration seeks Supreme Court approval to build Big Bend wall",
-      "link": "https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 03:19:38 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Can Trump deport Congresswoman Ilhan Omar?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 02:34:46 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Russia frees American Stephen Hubbard after 4 years behind bars",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-frees-american-stephen-hubbard-after-4-years-behind-bars?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 02:16:25 +0000",
       "source": "Al Jazeera"
     }
   ]
