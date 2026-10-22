@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T10:48:40.919523+00:00",
+  "updated": "2026-10-22T11:17:07.614589+00:00",
   "items": [
     {
       "title": "مقتل أربعة أشخاص وإصابة 18 في هجمات على مطار الدمام وحقل شيبة النفطي بالسعودية",
@@ -82,19 +82,19 @@
     {
       "title": "Two European women held captive for more than a year in Niger freed in Libya",
       "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 10:26:06 GMT",
+      "date": "Thu, 22 Oct 2026 11:13:12 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "First human case of Shamonda virus detected in France, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 11:04:14 GMT",
       "source": "BBC World"
     },
     {
       "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
       "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 21:27:41 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "How do Israel's elections work and who are the main contenders?",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 09:27:10 GMT",
       "source": "BBC World"
     },
     {
@@ -124,7 +124,7 @@
     {
       "title": "What is PHP and why did it spark a global cyber-security scramble?",
       "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 06:24:59 GMT",
+      "date": "Thu, 22 Oct 2026 11:15:58 GMT",
       "source": "BBC Business"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "Barclays cuts 5,000 jobs as profits jump ahead of looming bank tax; French bond yields hit fresh 24-year high – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates",
-      "date": "Thu, 22 Oct 2026 10:16:24 GMT",
+      "date": "Thu, 22 Oct 2026 10:42:07 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Trump praises man who punched protester at rally in South Carolina",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/trump-praises-man-who-punched-protester-at-rally-in-south-carolina?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 10:58:20 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "US ambassador to Turkiye: Rethinking US role in the Middle East",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/22/us-ambassador-to-turkiye-rethinking-us-role-in-the-middle-east?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 10:51:11 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Is Neha Bora, India’s new red star, Modi’s real Gen Z threat?",
+      "link": "https://www.aljazeera.com/features/2026/10/22/is-neha-bora-indias-new-red-star-modis-real-gen-z-threat?traffic_source=rss",
+      "date": "Thu, 22 Oct 2026 10:45:01 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Michigan Senate debate: Key takeaways from El-Sayed, Rogers clash",
       "link": "https://www.aljazeera.com/news/2026/10/22/michigan-senate-debate-key-takeaways-from-el-sayed-rogers-clash?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 10:06:58 +0000",
@@ -317,24 +335,6 @@
       "title": "Brazil’s president appeals to undecided voters ahead of run-off",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/brazils-president-appeals-to-undecided-voters-ahead-of-run-off?traffic_source=rss",
       "date": "Thu, 22 Oct 2026 09:42:42 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "‘Facebook’s wrongdoing’: Why has Meta been fined $25bn in New Mexico?",
-      "link": "https://www.aljazeera.com/news/2026/10/22/facebooks-wrongdoing-why-has-meta-been-fined-25bn-in-new-mexico?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 09:23:53 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 displaced",
-      "link": "https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 09:00:05 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Israeli elections: Is it just right wing versus right?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/israeli-elections-is-it-just-right-wing-versus-right?traffic_source=rss",
-      "date": "Thu, 22 Oct 2026 08:55:18 +0000",
       "source": "Al Jazeera"
     }
   ]
