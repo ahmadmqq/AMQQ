@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-23T09:40:28.127466+00:00",
+  "updated": "2026-10-23T10:13:39.137884+00:00",
   "items": [
     {
       "title": "نتنياهو يلغي كل أنشطته الانتخابية عقب إطلاق النار على حاجز عسكري ويأمر \"بفرض إغلاق كامل\" في الضفة الغربية",
       "link": "https://www.bbc.com/arabic/articles/cvx28ew49zl6o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 08:49:29 GMT",
+      "date": "Fri, 23 Oct 2026 10:12:09 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -56,9 +56,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 07:52:32 GMT",
+      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 09:44:40 GMT",
       "source": "BBC World"
     },
     {
@@ -68,21 +68,15 @@
       "source": "BBC World"
     },
     {
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 07:52:32 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
       "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 05:16:37 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
-      "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 22:27:53 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 01:38:44 GMT",
       "source": "BBC World"
     },
     {
@@ -92,9 +86,15 @@
       "source": "BBC World"
     },
     {
-      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-      "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 15:56:36 GMT",
+      "title": "Rubio turns to small Indian town as US faces high oil prices",
+      "link": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 08:39:42 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 08:00:07 GMT",
       "source": "BBC World"
     },
     {
@@ -242,14 +242,26 @@
       "source": "Guardian Business"
     },
     {
-      "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
-      "date": "Fri, 23 Oct 2026 05:00:00 -0400",
+      "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
+      "date": "Fri, 23 Oct 2026 05:40:32 -0400",
+      "source": "NPR World"
+    },
+    {
+      "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
+      "link": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
+      "date": "Fri, 23 Oct 2026 05:37:38 -0400",
       "source": "NPR World"
     },
     {
       "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
       "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+      "date": "Fri, 23 Oct 2026 05:00:00 -0400",
+      "source": "NPR World"
+    },
+    {
+      "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
       "date": "Fri, 23 Oct 2026 05:00:00 -0400",
       "source": "NPR World"
     },
@@ -278,16 +290,22 @@
       "source": "NPR World"
     },
     {
-      "title": "Former U.S. Ambassador to Ukraine William Taylor on Trump's embrace of Russia",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6010509/former-u-s-ambassador-to-ukraine-william-taylor-on-trumps-embrace-of-russia",
-      "date": "Thu, 22 Oct 2026 05:59:02 -0400",
-      "source": "NPR World"
+      "title": "NBA’s Irving praises Al-Shaair’s ‘selfless act’ after Hind Rajab fine paid",
+      "link": "https://www.aljazeera.com/sports/2026/10/23/nbas-irving-praises-al-shaairs-selfless-act-after-hind-rajab-fine-paid?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 09:40:57 +0000",
+      "source": "Al Jazeera"
     },
     {
-      "title": "See how Big Tech is transforming Spain's landscape",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
-      "date": "Thu, 22 Oct 2026 05:00:00 -0400",
-      "source": "NPR World"
+      "title": "What role does the military play in Israeli schools?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/what-role-does-the-military-play-in-israeli-schools?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 09:32:33 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Pulaku: The two faces of Nigeria’s vigilantes",
+      "link": "https://www.aljazeera.com/features/longform/2026/10/23/pulaku-the-two-faces-of-nigerias-vigilantes?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 09:30:05 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight",
@@ -317,24 +335,6 @@
       "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
       "link": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers?traffic_source=rss",
       "date": "Fri, 23 Oct 2026 08:42:10 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Israeli forces accused of killing disabled man in Syria raid",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-forces-accused-of-killing-disabled-man-in-syria-raid?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 08:35:44 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Harry Kane hopes Ballon d’Or produces ‘special night’ in hometown",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/harry-kane-hopes-ballon-dor-produces-special-night-in-hometown?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 07:56:27 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Why is Gen Z revolting?",
-      "link": "https://www.aljazeera.com/opinions/2026/10/23/why-is-gen-z-revolting?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 07:51:31 +0000",
       "source": "Al Jazeera"
     }
   ]
