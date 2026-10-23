@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T09:10:13.332959+00:00",
+  "updated": "2026-10-23T09:40:28.127466+00:00",
   "items": [
     {
       "title": "نتنياهو يلغي كل أنشطته الانتخابية عقب إطلاق النار على حاجز عسكري ويأمر \"بفرض إغلاق كامل\" في الضفة الغربية",
@@ -50,6 +50,12 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 09:36:43 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
       "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 07:52:32 GMT",
@@ -59,12 +65,6 @@
       "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
       "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 08:45:58 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 08:36:32 GMT",
       "source": "BBC World"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "Oil hits five-month high as global stocks wobble on AI fears; retail sales in Great Britain fall as shoppers cut back - business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/23/global-stocks-fall-ai-fears-grow-british-retail-sales-fall-business-live-latest-news",
-      "date": "Fri, 23 Oct 2026 08:49:32 GMT",
+      "date": "Fri, 23 Oct 2026 09:10:56 GMT",
       "source": "Guardian Business"
     },
     {
@@ -212,6 +212,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Boom in weight-loss drugs could lead to drop in beer sales, Heineken warns British pubs",
+      "link": "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy",
+      "date": "Fri, 23 Oct 2026 09:08:36 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "UK to relax post-2008 rules that hold City bosses accountable for wrongdoing",
       "link": "https://www.theguardian.com/business/2026/oct/22/uk-relax-post-2008-rules-hold-city-bosses-accountable-wrongdoing",
       "date": "Thu, 22 Oct 2026 20:00:49 GMT",
@@ -224,22 +230,28 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Cyprus police investigate financial and tax affairs of ex-Chelsea owner Roman Abramovich",
-      "link": "https://www.theguardian.com/world/2026/oct/22/cyprus-police-investigate-financial-tax-affairs-roman-abramovich-chelsea",
-      "date": "Thu, 22 Oct 2026 15:53:22 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "Race to rearm: Telford gun hall brings tank barrel production back to the UK",
       "link": "https://www.theguardian.com/business/2026/oct/22/telford-gun-hall-tank-barrel-production-back-uk-rheinmetall",
       "date": "Thu, 22 Oct 2026 16:59:54 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Revealed: billionaire Reform donor was in business with foundation linked to Iranian regime",
-      "link": "https://www.theguardian.com/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs",
-      "date": "Thu, 22 Oct 2026 16:39:49 GMT",
+      "title": "‘Overnight, everything was dead’: the Teeside fisherman turned activist dubbed the Mr Bates of the seas",
+      "link": "https://www.theguardian.com/film/2026/oct/23/overnight-everything-was-dead-the-teeside-fisherman-turned-activist-dubbed-the-mr-bates-of-the-seas",
+      "date": "Fri, 23 Oct 2026 09:13:35 GMT",
       "source": "Guardian Business"
+    },
+    {
+      "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
+      "date": "Fri, 23 Oct 2026 05:00:00 -0400",
+      "source": "NPR World"
+    },
+    {
+      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+      "date": "Fri, 23 Oct 2026 05:00:00 -0400",
+      "source": "NPR World"
     },
     {
       "title": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
@@ -278,16 +290,22 @@
       "source": "NPR World"
     },
     {
-      "title": "U.S. and Israel are planning for a possible attack on Iran, source tells NPR",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war",
-      "date": "Thu, 22 Oct 2026 04:56:58 -0400",
-      "source": "NPR World"
+      "title": "Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight",
+      "link": "https://www.aljazeera.com/sports/2026/10/23/hamilton-calls-for-palestine-sudan-and-congo-freedom-with-f1-in-spotlight?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 09:12:46 +0000",
+      "source": "Al Jazeera"
     },
     {
-      "title": "Kara Swisher on Elon Musk: 'He's unelected, unaccountable, enormously wealthy'",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6010616/kara-swisher-elon-musk-tesla-spacex-political-influence",
-      "date": "Thu, 22 Oct 2026 04:56:33 -0400",
-      "source": "NPR World"
+      "title": "Israeli military kills two in gun battle in occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 09:12:38 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
+      "link": "https://www.aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 09:03:39 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Macron to meet student groups: Where are France’s protests heading?",
@@ -317,24 +335,6 @@
       "title": "Why is Gen Z revolting?",
       "link": "https://www.aljazeera.com/opinions/2026/10/23/why-is-gen-z-revolting?traffic_source=rss",
       "date": "Fri, 23 Oct 2026 07:51:31 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
-      "link": "https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 07:37:12 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Europe needs a war economy",
-      "link": "https://www.aljazeera.com/opinions/2026/10/23/europe-needs-a-war-economy?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 07:08:10 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Maradona death: Verdict in trial to be delivered on December 22",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/maradona-death-verdict-in-trial-to-be-delivered-on-december-22?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 06:55:21 +0000",
       "source": "Al Jazeera"
     }
   ]
