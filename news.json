@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T20:32:11.187645+00:00",
+  "updated": "2026-10-23T21:02:53.534400+00:00",
   "items": [
     {
       "title": "7 قتلى بإطلاق نار خلال جنازة في الأردن والملك يصفه بـ\"العمل الإرهابي\"",
@@ -14,7 +14,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "ترسيم الحدود البحرية بين ليبيا وتركيا: اختبار للعلاقات والخطط شرقي المتوسط",
+      "title": "ترسيم الحدود البحرية بين ليبيا وتركيا: اختبار للعلاقات شرقي المتوسط",
       "link": "https://www.bbc.com/arabic/articles/cwm230zz821go?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 20:05:05 GMT",
       "source": "BBC Arabic"
@@ -80,9 +80,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 18:52:17 GMT",
+      "title": "Argentina drops investigation into President Milei over crypto fraud",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 20:59:39 GMT",
       "source": "BBC World"
     },
     {
@@ -92,9 +92,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Denmark to ban mink farming in government U-turn",
-      "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 12:17:45 GMT",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 18:52:17 GMT",
       "source": "BBC World"
     },
     {
@@ -106,7 +106,7 @@
     {
       "title": "White House says the US is lifting tariffs on some Canadian goods",
       "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 20:09:45 GMT",
+      "date": "Fri, 23 Oct 2026 20:39:39 GMT",
       "source": "BBC Business"
     },
     {
@@ -242,12 +242,6 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Paris shopkeepers brace for protests",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6012392/paris-shopkeepers-brace-for-protests",
-      "date": "Fri, 23 Oct 2026 16:24:50 -0400",
-      "source": "NPR World"
-    },
-    {
       "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
       "link": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
       "date": "Fri, 23 Oct 2026 08:41:39 -0400",
@@ -278,16 +272,52 @@
       "source": "NPR World"
     },
     {
+      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+      "date": "Fri, 23 Oct 2026 05:00:00 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
       "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
       "date": "Fri, 23 Oct 2026 05:00:00 -0400",
       "source": "NPR World"
     },
     {
-      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
-      "date": "Fri, 23 Oct 2026 05:00:00 -0400",
+      "title": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
+      "link": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths",
+      "date": "Fri, 23 Oct 2026 04:17:06 -0400",
       "source": "NPR World"
+    },
+    {
+      "title": "‘Generation Right’: Israeli youth show strong support for the right",
+      "link": "https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 20:52:32 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "FCC Democrat warns broadcasters to resist Trump’s media pressure tactics",
+      "link": "https://www.aljazeera.com/economy/2026/10/23/fcc-democrat-warns-broadcasters-to-resist-trumps-media-pressure-tactics?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 20:44:14 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says",
+      "link": "https://www.aljazeera.com/news/2026/10/23/time-running-out-to-reach-yemens-taiz-amid-deepening-crisis-un-says?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 20:44:02 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Why is the UK at the forefront of AI-driven job cuts?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/23/why-is-the-uk-at-the-forefront-of-ai-driven-job-cuts?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 20:43:47 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Why is Trump questioning Ilhan Omar’s name?",
+      "link": "https://www.aljazeera.com/news/2026/10/23/why-is-trump-questioning-ilhan-omars-name?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 20:37:19 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
@@ -302,39 +332,9 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "Tigray official urges rebels to disarm",
+      "title": "Tigray rebels urged to disarm as commander vows to fight Ethiopia’s gov’t",
       "link": "https://www.aljazeera.com/news/2026/10/23/tigray-official-urges-rebels-to-disarm?traffic_source=rss",
       "date": "Fri, 23 Oct 2026 19:55:44 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ecuador judge orders pre-trial detention of leftist presidential candidate",
-      "link": "https://www.aljazeera.com/news/2026/10/23/ecuador-judge-orders-pre-trial-detention-of-leftist-presidential-candidate?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 19:45:26 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Aston Villa vs Manchester City: Premier League – teams, prediction, lineups",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/aston-villa-vs-manchester-city-premier-league-teams-prediction-lineups?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 18:55:18 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Israel locks down occupied West Bank after Hebron shooting",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 18:38:26 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Former FBI officials charged in connection with Hunter Biden laptop probe",
-      "link": "https://www.aljazeera.com/news/2026/10/23/former-fbi-officials-charged-in-connection-with-hunter-biden-laptop-probe?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 18:22:51 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Trump administration sues to block possible Democratic win in Alaska",
-      "link": "https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 17:57:54 +0000",
       "source": "Al Jazeera"
     }
   ]
