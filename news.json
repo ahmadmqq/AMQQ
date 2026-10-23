@@ -1,10 +1,22 @@
 {
-  "updated": "2026-10-23T06:36:13.488116+00:00",
+  "updated": "2026-10-23T07:22:51.715755+00:00",
   "items": [
+    {
+      "title": "نتنياهو يلغي كل أنشطته الانتخابية عقب إطلاق النار على حاجز عسكري في الضفة الغربية",
+      "link": "https://www.bbc.com/arabic/articles/cvx28ew49zl6o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 07:18:28 GMT",
+      "source": "BBC Arabic"
+    },
     {
       "title": "جماعة أنصار الله تقول إنها استهدفت وزارة الدفاع السعودية، والتحالف يعلن اعتراض مسيّرات وصواريخ باليستية",
       "link": "https://www.bbc.com/arabic/articles/c9203p26rj8do?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 01:43:29 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "هل يهدّد الذكاء الاصطناعي الوظائف التي تعمل فيها النساء أكثر من غيرها؟",
+      "link": "https://www.bbc.com/arabic/articles/ck87z4wxlwwlo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 06:45:55 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -35,18 +47,6 @@
       "title": "الحليب الخام: ما حقيقة فوائده الصحية وهل شربه آمن؟",
       "link": "https://www.bbc.com/arabic/articles/c68xz5gv0ek4o?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 16:07:44 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "ماذا تكشف أشهر تجربة عن الطاعة العمياء؟",
-      "link": "https://www.bbc.com/arabic/articles/c69qznl4vwjno?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 11:57:23 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "بي إتش بي: ثغرة تهدّد 30 مليون موقع إلكتروني وتستدعي استنفاراً عالمياً، فما هي وكيف تؤثر علينا؟",
-      "link": "https://www.bbc.com/arabic/articles/cm15jpx771lyo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 10:22:14 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -98,9 +98,15 @@
       "source": "BBC World"
     },
     {
-      "title": "Grid operator says lights will stay on this winter after concerns",
+      "title": "Lights will stay on this winter, grid operator says after concerns",
       "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 23:04:38 GMT",
+      "date": "Fri, 23 Oct 2026 06:47:10 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+      "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 23:20:38 GMT",
       "source": "BBC Business"
     },
     {
@@ -128,21 +134,15 @@
       "source": "BBC Business"
     },
     {
-      "title": "Tank barrel production returns to UK after 20 years",
-      "link": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 13:45:19 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "The 'trillion pound' oil fund the government believes Britain could have built",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 23:27:05 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "What is PHP and why did it spark a global cyber-security scramble?",
-      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 11:15:58 GMT",
+      "title": "Tank barrel production returns to UK after 20 years",
+      "link": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 22 Oct 2026 13:45:19 GMT",
       "source": "BBC Business"
     },
     {
@@ -194,6 +194,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "Global stocks wobble as AI fears grow; retail sales in Great Britain fall in September as shoppers cut back - business live",
+      "link": "https://www.theguardian.com/business/live/2026/oct/23/global-stocks-fall-ai-fears-grow-british-retail-sales-fall-business-live-latest-news",
+      "date": "Fri, 23 Oct 2026 06:59:51 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Some of Europe’s highest energy costs expected in Britain this winter",
       "link": "https://www.theguardian.com/business/2026/oct/23/europe-highest-energy-costs-great-britain-this-winter",
       "date": "Fri, 23 Oct 2026 05:00:03 GMT",
@@ -206,27 +212,21 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Elon Musk reportedly invests $1bn in David Ellison’s Skydance",
-      "link": "https://www.theguardian.com/technology/2026/oct/22/elon-musk-david-ellison-skydance-investment",
-      "date": "Thu, 22 Oct 2026 21:23:39 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "UK to relax post-2008 rules that hold City bosses accountable for wrongdoing",
       "link": "https://www.theguardian.com/business/2026/oct/22/uk-relax-post-2008-rules-hold-city-bosses-accountable-wrongdoing",
       "date": "Thu, 22 Oct 2026 20:00:49 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Cyprus police investigate financial and tax affairs of ex-Chelsea owner Roman Abramovich",
-      "link": "https://www.theguardian.com/world/2026/oct/22/cyprus-police-investigate-financial-tax-affairs-roman-abramovich-chelsea",
-      "date": "Thu, 22 Oct 2026 15:53:22 GMT",
+      "title": "Elon Musk reportedly invests $1bn in David Ellison’s Skydance",
+      "link": "https://www.theguardian.com/technology/2026/oct/22/elon-musk-david-ellison-skydance-investment",
+      "date": "Thu, 22 Oct 2026 21:23:39 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
-      "link": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
-      "date": "Thu, 22 Oct 2026 21:50:13 GMT",
+      "title": "Cyprus police investigate financial and tax affairs of ex-Chelsea owner Roman Abramovich",
+      "link": "https://www.theguardian.com/world/2026/oct/22/cyprus-police-investigate-financial-tax-affairs-roman-abramovich-chelsea",
+      "date": "Thu, 22 Oct 2026 15:53:22 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,30 @@
       "source": "NPR World"
     },
     {
+      "title": "Maradona death: Verdict in trial to be delivered on December 22",
+      "link": "https://www.aljazeera.com/sports/2026/10/23/maradona-death-verdict-in-trial-to-be-delivered-on-december-22?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 06:55:21 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "How the midterms could change Trump’s presidency",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_trumpmidterms-231026?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 06:28:05 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "FIFA President Infantino’s re-election endorsed in U-turn by Asian football",
+      "link": "https://www.aljazeera.com/sports/2026/10/23/asian-football-endorses-infantino-re-election-as-fifa-president?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 06:11:27 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Manchester United labelled ‘babies’ by club legend Wayne Rooney",
+      "link": "https://www.aljazeera.com/sports/2026/10/23/manchester-united-labelled-clowns-by-club-legend-wayne-rooney?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 06:11:17 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "EU entering winter with lowest gas reserves on record, IEA boss warns",
       "link": "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns?traffic_source=rss",
       "date": "Fri, 23 Oct 2026 06:02:15 +0000",
@@ -311,30 +335,6 @@
       "title": "Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up",
       "link": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss",
       "date": "Fri, 23 Oct 2026 04:09:28 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "US tech stocks tumble as investors fret over AI spending",
-      "link": "https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 03:13:13 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Venezuelans demand elections in first national protest in nearly two years",
-      "link": "https://www.aljazeera.com/news/2026/10/23/venezuelans-demand-elections-in-first-national-protest-in-nearly-two-years?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 03:12:12 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Indian developer turns ‘Cockroach’ protests into video game",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/indian-developer-turns-cockroach-protests-into-video-game?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 02:44:35 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Trump backs Ramaswamy ad featuring rival Amy Acton’s estranged mother",
-      "link": "https://www.aljazeera.com/news/2026/10/23/trump-backs-ramaswamy-ad-featuring-rival-amy-actons-estranged-mother?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 02:22:24 +0000",
       "source": "Al Jazeera"
     }
   ]
