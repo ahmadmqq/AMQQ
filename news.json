@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-23T19:38:15.046030+00:00",
+  "updated": "2026-10-23T20:03:23.234990+00:00",
   "items": [
     {
       "title": "7 قتلى بإطلاق نار خلال جنازة في الأردن والملك يصفه بـ\"العمل الإرهابي\"",
       "link": "https://www.bbc.com/arabic/articles/c62e9pw2e0n3o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 19:16:34 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "ماكرون يصف إطلاق النار قرب باريس بـ\"الهجوم الإرهابي العنصري\"",
+      "link": "https://www.bbc.com/arabic/articles/ck4g15rvde06o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 19:58:12 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -17,12 +23,6 @@
       "title": "نتنياهو يعلن الاستعداد لعملية عسكرية واسعة في الضفة الغربية",
       "link": "https://www.bbc.com/arabic/articles/cvx28ew49zl6o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 15:38:28 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "قتيل وخمسة جرحى قرب باريس والسلطات تحقّق في شبهة إرهاب",
-      "link": "https://www.bbc.com/arabic/articles/ck4g15rvde06o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 16:25:28 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -52,13 +52,13 @@
     {
       "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
       "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 19:20:41 GMT",
+      "date": "Fri, 23 Oct 2026 19:42:08 GMT",
       "source": "BBC World"
     },
     {
       "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
       "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 18:10:56 GMT",
+      "date": "Fri, 23 Oct 2026 19:46:30 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Ecuador judge orders pre-trial detention of leftist presidential candidate",
+      "link": "https://www.aljazeera.com/news/2026/10/23/ecuador-judge-orders-pre-trial-detention-of-leftist-presidential-candidate?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 19:45:26 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Aston Villa vs Manchester City: Premier League – teams, prediction, lineups",
       "link": "https://www.aljazeera.com/sports/2026/10/23/aston-villa-vs-manchester-city-premier-league-teams-prediction-lineups?traffic_source=rss",
       "date": "Fri, 23 Oct 2026 18:55:18 +0000",
@@ -329,12 +335,6 @@
       "title": "Bayern coach Kompany taken to hospital after collapsing during training",
       "link": "https://www.aljazeera.com/sports/2026/10/23/bayern-coach-kompany-taken-to-hospital-after-collapsing-during-training?traffic_source=rss",
       "date": "Fri, 23 Oct 2026 17:44:05 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 17:30:51 +0000",
       "source": "Al Jazeera"
     }
   ]
