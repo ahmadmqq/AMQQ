@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-23T12:10:51.842024+00:00",
+  "updated": "2026-10-23T12:49:09.613378+00:00",
   "items": [
     {
-      "title": "نتنياهو يلغي كل أنشطته الانتخابية عقب إطلاق النار على حاجز عسكري ويأمر \"بفرض إغلاق كامل\" في الضفة الغربية",
+      "title": "عاجل: إطلاق نار على كنيسة في محافظة الكرك جنوبي الأردن يوقع قتلى",
+      "link": "https://www.bbc.com/arabic/articles/c62e9pw2e0n3o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 12:43:29 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "مقتل جنديين إسرائيليين وإصابة ثلاثة آخرين في إطلاق نار في الخليل، ونتنياهو يأمر \"بفرض إغلاق كامل\" في الضفة الغربية",
       "link": "https://www.bbc.com/arabic/articles/cvx28ew49zl6o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 10:23:15 GMT",
+      "date": "Fri, 23 Oct 2026 12:34:05 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -14,7 +20,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "فرنسا تنفي التدخل في حرب الخليج وميزانيتها تروي قصة أخرى – مقال في مودرن دبلوماسي",
+      "title": "فرنسا تنفي التدخل في حرب الخليج وميزانيتها تروي قصة أخرى - مقال في مودرن دبلوماسي",
       "link": "https://www.bbc.com/arabic/articles/cqe8r6yw86l4o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 11:24:37 GMT",
       "source": "BBC Arabic"
@@ -44,10 +50,10 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "ترامب يتهم إيران بالسعي لرفع أسعار النفط قبل انتخابات الكونغرس",
-      "link": "https://www.bbc.com/arabic/articles/cq4g134jlkpvo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 19:17:36 GMT",
-      "source": "BBC Arabic"
+      "title": "Anti-terror police investigate as one person killed in shooting near Paris",
+      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 12:47:01 GMT",
+      "source": "BBC World"
     },
     {
       "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
@@ -68,21 +74,15 @@
       "source": "BBC World"
     },
     {
-      "title": "At least one dead and four injured in Paris suburb shooting",
-      "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 12:06:50 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
       "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 10:14:37 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 10:23:07 GMT",
+      "title": "Denmark to ban mink farming in government U-turn",
+      "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 12:17:45 GMT",
       "source": "BBC World"
     },
     {
@@ -242,6 +242,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Authorities investigating whether first Kenyan and Nigerian Ebola cases crossed paths",
+      "link": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
+      "date": "Fri, 23 Oct 2026 08:41:39 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
       "link": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
       "date": "Fri, 23 Oct 2026 07:22:25 -0400",
@@ -266,14 +272,14 @@
       "source": "NPR World"
     },
     {
-      "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
+      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
       "date": "Fri, 23 Oct 2026 05:00:00 -0400",
       "source": "NPR World"
     },
     {
-      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+      "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
       "date": "Fri, 23 Oct 2026 05:00:00 -0400",
       "source": "NPR World"
     },
@@ -284,10 +290,28 @@
       "source": "NPR World"
     },
     {
-      "title": "What we know about war plans that Trump and Netanyahu are drawing up",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6012306/what-we-know-about-war-plans-that-trump-and-netanyahu-are-drawing-up",
-      "date": "Thu, 22 Oct 2026 18:17:04 -0400",
-      "source": "NPR World"
+      "title": "CAS clears Japan’s Olympic silver medallist Ikeda of doping, overturns ban",
+      "link": "https://www.aljazeera.com/sports/2026/10/23/cas-clears-japans-olympic-silver-medallist-ikeda-of-doping-overturns-ban?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 12:34:10 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Are parents in France and Italy liable for damage caused by student protesters?",
+      "link": "https://www.aljazeera.com/news/2026/10/23/are-parents-in-france-and-italy-liable-for-damage-caused-by-student-protesters?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 12:18:01 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Typhoon Champi unleashes huge waves along Taiwan’s coast",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/typhoon-champi-unleashes-huge-waves-along-taiwans-coast?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 12:17:20 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Ukraine plans independent satellite system as Starlink issues persist",
+      "link": "https://www.aljazeera.com/news/2026/10/23/ukraine-plans-independent-satellite-system-as-starlink-issues-persist?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 12:16:50 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "US-Iran war, then and now: How the landscape has changed since February",
@@ -311,30 +335,6 @@
       "title": "France tightens security in anticipation of weekend protests",
       "link": "https://www.aljazeera.com/news/2026/10/23/france-tightens-security-in-anticipation-of-weekend-protests?traffic_source=rss",
       "date": "Fri, 23 Oct 2026 11:05:13 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "South Korea invites North for military talks over border",
-      "link": "https://www.aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 10:20:31 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
-      "link": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 09:56:28 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
-      "link": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 09:52:20 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "NBA’s Irving praises Al-Shaair’s ‘selfless act’ after Hind Rajab fine paid",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/nbas-irving-praises-al-shaairs-selfless-act-after-hind-rajab-fine-paid?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 09:40:57 +0000",
       "source": "Al Jazeera"
     }
   ]
