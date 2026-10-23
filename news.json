@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-23T16:25:29.288175+00:00",
+  "updated": "2026-10-23T17:01:22.337473+00:00",
   "items": [
     {
       "title": "إطلاق نار خلال تشييع جنازة في كنيسة في الكرك في جنوب الأردن يوقع 7 قتلى، والعاهل الأردني يصف الحادث بـ\"العمل الإرهابي\"",
       "link": "https://www.bbc.com/arabic/articles/c62e9pw2e0n3o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 15:49:38 GMT",
+      "date": "Fri, 23 Oct 2026 16:52:26 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -14,13 +14,19 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "قتيل وخمسة جرحى قرب باريس والسلطات تحقّق في شبهة إرهاب",
+      "link": "https://www.bbc.com/arabic/articles/ck4g15rvde06o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 16:25:28 GMT",
+      "source": "BBC Arabic"
+    },
+    {
       "title": "ما الذي تسعى إليه تركيا من خلال تحالفي مكة وبدر؟",
       "link": "https://www.bbc.com/arabic/articles/cw80zx7880yeo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 15:24:41 GMT",
       "source": "BBC Arabic"
     },
     {
-      "title": "فضل شاكر يصالح المسرح بعد 14 سنة من الغياب، كيف تفاعل الجمهور مع \"عودة الغائب\"؟",
+      "title": "فضل شاكر يصالح المسرح بعد 14 سنة من الغياب، كيف تفاعل الجمهور؟",
       "link": "https://www.bbc.com/arabic/articles/cq0k0dg33llzo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 11:35:49 GMT",
       "source": "BBC Arabic"
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "فرنسا تنفي التدخل في حرب الخليج وميزانيتها تروي قصة أخرى - مقال في مودرن دبلوماسي",
-      "link": "https://www.bbc.com/arabic/articles/cqe8r6yw86l4o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 11:24:37 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
       "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 16:17:02 GMT",
@@ -58,7 +58,7 @@
     {
       "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
       "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 16:11:00 GMT",
+      "date": "Fri, 23 Oct 2026 16:33:11 GMT",
       "source": "BBC World"
     },
     {
@@ -70,7 +70,7 @@
     {
       "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
       "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 15:48:04 GMT",
+      "date": "Fri, 23 Oct 2026 16:59:51 GMT",
       "source": "BBC World"
     },
     {
@@ -200,9 +200,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Oil price rises above $115 a barrel amid fears US will renew strikes on Iran",
+      "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
       "link": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
-      "date": "Fri, 23 Oct 2026 13:27:04 GMT",
+      "date": "Fri, 23 Oct 2026 16:48:28 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,30 @@
       "source": "NPR World"
     },
     {
+      "title": "Brazil’s right has already changed the balance of power",
+      "link": "https://www.aljazeera.com/opinions/2026/10/23/brazils-right-has-already-changed-the-balance-of-power?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 16:41:09 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Israeli roadblocks disrupt schools and medical care in West Bank village",
+      "link": "https://www.aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 16:37:59 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
+      "link": "https://www.aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 16:29:51 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "One person killed in suspected ‘Islamophobic’ shooting near Paris",
+      "link": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 16:08:04 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
       "link": "https://www.aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote?traffic_source=rss",
       "date": "Fri, 23 Oct 2026 15:51:29 +0000",
@@ -311,30 +335,6 @@
       "title": "Conte dismisses reports of Man United takeover with Carrick’s job uncertain",
       "link": "https://www.aljazeera.com/sports/2026/10/23/conte-dismisses-reports-of-man-united-takeover-with-carricks-job-uncertain?traffic_source=rss",
       "date": "Fri, 23 Oct 2026 14:16:14 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Mississippi releases video of 1-year-old’s fatal police shooting",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/mississippi-releases-video-of-1-year-olds-fatal-police-shooting?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 14:15:52 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Finland nearing opening of world’s first permanent nuclear waste repository",
-      "link": "https://www.aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 13:50:26 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Dembele to miss Ballon d’Or event as PSG game moved amid protests in France",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/dembele-to-miss-ballon-dor-event-as-psg-game-moved-amid-protests-in-france?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 13:46:12 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Kenya’s marathon champion Peres Jepchirchir provisionally banned by AIU",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/kenyas-marathon-champion-peres-jepchirchir-provisionally-banned-by-aiu?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 13:45:21 +0000",
       "source": "Al Jazeera"
     }
   ]
