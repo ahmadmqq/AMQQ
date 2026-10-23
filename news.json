@@ -1,16 +1,28 @@
 {
-  "updated": "2026-10-23T13:26:25.302995+00:00",
+  "updated": "2026-10-23T14:06:36.290228+00:00",
   "items": [
     {
-      "title": "عاجل: إطلاق نار على كنيسة في محافظة الكرك جنوبي الأردن يوقع قتلى",
+      "title": "إطلاق نار خلال تشييع جنازة في كنيسة بالكرك يوقع قتلى وجرحى",
       "link": "https://www.bbc.com/arabic/articles/c62e9pw2e0n3o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 13:22:42 GMT",
+      "date": "Fri, 23 Oct 2026 13:45:16 GMT",
       "source": "BBC Arabic"
     },
     {
-      "title": "مقتل جنديين إسرائيليين وإصابة ثلاثة آخرين في إطلاق نار في الخليل، ونتنياهو يأمر \"بفرض إغلاق كامل\" في الضفة الغربية",
+      "title": "مقتل جنديين إسرائيليين وإصابة ثلاثة آخرين في إطلاق نار في الخليل",
       "link": "https://www.bbc.com/arabic/articles/cvx28ew49zl6o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 12:34:05 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "العاصفة أوستن تضرب بريطانيا وفرنسا وتقطع الكهرباء عن آلاف المنازل",
+      "link": "https://www.bbc.com/arabic/articles/cr20w8x0nq21o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 13:42:01 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "إلغاء مئات الرحلات الجوية مع اقتراب إعصار تشامبي من تايوان",
+      "link": "https://www.bbc.com/arabic/articles/cxnv025l5nrzo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 13:27:37 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -38,21 +50,9 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "لماذا قد لا تُسفر انتخابات إسرائيل عن فائز واضح؟",
-      "link": "https://www.bbc.com/arabic/articles/c699z3lp577mo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 05:46:10 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "زلزال بقوة سبع درجات يضرب التبت ويودي بحياة 16 شخصاً",
-      "link": "https://www.bbc.com/arabic/articles/cwq6nze2e8z9o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 04:57:03 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Anti-terror police investigate as one person killed in shooting near Paris",
       "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 12:47:01 GMT",
+      "date": "Fri, 23 Oct 2026 13:26:48 GMT",
       "source": "BBC World"
     },
     {
@@ -62,15 +62,15 @@
       "source": "BBC World"
     },
     {
-      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 12:48:52 GMT",
+      "title": "Six shot dead by gunmen at church funeral in Jordan, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 14:02:16 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
-      "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 13:12:15 GMT",
+      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 12:48:52 GMT",
       "source": "BBC World"
     },
     {
@@ -146,6 +146,12 @@
       "source": "BBC Business"
     },
     {
+      "title": "Ebola patient in Nigeria did not visit DR Congo, escalating concern over spread of virus",
+      "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+      "date": "Fri, 23 Oct 2026 13:43:46 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
       "link": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
       "date": "Thu, 22 Oct 2026 21:53:28 GMT",
@@ -170,12 +176,6 @@
       "source": "Guardian World"
     },
     {
-      "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
-      "link": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
-      "date": "Tue, 20 Oct 2026 19:18:03 GMT",
-      "source": "Guardian World"
-    },
-    {
       "title": "Brazil’s election and the battle for the Amazon – podcast",
       "link": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
       "date": "Fri, 23 Oct 2026 02:00:56 GMT",
@@ -196,7 +196,7 @@
     {
       "title": "Oil hits five-month high as global stocks wobble on AI fears; retail sales in Great Britain fall as shoppers cut back - business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/23/global-stocks-fall-ai-fears-grow-british-retail-sales-fall-business-live-latest-news",
-      "date": "Fri, 23 Oct 2026 11:55:06 GMT",
+      "date": "Fri, 23 Oct 2026 13:35:48 GMT",
       "source": "Guardian Business"
     },
     {
@@ -230,15 +230,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "‘Overnight, everything was dead’: the Teesside fisherman turned activist dubbed the Mr Bates of the seas",
-      "link": "https://www.theguardian.com/film/2026/oct/23/overnight-everything-was-dead-the-teeside-fisherman-turned-activist-dubbed-the-mr-bates-of-the-seas",
-      "date": "Fri, 23 Oct 2026 10:03:02 GMT",
+      "title": "Potholes, bus fares and headphone dodgers: will Burnham’s strategy of ‘everyday fixes’ succeed?",
+      "link": "https://www.theguardian.com/politics/2026/oct/23/andy-burnham-everyday-fixes-strategy-bus-fares-pubs-potholes-headphone-dodgers",
+      "date": "Fri, 23 Oct 2026 12:26:53 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Elon Musk reportedly invests $1bn in David Ellison’s Skydance",
-      "link": "https://www.theguardian.com/technology/2026/oct/22/elon-musk-david-ellison-skydance-investment",
-      "date": "Thu, 22 Oct 2026 21:23:39 GMT",
+      "title": "‘Overnight, everything was dead’: the Teesside fisherman turned activist dubbed the Mr Bates of the seas",
+      "link": "https://www.theguardian.com/film/2026/oct/23/overnight-everything-was-dead-the-teeside-fisherman-turned-activist-dubbed-the-mr-bates-of-the-seas",
+      "date": "Fri, 23 Oct 2026 10:03:02 GMT",
       "source": "Guardian Business"
     },
     {
@@ -272,14 +272,14 @@
       "source": "NPR World"
     },
     {
-      "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
+      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
       "date": "Fri, 23 Oct 2026 05:00:00 -0400",
       "source": "NPR World"
     },
     {
-      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+      "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
       "date": "Fri, 23 Oct 2026 05:00:00 -0400",
       "source": "NPR World"
     },
@@ -290,51 +290,51 @@
       "source": "NPR World"
     },
     {
-      "title": "El Clasico: All to know about the rivalry between Barcelona and Real Madrid",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 13:12:36 +0000",
+      "title": "Finland nearing opening of world’s first permanent nuclear waste repository",
+      "link": "https://www.aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 13:50:26 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Dortmund to reward football supporters who don’t use phone during matches",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/dortmund-to-reward-football-supporters-who-dont-use-phone-during-matches?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 13:00:51 +0000",
+      "title": "Dembele to miss Ballon d’Or event as PSG game moved amid protests in France",
+      "link": "https://www.aljazeera.com/sports/2026/10/23/dembele-to-miss-ballon-dor-event-as-psg-game-moved-amid-protests-in-france?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 13:46:12 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Qatar Moto GP to go ahead despite regional tensions",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/qatar-moto-gp-to-go-ahead-despite-regional-tensions?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 13:00:18 +0000",
+      "title": "Kenya’s marathon champion Peres Jepchirchir provisionally banned by AIU",
+      "link": "https://www.aljazeera.com/sports/2026/10/23/kenyas-marathon-champion-peres-jepchirchir-provisionally-banned-by-aiu?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 13:45:21 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Greece joins push to ban social media for minors",
-      "link": "https://www.aljazeera.com/news/2026/10/23/greece-joins-push-to-ban-social-media-for-minors?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 12:55:16 +0000",
+      "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city Oleshky: White House",
+      "link": "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 13:39:06 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Russia-Ukraine talks planned for November in UAE: Kremlin",
-      "link": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 12:54:44 +0000",
+      "title": "At least seven killed after gunmen open fire at church in Jordan",
+      "link": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 13:32:40 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "As President Paul Biya returns to Cameroon, can he still rule?",
-      "link": "https://www.aljazeera.com/news/2026/10/23/as-president-paul-biya-returns-to-cameroon-can-he-still-rule?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 12:52:28 +0000",
+      "title": "Hundreds to defy Palestine Action ban in protest at US embassy in London",
+      "link": "https://www.aljazeera.com/features/2026/10/23/hundreds-to-defy-palestine-action-ban-in-protest-at-us-embassy-in-london?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 13:25:58 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "The fight to protect India’s 600-year-old mosque in Ujjain",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/ujjain-shahi-imosque-demolition-original?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 12:43:09 +0000",
+      "title": "NFL would cancel Paris game if unsafe due to riots, Steelers’ Rodgers says",
+      "link": "https://www.aljazeera.com/sports/2026/10/23/nfl-would-cancel-paris-game-if-unsafe-due-to-riots-steelers-rodgers-says?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 13:19:19 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "CAS clears Japan’s Olympic silver medallist Ikeda of doping, overturns ban",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/cas-clears-japans-olympic-silver-medallist-ikeda-of-doping-overturns-ban?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 12:34:10 +0000",
+      "title": "Trump ordered to testify in $10bn BBC lawsuit discovery: What happens now?",
+      "link": "https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 13:17:46 +0000",
       "source": "Al Jazeera"
     }
   ]
