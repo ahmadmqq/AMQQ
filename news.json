@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-23T08:01:06.557660+00:00",
+  "updated": "2026-10-23T08:33:38.643909+00:00",
   "items": [
     {
-      "title": "نتنياهو يلغي كل أنشطته الانتخابية عقب إطلاق النار على حاجز عسكري في الضفة الغربية",
+      "title": "نتنياهو يلغي كل أنشطته الانتخابية عقب إطلاق النار على حاجز عسكري ويأمر \"بفرض إغلاق كامل\" في الضفة الغربية",
       "link": "https://www.bbc.com/arabic/articles/cvx28ew49zl6o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 07:35:59 GMT",
+      "date": "Fri, 23 Oct 2026 08:11:40 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -128,6 +128,12 @@
       "source": "BBC Business"
     },
     {
+      "title": "The Indian workers filming their work to train AI",
+      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 08:04:17 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 14:28:59 GMT",
@@ -137,12 +143,6 @@
       "title": "The 'trillion pound' oil fund the government believes Britain could have built",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
       "date": "Wed, 21 Oct 2026 23:27:05 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Tank barrel production returns to UK after 20 years",
-      "link": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 13:45:19 GMT",
       "source": "BBC Business"
     },
     {
@@ -196,7 +196,7 @@
     {
       "title": "Oil hits five-month high as global stocks wobble on AI fears; retail sales in Great Britain fall as shoppers cut back - business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/23/global-stocks-fall-ai-fears-grow-british-retail-sales-fall-business-live-latest-news",
-      "date": "Fri, 23 Oct 2026 07:41:19 GMT",
+      "date": "Fri, 23 Oct 2026 08:11:02 GMT",
       "source": "Guardian Business"
     },
     {
@@ -242,6 +242,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
+      "link": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths",
+      "date": "Fri, 23 Oct 2026 04:17:06 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "What we know about war plans that Trump and Netanyahu are drawing up",
       "link": "https://www.npr.org/2026/10/22/nx-s1-6012306/what-we-know-about-war-plans-that-trump-and-netanyahu-are-drawing-up",
       "date": "Thu, 22 Oct 2026 18:17:04 -0400",
@@ -284,10 +290,16 @@
       "source": "NPR World"
     },
     {
-      "title": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6012029/bukele-military-operation-haiti",
-      "date": "Thu, 22 Oct 2026 04:39:19 -0400",
-      "source": "NPR World"
+      "title": "Harry Kane hopes Ballon d’Or produces ‘special night’ in hometown",
+      "link": "https://www.aljazeera.com/sports/2026/10/23/harry-kane-hopes-ballon-dor-produces-special-night-in-hometown?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 07:56:27 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Why is Gen Z revolting?",
+      "link": "https://www.aljazeera.com/opinions/2026/10/23/why-is-gen-z-revolting?traffic_source=rss",
+      "date": "Fri, 23 Oct 2026 07:51:31 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
@@ -323,18 +335,6 @@
       "title": "Manchester United labelled ‘babies’ by club legend Wayne Rooney",
       "link": "https://www.aljazeera.com/sports/2026/10/23/manchester-united-labelled-clowns-by-club-legend-wayne-rooney?traffic_source=rss",
       "date": "Fri, 23 Oct 2026 06:11:17 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "EU entering winter with lowest gas reserves on record, IEA boss warns",
-      "link": "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 06:02:15 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Grenade exercise sparked deadly fire at Canada military base, army says",
-      "link": "https://www.aljazeera.com/news/2026/10/23/grenade-exercise-sparked-deadly-fire-at-canada-military-base-army-says?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 04:41:24 +0000",
       "source": "Al Jazeera"
     }
   ]
