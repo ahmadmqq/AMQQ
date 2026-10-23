@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-23T05:28:12.570103+00:00",
+  "updated": "2026-10-23T06:00:20.697062+00:00",
   "items": [
     {
       "title": "جماعة أنصار الله تقول إنها استهدفت وزارة الدفاع السعودية، والتحالف يعلن اعتراض مسيّرات وصواريخ باليستية",
       "link": "https://www.bbc.com/arabic/articles/c9203p26rj8do?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 01:43:29 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "لماذا قد لا تُسفر انتخابات إسرائيل عن فائز واضح؟",
+      "link": "https://www.bbc.com/arabic/articles/c699z3lp577mo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 05:46:10 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,15 +50,15 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "\"افرضوا الضرائب على الأثرياء، أو ستندمون\" - مقال في ميرور",
-      "link": "https://www.bbc.com/arabic/articles/cqpvg1821r2lo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 09:57:00 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
       "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 23:16:16 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 05:16:37 GMT",
       "source": "BBC World"
     },
     {
@@ -62,7 +68,7 @@
       "source": "BBC World"
     },
     {
-      "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+      "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
       "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 22:27:53 GMT",
       "source": "BBC World"
@@ -92,12 +98,6 @@
       "source": "BBC World"
     },
     {
-      "title": "Crowd of 50 beats foreigner to death in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 22 Oct 2026 16:15:25 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Grid operator says lights will stay on this winter after concerns",
       "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 23:04:38 GMT",
@@ -110,7 +110,7 @@
       "source": "BBC Business"
     },
     {
-      "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+      "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
       "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
       "date": "Thu, 22 Oct 2026 22:27:53 GMT",
       "source": "BBC Business"
@@ -224,9 +224,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
-      "link": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw",
-      "date": "Thu, 22 Oct 2026 16:42:54 GMT",
+      "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
+      "link": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
+      "date": "Thu, 22 Oct 2026 21:50:13 GMT",
       "source": "Guardian Business"
     },
     {
@@ -236,9 +236,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
-      "link": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery",
-      "date": "Thu, 22 Oct 2026 17:18:12 GMT",
+      "title": "Revealed: billionaire Reform donor was in business with foundation linked to Iranian regime",
+      "link": "https://www.theguardian.com/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs",
+      "date": "Thu, 22 Oct 2026 16:39:49 GMT",
       "source": "Guardian Business"
     },
     {
