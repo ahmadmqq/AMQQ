@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-24T14:06:27.175420+00:00",
+  "updated": "2026-10-24T14:32:33.642527+00:00",
   "items": [
     {
       "title": "العاهل الأردني يؤكد أن يد العدالة \"ستطال كل إرهابي\"، وحصيلة قتلى الهجوم على كنيسة في الكرك ترتفع إلى تسعة",
       "link": "https://www.bbc.com/arabic/articles/c62e9pw2e0n3o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 13:28:04 GMT",
+      "date": "Sat, 24 Oct 2026 14:30:07 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -17,6 +17,12 @@
       "title": "إخلاء عائلات وهدم منازل في الخليل خلال عملية عسكرية إسرائيلية بعد مقتل جنديين",
       "link": "https://www.bbc.com/arabic/articles/cx30ej52e7rpo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 24 Oct 2026 12:09:44 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "إنفانتينو: \"أحظى بدعم الغالبية الساحقة في عالم كرة القدم\"",
+      "link": "https://www.bbc.com/arabic/articles/cm369zl9ze0eo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 14:26:40 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "من هم المسيحيون الأردنيون؟ وماذا نعرف عن تاريخهم؟",
-      "link": "https://www.bbc.com/arabic/articles/crd6dx7vqx62o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 20:28:44 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Ukraine says Starlink connection 'now stable' after network limits",
       "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 24 Oct 2026 12:12:40 GMT",
@@ -58,7 +58,7 @@
     {
       "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
       "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 11:23:59 GMT",
+      "date": "Sat, 24 Oct 2026 14:16:05 GMT",
       "source": "BBC World"
     },
     {
@@ -260,6 +260,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Israeli PM pledges massive military operation after West Bank checkpoint attack",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack",
+      "date": "Fri, 23 Oct 2026 17:38:54 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
       "link": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
       "date": "Fri, 23 Oct 2026 08:41:39 -0400",
@@ -284,10 +290,34 @@
       "source": "NPR World"
     },
     {
-      "title": "Hacking attempts rise after flaws found in program affecting 70% of websites",
-      "link": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
-      "date": "Fri, 23 Oct 2026 05:37:38 -0400",
-      "source": "NPR World"
+      "title": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
+      "link": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 14:21:34 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Man City beaten at Aston Villa as perfect Premier League start ends",
+      "link": "https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 14:04:27 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Do abstaining voters hold the key to Brazil’s 2026 presidential election?",
+      "link": "https://www.aljazeera.com/news/longform/2026/10/24/do-abstaining-voters-hold-the-key-to-brazils-2026-presidential-election?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 13:58:14 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Rybakina readies for title defence at Ningbo Open in final with Fernandez",
+      "link": "https://www.aljazeera.com/sports/2026/10/24/rybakina-readies-for-title-defence-at-ningbo-open-in-final-with-fernandez?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 13:52:08 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Sudan’s soaring fuel prices make getting by harder for workers",
+      "link": "https://www.aljazeera.com/economy/2026/10/24/sudans-soaring-fuel-prices-makes-getting-by-harder-for-workers?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 13:51:08 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Who was behind the deadly church shooting in Jordan?",
@@ -305,36 +335,6 @@
       "title": "Armed Israeli settlers try to break into Palestinian grandfather’s home",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/armed-israeli-settlers-try-to-break-into-palestinian-grandfathers-home?traffic_source=rss",
       "date": "Sat, 24 Oct 2026 13:16:23 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "FIFA’s Infantino touts global re-election support amid resignation questions",
-      "link": "https://www.aljazeera.com/sports/2026/10/24/fifas-infantino-touts-global-re-election-support-amid-resignation-questions?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 13:12:03 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
-      "link": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 13:06:03 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Jordan’s King Abdullah orders firm response after deadly church attack",
-      "link": "https://www.aljazeera.com/news/2026/10/24/jordans-king-abdullah-orders-firm-response-after-deadly-church-attack?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 13:02:51 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "France protests live: 135 arrested as marches held under tight security",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/france-protests-live-135-arrested-as-marches-held-under-tight-security?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 12:55:37 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Is Iran planning attacks on Americans; why is the US on alert?",
-      "link": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 12:51:21 +0000",
       "source": "Al Jazeera"
     }
   ]
