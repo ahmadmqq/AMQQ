@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-24T09:59:02.906522+00:00",
+  "updated": "2026-10-24T10:22:36.944278+00:00",
   "items": [
     {
-      "title": "ارتفاع عدد قتلى إطلاق نار كنيسة في الكرك إلى ثمانية، وشاهدة تصف لبي بي سي ما جرى بـ\"الزلزال\"",
+      "title": "ارتفاع حصيلة قتلى الهجوم على كنيسة في الكرك إلى ثمانية، وشاهدة لبي بي سي تصف ما جرى بـ\"الزلزال\"",
       "link": "https://www.bbc.com/arabic/articles/c62e9pw2e0n3o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 24 Oct 2026 07:54:22 GMT",
       "source": "BBC Arabic"
@@ -50,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "France prepares for day of protest a week after nationwide riots",
-      "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 09:34:32 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
       "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 24 Oct 2026 09:03:15 GMT",
@@ -95,6 +89,12 @@
       "title": "Seven missing after multi-storey building collapses in Kenya's capital",
       "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 24 Oct 2026 09:44:01 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Trump administration sues to block certification of upcoming Alaska election",
+      "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 18:49:14 GMT",
       "source": "BBC World"
     },
     {
@@ -278,16 +278,28 @@
       "source": "NPR World"
     },
     {
+      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+      "date": "Fri, 23 Oct 2026 05:00:00 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
       "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
       "date": "Fri, 23 Oct 2026 05:00:00 -0400",
       "source": "NPR World"
     },
     {
-      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
-      "date": "Fri, 23 Oct 2026 05:00:00 -0400",
-      "source": "NPR World"
+      "title": "Brazil’s Lula and Bolsonaro debate policy proposals before run-off",
+      "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 09:41:56 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Ethiopian PM’s advisor: Tigrayan forces and others hinder stability",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ethiopian-pms-advisor-tigrayan-forces-and-others-hinder-stability?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 09:32:22 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Just Eat apologises after AI-generated images blunder",
@@ -323,18 +335,6 @@
       "title": "Rubio calls on Cubans to partner with CIA ‘to create positive change’",
       "link": "https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change?traffic_source=rss",
       "date": "Sat, 24 Oct 2026 08:28:24 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Chicago Bulls storm back from early deficit to beat Milwaukee Bucks in NBA",
-      "link": "https://www.aljazeera.com/sports/2026/10/24/chicago-bulls-storm-back-from-early-deficit-to-beat-milwaukee-bucks-in-nba?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 08:24:59 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Massive chemical plant fire triggers mass evacuations in Mexico",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-chemical-plant-fire-triggers-mass-evacuations-in-mexico?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 08:14:20 +0000",
       "source": "Al Jazeera"
     }
   ]
