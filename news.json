@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T21:06:19.336825+00:00",
+  "updated": "2026-10-24T21:32:17.322016+00:00",
   "items": [
     {
       "title": "أنصار الله تعلن استهداف قاعدة بحرية ومعسكر في عدن والسعودية تعترض ثلاثة صواريخ",
@@ -50,6 +50,12 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 21:09:27 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Ukraine says Starlink connection 'now stable' after network limits",
       "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 24 Oct 2026 12:12:40 GMT",
@@ -89,12 +95,6 @@
       "title": "Three released without charge after fatal arson attack in Ireland",
       "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 24 Oct 2026 09:38:28 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 09:46:53 GMT",
       "source": "BBC World"
     },
     {
@@ -176,9 +176,9 @@
       "source": "Guardian World"
     },
     {
-      "title": "Tens of thousands of Lula supporters rally on eve of Brazilian election runoff",
+      "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
       "link": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
-      "date": "Sat, 24 Oct 2026 18:11:44 GMT",
+      "date": "Sat, 24 Oct 2026 21:10:23 GMT",
       "source": "Guardian World"
     },
     {
@@ -242,6 +242,18 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Protests roil France once again as police seek to quell violence",
+      "link": "https://www.npr.org/2026/10/24/nx-s1-6014520/protests-roil-france-once-again-as-police-seek-to-quell-violence",
+      "date": "Sat, 24 Oct 2026 17:21:00 -0400",
+      "source": "NPR World"
+    },
+    {
+      "title": "Why a far-right cabinet minister in Israel has Netanyahu's ear",
+      "link": "https://www.npr.org/2026/10/24/nx-s1-6010464/why-a-far-right-cabinet-minister-in-israel-has-netanyahus-ear",
+      "date": "Sat, 24 Oct 2026 17:20:52 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "Ukraine says Starlink is back to normal after disruptions",
       "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
       "date": "Sat, 24 Oct 2026 13:54:25 -0400",
@@ -275,18 +287,6 @@
       "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
       "link": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
       "date": "Fri, 23 Oct 2026 08:41:39 -0400",
-      "source": "NPR World"
-    },
-    {
-      "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
-      "link": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
-      "date": "Fri, 23 Oct 2026 07:22:25 -0400",
-      "source": "NPR World"
-    },
-    {
-      "title": "Retired general discusses the U.S. and Israeli plan for possible attack on Iran",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6012303/retired-general-discusses-the-u-s-and-israeli-plan-for-possible-attack-on-iran",
-      "date": "Fri, 23 Oct 2026 06:36:15 -0400",
       "source": "NPR World"
     },
     {
