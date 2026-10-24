@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T17:32:34.925634+00:00",
+  "updated": "2026-10-24T17:56:56.693467+00:00",
   "items": [
     {
       "title": "ملك الأردن يؤكد أن يد العدالة \"ستطال كل إرهابي\"، وحصيلة قتلى الهجوم على كنيسة في الكرك ترتفع إلى تسعة",
@@ -16,7 +16,7 @@
     {
       "title": "إجلاء عائلات وهدم منازل في الخليل خلال عملية عسكرية إسرائيلية بعد مقتل جنديين",
       "link": "https://www.bbc.com/arabic/articles/cx30ej52e7rpo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 16:30:25 GMT",
+      "date": "Sat, 24 Oct 2026 17:46:48 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -242,6 +242,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Ukraine says Starlink is back to normal after disruptions",
+      "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+      "date": "Sat, 24 Oct 2026 13:54:25 -0400",
+      "source": "NPR World"
+    },
+    {
       "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
       "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
       "date": "Sat, 24 Oct 2026 07:59:08 -0400",
@@ -284,10 +290,10 @@
       "source": "NPR World"
     },
     {
-      "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
-      "date": "Fri, 23 Oct 2026 05:40:32 -0400",
-      "source": "NPR World"
+      "title": "Trump says he may move White House press corps to new location",
+      "link": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 17:01:34 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
@@ -320,7 +326,7 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "Security forces deploy as Milan braces for another day of protests",
+      "title": "Hundreds of soldiers deploy as protesters rally in Italy’s Milan",
       "link": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
       "date": "Sat, 24 Oct 2026 15:05:58 +0000",
       "source": "Al Jazeera"
@@ -329,12 +335,6 @@
       "title": "Why Israeli tourists and investors are unsettling Cypriots",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss",
       "date": "Sat, 24 Oct 2026 14:56:47 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Full lockdown of occupied West Bank begins",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 14:24:19 +0000",
       "source": "Al Jazeera"
     }
   ]
