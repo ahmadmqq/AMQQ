@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-24T11:11:33.041693+00:00",
+  "updated": "2026-10-24T11:39:37.709041+00:00",
   "items": [
+    {
+      "title": "التحالف يعلن تدمير صواريخ باليستية باتجاه الطائف وينبع والرياض",
+      "link": "https://www.bbc.com/arabic/articles/cw2406dvvqgdo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 10:32:03 GMT",
+      "source": "BBC Arabic"
+    },
     {
       "title": "ارتفاع حصيلة قتلى الهجوم على كنيسة في الكرك إلى ثمانية، وشاهدة لبي بي سي تصف ما جرى بـ\"الزلزال\"",
       "link": "https://www.bbc.com/arabic/articles/c62e9pw2e0n3o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 24 Oct 2026 07:54:22 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "التحالف يعلن تدمير صاروخين بالستيين باتجاه الطائف وينبع",
-      "link": "https://www.bbc.com/arabic/articles/cw2406dvvqgdo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 10:32:03 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -50,9 +50,15 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 11:17:35 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
       "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 10:22:34 GMT",
+      "date": "Sat, 24 Oct 2026 11:23:59 GMT",
       "source": "BBC World"
     },
     {
@@ -62,21 +68,15 @@
       "source": "BBC World"
     },
     {
+      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 09:45:47 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
       "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 23:08:23 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 00:36:47 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Australian MP's condition improves after alleged car attack",
-      "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 01:55:15 GMT",
       "source": "BBC World"
     },
     {
@@ -86,15 +86,15 @@
       "source": "BBC World"
     },
     {
-      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
-      "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 09:44:01 GMT",
+      "title": "Australian MP's condition improves after alleged car attack",
+      "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 01:55:15 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Trump administration sues to block certification of upcoming Alaska election",
-      "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 18:49:14 GMT",
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 00:36:47 GMT",
       "source": "BBC World"
     },
     {
@@ -212,33 +212,33 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Can John Healey make a dent in the cost of living crisis in his first budget?",
+      "title": "Can curry nights and canny advisers help Healey deliver a budget for everyday people?",
       "link": "https://www.theguardian.com/uk-news/2026/oct/24/can-john-healey-make-a-dent-in-the-cost-of-living-crisis-in-his-first-budget",
       "date": "Sat, 24 Oct 2026 09:00:29 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Is London really the most-taxed city? Banks accused of cherrypicking data",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/24/banking-lobby-group-accused-cherry-picking-data-healey-tax-rise",
+      "date": "Sat, 24 Oct 2026 11:00:31 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "The datacentre next door: on the frontline of tech’s latest David v Goliath battle",
+      "link": "https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
+      "date": "Sat, 24 Oct 2026 11:00:32 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "No unions, low taxes: why some of Britain’s top chefs are opening outposts in Gulf states",
+      "link": "https://www.theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
+      "date": "Sat, 24 Oct 2026 11:00:31 GMT",
       "source": "Guardian Business"
     },
     {
       "title": "Tinned food, loo roll and power banks: the Brits following advice to stockpile",
       "link": "https://www.theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice",
       "date": "Sat, 24 Oct 2026 09:00:29 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "He wants to clean up the city and banish high prices. But who is ‘London’s Batman’?",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/24/london-batman-litter-fuel-fredos",
-      "date": "Sat, 24 Oct 2026 06:00:24 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "‘Comfort in a bowl’: porridge hotter than ever as fibremaxxers get their oats",
-      "link": "https://www.theguardian.com/food/2026/oct/24/comfort-in-a-bowl-porridge-hotter-than-ever-as-fibremaxxers-get-their-oats",
-      "date": "Sat, 24 Oct 2026 05:00:23 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "What essentials to keep, what rubbish to get rid of? Burnham, Badenoch, Farage don’t know either | Robert Hutton",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/24/burnham-badenoch-farage-essentials-truss",
-      "date": "Sat, 24 Oct 2026 07:00:27 GMT",
       "source": "Guardian Business"
     },
     {
@@ -278,14 +278,14 @@
       "source": "NPR World"
     },
     {
-      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+      "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
       "date": "Fri, 23 Oct 2026 05:00:00 -0400",
       "source": "NPR World"
     },
     {
-      "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
+      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
       "date": "Fri, 23 Oct 2026 05:00:00 -0400",
       "source": "NPR World"
     },
