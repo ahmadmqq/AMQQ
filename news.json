@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-24T01:28:59.849688+00:00",
+  "updated": "2026-10-24T02:05:59.625309+00:00",
   "items": [
     {
       "title": "7 قتلى بإطلاق نار خلال جنازة في كنيسة بالأردن والملك يصف الهجوم بـ\"العمل الإرهابي\"",
       "link": "https://www.bbc.com/arabic/articles/c62e9pw2e0n3o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 22:17:17 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "متاحف غلاسكو تزيل رفات مومياوات مصرية من العرض أمام الجمهور",
+      "link": "https://www.bbc.com/arabic/articles/c84g1vv0ze7yo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 01:58:32 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "ما الذي تسعى إليه تركيا من خلال تحالفي مكة وبدر؟",
       "link": "https://www.bbc.com/arabic/articles/cw80zx7880yeo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 15:24:41 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "فضل شاكر يصالح المسرح بعد 14 سنة من الغياب، كيف تفاعل الجمهور؟",
-      "link": "https://www.bbc.com/arabic/articles/cq0k0dg33llzo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 11:35:49 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -272,14 +272,14 @@
       "source": "NPR World"
     },
     {
-      "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
+      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
       "date": "Fri, 23 Oct 2026 05:00:00 -0400",
       "source": "NPR World"
     },
     {
-      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+      "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
+      "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
       "date": "Fri, 23 Oct 2026 05:00:00 -0400",
       "source": "NPR World"
     },
@@ -288,6 +288,12 @@
       "link": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths",
       "date": "Fri, 23 Oct 2026 04:17:06 -0400",
       "source": "NPR World"
+    },
+    {
+      "title": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
+      "link": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 01:21:18 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Syrians protest Israel’s incursions near occupied Golan Heights",
@@ -329,12 +335,6 @@
       "title": "Why is Israel increasing its presence in the Balkans?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
       "date": "Fri, 23 Oct 2026 22:01:52 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 21:27:32 +0000",
       "source": "Al Jazeera"
     }
   ]
