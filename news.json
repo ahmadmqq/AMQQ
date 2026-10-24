@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-24T03:32:17.557331+00:00",
+  "updated": "2026-10-24T04:04:30.715314+00:00",
   "items": [
     {
       "title": "7 قتلى بإطلاق نار خلال جنازة في كنيسة بالأردن والملك يصف الهجوم بـ\"العمل الإرهابي\"",
       "link": "https://www.bbc.com/arabic/articles/c62e9pw2e0n3o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 22:17:17 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "التحالف يعلن اعتراض صاروخ باليستي باتجاه الرياض وسماع دوي انفجارين",
+      "link": "https://www.bbc.com/arabic/articles/cw2406dvvqgdo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 03:44:40 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "ما الذي تسعى إليه تركيا من خلال تحالفي مكة وبدر؟",
-      "link": "https://www.bbc.com/arabic/articles/cw80zx7880yeo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 15:24:41 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
       "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 19:42:08 GMT",
@@ -59,6 +59,12 @@
       "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
       "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 19:46:30 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Arrest made after fire at Hitler's Eagle's Nest retreat",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 03:51:25 GMT",
       "source": "BBC World"
     },
     {
@@ -89,12 +95,6 @@
       "title": "Oil spill washes up on UAE beaches after tanker strike",
       "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 15:30:47 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 18:52:17 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,30 @@
       "source": "NPR World"
     },
     {
+      "title": "Argentina identifies dozens of victims killed in its ‘Dirty War’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 03:51:58 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Marco Rubio urges Cubans to collaborate with CIA to topple gov’t",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-rubi0-cuba-cia?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 03:50:32 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Israel raids towns, detains dozens of Palestinians in occupied West Bank",
+      "link": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 03:47:14 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Pentagon designates Confucius Institutes a national security threat",
+      "link": "https://www.aljazeera.com/news/2026/10/24/pentagon-designates-confucius-institutes-a-national-security-threat?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 03:38:20 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Century-old mosque near Indian PM’s residence under gov’t threat",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/century-old-mosque-near-indian-pms-residence-under-govt-threat?traffic_source=rss",
       "date": "Sat, 24 Oct 2026 02:53:24 +0000",
@@ -311,30 +335,6 @@
       "title": "WHO announces start of Ebola vaccine clinical trial in DR Congo",
       "link": "https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss",
       "date": "Sat, 24 Oct 2026 00:27:21 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 00:00:00 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Macklemore: ‘I say free Palestine’ as he kicks off a new tour",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 23:25:11 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
-      "link": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 23:10:54 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
-      "link": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss",
-      "date": "Fri, 23 Oct 2026 22:33:48 +0000",
       "source": "Al Jazeera"
     }
   ]
