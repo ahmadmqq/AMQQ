@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T16:11:28.388758+00:00",
+  "updated": "2026-10-24T16:40:44.793086+00:00",
   "items": [
     {
       "title": "ملك الأردن يؤكد أن يد العدالة \"ستطال كل إرهابي\"، وحصيلة قتلى الهجوم على كنيسة في الكرك ترتفع إلى تسعة",
@@ -16,19 +16,25 @@
     {
       "title": "إجلاء عائلات وهدم منازل في الخليل خلال عملية عسكرية إسرائيلية بعد مقتل جنديين",
       "link": "https://www.bbc.com/arabic/articles/cx30ej52e7rpo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 15:49:36 GMT",
+      "date": "Sat, 24 Oct 2026 16:30:25 GMT",
       "source": "BBC Arabic"
     },
     {
-      "title": "إنفانتينو: \"أحظى بدعم الغالبية الساحقة في عالم كرة القدم\"",
-      "link": "https://www.bbc.com/arabic/articles/cm369zl9ze0eo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 14:26:40 GMT",
+      "title": "فيلم \"أرض الخرسانة\" الوثائقي الأردني يفوز بجائزة مهرجان لندن السينمائي",
+      "link": "https://www.bbc.com/arabic/articles/c6lyedke3lzyo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 16:10:22 GMT",
       "source": "BBC Arabic"
     },
     {
       "title": "الشرطة الفرنسية تعتقل 135 شخصاً، بينما يتظاهر عشرات الآلاف في أنحاء البلاد",
       "link": "https://www.bbc.com/arabic/articles/cm93zw4y9qwgo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 24 Oct 2026 15:46:20 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "إنفانتينو: \"أحظى بدعم الغالبية الساحقة في عالم كرة القدم\"",
+      "link": "https://www.bbc.com/arabic/articles/cm369zl9ze0eo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 14:26:40 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "حين أرسل عبد الناصر الجيش المصري إلى اليمن لمواجهة قوات تدعمها السعودية",
       "link": "https://www.bbc.com/arabic/articles/ck1l38q5m815o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 24 Oct 2026 04:56:21 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "متاحف غلاسكو تزيل رفات مومياوات مصرية من العرض أمام الجمهور",
-      "link": "https://www.bbc.com/arabic/articles/c84g1vv0ze7yo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 01:58:32 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -74,18 +74,6 @@
       "source": "BBC World"
     },
     {
-      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 23:08:23 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 09:46:53 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
       "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 24 Oct 2026 14:45:30 GMT",
@@ -95,6 +83,18 @@
       "title": "Three released without charge after fatal arson attack in Ireland",
       "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 24 Oct 2026 09:38:28 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 09:46:53 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Australian MP's condition improves after alleged car attack",
+      "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 01:55:15 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
+      "link": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 16:18:17 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
       "link": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
       "date": "Sat, 24 Oct 2026 15:50:49 +0000",
@@ -329,12 +335,6 @@
       "title": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
       "link": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss",
       "date": "Sat, 24 Oct 2026 14:21:34 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Man City beaten at Aston Villa as perfect Premier League start ends",
-      "link": "https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 14:04:27 +0000",
       "source": "Al Jazeera"
     }
   ]
