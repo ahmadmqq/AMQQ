@@ -1,10 +1,22 @@
 {
-  "updated": "2026-10-24T12:05:26.028338+00:00",
+  "updated": "2026-10-24T12:38:19.451149+00:00",
   "items": [
     {
       "title": "التحالف يعلن تدمير صواريخ باليستية باتجاه الطائف وينبع والرياض، و\"أنصار الله\" تتحدث عن \"غارات سعودية\" على مواقع باليمن",
       "link": "https://www.bbc.com/arabic/articles/cw2406dvvqgdo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 24 Oct 2026 12:00:05 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "على أوكرانيا البحث عن بديل لدعم واشنطن بعد الجدل حول \"ستارلينك\" - الإندبندنت",
+      "link": "https://www.bbc.com/arabic/articles/ck62ylm1v36do?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 12:27:49 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "إخلاء عائلات وهدم منازل في الخليل خلال عملية عسكرية إسرائيلية بعد مقتل جنديين",
+      "link": "https://www.bbc.com/arabic/articles/cx30ej52e7rpo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 12:09:44 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -38,21 +50,9 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "ترسيم الحدود البحرية بين ليبيا وتركيا: اختبار للعلاقات شرقي المتوسط",
-      "link": "https://www.bbc.com/arabic/articles/cwm230zz821go?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 20:05:05 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "السعودية تؤجّل مواسمَها وفعالياتها الدولية، فما أثر ذلك على رؤية 2030؟",
-      "link": "https://www.bbc.com/arabic/articles/c8wy9kw2xee3o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 17:49:54 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Ukraine says Starlink connection 'now stable' after network limits",
       "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 11:17:35 GMT",
+      "date": "Sat, 24 Oct 2026 12:12:40 GMT",
       "source": "BBC World"
     },
     {
@@ -224,6 +224,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Skydance employees brace for expected restructure as megamerger dust settles",
+      "link": "https://www.theguardian.com/media/2026/oct/24/skydance-employees-brace-change-megamerger-dust-settles",
+      "date": "Sat, 24 Oct 2026 12:00:32 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "The datacentre next door: on the frontline of tech’s latest David v Goliath battle",
       "link": "https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
       "date": "Sat, 24 Oct 2026 11:00:32 GMT",
@@ -233,12 +239,6 @@
       "title": "No unions, low taxes: why some of Britain’s top chefs are opening outposts in Gulf states",
       "link": "https://www.theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
       "date": "Sat, 24 Oct 2026 11:00:31 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Tinned food, loo roll and power banks: the Brits following advice to stockpile",
-      "link": "https://www.theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice",
-      "date": "Sat, 24 Oct 2026 09:00:29 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Barcelona vs Real Madrid: Top 5 El Clasico matches between La Liga giants",
+      "link": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss",
+      "date": "Sat, 24 Oct 2026 12:05:40 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Czech Republic advances media funding overhaul despite criticism",
       "link": "https://www.aljazeera.com/news/2026/10/24/czech-republic-advances-media-funding-overhaul-despite-criticism?traffic_source=rss",
       "date": "Sat, 24 Oct 2026 11:50:32 +0000",
@@ -329,12 +335,6 @@
       "title": "Brazil’s Lula and Bolsonaro debate policy proposals before run-off",
       "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off?traffic_source=rss",
       "date": "Sat, 24 Oct 2026 09:41:56 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Ethiopian PM’s advisor: Tigrayan forces and others hinder stability",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ethiopian-pms-advisor-tigrayan-forces-and-others-hinder-stability?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 09:32:22 +0000",
       "source": "Al Jazeera"
     }
   ]
