@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-25T18:31:31.449698+00:00",
+  "updated": "2026-10-25T19:03:51.015975+00:00",
   "items": [
     {
       "title": "\"أنصار الله\" تعلن استهداف مطار الرياض والسعودية تؤكد اعتراض صواريخ بالستية",
       "link": "https://www.bbc.com/arabic/articles/crq8n4zx8l4zo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 25 Oct 2026 18:28:08 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "مجلس الأمة الجزائري يوافق بالإجماع على إرسال قوات إلى النيجر",
+      "link": "https://www.bbc.com/arabic/articles/ckwyq1l4enp9o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 25 Oct 2026 18:47:06 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "لماذا تعتمد أوكرانيا على ستارلينك؟ وهل تستطيع أوروبا سد الفجوة؟",
       "link": "https://www.bbc.com/arabic/articles/cmg47exlwq7xo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 25 Oct 2026 11:09:32 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "أول لقاح شخصي للسرطان يقلّل خطر عودة المرض",
-      "link": "https://www.bbc.com/arabic/articles/c9ly0d4g0gr1o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 25 Oct 2026 04:42:31 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 18:34:19 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Will Michael Carrick be sacked? Man United manager says he doesn’t know",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/will-michael-carrick-be-sacked-man-united-manager-says-he-doesnt-know?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 18:27:53 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Uganda orders 21-day Ebola quarantine for citizens returning from DR Congo",
+      "link": "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 18:20:26 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Israeli air strike on Gaza City university kills three people",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
       "date": "Sun, 25 Oct 2026 18:12:13 +0000",
@@ -317,24 +335,6 @@
       "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
       "link": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
       "date": "Sun, 25 Oct 2026 17:26:22 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Jerusalem Daily: Israel expels thousands from Hebron",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 17:12:59 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports",
-      "link": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 16:42:33 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 16:30:51 +0000",
       "source": "Al Jazeera"
     }
   ]
