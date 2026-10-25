@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-25T11:54:01.775181+00:00",
+  "updated": "2026-10-25T12:15:03.580089+00:00",
   "items": [
     {
       "title": "السعودية تعلن اعتراض وتدمير 10 صواريخ من جماعة أنصار الله، بالتزامن مع استئناف الرحلات بمطار الرياض",
       "link": "https://www.bbc.com/arabic/articles/crq8n4zx8l4zo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 25 Oct 2026 09:30:05 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "غارتان إسرائيليتان تستهدفان الجامعة الإسلامية في غزة وسقوط قتلى وجرحى",
+      "link": "https://www.bbc.com/arabic/articles/cqx29p7jnpylo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 25 Oct 2026 12:07:58 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "نزوح عائلات وهدم منازل في الخليل خلال عملية عسكرية إسرائيلية رداً على مقتل جنديين",
-      "link": "https://www.bbc.com/arabic/articles/cx30ej52e7rpo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 20:27:53 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
       "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 25 Oct 2026 10:38:15 GMT",
@@ -64,7 +64,7 @@
     {
       "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
       "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 25 Oct 2026 11:00:26 GMT",
+      "date": "Sun, 25 Oct 2026 11:54:16 GMT",
       "source": "BBC World"
     },
     {
@@ -200,6 +200,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Interest rates unlikely to reach 4.75% by next summer, say City economists",
+      "link": "https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
+      "date": "Sun, 25 Oct 2026 12:00:05 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Bust companies revived in ‘phoenix’ deals more likely to fail again, study finds",
       "link": "https://www.theguardian.com/business/2026/oct/25/bust-companies-revived-in-phoenix-deals-more-likely-to-fail-again-study-finds",
       "date": "Sun, 25 Oct 2026 09:00:57 GMT",
@@ -236,10 +242,16 @@
       "source": "Guardian Business"
     },
     {
-      "title": "‘Cuts mean jobs’: Skydance staff brace for shake-up after $110bn megamerger",
-      "link": "https://www.theguardian.com/media/2026/oct/24/skydance-employees-brace-change-megamerger-dust-settles",
-      "date": "Sat, 24 Oct 2026 12:00:32 GMT",
-      "source": "Guardian Business"
+      "title": "How the Iran war is influencing voters in the U.S. and Israel",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-6012350/how-the-iran-war-is-influencing-voters-in-the-u-s-and-israel",
+      "date": "Sun, 25 Oct 2026 08:06:28 -0400",
+      "source": "NPR World"
+    },
+    {
+      "title": "From France to Albania: What's bringing protestors to the streets in Europe?",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-6012389/from-france-to-albania-whats-bringing-protestors-to-the-streets-in-europe",
+      "date": "Sun, 25 Oct 2026 08:06:26 -0400",
+      "source": "NPR World"
     },
     {
       "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
@@ -275,18 +287,6 @@
       "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
       "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
       "date": "Sat, 24 Oct 2026 07:59:08 -0400",
-      "source": "NPR World"
-    },
-    {
-      "title": "European student protests take aim at Serbia's elections",
-      "link": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections",
-      "date": "Sat, 24 Oct 2026 07:42:11 -0400",
-      "source": "NPR World"
-    },
-    {
-      "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
-      "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
-      "date": "Sat, 24 Oct 2026 03:04:13 -0400",
       "source": "NPR World"
     },
     {
