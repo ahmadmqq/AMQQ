@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-25T06:10:24.744511+00:00",
+  "updated": "2026-10-25T06:46:41.601874+00:00",
   "items": [
     {
       "title": "\"لا يزال هدفاً عسكرياً\" الحوثيون يجددون تهديدهم لمطار الرياض بعد إعلان استئناف الرحلات الأحد",
       "link": "https://www.bbc.com/arabic/articles/cw2406dvvqgdo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 25 Oct 2026 04:01:22 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "الخلاف الحاد حول الخدمة العسكرية الذي قد يرسم ملامح مستقبل إسرائيل",
+      "link": "https://www.bbc.com/arabic/articles/cqdr8ey7pv0eo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 25 Oct 2026 06:24:47 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,15 +50,21 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "إنفانتينو: \"أحظى بدعم الغالبية الساحقة في عالم كرة القدم\"",
-      "link": "https://www.bbc.com/arabic/articles/cm369zl9ze0eo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 14:26:40 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
       "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 25 Oct 2026 04:16:52 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 25 Oct 2026 05:15:52 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+      "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 23:50:02 GMT",
       "source": "BBC World"
     },
     {
@@ -62,9 +74,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 23:02:06 GMT",
+      "title": "Gunmen kill at least 10 villagers and loot shops in northeast Nigeria",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 25 Oct 2026 03:20:16 GMT",
       "source": "BBC World"
     },
     {
@@ -74,27 +86,15 @@
       "source": "BBC World"
     },
     {
-      "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-      "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 22:47:07 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 17:11:56 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
       "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 24 Oct 2026 19:12:51 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Three released without charge after fatal arson attack in Ireland",
-      "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 09:38:28 GMT",
+      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+      "link": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 25 Oct 2026 02:27:15 GMT",
       "source": "BBC World"
     },
     {
@@ -200,6 +200,12 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Emirati-linked firms’ ownership of Manchester land ‘up 39%’ in ten years",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/25/emirati-linked-firms-manchester-land",
+      "date": "Sun, 25 Oct 2026 06:00:55 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Is London really the most-taxed city? Banks accused of cherrypicking data",
       "link": "https://www.theguardian.com/uk-news/2026/oct/24/banking-lobby-group-accused-cherry-picking-data-healey-tax-rise",
       "date": "Sat, 24 Oct 2026 11:00:31 GMT",
@@ -224,21 +230,15 @@
       "source": "Guardian Business"
     },
     {
+      "title": "‘That’s the way the city works’: how the UAE changed the face of Andy Burnham’s Manchester",
+      "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester",
+      "date": "Sun, 25 Oct 2026 06:00:54 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "What essentials to keep, what rubbish to get rid of? Burnham, Badenoch, Farage don’t know either | Robert Hutton",
       "link": "https://www.theguardian.com/commentisfree/2026/oct/24/burnham-badenoch-farage-essentials-truss",
       "date": "Sat, 24 Oct 2026 07:00:27 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Fine ‘headphone dodgers’ if you will, but to really tackle antisocial behaviour, Britain should look to Japan | Emily Bratt",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/24/headphone-dodgers-antisocial-behaviour-britain-japan",
-      "date": "Sat, 24 Oct 2026 10:00:30 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Hammersmith Bridge is a symbol of our dysfunctional times. The money is there, the joined-up thinking isn’t | Simon Jenkins",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/23/hammersmith-bridge-crumbling-traffic-delays-roadworks-london",
-      "date": "Fri, 23 Oct 2026 12:30:26 GMT",
       "source": "Guardian Business"
     },
     {
