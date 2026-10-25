@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T17:13:54.926711+00:00",
+  "updated": "2026-10-25T17:41:06.565874+00:00",
   "items": [
     {
       "title": "آلاف الأردنيين يودّعون ضحايا هجوم كنيسة الكرك بالترانيم والورود",
@@ -50,9 +50,9 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 25 Oct 2026 05:15:52 GMT",
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 25 Oct 2026 09:00:00 GMT",
       "source": "BBC World"
     },
     {
@@ -68,15 +68,15 @@
       "source": "BBC World"
     },
     {
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 25 Oct 2026 09:00:00 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
       "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 25 Oct 2026 15:32:51 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 25 Oct 2026 05:15:52 GMT",
       "source": "BBC World"
     },
     {
@@ -176,6 +176,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
+      "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+      "date": "Sun, 25 Oct 2026 17:18:28 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
       "link": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
       "date": "Sun, 25 Oct 2026 14:41:17 GMT",
@@ -185,12 +191,6 @@
       "title": "Demand for UK government action 10 months after British man’s death in Grenada",
       "link": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
       "date": "Sun, 25 Oct 2026 11:00:01 GMT",
-      "source": "Guardian World"
-    },
-    {
-      "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
-      "link": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
-      "date": "Sat, 24 Oct 2026 21:10:23 GMT",
       "source": "Guardian World"
     },
     {
@@ -290,7 +290,19 @@
       "source": "NPR World"
     },
     {
-      "title": "Trump’s tariff pause angers some US ranchers, boosts Brazil beef imports",
+      "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
+      "link": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 17:26:22 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Jerusalem Daily: Israel expels thousands from Hebron",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 17:12:59 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports",
       "link": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
       "date": "Sun, 25 Oct 2026 16:42:33 +0000",
       "source": "Al Jazeera"
@@ -323,18 +335,6 @@
       "title": "Seven killed in Gaza as Israel targets university campus and other sites",
       "link": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
       "date": "Sun, 25 Oct 2026 15:40:25 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "UN official warns AI could ‘deepen’ global inequality",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/un-official-warns-ai-could-deepen-global-inequality?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 15:38:52 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Thousands mourn victims of deadly Jordan church attack",
-      "link": "https://www.aljazeera.com/news/2026/10/25/thousands-mourn-victims-of-deadly-jordan-church-attack?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 15:21:26 +0000",
       "source": "Al Jazeera"
     }
   ]
