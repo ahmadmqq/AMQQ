@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T11:01:35.729351+00:00",
+  "updated": "2026-10-25T11:26:45.603053+00:00",
   "items": [
     {
       "title": "السعودية تعلن اعتراض وتدمير 10 صواريخ من جماعة أنصار الله، بالتزامن مع استئناف الرحلات بمطار الرياض",
@@ -11,6 +11,12 @@
       "title": "قد يكون الإرث الأخطر لترامب عالماً منقسماً إلى ثلاثة - مقال في الغارديان",
       "link": "https://www.bbc.com/arabic/articles/cjy569p3nzk6o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 25 Oct 2026 10:36:50 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "لماذا تعتمد أوكرانيا على ستارلينك؟ وهل تستطيع أوروبا سد الفجوة؟",
+      "link": "https://www.bbc.com/arabic/articles/cmg47exlwq7xo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 25 Oct 2026 11:09:32 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -35,12 +41,6 @@
       "title": "توقيف نحو ألف شخص في فرنسا بعد تجدد الاشتباكات مع الشرطة",
       "link": "https://www.bbc.com/arabic/articles/cmvgx5lk16ydo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 24 Oct 2026 19:37:57 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "ملك الأردن يقول إن يد العدالة \"ستطال كل إرهابي\" بعد الهجوم على كنيسة في الكرك",
-      "link": "https://www.bbc.com/arabic/articles/c62e9pw2e0n3o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 18:33:00 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -176,6 +176,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "Demand for UK government action 10 months after British man’s death in Grenada",
+      "link": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
+      "date": "Sun, 25 Oct 2026 11:00:01 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
       "link": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
       "date": "Sun, 25 Oct 2026 08:00:58 GMT",
@@ -185,12 +191,6 @@
       "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
       "link": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
       "date": "Sat, 24 Oct 2026 21:10:23 GMT",
-      "source": "Guardian World"
-    },
-    {
-      "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
-      "link": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
-      "date": "Sat, 24 Oct 2026 09:43:09 GMT",
       "source": "Guardian World"
     },
     {
@@ -290,6 +290,12 @@
       "source": "NPR World"
     },
     {
+      "title": "Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide",
+      "link": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 10:50:38 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Police in Albania filmed beating protester unconscious",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss",
       "date": "Sun, 25 Oct 2026 10:45:51 +0000",
@@ -329,12 +335,6 @@
       "title": "Australian Grand Prix called off as rain spoils Phillip Island sendoff",
       "link": "https://www.aljazeera.com/sports/2026/10/25/australian-grand-prix-called-off-as-rain-spoils-phillip-island-sendoff?traffic_source=rss",
       "date": "Sun, 25 Oct 2026 09:26:57 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Thousands of Northern Irish Protestants march ahead of court ruling",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/northern-ireland-orange-order-parade-legal-challenge?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 09:14:07 +0000",
       "source": "Al Jazeera"
     }
   ]
