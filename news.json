@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T07:56:40.137760+00:00",
+  "updated": "2026-10-25T08:18:21.017426+00:00",
   "items": [
     {
       "title": "\"لا يزال هدفاً عسكرياً\" الحوثيون يجددون تهديدهم لمطار الرياض بعد إعلان استئناف الرحلات الأحد",
@@ -176,6 +176,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+      "link": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
+      "date": "Sun, 25 Oct 2026 08:00:58 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
       "link": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
       "date": "Sat, 24 Oct 2026 21:10:23 GMT",
@@ -188,12 +194,6 @@
       "source": "Guardian World"
     },
     {
-      "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
-      "link": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
-      "date": "Sat, 24 Oct 2026 00:30:02 GMT",
-      "source": "Guardian World"
-    },
-    {
       "title": "Healey’s first budget to include big devolution package to boost growth",
       "link": "https://www.theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
       "date": "Sat, 24 Oct 2026 21:30:43 GMT",
@@ -203,6 +203,12 @@
       "title": "Emirati-linked firms’ ownership of Manchester land ‘up 39%’ in ten years",
       "link": "https://www.theguardian.com/uk-news/2026/oct/25/emirati-linked-firms-manchester-land",
       "date": "Sun, 25 Oct 2026 06:00:55 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "‘You can’t bring in robots’: the leather firm handmaking everything from wallets to cigar cases",
+      "link": "https://www.theguardian.com/business/2026/oct/25/ettinger-leather-handmaking-wallets-cigar-cases-walsall",
+      "date": "Sun, 25 Oct 2026 08:00:57 GMT",
       "source": "Guardian Business"
     },
     {
@@ -233,12 +239,6 @@
       "title": "Sam Fender tells fans high ticket prices for Proper Massive tour are ‘getting changed’",
       "link": "https://www.theguardian.com/music/2026/oct/24/sam-fender-fans-high-ticket-prices-proper-massive-tour-getting-changed",
       "date": "Sat, 24 Oct 2026 15:29:29 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "The datacentre next door: on the frontline of tech’s latest David v Goliath battle",
-      "link": "https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
-      "date": "Sat, 24 Oct 2026 11:00:32 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
+      "link": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 07:59:38 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 07:40:52 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Photos: Clashes erupt in France during protests over rising living costs",
       "link": "https://www.aljazeera.com/gallery/2026/10/25/photos-clashes-erupt-in-france-amid-protests-over-rising-living-costs?traffic_source=rss",
       "date": "Sun, 25 Oct 2026 07:28:47 +0000",
@@ -323,18 +335,6 @@
       "title": "Nigeria’s missing: Families in the northeast still wait for answers",
       "link": "https://www.aljazeera.com/news/2026/10/25/nigerias-missing-families-in-the-northeast-still-wait-for-answers?traffic_source=rss",
       "date": "Sun, 25 Oct 2026 05:33:41 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Election posters, mass tourism and property: Israel’s footprint in Cyprus",
-      "link": "https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 05:33:10 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
-      "link": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 05:27:54 +0000",
       "source": "Al Jazeera"
     }
   ]
