@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T15:58:30.797456+00:00",
+  "updated": "2026-10-25T16:22:28.072258+00:00",
   "items": [
     {
       "title": "آلاف الأردنيين يودّعون ضحايا هجوم كنيسة الكرك بالترانيم والورود",
@@ -8,13 +8,19 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "السعودية تعترض 10 صواريخ حوثية ومطار الرياض يستأنف رحلاته",
+      "title": "إسرائيل تعلن إغلاق معابر الضفة الغربية المحتلة خلال الانتخابات",
+      "link": "https://www.bbc.com/arabic/articles/cw3djmn2exylo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 25 Oct 2026 15:54:50 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "السعودية تعترض 10 صواريخ حوثية ومطار الرياض يستأنف رحلاته جزئياً",
       "link": "https://www.bbc.com/arabic/articles/crq8n4zx8l4zo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 25 Oct 2026 13:56:35 GMT",
       "source": "BBC Arabic"
     },
     {
-      "title": "هجمات إسرائيلية تقتل سبعة فلسطينيين في غزة رغم وقف إطلاق النار",
+      "title": "هجمات إسرائيلية تقتل سبعة في غزة رغم وقف إطلاق النار",
       "link": "https://www.bbc.com/arabic/articles/cqx29p7jnpylo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 25 Oct 2026 13:27:25 GMT",
       "source": "BBC Arabic"
@@ -38,12 +44,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "الخلاف الحاد حول الخدمة العسكرية الذي قد يرسم مستقبل إسرائيل",
-      "link": "https://www.bbc.com/arabic/articles/cqdr8ey7pv0eo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 25 Oct 2026 06:24:47 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "أول لقاح شخصي للسرطان يقلّل خطر عودة المرض",
       "link": "https://www.bbc.com/arabic/articles/c9ly0d4g0gr1o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 25 Oct 2026 04:42:31 GMT",
@@ -58,7 +58,7 @@
     {
       "title": "Early reports suggest record high turnout in Serbia elections",
       "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 25 Oct 2026 15:07:00 GMT",
+      "date": "Sun, 25 Oct 2026 16:05:15 GMT",
       "source": "BBC World"
     },
     {
@@ -206,9 +206,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Emirati-linked firms’ ownership of Manchester land ‘up 39%’ in ten years",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/25/emirati-linked-firms-manchester-land",
-      "date": "Sun, 25 Oct 2026 06:00:55 GMT",
+      "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+      "link": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+      "date": "Sun, 25 Oct 2026 13:43:19 GMT",
       "source": "Guardian Business"
     },
     {
@@ -218,15 +218,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Bust companies revived in ‘phoenix’ deals more likely to fail again, study finds",
-      "link": "https://www.theguardian.com/business/2026/oct/25/bust-companies-revived-in-phoenix-deals-more-likely-to-fail-again-study-finds",
-      "date": "Sun, 25 Oct 2026 09:00:57 GMT",
+      "title": "Emirati-linked firms’ ownership of Manchester land ‘up 39%’ in ten years",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/25/emirati-linked-firms-manchester-land",
+      "date": "Sun, 25 Oct 2026 06:00:55 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
-      "link": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
-      "date": "Sun, 25 Oct 2026 13:43:19 GMT",
+      "title": "Bust companies revived in ‘phoenix’ deals more likely to fail again, study finds",
+      "link": "https://www.theguardian.com/business/2026/oct/25/bust-companies-revived-in-phoenix-deals-more-likely-to-fail-again-study-finds",
+      "date": "Sun, 25 Oct 2026 09:00:57 GMT",
       "source": "Guardian Business"
     },
     {
@@ -240,6 +240,12 @@
       "link": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data",
       "date": "Sun, 25 Oct 2026 12:00:05 GMT",
       "source": "Guardian Business"
+    },
+    {
+      "title": "Israelis have changed. Will they change their leadership?",
+      "link": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
+      "date": "Sun, 25 Oct 2026 12:00:00 -0400",
+      "source": "NPR World"
     },
     {
       "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
@@ -284,10 +290,16 @@
       "source": "NPR World"
     },
     {
-      "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
-      "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
-      "date": "Sat, 24 Oct 2026 03:04:13 -0400",
-      "source": "NPR World"
+      "title": "Seven killed in Gaza as Israel targets university campus and other sites",
+      "link": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 15:40:25 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "UN official warns AI could ‘deepen’ global inequality",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/un-official-warns-ai-could-deepen-global-inequality?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 15:38:52 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Thousands mourn victims of deadly Jordan church attack",
@@ -323,18 +335,6 @@
       "title": "Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?",
       "link": "https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean?traffic_source=rss",
       "date": "Sun, 25 Oct 2026 14:11:29 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
-      "link": "https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 14:03:17 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Saudi air defences intercept Houthi barrage near Mecca",
-      "link": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 13:49:33 +0000",
       "source": "Al Jazeera"
     }
   ]
