@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-25T04:14:32.949853+00:00",
+  "updated": "2026-10-25T04:46:52.642334+00:00",
   "items": [
     {
       "title": "\"لا يزال هدفاً عسكرياً\" الحوثيون يجددون تهديدهم لمطار الرياض بعد إعلان استئناف الرحلات الأحد",
       "link": "https://www.bbc.com/arabic/articles/cw2406dvvqgdo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 25 Oct 2026 04:01:22 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "أول لقاح شخصي للسرطان يقلّل خطر عودة المرض",
+      "link": "https://www.bbc.com/arabic/articles/c9ly0d4g0gr1o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 25 Oct 2026 04:42:31 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,15 +50,9 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "على أوكرانيا البحث عن بديل لدعم واشنطن بعد الجدل حول \"ستارلينك\" - الإندبندنت",
-      "link": "https://www.bbc.com/arabic/articles/ck62ylm1v36do?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 12:27:49 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
       "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 21:09:27 GMT",
+      "date": "Sun, 25 Oct 2026 04:16:52 GMT",
       "source": "BBC World"
     },
     {
@@ -98,6 +98,12 @@
       "source": "BBC World"
     },
     {
+      "title": "Budget to include £1bn for social and affordable housing",
+      "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 25 Oct 2026 02:57:30 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "Rosebank: Life on the oil field at the centre of a political storm",
       "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 24 Oct 2026 23:15:18 GMT",
@@ -122,27 +128,21 @@
       "source": "BBC Business"
     },
     {
-      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 00:36:47 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "The Indian workers filming their work to train AI",
       "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 23 Oct 2026 08:04:17 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 11:48:04 GMT",
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 24 Oct 2026 00:36:47 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Lights will stay on this winter, grid operator says after concerns",
-      "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 23 Oct 2026 06:47:10 GMT",
+      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 23 Oct 2026 11:48:04 GMT",
       "source": "BBC Business"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Obama joins El-Sayed in Michigan rally cry before key midterms",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/obama-joins-el-sayed-in-michigan-rally-cry-before-key-midterms?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 04:06:28 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "New York Archdiocese agrees to pay $800m to 1,300 sexual abuse survivors",
+      "link": "https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 03:57:13 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Thousands rally in Turkiye over journalist arrests, media shutdowns",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 03:47:56 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
       "link": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss",
       "date": "Sun, 25 Oct 2026 03:40:52 +0000",
@@ -308,7 +326,7 @@
       "source": "Al Jazeera"
     },
     {
-      "title": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
+      "title": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
       "link": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
       "date": "Sun, 25 Oct 2026 00:34:43 +0000",
       "source": "Al Jazeera"
@@ -317,24 +335,6 @@
       "title": "Violence breaks out across Europe after another day of protests",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss",
       "date": "Sun, 25 Oct 2026 00:23:48 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 00:00:00 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 23:08:16 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
-      "link": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
-      "date": "Sat, 24 Oct 2026 22:35:45 +0000",
       "source": "Al Jazeera"
     }
   ]
