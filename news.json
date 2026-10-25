@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-25T18:03:40.223231+00:00",
+  "updated": "2026-10-25T18:31:31.449698+00:00",
   "items": [
+    {
+      "title": "\"أنصار الله\" تعلن استهداف مطار الرياض والسعودية تؤكد اعتراض صواريخ بالستية",
+      "link": "https://www.bbc.com/arabic/articles/crq8n4zx8l4zo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 25 Oct 2026 18:28:08 GMT",
+      "source": "BBC Arabic"
+    },
     {
       "title": "آلاف الأردنيين يودّعون ضحايا هجوم كنيسة الكرك بالترانيم والورود",
       "link": "https://www.bbc.com/arabic/articles/c3gr8dqwgwr1o?at_medium=RSS&at_campaign=rss",
@@ -11,12 +17,6 @@
       "title": "إسرائيل تعلن إغلاق معابر الضفة الغربية خلال الانتخابات",
       "link": "https://www.bbc.com/arabic/articles/cw3djmn2exylo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 25 Oct 2026 16:57:34 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "السعودية تعترض 10 صواريخ حوثية ومطار الرياض يستأنف رحلاته جزئياً",
-      "link": "https://www.bbc.com/arabic/articles/crq8n4zx8l4zo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 25 Oct 2026 16:51:25 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -58,7 +58,7 @@
     {
       "title": "Venezuelan opposition leader María Machado returns after months in exile",
       "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 25 Oct 2026 16:21:40 GMT",
+      "date": "Sun, 25 Oct 2026 18:29:00 GMT",
       "source": "BBC World"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Israeli air strike on Gaza City university kills three people",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 18:12:13 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Jordan FA chief says AFC Congress ‘pure politics’ at behest of Infantino",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/jordan-fa-chief-says-afc-congress-pure-politics-at-behest-of-infantino?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 18:05:14 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "US and Israel elections: New leaders, same policies?",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
       "date": "Sun, 25 Oct 2026 17:53:23 +0000",
@@ -323,18 +335,6 @@
       "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss",
       "date": "Sun, 25 Oct 2026 16:30:51 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Barcelona vs Real Madrid LIVE: La Liga El Clasico",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 16:30:00 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Jordanians mourn victims of deadly church attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 16:16:48 +0000",
       "source": "Al Jazeera"
     }
   ]
