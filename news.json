@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T17:41:06.565874+00:00",
+  "updated": "2026-10-25T18:03:40.223231+00:00",
   "items": [
     {
       "title": "آلاف الأردنيين يودّعون ضحايا هجوم كنيسة الكرك بالترانيم والورود",
@@ -20,7 +20,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "هجمات إسرائيلية تقتل سبعة في غزة رغم وقف إطلاق النار",
+      "title": "هجمات إسرائيلية تقتل ثمانية في غزة رغم وقف إطلاق النار",
       "link": "https://www.bbc.com/arabic/articles/cqx29p7jnpylo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 25 Oct 2026 13:27:25 GMT",
       "source": "BBC Arabic"
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "US and Israel elections: New leaders, same policies?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 17:53:23 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Can protests in Europe bring about change?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 17:39:42 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
       "link": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
       "date": "Sun, 25 Oct 2026 17:26:22 +0000",
@@ -323,18 +335,6 @@
       "title": "Jordanians mourn victims of deadly church attack",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
       "date": "Sun, 25 Oct 2026 16:16:48 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Israeli soldiers beat elderly Palestinian in Hebron",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 16:11:37 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Seven killed in Gaza as Israel targets university campus and other sites",
-      "link": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 15:40:25 +0000",
       "source": "Al Jazeera"
     }
   ]
