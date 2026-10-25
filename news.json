@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T13:51:31.183747+00:00",
+  "updated": "2026-10-25T14:11:17.451710+00:00",
   "items": [
     {
       "title": "الآلاف يشيعون جثامين ضحايا الهجوم المسلح في الكرك على وقع الترانيم وأكاليل الورد",
@@ -10,7 +10,7 @@
     {
       "title": "السعودية تعلن اعتراض وتدمير 10 صواريخ من جماعة أنصار الله، بالتزامن مع استئناف الرحلات بمطار الرياض",
       "link": "https://www.bbc.com/arabic/articles/crq8n4zx8l4zo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 25 Oct 2026 12:32:11 GMT",
+      "date": "Sun, 25 Oct 2026 13:56:35 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -206,12 +206,6 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Bust companies revived in ‘phoenix’ deals more likely to fail again, study finds",
-      "link": "https://www.theguardian.com/business/2026/oct/25/bust-companies-revived-in-phoenix-deals-more-likely-to-fail-again-study-finds",
-      "date": "Sun, 25 Oct 2026 09:00:57 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "Emirati-linked firms’ ownership of Manchester land ‘up 39%’ in ten years",
       "link": "https://www.theguardian.com/uk-news/2026/oct/25/emirati-linked-firms-manchester-land",
       "date": "Sun, 25 Oct 2026 06:00:55 GMT",
@@ -224,21 +218,27 @@
       "source": "Guardian Business"
     },
     {
+      "title": "Bust companies revived in ‘phoenix’ deals more likely to fail again, study finds",
+      "link": "https://www.theguardian.com/business/2026/oct/25/bust-companies-revived-in-phoenix-deals-more-likely-to-fail-again-study-finds",
+      "date": "Sun, 25 Oct 2026 09:00:57 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+      "link": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+      "date": "Sun, 25 Oct 2026 13:43:19 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "Nationwide to slash 275 jobs in latest round of cuts since takeover of Virgin Money",
       "link": "https://www.theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money",
       "date": "Sun, 25 Oct 2026 07:00:57 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Retail leads the way on paternity leave as government urged to improve offer",
-      "link": "https://www.theguardian.com/business/2026/oct/25/retail-leads-way-paternity-leave-government-urged-improve-offer",
-      "date": "Sun, 25 Oct 2026 10:00:01 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Cookie theft: how fraudsters get the digital key to your accounts",
-      "link": "https://www.theguardian.com/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts",
-      "date": "Sun, 25 Oct 2026 07:00:56 GMT",
+      "title": "US military gives Elon Musk’s SpaceX access to sensitive tracking data",
+      "link": "https://www.theguardian.com/science/2026/oct/25/spacex-access-sensitive-tracking-data",
+      "date": "Sun, 25 Oct 2026 12:00:05 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,30 @@
       "source": "NPR World"
     },
     {
+      "title": "Saudi air defences intercept Houthi barrage near Mecca",
+      "link": "https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 13:49:33 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
+      "link": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 13:46:51 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Serbia votes as student-led bloc challenges longtime leader Vucic",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 13:40:10 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Portuguese police clear Lisbon housing protest camp, arrest 25",
+      "link": "https://www.aljazeera.com/economy/2026/10/25/portuguese-police-clear-lisbon-housing-protest-camp-arrest-25?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 13:29:56 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Elena Rybakina retains Ningbo title, wins first trophy as world number one",
       "link": "https://www.aljazeera.com/sports/2026/10/25/elena-rybakina-retains-ningbo-title-wins-first-trophy-as-world-number-one?traffic_source=rss",
       "date": "Sun, 25 Oct 2026 12:40:20 +0000",
@@ -311,30 +335,6 @@
       "title": "Algerian parliament’s upper house approves troop deployment to Niger",
       "link": "https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger?traffic_source=rss",
       "date": "Sun, 25 Oct 2026 12:19:41 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Why Israel’s latest assault on Hebron is so significant for the West Bank",
-      "link": "https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 12:17:39 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 12:05:16 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
-      "link": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 11:39:41 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide",
-      "link": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 10:50:38 +0000",
       "source": "Al Jazeera"
     }
   ]
