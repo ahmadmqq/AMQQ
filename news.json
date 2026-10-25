@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-25T10:35:19.867816+00:00",
+  "updated": "2026-10-25T11:01:35.729351+00:00",
   "items": [
     {
       "title": "السعودية تعلن اعتراض وتدمير 10 صواريخ من جماعة أنصار الله، بالتزامن مع استئناف الرحلات بمطار الرياض",
       "link": "https://www.bbc.com/arabic/articles/crq8n4zx8l4zo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 25 Oct 2026 09:30:05 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "قد يكون الإرث الأخطر لترامب عالماً منقسماً إلى ثلاثة - مقال في الغارديان",
+      "link": "https://www.bbc.com/arabic/articles/cjy569p3nzk6o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 25 Oct 2026 10:36:50 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,15 +50,9 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "فيلم \"أرض الخرسانة\" الوثائقي الأردني يفوز بجائزة مهرجان لندن السينمائي",
-      "link": "https://www.bbc.com/arabic/articles/c6lyedke3lzyo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 16:10:22 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
       "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 25 Oct 2026 09:32:59 GMT",
+      "date": "Sun, 25 Oct 2026 10:38:15 GMT",
       "source": "BBC World"
     },
     {
@@ -62,9 +62,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
       "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 24 Oct 2026 23:50:02 GMT",
+      "date": "Sun, 25 Oct 2026 11:00:26 GMT",
       "source": "BBC World"
     },
     {
@@ -92,9 +92,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-      "link": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 25 Oct 2026 02:27:15 GMT",
+      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 25 Oct 2026 10:55:33 GMT",
       "source": "BBC World"
     },
     {
@@ -218,7 +218,7 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Nationwide to cut 275 jobs in latest round since takeover of Virgin Money",
+      "title": "Nationwide to slash 275 jobs in latest round of cuts since takeover of Virgin Money",
       "link": "https://www.theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money",
       "date": "Sun, 25 Oct 2026 07:00:57 GMT",
       "source": "Guardian Business"
@@ -230,9 +230,9 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Is London really the most-taxed city? Banks accused of cherrypicking data",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/24/banking-lobby-group-accused-cherry-picking-data-healey-tax-rise",
-      "date": "Sat, 24 Oct 2026 11:00:31 GMT",
+      "title": "Cookie theft: how fraudsters get the digital key to your accounts",
+      "link": "https://www.theguardian.com/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts",
+      "date": "Sun, 25 Oct 2026 07:00:56 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,30 @@
       "source": "NPR World"
     },
     {
+      "title": "Police in Albania filmed beating protester unconscious",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 10:45:51 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
+      "link": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 10:42:51 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Pakistan drops Shan Masood from Sri Lanka Test squad as Agha, Rizwan return",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/pakistan-axe-shan-masood-from-sri-lanka-test-squad-as-agha-rizwan-return?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 10:27:36 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 10:14:43 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Qatar official calls for peace and security to boost trade, investment",
       "link": "https://www.aljazeera.com/news/2026/10/25/qatar-official-calls-for-peace-and-security-to-boost-trade-investment?traffic_source=rss",
       "date": "Sun, 25 Oct 2026 09:57:40 +0000",
@@ -311,30 +335,6 @@
       "title": "Thousands of Northern Irish Protestants march ahead of court ruling",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/northern-ireland-orange-order-parade-legal-challenge?traffic_source=rss",
       "date": "Sun, 25 Oct 2026 09:14:07 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Brazil 2026 election live: Lula and Bolsonaro in tight race",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 09:00:00 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Indigenous communities worry Brazil’s election could hurt environment",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/indigenous-communities-worry-brazils-election-could-hurt-environment?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 08:54:47 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
-      "link": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 08:44:17 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "UFC 333: Volkanovski knocks out Evloev to retain featherweight title",
-      "link": "https://www.aljazeera.com/sports/2026/10/25/ufc-333-volkanovski-knocks-out-evloev-to-retain-featherweight-title?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 08:26:19 +0000",
       "source": "Al Jazeera"
     }
   ]
