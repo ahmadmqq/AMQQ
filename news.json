@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T14:11:17.451710+00:00",
+  "updated": "2026-10-25T14:39:02.457633+00:00",
   "items": [
     {
       "title": "الآلاف يشيعون جثامين ضحايا الهجوم المسلح في الكرك على وقع الترانيم وأكاليل الورد",
@@ -17,6 +17,12 @@
       "title": "سبعة قتلى في غارات إسرائيلية على غزة بينهم ثلاثة موظفين في الجامعة الإسلامية",
       "link": "https://www.bbc.com/arabic/articles/cqx29p7jnpylo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 25 Oct 2026 13:27:25 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "الكلاسيكو: برشلونة يسعى لتوسيع الفارق، وريال مدريد يتلقى \"ضربة موجعة\"",
+      "link": "https://www.bbc.com/arabic/articles/cmg47e3zpypqo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 25 Oct 2026 14:16:41 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,27 +50,15 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "أوباما يهاجم ترامب خلال حملته لصالح الديمقراطيين قبيل انتخابات التجديد النصفي",
-      "link": "https://www.bbc.com/arabic/articles/c6wyvnj7qlr2o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 25 Oct 2026 02:25:31 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 25 Oct 2026 10:38:15 GMT",
+      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+      "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 25 Oct 2026 11:54:16 GMT",
       "source": "BBC World"
     },
     {
       "title": "Israel to close West Bank crossings on election day as crackdown escalates",
       "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 25 Oct 2026 05:15:52 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-      "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 25 Oct 2026 11:54:16 GMT",
       "source": "BBC World"
     },
     {
@@ -77,6 +71,12 @@
       "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
       "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 25 Oct 2026 03:20:16 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 25 Oct 2026 10:38:15 GMT",
       "source": "BBC World"
     },
     {
@@ -266,7 +266,7 @@
       "source": "NPR World"
     },
     {
-      "title": "Ukraine says Starlink is back to normal after disruptions",
+      "title": "Musk says SpaceX did restrict Starlink, as Ukraine says the tech has been restored",
       "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
       "date": "Sat, 24 Oct 2026 13:54:25 -0400",
       "source": "NPR World"
@@ -288,6 +288,12 @@
       "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
       "date": "Sat, 24 Oct 2026 03:04:13 -0400",
       "source": "NPR World"
+    },
+    {
+      "title": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
+      "link": "https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss",
+      "date": "Sun, 25 Oct 2026 14:03:17 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "Saudi air defences intercept Houthi barrage near Mecca",
@@ -329,12 +335,6 @@
       "title": "Wembanyama scores 23 as Spurs beat Mavericks for first win of NBA season",
       "link": "https://www.aljazeera.com/sports/2026/10/25/wembanyama-scores-23-as-spurs-beat-mavericks-for-first-win-of-nba-season?traffic_source=rss",
       "date": "Sun, 25 Oct 2026 12:37:49 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Algerian parliament’s upper house approves troop deployment to Niger",
-      "link": "https://www.aljazeera.com/news/2026/10/25/algerian-parliaments-upper-house-approves-troop-deployment-to-niger?traffic_source=rss",
-      "date": "Sun, 25 Oct 2026 12:19:41 +0000",
       "source": "Al Jazeera"
     }
   ]
