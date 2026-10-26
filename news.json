@@ -1,6 +1,12 @@
 {
-  "updated": "2026-10-26T07:28:24.316737+00:00",
+  "updated": "2026-10-26T08:17:03.668383+00:00",
   "items": [
+    {
+      "title": "التحالف يعلن اعتراض صاروخ باتجاه الرياض وتدمير مواقع عسكرية لجماعة أنصار الله في اليمن",
+      "link": "https://www.bbc.com/arabic/articles/cwkgjkm8jzz2o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 26 Oct 2026 07:59:20 GMT",
+      "source": "BBC Arabic"
+    },
     {
       "title": "السلطات الأردنية تلقي القبض على المشتبه بهم في هجوم كنيسة الكرك",
       "link": "https://www.bbc.com/arabic/articles/cmwyq1jj565do?at_medium=RSS&at_campaign=rss",
@@ -8,13 +14,7 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "جماعة أنصار الله تعلن استهداف مطار الرياض ومحطات نفط سعودية، والتحالف يعلن اعتراض صاروخ وتدمير منصتين في صنعاء",
-      "link": "https://www.bbc.com/arabic/articles/crq8n4zx8l4zo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 26 Oct 2026 02:51:32 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "فوز دراماتيكي للرئيس البرازيلي اليساري لولا بولاية رابعة بعد تغلبه على بولسونارو",
+      "title": "فوز دراماتيكي للرئيس البرازيلي اليساري لولا بولاية رابعة بعد تغلّبه على بولسونارو",
       "link": "https://www.bbc.com/arabic/articles/c64g144p817wo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 26 Oct 2026 00:43:20 GMT",
       "source": "BBC Arabic"
@@ -46,7 +46,7 @@
     {
       "title": "إسرائيل تعلن إغلاق معابر الضفة الغربية خلال الانتخابات",
       "link": "https://www.bbc.com/arabic/articles/cw3djmn2exylo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 25 Oct 2026 16:57:34 GMT",
+      "date": "Mon, 26 Oct 2026 07:28:29 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -104,7 +104,7 @@
       "source": "BBC Business"
     },
     {
-      "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
       "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 25 Oct 2026 23:44:34 GMT",
       "source": "BBC Business"
@@ -178,7 +178,7 @@
     {
       "title": "Brazil runoff live updates: Lula supporters celebrate historic election win as Bolsonaro refuses to concede",
       "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-      "date": "Mon, 26 Oct 2026 07:07:52 GMT",
+      "date": "Mon, 26 Oct 2026 07:38:56 GMT",
       "source": "Guardian World"
     },
     {
@@ -194,9 +194,9 @@
       "source": "Guardian World"
     },
     {
-      "title": "Cabinet ministers back Burnham’s call for debate on return to free movement with EU",
-      "link": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
-      "date": "Sun, 25 Oct 2026 19:57:13 GMT",
+      "title": "AI cloud computing companies face ‘guppy-level death’, Elon Musk warns, as funding dries up – business live",
+      "link": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
+      "date": "Mon, 26 Oct 2026 07:57:40 GMT",
       "source": "Guardian Business"
     },
     {
@@ -212,7 +212,7 @@
       "source": "Guardian Business"
     },
     {
-      "title": "What will a pedestrianised Oxford Street mean for transport?",
+      "title": "How will pedestrianisation of UK’s most famous shopping street work in practice?",
       "link": "https://www.theguardian.com/cities/2026/oct/26/what-will-a-pedestrianised-oxford-street-mean-for-transport",
       "date": "Mon, 26 Oct 2026 07:00:26 GMT",
       "source": "Guardian Business"
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Officials from Mecca pact states to hold talks in Iran amid regional tensions",
+      "link": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions?traffic_source=rss",
+      "date": "Mon, 26 Oct 2026 07:33:47 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Photos: Lula supporters flood streets in celebration of historic win",
+      "link": "https://www.aljazeera.com/gallery/2026/10/26/photos-lula-supporters-flood-streets-in-celebration-of-historic-win?traffic_source=rss",
+      "date": "Mon, 26 Oct 2026 07:24:58 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Israel’s election: The main issues in the words of the leading candidates",
       "link": "https://www.aljazeera.com/news/2026/10/26/israels-election-the-main-issues-in-the-words-of-the-leading-candidates?traffic_source=rss",
       "date": "Mon, 26 Oct 2026 07:03:43 +0000",
@@ -323,18 +335,6 @@
       "title": "Aleksandar Vucic, the Serbian leader brought down by students",
       "link": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
       "date": "Mon, 26 Oct 2026 05:24:59 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "The Gambia’s first blind magistrate tests a system built for the sighted",
-      "link": "https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 05:18:00 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Israel’s election: Five key things to know",
-      "link": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 05:16:38 +0000",
       "source": "Al Jazeera"
     }
   ]
