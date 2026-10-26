@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-26T09:03:00.033214+00:00",
+  "updated": "2026-10-26T09:42:29.346407+00:00",
   "items": [
     {
       "title": "التحالف يعلن اعتراض صاروخ باتجاه الرياض وتدمير مواقع عسكرية لجماعة أنصار الله في اليمن",
       "link": "https://www.bbc.com/arabic/articles/cwkgjkm8jzz2o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 26 Oct 2026 07:59:20 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "اجتماع مرتقب لمسؤولين من دول اتفاقية مكة مع مسؤولين إيرانيين في طهران اليوم",
+      "link": "https://www.bbc.com/arabic/articles/c3x2w09wedddo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 26 Oct 2026 09:04:51 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,15 +50,9 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "إسرائيل تعلن إغلاق معابر الضفة الغربية خلال الانتخابات",
-      "link": "https://www.bbc.com/arabic/articles/cw3djmn2exylo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 26 Oct 2026 07:28:29 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 26 Oct 2026 01:07:05 GMT",
+      "date": "Mon, 26 Oct 2026 09:04:47 GMT",
       "source": "BBC World"
     },
     {
@@ -178,7 +178,7 @@
     {
       "title": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
       "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-      "date": "Mon, 26 Oct 2026 08:40:13 GMT",
+      "date": "Mon, 26 Oct 2026 09:28:51 GMT",
       "source": "Guardian World"
     },
     {
@@ -194,9 +194,9 @@
       "source": "Guardian World"
     },
     {
-      "title": "AI cloud computing companies face ‘guppy-level death’, Elon Musk warns, as funding dries up – business live",
+      "title": "AI cloud computing firms face ‘guppy-level death’, Elon Musk warns; French bonds rally after avoiding downgrade – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
-      "date": "Mon, 26 Oct 2026 08:49:18 GMT",
+      "date": "Mon, 26 Oct 2026 08:58:29 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,18 @@
       "source": "NPR World"
     },
     {
+      "title": "Flavio Bolsonaro ‘will not give up’ after Brazil election results",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss",
+      "date": "Mon, 26 Oct 2026 09:15:21 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "California’s billionaire tax faces a precarious road from rich opposition",
+      "link": "https://www.aljazeera.com/economy/2026/10/26/californias-billionaire-tax-faces-a-precarious-road-from-rich-opposition?traffic_source=rss",
+      "date": "Mon, 26 Oct 2026 09:08:42 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Do Palestinians in Gaza expect anything to change after Israel’s election?",
       "link": "https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election?traffic_source=rss",
       "date": "Mon, 26 Oct 2026 08:43:39 +0000",
@@ -323,18 +335,6 @@
       "title": "Officials from Mecca pact states to hold talks in Iran amid regional tensions",
       "link": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions?traffic_source=rss",
       "date": "Mon, 26 Oct 2026 07:33:47 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Photos: Lula supporters flood streets in celebration of historic win",
-      "link": "https://www.aljazeera.com/gallery/2026/10/26/photos-lula-supporters-flood-streets-in-celebration-of-historic-win?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 07:24:58 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Israel’s election: The main issues in the words of the leading candidates",
-      "link": "https://www.aljazeera.com/news/2026/10/26/israels-election-the-main-issues-in-the-words-of-the-leading-candidates?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 07:03:43 +0000",
       "source": "Al Jazeera"
     }
   ]
