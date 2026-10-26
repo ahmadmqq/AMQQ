@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-26T10:22:10.349846+00:00",
+  "updated": "2026-10-26T11:01:20.986611+00:00",
   "items": [
     {
       "title": "التحالف يعلن اعتراض صاروخ باتجاه الرياض وتدمير مواقع عسكرية لجماعة أنصار الله في اليمن",
       "link": "https://www.bbc.com/arabic/articles/cwkgjkm8jzz2o?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 26 Oct 2026 07:59:20 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "إسرائيل المنقسمة بشدة تترقب انتخابات مفصلية",
+      "link": "https://www.bbc.com/arabic/articles/crz65yq5974xo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 26 Oct 2026 10:46:45 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "مجلس الأمة الجزائري يوافق بالإجماع على إرسال قوات إلى النيجر",
       "link": "https://www.bbc.com/arabic/articles/ckwyq1l4enp9o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 25 Oct 2026 18:47:06 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "آلاف الأردنيين يودّعون ضحايا هجوم كنيسة الكرك بالترانيم والورود",
-      "link": "https://www.bbc.com/arabic/articles/c3gr8dqwgwr1o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 25 Oct 2026 15:10:35 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -100,7 +100,7 @@
     {
       "title": "Healey to shield low-income pensioners from income tax in the Budget",
       "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 26 Oct 2026 09:47:21 GMT",
+      "date": "Mon, 26 Oct 2026 10:28:12 GMT",
       "source": "BBC Business"
     },
     {
@@ -124,7 +124,7 @@
     {
       "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
       "link": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 26 Oct 2026 06:14:11 GMT",
+      "date": "Mon, 26 Oct 2026 10:48:46 GMT",
       "source": "BBC Business"
     },
     {
@@ -178,7 +178,7 @@
     {
       "title": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
       "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-      "date": "Mon, 26 Oct 2026 10:13:05 GMT",
+      "date": "Mon, 26 Oct 2026 10:44:29 GMT",
       "source": "Guardian World"
     },
     {
@@ -197,6 +197,12 @@
       "title": "AI cloud computing firms face ‘guppy-level death’, Elon Musk warns; French bonds rally after avoiding downgrade – business live",
       "link": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
       "date": "Mon, 26 Oct 2026 10:14:04 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Brexit deal is not good enough for British public, says Andy Burnham",
+      "link": "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham",
+      "date": "Mon, 26 Oct 2026 09:30:10 GMT",
       "source": "Guardian Business"
     },
     {
@@ -233,12 +239,6 @@
       "title": "Interest rates unlikely to reach 4.75% by next summer, say City economists",
       "link": "https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
       "date": "Sun, 25 Oct 2026 12:00:05 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
-      "link": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
-      "date": "Sun, 25 Oct 2026 13:43:19 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,6 +290,24 @@
       "source": "NPR World"
     },
     {
+      "title": "Suwayda remains in stasis as US signals differences with Israel on Syria",
+      "link": "https://www.aljazeera.com/news/2026/10/26/suwayda-remains-in-deadlock-as-us-signals-differences-with-israel-on-syria?traffic_source=rss",
+      "date": "Mon, 26 Oct 2026 10:36:48 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "If Netanyahu loses, what changes for Palestinians?",
+      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/26/if-netanyahu-loses-what-changes-for-palestinians?traffic_source=rss",
+      "date": "Mon, 26 Oct 2026 10:16:39 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Thousands greet opposition leader Maria Machado upon return to Caracas",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/thousands-greet-opposition-leader-maria-machado-upon-return-to-caracas?traffic_source=rss",
+      "date": "Mon, 26 Oct 2026 10:14:26 +0000",
+      "source": "Al Jazeera"
+    },
+    {
       "title": "Saudi Arabia confirms January start for Asian Cup 2027 despite attacks",
       "link": "https://www.aljazeera.com/sports/2026/10/26/saudi-arabia-confirms-january-start-for-asian-cup-2027-despite-attacks?traffic_source=rss",
       "date": "Mon, 26 Oct 2026 09:52:58 +0000",
@@ -317,24 +335,6 @@
       "title": "California’s billionaire tax faces a precarious road from rich opposition",
       "link": "https://www.aljazeera.com/economy/2026/10/26/californias-billionaire-tax-faces-a-precarious-road-from-rich-opposition?traffic_source=rss",
       "date": "Mon, 26 Oct 2026 09:08:42 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Do Palestinians in Gaza expect anything to change after Israel’s election?",
-      "link": "https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 08:43:39 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Lula’s victory may be a turning point for Latin America",
-      "link": "https://www.aljazeera.com/opinions/2026/10/26/lulas-victory-may-be-a-turning-point-for-latin-america?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 08:41:23 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Kimi Antonelli wins US Grand Prix, closes in on F1 championship",
-      "link": "https://www.aljazeera.com/sports/2026/10/26/kimi-antonelli-wins-us-grand-prix-closes-in-on-f1-championship?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 08:26:22 +0000",
       "source": "Al Jazeera"
     }
   ]
