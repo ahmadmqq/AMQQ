@@ -1,10 +1,22 @@
 {
-  "updated": "2026-10-26T23:23:35.177055+00:00",
+  "updated": "2026-10-27T02:12:41.138886+00:00",
   "items": [
     {
-      "title": "البرلمان المصري يوافق على إرسال دعم عسكري للسعودية، وجماعة أنصار الله تتوعد المملكة بهجمات نوعية",
+      "title": "مصر تفوّض السيسي بدعم السعودية عسكرياً، وإنذارات أمنية بالمملكة وسط جهود لاحتواء التصعيد",
       "link": "https://www.bbc.com/arabic/articles/cwkgjkm8jzz2o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 26 Oct 2026 19:47:39 GMT",
+      "date": "Tue, 27 Oct 2026 00:47:13 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "هاري كين ينهي انتظاراً إنجليزياً دام 25 عاماً ويتوج بالكرة الذهبية للمرة الأولى في مسيرته",
+      "link": "https://www.bbc.com/arabic/articles/c6g7xe2llgrmo?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 26 Oct 2026 23:29:23 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "لولا يفوز بولاية رابعة في عودة درامية خلال الانتخابات البرازيلية",
+      "link": "https://www.bbc.com/arabic/articles/cmj47znkje1jo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 27 Oct 2026 00:37:19 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -26,27 +38,15 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "الجيش الأردني يعلن استهداف \"تنظيمات إرهابية\" في سوريا \"انتقاماً\" لضحايا الهجوم على كنيسة الكرك",
+      "title": "الجيش الأردني يعلن استهداف \"تنظيمات إرهابية\" في سوريا \"انتقاماً\" لضحايا الكرك، والحكومة السورية ترد",
       "link": "https://www.bbc.com/arabic/articles/cmwyq1jj565do?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 26 Oct 2026 20:05:09 GMT",
+      "date": "Mon, 26 Oct 2026 23:57:40 GMT",
       "source": "BBC Arabic"
     },
     {
       "title": "قوات الدعم السريع في السودان \"تستهدف المستشفيات عمداً\"",
       "link": "https://www.bbc.com/arabic/articles/cqj9k8nnnpklo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 26 Oct 2026 16:10:13 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "من تفجيرات فنادق عمان إلى هجوم كنيسة الكرك، ما أبرز العمليات \"الإرهابية\" التي شهدها الأردن؟",
-      "link": "https://www.bbc.com/arabic/articles/cr93zj5q8dk2o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 26 Oct 2026 14:02:38 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "إسرائيل المنقسمة بشدة تترقب انتخابات مفصلية",
-      "link": "https://www.bbc.com/arabic/articles/crz65yq5974xo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 26 Oct 2026 10:46:45 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -92,21 +92,33 @@
       "source": "BBC World"
     },
     {
-      "title": "'Maxxing' selected as Dictionary.com word of the year",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 26 Oct 2026 21:31:53 GMT",
+      "title": "Pope's South American trip to go ahead as planned after lung cancer surgery",
+      "link": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 26 Oct 2026 18:46:19 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+      "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 27 Oct 2026 00:01:00 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
       "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 26 Oct 2026 22:30:02 GMT",
+      "date": "Tue, 27 Oct 2026 01:57:48 GMT",
       "source": "BBC Business"
     },
     {
       "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
       "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 26 Oct 2026 16:27:17 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+      "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+      "date": "Tue, 27 Oct 2026 01:48:04 GMT",
       "source": "BBC Business"
     },
     {
@@ -122,27 +134,15 @@
       "source": "BBC Business"
     },
     {
-      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-      "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 26 Oct 2026 00:26:49 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
-      "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 25 Oct 2026 23:44:34 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "What is the Budget and what could be in it?",
       "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
       "date": "Mon, 26 Oct 2026 02:16:37 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
-      "link": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
-      "date": "Mon, 26 Oct 2026 10:48:46 GMT",
+      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 26 Oct 2026 00:26:49 GMT",
       "source": "BBC Business"
     },
     {
@@ -176,6 +176,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
+      "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+      "date": "Tue, 27 Oct 2026 00:00:03 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
       "link": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
       "date": "Mon, 26 Oct 2026 23:02:17 GMT",
@@ -188,13 +194,13 @@
       "source": "Guardian World"
     },
     {
-      "title": "How Lula beat far-right Bolsonaro in Brazil – The Latest",
-      "link": "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest",
-      "date": "Mon, 26 Oct 2026 17:38:16 GMT",
-      "source": "Guardian World"
+      "title": "UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises",
+      "link": "https://www.theguardian.com/business/2026/oct/27/uk-shop-price-inflation-highest-since-2024-as-retailers-struggle-to-limit-price-rises",
+      "date": "Tue, 27 Oct 2026 00:01:02 GMT",
+      "source": "Guardian Business"
     },
     {
-      "title": "Anthropic reveals rapid revenue gains and larger losses in stock market filing",
+      "title": "Anthropic files for potentially record-breaking stock market valuation in key test for AI industry",
       "link": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
       "date": "Mon, 26 Oct 2026 16:22:28 GMT",
       "source": "Guardian Business"
@@ -214,7 +220,13 @@
     {
       "title": "Meta plans $95bn stock offering to help cover AI expansion",
       "link": "https://www.theguardian.com/technology/2026/oct/26/meta-plans-95bn-stock-offering-to-help-cover-ai-expansion",
-      "date": "Mon, 26 Oct 2026 13:37:26 GMT",
+      "date": "Mon, 26 Oct 2026 23:33:19 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "European gas prices soar to four-year high over winter supply fears",
+      "link": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
+      "date": "Mon, 26 Oct 2026 10:35:24 GMT",
       "source": "Guardian Business"
     },
     {
@@ -227,18 +239,6 @@
       "title": "No 10 clarifies Andy Burnham’s stance on freedom of movement",
       "link": "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
       "date": "Mon, 26 Oct 2026 18:03:46 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "European gas prices soar to four-year high over winter supply fears",
-      "link": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
-      "date": "Mon, 26 Oct 2026 10:35:24 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Audi boss under fire in Germany for Trump rally appearance",
-      "link": "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance",
-      "date": "Mon, 26 Oct 2026 14:42:27 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,51 +290,51 @@
       "source": "NPR World"
     },
     {
-      "title": "Former FBI director James Comey hit with third set of charges under Trump",
-      "link": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 22:03:26 +0000",
+      "title": "Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’",
+      "link": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 01:32:54 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Africa food security under threat due to Iran war, trade officials warn",
-      "link": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 21:42:18 +0000",
+      "title": "Harry Kane wins Ballon d’Or, ending England’s 25-year wait",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 01:20:56 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "What will Lula’s fourth term mean for Brazil?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 20:55:47 +0000",
+      "title": "Serbia’s ‘students’ celebrate for a second night after election victory",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 01:06:50 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "US court rules daughter of Trump critic James Comey was illegally fired",
-      "link": "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 20:55:37 +0000",
+      "title": "US court rules against Trump administration in California voting case",
+      "link": "https://www.aljazeera.com/news/2026/10/27/us-court-rules-against-trump-administration-in-california-voting-case?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 01:01:53 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Palestinian children crawl under Israeli military gates to get to school",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/palestinian-children-crawl-under-israeli-military-gates-to-get-to-school?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 20:46:01 +0000",
+      "title": "Romania says Russia-run sabotage network set fire near weapons factory",
+      "link": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 00:33:06 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Huge explosion at a weapons depot in Syria",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 20:41:33 +0000",
+      "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
+      "date": "Tue, 27 Oct 2026 00:00:00 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "What Vucic’s defeat means for Serbia’s foreign policy",
-      "link": "https://www.aljazeera.com/news/2026/10/26/what-vucics-defeat-means-for-serbias-foreign-policy?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 20:38:40 +0000",
+      "title": "Bolsonaro says police demand passports after Brazil election defeat",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss",
+      "date": "Mon, 26 Oct 2026 23:53:45 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "How a WhatsApp channel helped Lula win Brazil’s election",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/brazil-lula-victory-whatsapp-campaign-janones?traffic_source=rss",
-      "date": "Mon, 26 Oct 2026 20:20:09 +0000",
+      "title": "Jordan strikes Syria after church attack, killing at least seven people",
+      "link": "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss",
+      "date": "Mon, 26 Oct 2026 23:50:11 +0000",
       "source": "Al Jazeera"
     }
   ]
