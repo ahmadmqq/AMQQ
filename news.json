@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-31T01:45:29.899822+00:00",
+  "updated": "2026-10-31T07:32:15.076442+00:00",
   "items": [
     {
-      "title": "الحكومة اليمنية تحذر من خطر دعم إيران للحوثيين على الملاحة الدولية",
+      "title": "التحالف يعلن اعتراض مسيّرة في الرياض، والحكومة اليمنية تحذر من خطر دعم إيران للحوثيين على الملاحة",
       "link": "https://www.bbc.com/arabic/articles/crkg7pkw14w0o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 31 Oct 2026 00:40:20 GMT",
+      "date": "Sat, 31 Oct 2026 06:14:42 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "أزمة سوريا الاقتصادية: ظلامٌ يخيّم على بيوتها، وعائلاتٌ لا تأكل سوى وجبة واحدة يومياً",
+      "link": "https://www.bbc.com/arabic/articles/c95ynelrzd75o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 31 Oct 2026 05:46:32 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "كيف يمكنك حماية أسرارك من الذكاء الاصطناعي؟",
-      "link": "https://www.bbc.com/arabic/articles/c680zmzr87mpo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 30 Oct 2026 00:38:21 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "US approves sale of 500 Patriot missiles to Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 31 Oct 2026 00:40:43 GMT",
@@ -62,9 +62,21 @@
       "source": "BBC World"
     },
     {
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 31 Oct 2026 02:12:19 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Police deployed during stand-off over control of top Poland court",
       "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 31 Oct 2026 01:11:43 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 31 Oct 2026 05:44:21 GMT",
       "source": "BBC World"
     },
     {
@@ -74,27 +86,15 @@
       "source": "BBC World"
     },
     {
-      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 30 Oct 2026 20:41:51 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Global nature talks reach deal but money remains an issue",
       "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 31 Oct 2026 01:27:05 GMT",
       "source": "BBC World"
     },
     {
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 30 Oct 2026 17:07:19 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-      "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 30 Oct 2026 14:48:22 GMT",
+      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+      "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 30 Oct 2026 20:41:51 GMT",
       "source": "BBC World"
     },
     {
@@ -194,9 +194,27 @@
       "source": "Guardian World"
     },
     {
+      "title": "Avanti West Coast paid out £20m in ‘delay repay’ passenger refunds this summer",
+      "link": "https://www.theguardian.com/business/2026/oct/31/avanti-west-coast-gwr-lner-train-delay-repay-passenger-refunds-compensation",
+      "date": "Sat, 31 Oct 2026 07:00:35 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Eight in 10 homes in London’s poshest postcodes now sell below asking price, Coutts finds",
+      "link": "https://www.theguardian.com/money/2026/oct/31/homes-london-poshest-neighbourhoods-sell-below-asking-price-coutts",
+      "date": "Sat, 31 Oct 2026 06:00:37 GMT",
+      "source": "Guardian Business"
+    },
+    {
       "title": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
       "link": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
       "date": "Fri, 30 Oct 2026 16:35:44 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "The cursed cruise: how the dream of never-ending luxury at sea became a nightmare",
+      "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/31/mv-odyssey-cruise-passengers-nightmare-stranded-cambodia",
+      "date": "Sat, 31 Oct 2026 03:00:31 GMT",
       "source": "Guardian Business"
     },
     {
@@ -221,24 +239,6 @@
       "title": "Britain’s blighted high streets will improve by next election, says Rayner",
       "link": "https://www.theguardian.com/uk-news/2026/oct/30/britain-blighted-high-streets-angela-rayner-labour",
       "date": "Fri, 30 Oct 2026 10:00:51 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "‘You can see the water going down’: residents on edge as one of England’s worst-hit reservoirs dries up",
-      "link": "https://www.theguardian.com/environment/2026/oct/30/haywards-heath-ardingly-reservoir-water-level-drought-england",
-      "date": "Fri, 30 Oct 2026 09:00:49 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "The Guardian view on Labour’s fiscal devolution: the future of Burnhamism will play out in municipal England | Editorial",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/30/the-guardian-view-on-labours-fiscal-devolution-the-future-of-burnhamism-will-play-out-in-municipal-england",
-      "date": "Fri, 30 Oct 2026 17:56:11 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "How big a deal is the $6.3bn Binance crypto heist, who did it, and are investments safe?",
-      "link": "https://www.theguardian.com/business/2026/oct/30/crypto-heist-binance-who-did-it-are-investments-safe",
-      "date": "Fri, 30 Oct 2026 15:17:01 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,51 +290,51 @@
       "source": "NPR World"
     },
     {
-      "title": "Pope Leo becomes first pontiff to vote in US general election",
-      "link": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
-      "date": "Sat, 31 Oct 2026 01:31:44 +0000",
+      "title": "US, South Korea, Japan call for ‘complete denuclearisation’ of North Korea",
+      "link": "https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 07:20:45 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Fake polls expose vulnerabilities in US elections ahead of midterms",
-      "link": "https://www.aljazeera.com/news-analysis/2026/10/31/fake-polls-expose-vulnerabilities-in-us-elections-ahead-of-midterms?traffic_source=rss",
-      "date": "Sat, 31 Oct 2026 01:26:34 +0000",
+      "title": "US midterms: 3 days to go – What latest polls say as early voting surges",
+      "link": "https://www.aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 06:59:55 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Dog walker threatened with gun during ICE arrest in North Hollywood",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/dog-walker-threatened-with-gun-during-ice-arrest-in-north-hollywood?traffic_source=rss",
-      "date": "Sat, 31 Oct 2026 01:23:59 +0000",
+      "title": "Canada’s in-form Leylah Fernandez reaches Pan Pacific Open final in Tokyo",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/leylah-fernandez-canada-pan-pacific-open-final-tokyo-tennis-wta?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 06:36:05 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Germany and France brace for protests on Halloween weekend",
-      "link": "https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss",
-      "date": "Sat, 31 Oct 2026 00:17:35 +0000",
+      "title": "LeBron James, Tyrese Maxey shine as 76ers beat Knicks in NBA Cup thriller",
+      "link": "https://www.aljazeera.com/sports/2026/10/31/lebron-james-tyrese-maxey-philadelphia-76ers-win-new-york-knicks-nba-cup?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 06:11:53 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Brazil summons Argentinian diplomat over Bolsonaro’s flight to US",
-      "link": "https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us?traffic_source=rss",
-      "date": "Sat, 31 Oct 2026 00:02:06 +0000",
+      "title": "The selective solidarity at the heart of India’s voter protests",
+      "link": "https://www.aljazeera.com/opinions/2026/10/31/the-selective-solidarity-at-the-heart-of-indias-voter-protests?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 06:08:19 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Iran war live: Oil tankers hit in Hormuz; Trump says conflict will end soon",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
-      "date": "Sat, 31 Oct 2026 00:00:00 +0000",
+      "title": "What has it cost to keep Al Jazeera on air for 30 years?",
+      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/31/what-has-it-cost-to-keep-al-jazeera-on-air-for-30-years?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 06:03:54 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Fans voice support on final night of Macklemore’s ‘Free Palestine’ tour",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/fans-voice-support-on-final-night-of-macklemores-free-palestine-tour?traffic_source=rss",
-      "date": "Fri, 30 Oct 2026 23:39:19 +0000",
+      "title": "After the ‘martyr’s’ funeral: The families left behind by Yemen’s war",
+      "link": "https://www.aljazeera.com/features/2026/10/31/after-the-martyrs-funeral-the-families-left-behind-by-yemens-war?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 05:48:25 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Polish police deployed to top court after head judge suspended",
-      "link": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss",
-      "date": "Fri, 30 Oct 2026 23:19:42 +0000",
+      "title": "Why are US, Russia and China racing to put nuclear reactors on the moon?",
+      "link": "https://www.aljazeera.com/news/2026/10/31/why-are-us-russia-and-china-racing-to-put-nuclear-reactors-on-the-moon?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 05:37:51 +0000",
       "source": "Al Jazeera"
     }
   ]
