@@ -1,6 +1,12 @@
 {
-  "updated": "2026-11-01T17:57:51.231704+00:00",
+  "updated": "2026-11-01T21:46:10.021018+00:00",
   "items": [
+    {
+      "title": "جماعة أنصار الله: غارات سعودية تستهدف ميناء الحديدة ومناطق عدة في اليمن",
+      "link": "https://www.bbc.com/arabic/articles/c6y4xe1557xdo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 01 Nov 2026 19:41:21 GMT",
+      "source": "BBC Arabic"
+    },
     {
       "title": "مفاوضات إيرانية قطرية لليوم الثالث، وطهران تحتج على استهداف موانئها وسفنها",
       "link": "https://www.bbc.com/arabic/articles/c6j9kg2k9r42o?at_medium=RSS&at_campaign=rss",
@@ -11,18 +17,6 @@
       "title": "اعتقال أكثر من 300 شخص خلال تظاهرة تدعم منظمة \"فلسطين آكشن\" أمام السفارة الأمريكية في لندن",
       "link": "https://www.bbc.com/arabic/articles/cknv096yj2r6o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 01 Nov 2026 16:00:33 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "الحكومة الإسرائيلية: نتنياهو يحاول الحفاظ على تماسك معسكره، وآيزنكوت يسعى لتوسيع دائرة شركائه",
-      "link": "https://www.bbc.com/arabic/articles/cmvgxqdnqzv2o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 01 Nov 2026 12:48:09 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "كيف جعل ترامب من نفسه محوراً لانتخابات التجديد النصفي؟ - مقال في الغارديان",
-      "link": "https://www.bbc.com/arabic/articles/c620ryeljwwvo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 01 Nov 2026 13:06:33 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -38,21 +32,27 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "الحكومة الإسرائيلية: نتنياهو يحاول الحفاظ على تماسك معسكره، وآيزنكوت يسعى لتوسيع دائرة شركائه",
+      "link": "https://www.bbc.com/arabic/articles/cmvgxqdnqzv2o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 01 Nov 2026 12:48:09 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "كيف جعل ترامب من نفسه محوراً لانتخابات التجديد النصفي؟ - مقال في الغارديان",
+      "link": "https://www.bbc.com/arabic/articles/c620ryeljwwvo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 01 Nov 2026 13:06:33 GMT",
+      "source": "BBC Arabic"
+    },
+    {
       "title": "بعد الجدل حول قضية \"مدى مصر\"، مجلس القضاء المصري ينفي الإخلال بضمانات المحاكمة",
       "link": "https://www.bbc.com/arabic/articles/cmj4702x1ydro?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 01 Nov 2026 11:17:01 GMT",
       "source": "BBC Arabic"
     },
     {
-      "title": "استعداد أم خوف مفرط؟ قصص أشخاص حول العالم يستعدون لمواجهة أي أزمة محتملة",
-      "link": "https://www.bbc.com/arabic/articles/cmde8p010x3yo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 01 Nov 2026 08:27:11 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "Shops looted as German cost-of-living protests turn violent",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 01 Nov 2026 11:57:48 GMT",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 01 Nov 2026 21:01:58 GMT",
       "source": "BBC World"
     },
     {
@@ -62,9 +62,27 @@
       "source": "BBC World"
     },
     {
-      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 01 Nov 2026 00:41:24 GMT",
+      "title": "University of Cambridge scientist among those who died in Spanish train crash",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 01 Nov 2026 17:05:18 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 01 Nov 2026 11:57:48 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 01 Nov 2026 17:56:47 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 01 Nov 2026 21:16:45 GMT",
       "source": "BBC World"
     },
     {
@@ -74,27 +92,9 @@
       "source": "BBC World"
     },
     {
-      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-      "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 31 Oct 2026 19:22:26 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 31 Oct 2026 17:53:35 GMT",
-      "source": "BBC World"
-    },
-    {
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 01 Nov 2026 13:11:37 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
-      "link": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 01 Nov 2026 00:55:06 GMT",
       "source": "BBC World"
     },
     {
@@ -176,6 +176,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+      "link": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
+      "date": "Sun, 01 Nov 2026 19:50:39 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "Canada and EU announce new alliance open to like-minded countries",
       "link": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
       "date": "Fri, 30 Oct 2026 19:42:15 GMT",
@@ -188,45 +194,27 @@
       "source": "Guardian World"
     },
     {
-      "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
-      "link": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
-      "date": "Fri, 30 Oct 2026 10:07:16 GMT",
-      "source": "Guardian World"
-    },
-    {
-      "title": "Binance resumes customer withdrawals after record $6.3bn hack",
-      "link": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
-      "date": "Sun, 01 Nov 2026 11:54:23 GMT",
+      "title": "Investors pull billions in funds from Binance after record $6.3bn hack",
+      "link": "https://www.theguardian.com/business/2026/nov/01/investors-take-out-36bn-from-binance-after-record-hack-that-stole-billions",
+      "date": "Sun, 01 Nov 2026 18:53:25 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "National Grid to site biggest substation on Teesside, near planned AI datacentre",
+      "title": "National Grid to site biggest substation in UK near planned Teesside datacentre",
       "link": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
-      "date": "Sun, 01 Nov 2026 17:10:52 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "How a small Wisconsin city scuttled a secretive $1.6bn datacenter project",
-      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/wisconsin-city-menomie-meta-datacenter",
-      "date": "Sun, 01 Nov 2026 17:31:24 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Fashion and tradition: how John Smedley is innovating in a tough market",
-      "link": "https://www.theguardian.com/business/2026/nov/01/john-smedley-knitwear-brand-innovating-fashion-tradition-tough-market-manufacturing",
-      "date": "Sun, 01 Nov 2026 12:00:11 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "UK willing to spend £450m a year on EU students if it can join Made in Europe scheme",
-      "link": "https://www.theguardian.com/politics/2026/nov/01/uk-willing-to-spend-450m-a-year-on-eu-students-if-it-can-join-made-in-europe-scheme",
-      "date": "Sun, 01 Nov 2026 17:00:16 GMT",
+      "date": "Sun, 01 Nov 2026 18:37:42 GMT",
       "source": "Guardian Business"
     },
     {
       "title": "Labour’s pledge to level-up minimum wage for under-20s before next election in doubt",
       "link": "https://www.theguardian.com/society/2026/nov/01/chancellor-fails-to-guarantee-minimum-wage-pledge-younger-workers-kuenssberg",
       "date": "Sun, 01 Nov 2026 11:52:55 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "How Rachel Reeves has mapped out the economic agenda for Andy Burnham’s government",
+      "link": "https://www.theguardian.com/politics/2026/nov/01/how-reeves-has-mapped-out-the-agenda-for-burnhams-government",
+      "date": "Sun, 01 Nov 2026 17:47:42 GMT",
       "source": "Guardian Business"
     },
     {
@@ -239,6 +227,18 @@
       "title": "A gift to scammers: why you should probably keep your birthday a secret",
       "link": "https://www.theguardian.com/money/2026/nov/01/do-not-share-date-of-birth-online-scam-fraudsters-advice",
       "date": "Sun, 01 Nov 2026 07:00:05 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Fashion and tradition: how John Smedley is innovating in a tough market",
+      "link": "https://www.theguardian.com/business/2026/nov/01/john-smedley-knitwear-brand-innovating-fashion-tradition-tough-market-manufacturing",
+      "date": "Sun, 01 Nov 2026 12:00:11 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "The measure slipped into UK budget that could protect spending on children, youth and rough sleeping | Heather Stewart",
+      "link": "https://www.theguardian.com/business/2026/nov/01/pdel-preventative-departmental-expenditure-limit-",
+      "date": "Sun, 01 Nov 2026 12:36:48 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,51 +290,51 @@
       "source": "NPR World"
     },
     {
-      "title": "Al Jazeera marks 30 years of transforming news in Middle East and beyond",
-      "link": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-celebrates-30-years-of-transforming-news-in-region-and-beyond?traffic_source=rss",
-      "date": "Sun, 01 Nov 2026 16:59:41 +0000",
+      "title": "Thousands displaced from Hebron as Israel carries on siege",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
+      "date": "Sun, 01 Nov 2026 21:28:47 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Bangladesh workers clash with police in protests over low pay",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/bangladesh-workers-clash-with-police-in-protests-over-low-pay?traffic_source=rss",
-      "date": "Sun, 01 Nov 2026 16:52:42 +0000",
+      "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
+      "link": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss",
+      "date": "Sun, 01 Nov 2026 21:01:33 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "India protesters march with 1km banner of deleted voters’ names",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/india-protesters-march-with-1km-banner-of-deleted-voters-names?traffic_source=rss",
-      "date": "Sun, 01 Nov 2026 16:42:18 +0000",
+      "title": "Why did Democrat Haley Stevens just endorse a Republican for US Senate?",
+      "link": "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss",
+      "date": "Sun, 01 Nov 2026 21:00:52 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Russia detains minor over alleged Moscow attack plot after US warning",
-      "link": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
-      "date": "Sun, 01 Nov 2026 16:24:16 +0000",
+      "title": "Al Jazeera Director General hails 30 years of groundbreaking news",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-director-general-hails-30-years-of-groundbreaking-news?traffic_source=rss",
+      "date": "Sun, 01 Nov 2026 20:48:00 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Trump rallies in Iowa, Kansas to maintain Republican control of US Senate",
-      "link": "https://www.aljazeera.com/news/2026/11/1/trump-rallies-in-iowa-kansas-to-maintain-republican-control-of-us-senate?traffic_source=rss",
-      "date": "Sun, 01 Nov 2026 16:19:57 +0000",
+      "title": "Bulgaria’s acting President Iotova leads in run-off exit polls",
+      "link": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show?traffic_source=rss",
+      "date": "Sun, 01 Nov 2026 20:43:33 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Al Jazeera Balkans relaunches in new digital-first format",
-      "link": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-balkans-relaunches-in-new-digital-first-format?traffic_source=rss",
-      "date": "Sun, 01 Nov 2026 16:17:37 +0000",
+      "title": "Police clash with housing crisis protesters in Portugal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss",
+      "date": "Sun, 01 Nov 2026 20:31:17 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Trump slams ex-lawyer’s $50m deal with pardoned banker’s family",
-      "link": "https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss",
-      "date": "Sun, 01 Nov 2026 15:50:19 +0000",
+      "title": "Al Jazeera celebrates 30th anniversary",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-celebrates-30th-anniversary?traffic_source=rss",
+      "date": "Sun, 01 Nov 2026 20:21:05 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Dramatic helicopter rescue saves climbers stranded on Italian cliff",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss",
-      "date": "Sun, 01 Nov 2026 15:40:58 +0000",
+      "title": "Video captures house collapsing due to Ecuador floods",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss",
+      "date": "Sun, 01 Nov 2026 19:56:47 +0000",
       "source": "Al Jazeera"
     }
   ]
