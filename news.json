@@ -1,10 +1,16 @@
 {
-  "updated": "2026-10-31T21:11:24.542231+00:00",
+  "updated": "2026-11-01T00:06:34.914731+00:00",
   "items": [
     {
-      "title": "\"ترامب لم يتخذ قراراً بشأن عمل عسكري ضد إيران\"، وخامنئي يأمر الجيش بالرد \"دون أي قيود جغرافية\"",
+      "title": "ترامب \"لم يحسم\" قرار ضرب إيران، وخامنئي يأمر الجيش بالرد \"دون قيود جغرافية\"",
       "link": "https://www.bbc.com/arabic/articles/cr1ex2egzwp6o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 31 Oct 2026 19:12:19 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "تظاهرات ضد الغلاء وأزمة السكن في أوروبا واشتباكات في فرنسا وألمانيا",
+      "link": "https://www.bbc.com/arabic/articles/cmpdg3xz7n3eo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 31 Oct 2026 22:13:08 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,12 +50,6 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "البتروكيماويات: قصة نجاح خليجية تواجه اختبار الحرب وتغير الأسواق",
-      "link": "https://www.bbc.com/arabic/articles/cked3v3d8506o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 31 Oct 2026 08:10:07 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
       "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 31 Oct 2026 19:22:26 GMT",
@@ -62,15 +62,15 @@
       "source": "BBC World"
     },
     {
-      "title": "Clashes erupt between police and protesters in Paris",
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
       "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 31 Oct 2026 19:37:43 GMT",
+      "date": "Sat, 31 Oct 2026 21:29:01 GMT",
       "source": "BBC World"
     },
     {
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
       "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 31 Oct 2026 16:32:08 GMT",
+      "date": "Sat, 31 Oct 2026 22:11:45 GMT",
       "source": "BBC World"
     },
     {
@@ -200,33 +200,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Railway engineering work over Christmas will cause 10 days of disruption",
-      "link": "https://www.theguardian.com/business/2026/oct/31/railway-engineering-work-christmas-disruption-london-birmingham",
-      "date": "Sat, 31 Oct 2026 11:00:41 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Eight in 10 homes in London’s poshest postcodes now sell below asking price, Coutts finds",
-      "link": "https://www.theguardian.com/money/2026/oct/31/homes-london-poshest-neighbourhoods-sell-below-asking-price-coutts",
-      "date": "Sat, 31 Oct 2026 06:00:37 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "A-listers and AI stylists: how high-street brands are staging a fashion comeback",
       "link": "https://www.theguardian.com/fashion/2026/oct/31/a-listers-ai-stylists-high-street-brands-fashion-comeback",
       "date": "Sat, 31 Oct 2026 16:00:47 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "The cursed cruise: how the dream of never-ending luxury at sea became a nightmare",
-      "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/31/mv-odyssey-cruise-passengers-nightmare-stranded-cambodia",
-      "date": "Sat, 31 Oct 2026 03:00:31 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "How ‘sin bin’ for red light jumpers saves cyclists from being saddled with a fine",
-      "link": "https://www.theguardian.com/news/2026/oct/31/how-sin-bin-for-red-light-jumpers-saves-cyclists-from-being-saddled-with-a-fine",
-      "date": "Sat, 31 Oct 2026 10:00:39 GMT",
+      "title": "Railway engineering work over Christmas will cause 10 days of disruption",
+      "link": "https://www.theguardian.com/business/2026/oct/31/railway-engineering-work-christmas-disruption-london-birmingham",
+      "date": "Sat, 31 Oct 2026 11:00:41 GMT",
       "source": "Guardian Business"
     },
     {
@@ -240,6 +222,36 @@
       "link": "https://www.theguardian.com/us-news/2026/oct/31/trump-coal-plants-taxpayer-dollars",
       "date": "Sat, 31 Oct 2026 13:00:42 GMT",
       "source": "Guardian Business"
+    },
+    {
+      "title": "How ‘sin bin’ for red light jumpers saves cyclists from being saddled with a fine",
+      "link": "https://www.theguardian.com/news/2026/oct/31/how-sin-bin-for-red-light-jumpers-saves-cyclists-from-being-saddled-with-a-fine",
+      "date": "Sat, 31 Oct 2026 10:00:39 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "The cursed cruise: how the dream of never-ending luxury at sea became a nightmare",
+      "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/31/mv-odyssey-cruise-passengers-nightmare-stranded-cambodia",
+      "date": "Sat, 31 Oct 2026 03:00:31 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "‘The last fortress’: historic Athens cafe closes as countercultural area gentrifies",
+      "link": "https://www.theguardian.com/world/2026/oct/31/mouria-historic-athens-cafe-closes-exarchia-gentrifies",
+      "date": "Sat, 31 Oct 2026 08:00:37 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Secretary Rubio has a tough time getting officials at G20 on the same page",
+      "link": "https://www.npr.org/2026/10/31/nx-s1-6022223/secretary-rubio-has-a-tough-time-getting-officials-at-g20-on-the-same-page",
+      "date": "Sat, 31 Oct 2026 17:14:34 -0400",
+      "source": "NPR World"
+    },
+    {
+      "title": "A new political era in the Southern Philippines",
+      "link": "https://www.npr.org/2026/10/31/nx-s1-6020639/a-new-political-era-in-the-southern-philippines",
+      "date": "Sat, 31 Oct 2026 17:14:32 -0400",
+      "source": "NPR World"
     },
     {
       "title": "France seethes again as youth-led protests sweep Europe",
@@ -278,63 +290,51 @@
       "source": "NPR World"
     },
     {
-      "title": "What killed 500-plus penguins? How scientists solved the mystery",
-      "link": "https://www.npr.org/2026/10/29/nx-s1-6020451/avian-flu-penguins-pathogen-antarctica-cholera",
-      "date": "Thu, 29 Oct 2026 16:03:26 -0400",
-      "source": "NPR World"
+      "title": "ICE agent’s violent shove propels woman through the air",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/ice-agents-violent-shove-propels-woman-through-the-air?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 23:45:36 +0000",
+      "source": "Al Jazeera"
     },
     {
-      "title": "US and Japan agree to establish a Japanese facility for joint missile production",
-      "link": "https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
-      "date": "Thu, 29 Oct 2026 11:58:27 -0400",
-      "source": "NPR World"
+      "title": "Dutch authorities rescue 38 people adrift in rubber boat",
+      "link": "https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 22:38:03 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
+      "link": "https://www.aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 22:36:41 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Palestine Action supporters arrested outside US embassy in London",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 22:10:53 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Legal filing questions Trump’s claims of non-citizen voting in California",
+      "link": "https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 21:38:54 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Fiery confrontations between protestors and police in Albania",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 21:12:46 +0000",
+      "source": "Al Jazeera"
+    },
+    {
+      "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
+      "link": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss",
+      "date": "Sat, 31 Oct 2026 21:01:19 +0000",
+      "source": "Al Jazeera"
     },
     {
       "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
       "link": "https://www.aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
       "date": "Sat, 31 Oct 2026 20:30:35 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Israel’s allegations of Qatari election interference rejected",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss",
-      "date": "Sat, 31 Oct 2026 20:24:58 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "What is ranked-choice voting and how does it work in US elections?",
-      "link": "https://www.aljazeera.com/news/2026/10/31/what-is-ranked-choice-voting-and-how-does-it-work-in-us-elections?traffic_source=rss",
-      "date": "Sat, 31 Oct 2026 20:11:37 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
-      "link": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss",
-      "date": "Sat, 31 Oct 2026 20:09:18 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "How vulnerable are cryptocurrency platforms?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/31/how-vulnerable-are-cryptocurrency-platforms?traffic_source=rss",
-      "date": "Sat, 31 Oct 2026 19:19:29 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Palestinians ‘Stealing their own olives’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/palestinians-stealing-their-own?traffic_source=rss",
-      "date": "Sat, 31 Oct 2026 19:18:32 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "Who is Arafat Minhas, Pakistan cricket’s rising star all-rounder?",
-      "link": "https://www.aljazeera.com/sports/2026/10/31/who-is-arafat-minhas-pakistan-crickets-rising-star-all-rounder?traffic_source=rss",
-      "date": "Sat, 31 Oct 2026 18:50:25 +0000",
-      "source": "Al Jazeera"
-    },
-    {
-      "title": "London police arrest 139 as hundreds protest Palestine Action ban",
-      "link": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
-      "date": "Sat, 31 Oct 2026 18:48:29 +0000",
       "source": "Al Jazeera"
     }
   ]
