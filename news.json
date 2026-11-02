@@ -1,16 +1,22 @@
 {
-  "updated": "2026-11-01T21:46:10.021018+00:00",
+  "updated": "2026-11-02T01:03:24.699059+00:00",
   "items": [
+    {
+      "title": "ترامب يحذر إيران من \"ضربة قاصمة\"، وطهران تتعهد \"بحرب طويلة\"",
+      "link": "https://www.bbc.com/arabic/articles/cqd09mxdep2go?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 02 Nov 2026 01:00:55 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "\"صوّتنا لكم، فهل هذا ما نحصل عليه؟\" عرب ديربورن بين خيبة الأمل في ترامب وفقدان الثقة بالديمقراطيين",
+      "link": "https://www.bbc.com/arabic/articles/ck79pyjpvdyyo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 01 Nov 2026 23:00:38 GMT",
+      "source": "BBC Arabic"
+    },
     {
       "title": "جماعة أنصار الله: غارات سعودية تستهدف ميناء الحديدة ومناطق عدة في اليمن",
       "link": "https://www.bbc.com/arabic/articles/c6y4xe1557xdo?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 01 Nov 2026 19:41:21 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "مفاوضات إيرانية قطرية لليوم الثالث، وطهران تحتج على استهداف موانئها وسفنها",
-      "link": "https://www.bbc.com/arabic/articles/c6j9kg2k9r42o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 01 Nov 2026 17:05:31 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -44,15 +50,21 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "بعد الجدل حول قضية \"مدى مصر\"، مجلس القضاء المصري ينفي الإخلال بضمانات المحاكمة",
-      "link": "https://www.bbc.com/arabic/articles/cmj4702x1ydro?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 01 Nov 2026 11:17:01 GMT",
-      "source": "BBC Arabic"
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 01 Nov 2026 22:38:24 GMT",
+      "source": "BBC World"
     },
     {
       "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
       "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 01 Nov 2026 21:01:58 GMT",
+      "date": "Sun, 01 Nov 2026 21:55:01 GMT",
+      "source": "BBC World"
+    },
+    {
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 02 Nov 2026 00:02:15 GMT",
       "source": "BBC World"
     },
     {
@@ -62,15 +74,15 @@
       "source": "BBC World"
     },
     {
-      "title": "University of Cambridge scientist among those who died in Spanish train crash",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 01 Nov 2026 17:05:18 GMT",
+      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 02 Nov 2026 00:15:30 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Shops looted as German cost-of-living protests turn violent",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 01 Nov 2026 11:57:48 GMT",
+      "title": "University of Cambridge scientist among those who died in Spanish train crash",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 01 Nov 2026 17:05:18 GMT",
       "source": "BBC World"
     },
     {
@@ -80,22 +92,22 @@
       "source": "BBC World"
     },
     {
-      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 01 Nov 2026 21:16:45 GMT",
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 01 Nov 2026 11:57:48 GMT",
       "source": "BBC World"
     },
     {
-      "title": "India's opposition holds mega rally seeking election chief's resignation",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 01 Nov 2026 07:00:55 GMT",
-      "source": "BBC World"
+      "title": "Binance users withdraw $3.6bn after record crypto hack",
+      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "date": "Mon, 02 Nov 2026 00:43:35 GMT",
+      "source": "BBC Business"
     },
     {
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 01 Nov 2026 13:11:37 GMT",
-      "source": "BBC World"
+      "title": "Don't get caught out by new Buy Now Pay Later rules",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 01 Nov 2026 23:34:49 GMT",
+      "source": "BBC Business"
     },
     {
       "title": "Thousands of jobs at Virgin Media O2 to be cut",
@@ -110,21 +122,9 @@
       "source": "BBC Business"
     },
     {
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 01 Nov 2026 13:11:37 GMT",
-      "source": "BBC Business"
-    },
-    {
       "title": "US tech stocks see sharp falls as AI spending nears $1tn",
       "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 30 Oct 2026 20:34:46 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "What we know about Binance's $6.3bn hack",
-      "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 30 Oct 2026 12:27:28 GMT",
       "source": "BBC Business"
     },
     {
@@ -134,15 +134,15 @@
       "source": "BBC Business"
     },
     {
-      "title": "How Poundland grew from a market stall to a high street giant",
-      "link": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 30 Oct 2026 06:08:22 GMT",
+      "title": "What we know about Binance's $6.3bn hack",
+      "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 30 Oct 2026 12:27:28 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 30 Oct 2026 21:13:14 GMT",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 01 Nov 2026 13:11:37 GMT",
       "source": "BBC Business"
     },
     {
@@ -178,7 +178,7 @@
     {
       "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
       "link": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
-      "date": "Sun, 01 Nov 2026 19:50:39 GMT",
+      "date": "Sun, 01 Nov 2026 22:26:11 GMT",
       "source": "Guardian World"
     },
     {
@@ -242,6 +242,18 @@
       "source": "Guardian Business"
     },
     {
+      "title": "This legendary board game could take decades to complete",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6025438/this-legendary-board-game-could-take-decades-to-complete",
+      "date": "Sun, 01 Nov 2026 17:30:00 -0500",
+      "source": "NPR World"
+    },
+    {
+      "title": "Gulf leaders meet in Qatar in effort to stave off new escalation in U.S and Iran war",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+      "date": "Sun, 01 Nov 2026 17:19:13 -0500",
+      "source": "NPR World"
+    },
+    {
       "title": "They signed up for a lifetime at sea on an endless cruise. High gas prices intervened",
       "link": "https://www.npr.org/2026/11/01/nx-s1-6022214/they-signed-up-for-a-lifetime-at-sea-on-an-endless-cruise-high-gas-prices-intervened",
       "date": "Sun, 01 Nov 2026 08:15:28 -0500",
@@ -278,63 +290,51 @@
       "source": "NPR World"
     },
     {
-      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-      "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-      "date": "Fri, 30 Oct 2026 09:01:22 -0400",
-      "source": "NPR World"
-    },
-    {
-      "title": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
-      "link": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
-      "date": "Fri, 30 Oct 2026 07:20:26 -0400",
-      "source": "NPR World"
-    },
-    {
-      "title": "Thousands displaced from Hebron as Israel carries on siege",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
-      "date": "Sun, 01 Nov 2026 21:28:47 +0000",
+      "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+      "link": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
+      "date": "Mon, 02 Nov 2026 00:29:16 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
-      "link": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss",
-      "date": "Sun, 01 Nov 2026 21:01:33 +0000",
+      "title": "Bollywood star greets fans in bulletproof glass after bomb threat",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss",
+      "date": "Mon, 02 Nov 2026 00:14:22 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Why did Democrat Haley Stevens just endorse a Republican for US Senate?",
-      "link": "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss",
-      "date": "Sun, 01 Nov 2026 21:00:52 +0000",
+      "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+      "date": "Mon, 02 Nov 2026 00:00:00 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Al Jazeera Director General hails 30 years of groundbreaking news",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-director-general-hails-30-years-of-groundbreaking-news?traffic_source=rss",
-      "date": "Sun, 01 Nov 2026 20:48:00 +0000",
+      "title": "Nine people dead after Learjet crashes in Florida",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/nine-people-dead-after-learjet-crashes-in-florida?traffic_source=rss",
+      "date": "Sun, 01 Nov 2026 23:29:48 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Bulgaria’s acting President Iotova leads in run-off exit polls",
-      "link": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show?traffic_source=rss",
-      "date": "Sun, 01 Nov 2026 20:43:33 +0000",
+      "title": "Why governors’ races are important in the 2026 US midterms",
+      "link": "https://www.aljazeera.com/news/2026/11/1/why-governors-races-are-important-in-the-2026-us-midterms?traffic_source=rss",
+      "date": "Sun, 01 Nov 2026 23:24:56 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Police clash with housing crisis protesters in Portugal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss",
-      "date": "Sun, 01 Nov 2026 20:31:17 +0000",
+      "title": "UN warns of security risks in Western Sahara as peacekeeping mission ends",
+      "link": "https://www.aljazeera.com/news/2026/11/1/un-warns-of-security-risks-in-western-sahara-as-peacekeeping-mission-ends?traffic_source=rss",
+      "date": "Sun, 01 Nov 2026 23:19:51 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Al Jazeera celebrates 30th anniversary",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-celebrates-30th-anniversary?traffic_source=rss",
-      "date": "Sun, 01 Nov 2026 20:21:05 +0000",
+      "title": "High-ranking US Democratic senator suffers stroke",
+      "link": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
+      "date": "Sun, 01 Nov 2026 22:32:54 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Video captures house collapsing due to Ecuador floods",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss",
-      "date": "Sun, 01 Nov 2026 19:56:47 +0000",
+      "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+      "link": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+      "date": "Sun, 01 Nov 2026 22:15:14 +0000",
       "source": "Al Jazeera"
     }
   ]
