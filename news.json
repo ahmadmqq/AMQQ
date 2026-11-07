@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-07T18:51:15.163308+00:00",
+  "updated": "2026-11-07T22:22:21.105926+00:00",
   "items": [
+    {
+      "title": "الرئيس الإسرائيلي يكلف غادي آيزنكوت بتشكيل الحكومة",
+      "link": "https://www.bbc.com/arabic/articles/cm62ypx3wj64o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 07 Nov 2026 21:28:45 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "غادي آيزنكوت: من هو المكلف بتشكيل الحكومة الإسرائيلية؟",
+      "link": "https://www.bbc.com/arabic/articles/cxj0levgjmydo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 07 Nov 2026 20:16:42 GMT",
+      "source": "BBC Arabic"
+    },
     {
       "title": "\"الشتاء في غزة أصبح أقسى من الحرب\"، الأمطار تُغرق آلاف الخيام في القطاع",
       "link": "https://www.bbc.com/arabic/articles/cr3ellen9927o?at_medium=RSS&at_campaign=rss",
@@ -8,7 +20,13 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "لماذا تتصاعد المطالبات برحيل حسام حسن عن تدريب منتخب مصر؟",
+      "title": "فرنسا: تظاهرات للأسبوع الرابع ضد غلاء المعيشة قبيل محادثات مع الحكومة",
+      "link": "https://www.bbc.com/arabic/articles/cmn5v07w6gq1o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 07 Nov 2026 19:24:19 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "الاتحاد المصري يعلن الانفصال عن المدرب حسام حسن ويعين علي ماهر مدرباً لـ\"الفراعنة\"",
       "link": "https://www.bbc.com/arabic/articles/c6y8l0yvykygo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 07 Nov 2026 17:22:54 GMT",
       "source": "BBC Arabic"
@@ -26,33 +44,15 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "واشنطن ترصد مكافأة سخية لمن يدلي بمعلومات عن البرنامج النووي الإيراني، وطهران تُعلن أن الجيش في حالة \"تأهب قصوى\"",
-      "link": "https://www.bbc.com/arabic/articles/c6d0999d598ko?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 07 Nov 2026 08:29:12 GMT",
-      "source": "BBC Arabic"
-    },
-    {
       "title": "فوز عبد الرحمن السيد يُظهر أن الديمقراطيين يكررون خطأ الجمهوريين – في جولة الصحف",
       "link": "https://www.bbc.com/arabic/articles/cmdxww1xrx8go?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 07 Nov 2026 13:27:07 GMT",
       "source": "BBC Arabic"
     },
     {
-      "title": "تعيين ستيفن ميلر رئيساً لموظفي البيت الأبيض يُظهر استعداد ترامب لـ \"معركة الكونغرس\"",
-      "link": "https://www.bbc.com/arabic/articles/cmx2dd2g1g3vo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 07 Nov 2026 10:11:51 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "شابة صومالية تُغيّر نظرة العالم إلى مقديشو",
-      "link": "https://www.bbc.com/arabic/articles/cwn8dd3vj7yzo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 07 Nov 2026 08:46:59 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "What we know about Krakow mass shooting so far",
+      "title": "What we know so far after Krakow gun attack",
       "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 07 Nov 2026 18:22:11 GMT",
+      "date": "Sat, 07 Nov 2026 21:13:24 GMT",
       "source": "BBC World"
     },
     {
@@ -86,9 +86,9 @@
       "source": "BBC World"
     },
     {
-      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "title": "Paraguay's former president charged after bank collapse",
       "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 07 Nov 2026 07:20:00 GMT",
+      "date": "Sat, 07 Nov 2026 19:17:22 GMT",
       "source": "BBC World"
     },
     {
@@ -232,7 +232,7 @@
     {
       "title": "‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke",
       "link": "https://www.theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena",
-      "date": "Sat, 07 Nov 2026 11:00:10 GMT",
+      "date": "Sat, 07 Nov 2026 19:00:43 GMT",
       "source": "Guardian Business"
     },
     {
@@ -240,6 +240,24 @@
       "link": "https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies",
       "date": "Sat, 07 Nov 2026 15:06:59 GMT",
       "source": "Guardian Business"
+    },
+    {
+      "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
+      "link": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
+      "date": "Sat, 07 Nov 2026 17:12:09 -0500",
+      "source": "NPR World"
+    },
+    {
+      "title": "A correspondent finds Cuba's people struggling",
+      "link": "https://www.npr.org/2026/11/07/nx-s1-6029398/a-correspondent-finds-cubas-people-struggling",
+      "date": "Sat, 07 Nov 2026 17:12:06 -0500",
+      "source": "NPR World"
+    },
+    {
+      "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+      "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+      "date": "Sat, 07 Nov 2026 15:18:18 -0500",
+      "source": "NPR World"
     },
     {
       "title": "Ousted Paraguayan president appears before prosecutors",
@@ -272,69 +290,51 @@
       "source": "NPR World"
     },
     {
-      "title": "The leader of a Kenyan doomsday cult is sentenced to 200 years in prison",
-      "link": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder",
-      "date": "Fri, 06 Nov 2026 09:53:46 -0500",
-      "source": "NPR World"
-    },
-    {
-      "title": "Ex-lawmaker gets 12.5 years in Macao's first national security case",
-      "link": "https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case",
-      "date": "Fri, 06 Nov 2026 08:56:43 -0500",
-      "source": "NPR World"
-    },
-    {
-      "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
-      "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
-      "date": "Fri, 06 Nov 2026 07:24:52 -0500",
-      "source": "NPR World"
-    },
-    {
-      "title": "Paraguay’s ousted president charged over banking scandal",
-      "link": "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss",
-      "date": "Sat, 07 Nov 2026 18:35:15 +0000",
+      "title": "Police clash with protesters as anti-government rallies sweep France",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
+      "date": "Sat, 07 Nov 2026 21:24:10 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Pope Leo hold first mass in Uruguay, urges crowd to be ‘bridge builders’",
-      "link": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss",
-      "date": "Sat, 07 Nov 2026 18:00:21 +0000",
+      "title": "Mélenchon promises action against Israeli annexation if elected President",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
+      "date": "Sat, 07 Nov 2026 20:53:47 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Houthis report 25 killed in Yemen strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
-      "date": "Sat, 07 Nov 2026 17:39:23 +0000",
+      "title": "Who is behind Europe’s suspected hybrid attacks?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
+      "date": "Sat, 07 Nov 2026 20:48:58 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
-      "date": "Sat, 07 Nov 2026 17:16:50 +0000",
+      "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
+      "date": "Sat, 07 Nov 2026 20:44:34 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Jerusalem Daily: Heavy rains flood Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
-      "date": "Sat, 07 Nov 2026 17:11:29 +0000",
+      "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+      "link": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+      "date": "Sat, 07 Nov 2026 20:26:58 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Valencia vs Real Madrid LIVE: La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
-      "date": "Sat, 07 Nov 2026 17:00:12 +0000",
+      "title": "More than 140,000 rally as new protests against rising costs sweep France",
+      "link": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
+      "date": "Sat, 07 Nov 2026 20:12:22 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Israel builds 90km network of military roads across southern Lebanon",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
-      "date": "Sat, 07 Nov 2026 16:30:33 +0000",
+      "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
+      "date": "Sat, 07 Nov 2026 20:10:38 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Guatemalan lawmaker and three police officers killed in armed attack",
-      "link": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
-      "date": "Sat, 07 Nov 2026 16:15:18 +0000",
+      "title": "Paraguay’s ousted president appears before prosecutors after impeachment",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-paraguay-former-president-detained-appears?traffic_source=rss",
+      "date": "Sat, 07 Nov 2026 20:08:47 +0000",
       "source": "Al Jazeera"
     }
   ]
