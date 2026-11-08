@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-08T19:08:35.606585+00:00",
+  "updated": "2026-11-08T22:50:55.720801+00:00",
   "items": [
     {
-      "title": "ترامب يستبعد استئناف حرب إيران في ظل تقدم المحادثات، وطهران تتحدث عن توقف حركة الوسطاء",
+      "title": "ترامب يستبعد استئناف حرب إيران في ظل تقدم المحادثات، وطهران تتحدث عن توقف في حركة الوسطاء",
       "link": "https://www.bbc.com/arabic/articles/c5zjxr1vpenro?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 08 Nov 2026 19:02:54 GMT",
+      "date": "Sun, 08 Nov 2026 21:23:38 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -20,9 +20,9 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "\"لا نستطيع النوم، نقف طوال الليل على أقدامنا والمياه تحت أقدامنا\" الأمطار الغزيرة تغرق خيام النازحين في غزة",
+      "title": "خمسة قتلى بانهيار رملي فوق خيمة نازحين في غزة، والأمطار تغرق مخيمات النزوح",
       "link": "https://www.bbc.com/arabic/articles/c3vgx2kge2yqo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 08 Nov 2026 17:02:05 GMT",
+      "date": "Sun, 08 Nov 2026 20:05:25 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -58,7 +58,7 @@
     {
       "title": "Seven dead and more than 100 injured after trains collide in Egypt",
       "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 08 Nov 2026 17:35:13 GMT",
+      "date": "Sun, 08 Nov 2026 19:58:02 GMT",
       "source": "BBC World"
     },
     {
@@ -242,6 +242,24 @@
       "source": "Guardian Business"
     },
     {
+      "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
+      "date": "Sun, 08 Nov 2026 17:04:13 -0500",
+      "source": "NPR World"
+    },
+    {
+      "title": "Trying to find true owners, Paris' Musee D'Orsay exhibits art looted by Nazis",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-5928034/trying-to-find-true-owners-paris-musee-dorsay-exhibits-art-looted-by-nazis",
+      "date": "Sun, 08 Nov 2026 17:04:09 -0500",
+      "source": "NPR World"
+    },
+    {
+      "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+      "date": "Sun, 08 Nov 2026 14:25:30 -0500",
+      "source": "NPR World"
+    },
+    {
       "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
       "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
       "date": "Sun, 08 Nov 2026 11:46:15 -0500",
@@ -272,69 +290,51 @@
       "source": "NPR World"
     },
     {
-      "title": "A correspondent finds Cuba's people struggling",
-      "link": "https://www.npr.org/2026/11/07/nx-s1-6029398/a-correspondent-finds-cubas-people-struggling",
-      "date": "Sat, 07 Nov 2026 17:12:06 -0500",
-      "source": "NPR World"
-    },
-    {
-      "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
-      "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
-      "date": "Sat, 07 Nov 2026 15:18:18 -0500",
-      "source": "NPR World"
-    },
-    {
-      "title": "Ousted Paraguayan president appears before prosecutors",
-      "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
-      "date": "Sat, 07 Nov 2026 12:14:36 -0500",
-      "source": "NPR World"
-    },
-    {
-      "title": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
-      "link": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss",
-      "date": "Sun, 08 Nov 2026 18:22:58 +0000",
+      "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
+      "link": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
+      "date": "Sun, 08 Nov 2026 22:16:50 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Eisenkot open to Netanyahu joining Israel’s next government",
-      "link": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
-      "date": "Sun, 08 Nov 2026 18:12:27 +0000",
+      "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+      "link": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
+      "date": "Sun, 08 Nov 2026 22:16:10 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
-      "link": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss",
-      "date": "Sun, 08 Nov 2026 18:01:05 +0000",
+      "title": "Why Trump wants UFC chief Dana White as his new White House press secretary",
+      "link": "https://www.aljazeera.com/news/2026/11/8/why-trump-wants-ufc-chief-dana-white-as-his-new-white-house-press-secretary?traffic_source=rss",
+      "date": "Sun, 08 Nov 2026 22:03:54 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
-      "link": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
-      "date": "Sun, 08 Nov 2026 17:44:51 +0000",
+      "title": "Deadly sand cliff collapses on displaced families in Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
+      "date": "Sun, 08 Nov 2026 21:05:07 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
-      "date": "Sun, 08 Nov 2026 17:11:52 +0000",
+      "title": "Why Abdul El-Sayed’s ‘JD, habibi’ is going viral online",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/why-abdul-el-sayeds-jd-habibi-is-going-viral-online?traffic_source=rss",
+      "date": "Sun, 08 Nov 2026 21:01:33 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Photos: Diwali celebrations light up India and its global diaspora",
-      "link": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
-      "date": "Sun, 08 Nov 2026 17:03:14 +0000",
+      "title": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
+      "date": "Sun, 08 Nov 2026 20:51:22 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
-      "date": "Sun, 08 Nov 2026 17:00:00 +0000",
+      "title": "Pope Leo XIV delivers homily to thousands in Uruguay",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss",
+      "date": "Sun, 08 Nov 2026 20:29:47 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "India’s ‘cockroach’ movement seeks to restore culture of accountability",
-      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss",
-      "date": "Sun, 08 Nov 2026 16:59:31 +0000",
+      "title": "Rangoli makers adapt to rising costs to preserve colourful Diwali tradition",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/_8-11-sv-rangoli-diwali-india-081126?traffic_source=rss",
+      "date": "Sun, 08 Nov 2026 20:26:01 +0000",
       "source": "Al Jazeera"
     }
   ]
