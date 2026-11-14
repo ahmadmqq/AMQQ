@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-13T22:01:33.182341+00:00",
+  "updated": "2026-11-14T02:13:49.618796+00:00",
   "items": [
     {
-      "title": "إدارة الطيران الأمريكية توقف الإقلاع على مستوى البلاد \"لدواعي السلامة\"",
-      "link": "https://www.bbc.com/arabic/articles/cwdr1j4prv1xo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 13 Nov 2026 21:52:57 GMT",
+      "title": "إدارة الطيران الفيدرالية الأمريكية تُعلن إلغاء قرار وقف الرحلات الجوية",
+      "link": "https://www.bbc.co.uk/arabic/live/crjwjdxq80v9t?at_medium=RSS&at_campaign=rss",
+      "date": "",
       "source": "BBC Arabic"
     },
     {
@@ -50,6 +50,12 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 13 Nov 2026 23:40:45 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
       "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 13 Nov 2026 21:14:22 GMT",
@@ -68,6 +74,12 @@
       "source": "BBC World"
     },
     {
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 14 Nov 2026 00:01:01 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
       "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 13 Nov 2026 16:40:31 GMT",
@@ -83,18 +95,6 @@
       "title": "The Peruvian city that has embraced Pope Leo as one of its own",
       "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 13 Nov 2026 18:34:45 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-      "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 13 Nov 2026 15:42:52 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Democratic Senate leader Schumer set to face leadership challenge",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 13 Nov 2026 19:03:10 GMT",
       "source": "BBC World"
     },
     {
@@ -194,9 +194,9 @@
       "source": "Guardian World"
     },
     {
-      "title": "Microsoft outage: company ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’ – as it happened",
-      "link": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
-      "date": "Fri, 13 Nov 2026 20:37:58 GMT",
+      "title": "US flight outage live updates: FAA lifts nationwide ground stop as Trump officials holds press briefing",
+      "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+      "date": "Sat, 14 Nov 2026 01:56:30 GMT",
       "source": "Guardian Business"
     },
     {
@@ -206,15 +206,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Jaguar Land Rover reports £451m quarterly loss after cutting 4,000 jobs",
-      "link": "https://www.theguardian.com/business/2026/nov/13/jaguar-land-rover-quarterly-loss-electric-cars-job-cuts",
-      "date": "Fri, 13 Nov 2026 16:22:16 GMT",
+      "title": "Microsoft outage: company scrambles to fix global issue that took down Outlook and Teams",
+      "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+      "date": "Fri, 13 Nov 2026 17:41:15 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
-      "link": "https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea",
-      "date": "Fri, 13 Nov 2026 13:35:45 GMT",
+      "title": "Jaguar Land Rover reports £451m quarterly loss after cutting 4,000 jobs",
+      "link": "https://www.theguardian.com/business/2026/nov/13/jaguar-land-rover-quarterly-loss-electric-cars-job-cuts",
+      "date": "Fri, 13 Nov 2026 16:22:16 GMT",
       "source": "Guardian Business"
     },
     {
@@ -224,21 +224,21 @@
       "source": "Guardian Business"
     },
     {
-      "title": "UK’s biggest insurer hit by rise in subsidence claims after record hot summer",
-      "link": "https://www.theguardian.com/business/2026/nov/13/uk-insurer-rise-in-subsidence-claims-aviva-hastings-direct-axa",
-      "date": "Fri, 13 Nov 2026 13:37:31 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
       "link": "https://www.theguardian.com/business/2026/nov/13/uk-eu-deal-plant-trade-angela-eagle",
       "date": "Fri, 13 Nov 2026 16:00:19 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "‘They’ve cut all entry-level jobs’: unlikely seaside town on frontline of AI threat",
-      "link": "https://www.theguardian.com/business/2026/nov/13/ai-uk-finance-jobs-bournemouth-tech",
-      "date": "Fri, 13 Nov 2026 06:00:11 GMT",
+      "title": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
+      "link": "https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea",
+      "date": "Fri, 13 Nov 2026 13:35:45 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Fight the climate crisis or go for growth? There is a way Burnham can do both | Jonathan Freedland",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/13/fight-climate-crisis-growth-andy-burnham-economic-leaders",
+      "date": "Fri, 13 Nov 2026 17:10:23 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,51 +290,51 @@
       "source": "NPR World"
     },
     {
-      "title": "Pope Leo cheered on return to Peru city where he served as bishop",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss",
-      "date": "Fri, 13 Nov 2026 20:52:31 +0000",
+      "title": "Tanker collision leaves riverboat passengers clinging to railings",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
+      "date": "Sat, 14 Nov 2026 01:37:08 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Qatar and Turkiye send message of deterrence with new defence pact",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss",
-      "date": "Fri, 13 Nov 2026 20:48:02 +0000",
+      "title": "Former FAA official says ‘nobody really knows what is going on’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
+      "date": "Sat, 14 Nov 2026 01:28:46 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Australia captain Cummins denies involvement in ‘Sandpapergate’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/australia-captain-cummins-denies-involvement-in?traffic_source=rss",
-      "date": "Fri, 13 Nov 2026 20:32:42 +0000",
+      "title": "UK police open sex offence probe into comedian and author David Walliams",
+      "link": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
+      "date": "Sat, 14 Nov 2026 00:22:07 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
-      "link": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
-      "date": "Fri, 13 Nov 2026 20:28:20 +0000",
+      "title": "Microsoft services begin recovering after global outage",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss",
+      "date": "Sat, 14 Nov 2026 00:17:59 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Paraguay’s ex-president Pena faces new charge over Ueno bank collapse",
-      "link": "https://www.aljazeera.com/news/2026/11/13/paraguays-ex-president-pena-faces-new-charge-over-ueno-bank-collapse?traffic_source=rss",
-      "date": "Fri, 13 Nov 2026 20:18:09 +0000",
+      "title": "Afghanistan’s new road to China ends at a closed border",
+      "link": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+      "date": "Sat, 14 Nov 2026 00:06:43 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Microsoft says services still returning amid widespread outage",
-      "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss",
-      "date": "Fri, 13 Nov 2026 20:16:13 +0000",
+      "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+      "date": "Sat, 14 Nov 2026 00:00:25 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
-      "link": "https://www.aljazeera.com/news/2026/11/13/nigeria-ends-21-day-ebola-contact-monitoring-with-no-secondary-transmission?traffic_source=rss",
-      "date": "Fri, 13 Nov 2026 20:12:34 +0000",
+      "title": "FAA grounds all fights across the US over ‘telecommunication outage’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss",
+      "date": "Fri, 13 Nov 2026 23:45:22 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Migrants risk deadly route to Spain’s Canary Islands",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/migrants-risk-deadly-route-to-spains-canary-islands?traffic_source=rss",
-      "date": "Fri, 13 Nov 2026 19:23:40 +0000",
+      "title": "32 passengers taken to hospital after tanker hits river cruise boat in US",
+      "link": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
+      "date": "Fri, 13 Nov 2026 22:47:16 +0000",
       "source": "Al Jazeera"
     }
   ]
