@@ -1,16 +1,22 @@
 {
-  "updated": "2026-11-14T23:50:33.861978+00:00",
+  "updated": "2026-11-15T03:12:31.548070+00:00",
   "items": [
     {
-      "title": "الجيش الإسرائيلي يستهدف قائد لواء رفح في حماس، والاتحاد الأوروبي يدعو لتسهيل دخول المساعدات إلى غزة",
+      "title": "إسرائيل تعلن اغتيال قائد لواء رفح في حماس، والحركة تقول إنه أحد أبرز مخططي هجوم 7 أكتوبر",
       "link": "https://www.bbc.com/arabic/articles/cm5y1x7r2q25o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 14 Nov 2026 23:17:51 GMT",
+      "date": "Sun, 15 Nov 2026 00:54:20 GMT",
       "source": "BBC Arabic"
     },
     {
       "title": "ترامب يدرس تعليق الضربات على إيران، ونتنياهو يتعهّد بـ\"محو التهديد الإيراني للأبد\"",
       "link": "https://www.bbc.com/arabic/articles/cwp9dznjmpllo?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 14 Nov 2026 18:35:33 GMT",
+      "date": "Sun, 15 Nov 2026 01:39:57 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "إيطاليا تُغرم ميتا 805 ملايين يورو بسبب وصولها إلى صور مستخدمي \"أندرويد\" دون موافقتهم",
+      "link": "https://www.bbc.com/arabic/articles/cw3dgep0l30ko?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 03:02:18 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -41,12 +47,6 @@
       "title": "جنوب السودان يرجئ أول انتخابات له مجدداً وسط تصاعد العنف والصراع على السلطة",
       "link": "https://www.bbc.com/arabic/articles/cw1mdlnn9xkmo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 14 Nov 2026 17:22:46 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "البيت الأبيض: اجتماع \"تاريخي\" بين ترامب وبوتين وشي جينبينغ في الصين",
-      "link": "https://www.bbc.com/arabic/articles/cmlydv2l51gko?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 14 Nov 2026 14:15:35 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -98,6 +98,18 @@
       "source": "BBC World"
     },
     {
+      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+      "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 15 Nov 2026 00:01:07 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 13 Nov 2026 23:00:31 GMT",
+      "source": "BBC Business"
+    },
+    {
       "title": "Microsoft says services fully restored after day-long global outage",
       "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 14 Nov 2026 06:42:27 GMT",
@@ -107,12 +119,6 @@
       "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
       "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 13 Nov 2026 18:36:57 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-      "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 13 Nov 2026 12:22:30 GMT",
       "source": "BBC Business"
     },
     {
@@ -137,12 +143,6 @@
       "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
       "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 13 Nov 2026 03:57:01 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
-      "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 13 Nov 2026 01:17:58 GMT",
       "source": "BBC Business"
     },
     {
@@ -206,21 +206,15 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Greenpeace boulders may delay building of £12bn windfarms in North Sea",
-      "link": "https://www.theguardian.com/environment/2026/nov/14/greenpeace-boulders-norfolk-vanguard-windfarms",
-      "date": "Sat, 14 Nov 2026 11:00:43 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "Guardian to follow lives of eight young people in their search for work",
-      "link": "https://www.theguardian.com/business/2026/nov/14/guardian-young-people-search-for-work",
+      "title": "‘The social contract is broken’: young people on feeling shut out of careers",
+      "link": "https://www.theguardian.com/business/2026/nov/14/young-people-shut-out-of-work-ai",
       "date": "Sat, 14 Nov 2026 10:00:42 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Microsoft says services fully restored after global outage hits governments",
-      "link": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
-      "date": "Sat, 14 Nov 2026 11:54:31 GMT",
+      "title": "Greenpeace boulders may delay building of £12bn windfarms in North Sea",
+      "link": "https://www.theguardian.com/environment/2026/nov/14/greenpeace-boulders-norfolk-vanguard-windfarms",
+      "date": "Sat, 14 Nov 2026 11:00:43 GMT",
       "source": "Guardian Business"
     },
     {
@@ -230,15 +224,21 @@
       "source": "Guardian Business"
     },
     {
-      "title": "Tout offers £1m of U2 tickets on StubHub, raising questions about ‘bot’ clampdown",
-      "link": "https://www.theguardian.com/money/2026/nov/14/u2-tickets-stubhub-bot-culture-secretary-resale",
-      "date": "Sat, 14 Nov 2026 08:00:39 GMT",
-      "source": "Guardian Business"
-    },
-    {
       "title": "‘Don’t lie to me to get free stuff’: how small businesses are fighting back against influencers",
       "link": "https://www.theguardian.com/media/2026/nov/14/small-businesses-fighting-back-influencers-behaving-badly",
       "date": "Sat, 14 Nov 2026 12:00:43 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "‘Enough is enough’: rising number of deadly ebike battery fires spark fear in New York City",
+      "link": "https://www.theguardian.com/us-news/2026/nov/14/new-york-city-ebike-battery-fires-deaths",
+      "date": "Sat, 14 Nov 2026 12:00:44 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
+      "link": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
+      "date": "Sat, 14 Nov 2026 16:00:48 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,51 +290,51 @@
       "source": "NPR World"
     },
     {
-      "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
-      "date": "Sat, 14 Nov 2026 23:34:37 +0000",
+      "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+      "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 01:54:55 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Netanyahu says only a unity government can guarantee Israel’s security",
-      "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
-      "date": "Sat, 14 Nov 2026 23:01:30 +0000",
+      "title": "Netanyahu sends plea to Eisenkot for unity government",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 01:33:11 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Explosion near Syria’s capital kills father and child",
-      "link": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
-      "date": "Sat, 14 Nov 2026 22:43:12 +0000",
+      "title": "Thailand’s elderly kept in cages",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 01:32:08 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Palestinian stories set for major presence at 2027 Oscars",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/palestinian-stories-set-for-major-presence-at-2027-oscars?traffic_source=rss",
-      "date": "Sat, 14 Nov 2026 22:28:47 +0000",
+      "title": "SpaceX’s Starship nails a smooth return with historic catch",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 01:22:01 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
-      "link": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
-      "date": "Sat, 14 Nov 2026 22:00:45 +0000",
+      "title": "Israeli air strike kills senior Hamas commander in Gaza",
+      "link": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 01:00:42 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "US flights resume after ageing technology blamed for outage",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss",
-      "date": "Sat, 14 Nov 2026 21:36:19 +0000",
+      "title": "Hundreds of men march in Switzerland to protest violence against women",
+      "link": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 00:27:14 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
-      "link": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
-      "date": "Sat, 14 Nov 2026 21:10:26 +0000",
+      "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+      "link": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 00:14:22 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "India’s Assam state demolishes homes of 132 Muslim families",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
-      "date": "Sat, 14 Nov 2026 20:14:10 +0000",
+      "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+      "date": "Sun, 15 Nov 2026 00:00:08 +0000",
       "source": "Al Jazeera"
     }
   ]
