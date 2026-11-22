@@ -1,16 +1,22 @@
 {
-  "updated": "2026-11-22T01:39:54.023494+00:00",
+  "updated": "2026-11-22T08:49:49.486295+00:00",
   "items": [
     {
-      "title": "البحرين تعلن زوال \"حالة الخطر\" بعد هجمات إيرانية على أنظمة دفاع جوي أمريكية في البلاد",
+      "title": "البحرين تعلن زوال \"حالة الخطر\" بعد هجمات إيرانية على \"منشأة صناعية مدنية\"",
       "link": "https://www.bbc.com/arabic/articles/cm20vxl62wy4o?at_medium=RSS&at_campaign=rss",
-      "date": "Sun, 22 Nov 2026 00:57:16 GMT",
+      "date": "Sun, 22 Nov 2026 08:33:21 GMT",
       "source": "BBC Arabic"
     },
     {
       "title": "تحليل: ما الذي يقف وراء تحركات الجزائر وقوات حفتر الليبية تجاه النيجر؟",
       "link": "https://www.bbc.com/arabic/articles/c699eppl4v75o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 22 Nov 2026 00:39:18 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "كيف قادت صورة سيلفي إلى اكتشاف نوع جديد عملاق من نبات زنبق الماء؟",
+      "link": "https://www.bbc.com/arabic/articles/cq98x513yggpo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 22 Nov 2026 06:31:38 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -23,12 +29,6 @@
       "title": "السعودية تعلن مجدداً اعتراض صاروخ باليستي أطلقه الحوثيون باتجاه المنطقة الغربية",
       "link": "https://www.bbc.com/arabic/articles/c63egv9y93k2o?at_medium=RSS&at_campaign=rss",
       "date": "Sun, 22 Nov 2026 00:56:47 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "الخلاف حول الوقود الأحفوري يُعرقل محادثات مؤتمر المناخ \"كوب 31\"",
-      "link": "https://www.bbc.com/arabic/articles/cmewvgg8lv12o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 21 Nov 2026 18:37:15 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -50,6 +50,12 @@
       "source": "BBC Arabic"
     },
     {
+      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+      "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 22 Nov 2026 06:54:06 GMT",
+      "source": "BBC World"
+    },
+    {
       "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
       "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 21 Nov 2026 13:17:38 GMT",
@@ -59,12 +65,6 @@
       "title": "Russia-bound ship attacked in Gulf of Finland",
       "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
       "date": "Sat, 21 Nov 2026 19:20:22 GMT",
-      "source": "BBC World"
-    },
-    {
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 21 Nov 2026 22:19:43 GMT",
       "source": "BBC World"
     },
     {
@@ -92,21 +92,27 @@
       "source": "BBC World"
     },
     {
-      "title": "Lock of former US President George Washington's hair sells for $4,000",
-      "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-      "date": "Sat, 21 Nov 2026 22:01:19 GMT",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 22 Nov 2026 06:05:00 GMT",
       "source": "BBC World"
+    },
+    {
+      "title": "Employers are being asked to give interview feedback - here's what applicants want",
+      "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 22 Nov 2026 00:04:07 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Can AI really help spot Black Friday deals? We put it to the test",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+      "date": "Sat, 21 Nov 2026 00:06:11 GMT",
+      "source": "BBC Business"
     },
     {
       "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
       "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
       "date": "Fri, 20 Nov 2026 22:42:47 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 20 Nov 2026 17:49:48 GMT",
       "source": "BBC Business"
     },
     {
@@ -116,15 +122,9 @@
       "source": "BBC Business"
     },
     {
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 20 Nov 2026 20:54:12 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-      "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 20 Nov 2026 22:53:24 GMT",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 22 Nov 2026 07:12:41 GMT",
       "source": "BBC Business"
     },
     {
@@ -134,15 +134,15 @@
       "source": "BBC Business"
     },
     {
-      "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-      "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 20 Nov 2026 09:44:56 GMT",
+      "title": "MP criticises Guernsey and Jersey company ownership register plans",
+      "link": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+      "date": "Sun, 22 Nov 2026 07:22:05 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Fish and eggs al desko? The dos and don'ts of lunch at work",
-      "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
-      "date": "Fri, 20 Nov 2026 00:08:37 GMT",
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+      "date": "Fri, 20 Nov 2026 17:49:48 GMT",
       "source": "BBC Business"
     },
     {
@@ -176,6 +176,12 @@
       "source": "Guardian World"
     },
     {
+      "title": "Highly lucrative: Bank of England directors illegally profited from post-abolition enslavement in Cuba",
+      "link": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
+      "date": "Sun, 22 Nov 2026 08:00:22 GMT",
+      "source": "Guardian World"
+    },
+    {
       "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
       "link": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
       "date": "Sat, 21 Nov 2026 17:46:55 GMT",
@@ -188,10 +194,10 @@
       "source": "Guardian World"
     },
     {
-      "title": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
-      "link": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
-      "date": "Fri, 20 Nov 2026 11:00:31 GMT",
-      "source": "Guardian World"
+      "title": "Revealed: profiles of UK experts on gambling harm being hijacked to push illegal online casinos",
+      "link": "https://www.theguardian.com/society/2026/nov/22/profiles-uk-experts-on-gambling-harm-hijacked-to-promote-online-casinos",
+      "date": "Sun, 22 Nov 2026 08:00:21 GMT",
+      "source": "Guardian Business"
     },
     {
       "title": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
@@ -203,6 +209,18 @@
       "title": "Elon Musk’s lawyer joining Tom Brady in buying Chelsea stake",
       "link": "https://www.theguardian.com/football/2026/nov/21/elon-musk-lawyer-tom-brady-nfl-chelsea-stake",
       "date": "Sat, 21 Nov 2026 14:20:05 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Hacks, AI and conspiracy theories: why are we having so many outages?",
+      "link": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
+      "date": "Sun, 22 Nov 2026 06:00:19 GMT",
+      "source": "Guardian Business"
+    },
+    {
+      "title": "Unreal deals: the scam websites targeting Black Friday bargain hunters",
+      "link": "https://www.theguardian.com/money/2026/nov/22/black-friday-scam-deals--ai-fake-storefront",
+      "date": "Sun, 22 Nov 2026 07:00:20 GMT",
       "source": "Guardian Business"
     },
     {
@@ -221,24 +239,6 @@
       "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
       "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
       "date": "Sat, 21 Nov 2026 20:15:57 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "California train burglars carefully executed heists for ‘staggering’ $22m haul",
-      "link": "https://www.theguardian.com/us-news/2026/nov/21/california-arrests-train-heists",
-      "date": "Sun, 22 Nov 2026 00:20:41 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "I hated life as a Neet. But now I’ve found a job, life is just as precarious | Emilija Morrison",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/21/hated-life-neet-found-job-life-precarious-government-young-people",
-      "date": "Sat, 21 Nov 2026 07:00:51 GMT",
-      "source": "Guardian Business"
-    },
-    {
-      "title": "The Guardian view on Britain and Europe: Burnham’s reset cannot be the final destination | Editorial",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/20/the-guardian-view-on-britain-and-europe-burnhams-reset-cannot-be-the-final-destination",
-      "date": "Fri, 20 Nov 2026 18:13:24 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,51 +290,51 @@
       "source": "NPR World"
     },
     {
-      "title": "Moviegoers head for the exits as quake strikes Peru",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
-      "date": "Sun, 22 Nov 2026 01:07:19 +0000",
+      "title": "Gukesh vs Sindarov: The youngest World Chess Championship in history",
+      "link": "https://www.aljazeera.com/sports/2026/11/22/gukesh-vs-sindarov-the-youngest-world-chess-championship-in-history?traffic_source=rss",
+      "date": "Sun, 22 Nov 2026 08:11:40 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Clashes erupt across France in another night of protest",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
-      "date": "Sun, 22 Nov 2026 00:37:32 +0000",
+      "title": "Dashcam captures Russian missile strike on Lviv, Ukraine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
+      "date": "Sun, 22 Nov 2026 07:59:29 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 23:59:03 +0000",
+      "title": "Max Verstappen wins F1 Las Vegas Grand Prix for third time in four years",
+      "link": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli?traffic_source=rss",
+      "date": "Sun, 22 Nov 2026 07:48:28 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
-      "link": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 23:44:00 +0000",
+      "title": "Indonesia factory fire kills three, 36 missing",
+      "link": "https://www.aljazeera.com/news/2026/11/22/indonesia-factory-fire-kills-three-36-missing?traffic_source=rss",
+      "date": "Sun, 22 Nov 2026 07:46:35 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Iran faces a ‘silent economic war’, says Iranian president",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 23:18:14 +0000",
+      "title": "Wembanyama scores 50 points, bags 19 rebounds in Spurs’ 14th win of season",
+      "link": "https://www.aljazeera.com/sports/2026/11/22/wembanyama-scores-50-points-bags-19-rebounds-in-spurs-14th-win-of-season?traffic_source=rss",
+      "date": "Sun, 22 Nov 2026 07:44:37 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Bahrain says Iranian attack hits industrial facility",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 22:02:03 +0000",
+      "title": "Why Somalia’s president turned against his former ally, the UAE",
+      "link": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae?traffic_source=rss",
+      "date": "Sun, 22 Nov 2026 06:59:59 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Bahrain says Iranian attack causes fire at industrial facility",
-      "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 21:31:03 +0000",
+      "title": "The European revolt may be coming to the UK",
+      "link": "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss",
+      "date": "Sun, 22 Nov 2026 06:59:59 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Impunity fuels surge in settler violence across occupied West Bank",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
-      "date": "Sat, 21 Nov 2026 21:11:54 +0000",
+      "title": "Kansas City Current defeat Washington Spirit 2-1 to lift first NWSL title",
+      "link": "https://www.aljazeera.com/sports/2026/11/22/kansas-city-current-nwsl-2026-final-washington-spirit-womens-soccer?traffic_source=rss",
+      "date": "Sun, 22 Nov 2026 06:40:18 +0000",
       "source": "Al Jazeera"
     }
   ]
