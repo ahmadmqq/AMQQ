@@ -1,10 +1,40 @@
 {
-  "updated": "2026-11-26T02:59:47.770934+00:00",
+  "updated": "2026-11-26T12:08:04.576498+00:00",
   "items": [
     {
-      "title": "مصرع 31 في حريق هائل بعد اشتعال سيارة مواد بترولية فوق نفق مروري بمصر",
+      "title": "ضبط المتهم المتسبب بحادث الوراق الذي أودى بحياة 31 شخصاً في مصر",
       "link": "https://www.bbc.com/arabic/articles/ckjrelp34nz1o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 23:05:39 GMT",
+      "date": "Thu, 26 Nov 2026 11:31:41 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "العثور على جثمان البحّار الأردني المفقود محمد العتيبي بالقرب من سواحل رأس الخيمة الإماراتية",
+      "link": "https://www.bbc.com/arabic/articles/ckvg2nl7zl5qo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 10:45:26 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "كيف ساهمت حربا أوكرانيا والشرق الأوسط في الارتفاع الحاد لأسعار الطاقة؟ - مقال في الإندبندنت",
+      "link": "https://www.bbc.com/arabic/articles/cjx2rp4p090go?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 09:57:23 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "كرة القدم والسياحة والاقتصاد: كيف تؤثر ظاهرة محمد صلاح على مدينة طرابزون؟",
+      "link": "https://www.bbc.com/arabic/articles/cqj6l1j6zyxlo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 07:32:02 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "هل يقترب آيزنكوت من إنهاء حكم نتنياهو في إسرائيل؟",
+      "link": "https://www.bbc.com/arabic/articles/c84gndlyl1d5o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 04:58:52 GMT",
+      "source": "BBC Arabic"
+    },
+    {
+      "title": "\"ليحيا المسيح الملك!\": لماذا رفعت ملكة جمال الكون السابقة هذا الشعار قبل تسليم التاج للفائزة؟",
+      "link": "https://www.bbc.com/arabic/articles/ckp80m7y4qp1o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 04:02:08 GMT",
       "source": "BBC Arabic"
     },
     {
@@ -20,117 +50,81 @@
       "source": "BBC Arabic"
     },
     {
-      "title": "سماع دوي انفجارات في الرياض، والحوثيون يستهدفون ميناءي جدة وجازان \"رداً على قصف ميناء الحديدة\"",
-      "link": "https://www.bbc.com/arabic/articles/cwvg28p9emp0o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 22:16:07 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "لماذا تكتسب زيارة خليفة حفتر إلى تركيا أهمية خاصة؟",
-      "link": "https://www.bbc.com/arabic/articles/cwj3kr2j888vo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 19:20:21 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "الألغام تواصل حصد الأرواح في سوريا بعد عامين من انتهاء الحرب",
-      "link": "https://www.bbc.com/arabic/articles/cxg5rznnjmmlo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 16:19:22 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "\"حمّلتْ أمي قوات زيلينسكي مسؤولية مقتل عائلتي في أوكرانيا، لكن الحقيقة أكثر تعقيداً\"",
-      "link": "https://www.bbc.com/arabic/articles/c9ly48d25pg6o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 17:12:22 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "الكنيست يصادق تمهيدياً على مشروع قانون لتشكيل لجنة تحقيق في هجوم السابع من أكتوبر بميزانية مليوني دولار",
-      "link": "https://www.bbc.com/arabic/articles/cmg46re3qkego?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 13:53:44 GMT",
-      "source": "BBC Arabic"
-    },
-    {
-      "title": "US announces new tariffs on host of countries including China",
-      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 01:20:14 GMT",
+      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+      "link": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 05:00:24 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 17:30:16 GMT",
+      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+      "link": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 05:00:27 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 22:18:06 GMT",
+      "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+      "link": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 10:25:51 GMT",
       "source": "BBC World"
     },
     {
-      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
-      "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 19:47:39 GMT",
+      "title": "Desperate appeals from women on death row in Iran after protests",
+      "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 06:01:58 GMT",
       "source": "BBC World"
     },
     {
-      "title": "US stocks fall further as fears over AI intensify",
-      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 21:43:18 GMT",
+      "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
+      "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 11:27:42 GMT",
       "source": "BBC World"
     },
     {
-      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 00:23:05 GMT",
+      "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
+      "link": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 11:00:39 GMT",
       "source": "BBC World"
     },
     {
-      "title": "California warns of flooding as king tides peak over Thanksgiving",
-      "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 01:22:55 GMT",
+      "title": "Duran Duran guitarist Andy Taylor dies aged 65",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 05:19:35 GMT",
       "source": "BBC World"
     },
     {
-      "title": "California warns of flooding as king tides peak over Thanksgiving",
-      "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 01:22:55 GMT",
+      "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
+      "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 11:21:50 GMT",
       "source": "BBC World"
     },
     {
-      "title": "UK government set to publish new treaties agreed with EU",
+      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 11:43:38 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "Drivers over 70 face eye tests every three years under new plans",
+      "link": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 11:21:45 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "New UK-EU treaty has 10-year termination clause",
       "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 02:13:00 GMT",
+      "date": "Thu, 26 Nov 2026 09:59:14 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "Poundland collapses putting 11,000 jobs at risk",
-      "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 21:31:10 GMT",
+      "title": "Car finance compensation payments explained",
+      "link": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 09:39:50 GMT",
       "source": "BBC Business"
     },
     {
-      "title": "What's gone wrong at Poundland?",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 17:00:32 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "US announces new tariffs on host of countries including China",
-      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 01:20:14 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "US approves SpaceX plan to send a million data satellites to space",
-      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-      "date": "Thu, 26 Nov 2026 00:07:51 GMT",
-      "source": "BBC Business"
-    },
-    {
-      "title": "US stocks fall further as fears over AI intensify",
-      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 21:43:18 GMT",
+      "title": "UK signs £8bn deal to ensure submarines are 'warfighting ready'",
+      "link": "https://www.bbc.co.uk/news/articles/cq39gz99l1pyo?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 09:23:46 GMT",
       "source": "BBC Business"
     },
     {
@@ -140,9 +134,15 @@
       "source": "BBC Business"
     },
     {
-      "title": "Energy bills to rise by 26% from January after gas prices surge",
-      "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-      "date": "Wed, 25 Nov 2026 13:42:08 GMT",
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 08:24:29 GMT",
+      "source": "BBC Business"
+    },
+    {
+      "title": "What's gone wrong at Poundland?",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "date": "Thu, 26 Nov 2026 10:15:47 GMT",
       "source": "BBC Business"
     },
     {
@@ -194,51 +194,51 @@
       "source": "Guardian World"
     },
     {
-      "title": "Poundland collapses, putting more than 10,000 jobs at risk",
-      "link": "https://www.theguardian.com/business/2026/nov/25/poundland-administration-jobs-at-risk-gordon-brothers",
-      "date": "Wed, 25 Nov 2026 18:50:54 GMT",
+      "title": "Bank of England warns of growing financial risks from ‘opaque’ AI financing – business live",
+      "link": "https://www.theguardian.com/business/live/2026/nov/26/nvidia-chip-shipments-south-east-asia-stock-dentists-live-updates",
+      "date": "Thu, 26 Nov 2026 11:45:55 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "UK food inflation could hit 5% next year, Bank of England says",
-      "link": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
-      "date": "Wed, 25 Nov 2026 19:25:57 GMT",
+      "title": "Ministers ‘fail to make case’ for Heathrow third runway, MPs report says",
+      "link": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says",
+      "date": "Thu, 26 Nov 2026 11:00:32 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Trump proposing new tariffs on 14 partners including China and EU",
-      "link": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
-      "date": "Wed, 25 Nov 2026 14:59:44 GMT",
+      "title": "UK watchdog calls for shake-up of private dentistry market amid ‘catalogue of concerns’",
+      "link": "https://www.theguardian.com/society/2026/nov/26/uk-watchdog-calls-for-shake-up-of-private-dentistry-market",
+      "date": "Thu, 26 Nov 2026 08:13:01 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Stick or switch? UK billpayers weigh up how to beat January energy jump",
-      "link": "https://www.theguardian.com/money/2026/nov/25/heating-uk-householders-grapple-with-energy-bills",
-      "date": "Wed, 25 Nov 2026 15:23:59 GMT",
+      "title": "UK regulator admits error in calculating car finance compensation payments",
+      "link": "https://www.theguardian.com/business/2026/nov/26/uk-regulator-admits-error-in-calculating-car-finance-compensation-payments",
+      "date": "Thu, 26 Nov 2026 09:18:11 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Amazon to start selling cars in the UK next year",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market",
-      "date": "Wed, 25 Nov 2026 14:37:26 GMT",
+      "title": "Norse Atlantic Airways suspends all flights as it makes urgent funding plea",
+      "link": "https://www.theguardian.com/business/2026/nov/26/norse-atlantic-airways-suspends-all-flights-urgent-funding-plea",
+      "date": "Thu, 26 Nov 2026 10:15:18 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "EasyJet boss unable to rule out further job losses after profits collapse by 96%",
-      "link": "https://www.theguardian.com/business/2026/nov/25/easyjet-unable-to-rule-out-further-jobs-losses-profits-collapse-fuel-prices-iran-war",
-      "date": "Wed, 25 Nov 2026 11:53:45 GMT",
+      "title": "‘It’s in quite a dark place’: why UK housebuilding is struggling",
+      "link": "https://www.theguardian.com/business/2026/nov/26/why-uk-housebuilding-is-struggling",
+      "date": "Thu, 26 Nov 2026 07:00:48 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "M&G boss urges UK to stem flood of firms leaving London Stock Exchange after Compass exit",
-      "link": "https://www.theguardian.com/business/2026/nov/25/m-and-g-boss-urges-uk-stem-firms-leaving-lse-compass-exit",
-      "date": "Wed, 25 Nov 2026 09:25:12 GMT",
+      "title": "London commuters braced for disruption as tube strike begins",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/26/tube-drivers-strike-will-cause-severe-disruption-to-network-on-thursday-and-friday",
+      "date": "Thu, 26 Nov 2026 06:56:24 GMT",
       "source": "Guardian Business"
     },
     {
-      "title": "Nationwide unveils 1% deposit mortgage deal for first-time buyers",
-      "link": "https://www.theguardian.com/money/2026/nov/25/nationwide-unveils-1-deposit-mortgage-deal-first-time-buyers-in-uk",
-      "date": "Wed, 25 Nov 2026 14:54:17 GMT",
+      "title": "UK to invest £9.5m in Ukraine windfarm to bolster war-hit energy system",
+      "link": "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system",
+      "date": "Thu, 26 Nov 2026 05:00:46 GMT",
       "source": "Guardian Business"
     },
     {
@@ -290,51 +290,51 @@
       "source": "NPR World"
     },
     {
-      "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
-      "link": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
-      "date": "Thu, 26 Nov 2026 02:03:03 +0000",
+      "title": "LeBron James becomes oldest NBA player to post triple-double as 76ers win",
+      "link": "https://www.aljazeera.com/sports/2026/11/26/lebron-james-nba-oldest-player-triple-double-philadelphia-76ers?traffic_source=rss",
+      "date": "Thu, 26 Nov 2026 11:38:20 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Photos: Storms and an El Nino-charged king tide batter California’s coast",
-      "link": "https://www.aljazeera.com/gallery/2026/11/26/photos-storms-and-an-el-nino-charged-king-tide-batter-californias-coast?traffic_source=rss",
-      "date": "Thu, 26 Nov 2026 01:40:13 +0000",
+      "title": "Iraq denies reports of troop movements towards Kurdish region",
+      "link": "https://www.aljazeera.com/news/2026/11/26/iraq-denies-reports-of-troop-movements-towards-kurdish-region?traffic_source=rss",
+      "date": "Thu, 26 Nov 2026 11:23:29 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Ukraine attacks Russian military base, says five planes struck",
-      "link": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
-      "date": "Thu, 26 Nov 2026 01:39:46 +0000",
+      "title": "Highway explosion in Giza: How deadly are Egypt’s roads and railways?",
+      "link": "https://www.aljazeera.com/news/2026/11/26/highway-explosion-in-giza-how-deadly-are-egypts-roads-and-railways?traffic_source=rss",
+      "date": "Thu, 26 Nov 2026 11:22:59 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "ICE officers smash car window, pepper spray bystanders",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/ice-officers-smash-car-window-pepper-spray-bystanders?traffic_source=rss",
-      "date": "Thu, 26 Nov 2026 01:33:50 +0000",
+      "title": "‘Proscribing free speech’: Why a Jewish group is challenging UK’s Hamas ban",
+      "link": "https://www.aljazeera.com/news/2026/11/26/proscribing-free-speech-why-a-jewish-group-is-challenging-uks-hamas-ban?traffic_source=rss",
+      "date": "Thu, 26 Nov 2026 11:16:03 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Judges recommend prosecutors end corruption case against Netanyahu",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss",
-      "date": "Thu, 26 Nov 2026 01:08:43 +0000",
+      "title": "Are Trump’s tariffs aimed at securing US-friendly trade deals?",
+      "link": "https://www.aljazeera.com/news/2026/11/26/are-trumps-tariffs-aimed-at-securing-us-friendly-trade-deals?traffic_source=rss",
+      "date": "Thu, 26 Nov 2026 11:07:30 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Storms push Macy’s Thanksgiving Day Parade in New York City to Saturday",
-      "link": "https://www.aljazeera.com/news/2026/11/26/storms-push-macys-thanksgiving-day-parade-in-new-york-city-to-saturday?traffic_source=rss",
-      "date": "Thu, 26 Nov 2026 00:52:56 +0000",
+      "title": "Thanksgiving dinner costs rise, putting pressure on US households",
+      "link": "https://www.aljazeera.com/economy/2026/11/26/thanksgiving-dinner-costs-rise-putting-pressure-on-us-households?traffic_source=rss",
+      "date": "Thu, 26 Nov 2026 10:30:00 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "ISIL blamed for multiple suicide attacks in Syria",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria?traffic_source=rss",
-      "date": "Thu, 26 Nov 2026 00:51:17 +0000",
+      "title": "Palestine coach says team represents suffering but also offers hope",
+      "link": "https://www.aljazeera.com/sports/2026/11/26/palestine-national-football-team-coach-suffering-hope?traffic_source=rss",
+      "date": "Thu, 26 Nov 2026 10:28:51 +0000",
       "source": "Al Jazeera"
     },
     {
-      "title": "Two Syrian security personnel killed in ISIL suicide attack",
-      "link": "https://www.aljazeera.com/news/2026/11/26/two-syrian-security-personnel-killed-in-isil-suicide-attack?traffic_source=rss",
-      "date": "Thu, 26 Nov 2026 00:41:49 +0000",
+      "title": "Kenya gov’t violated constitution with Ebola quarantine site, court says",
+      "link": "https://www.aljazeera.com/news/2026/11/26/kenya-govt-violated-constitution-with-ebola-quarantine-site-court-says?traffic_source=rss",
+      "date": "Thu, 26 Nov 2026 10:20:05 +0000",
       "source": "Al Jazeera"
     }
   ]
